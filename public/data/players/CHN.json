@@ -367,6 +367,478 @@
         "tags": [],
         "is_qualification_squad": false
       }
+    ],
+    "2026": [
+      {
+        "id": "CHN_2026_01",
+        "name_cn": "颜骏凌",
+        "name_en": "Yan Junling",
+        "age": 35,
+        "squad_no": 1,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 72
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": true
+      },
+      {
+        "id": "CHN_2026_02",
+        "name_cn": "刘殿座",
+        "name_en": "Liu Dianzuo",
+        "age": 35,
+        "squad_no": 12,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 67
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": true
+      },
+      {
+        "id": "CHN_2026_03",
+        "name_cn": "王大雷",
+        "name_en": "Wang Dalei",
+        "age": 36,
+        "squad_no": 14,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": true
+      },
+      {
+        "id": "CHN_2026_04",
+        "name_cn": "蒋光太",
+        "name_en": "Jiang Guangtai",
+        "age": 32,
+        "squad_no": 17,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          }
+        ],
+        "tags": [
+          "归化"
+        ],
+        "is_qualification_squad": true
+      },
+      {
+        "id": "CHN_2026_05",
+        "name_cn": "魏震",
+        "name_en": "Wei Zhen",
+        "age": 29,
+        "squad_no": 5,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 67
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": true
+      },
+      {
+        "id": "CHN_2026_06",
+        "name_cn": "杨泽翔",
+        "name_en": "Yang Zexiang",
+        "age": 29,
+        "squad_no": 8,
+        "positions": [
+          {
+            "pos": "LB",
+            "ovr": 66
+          },
+          {
+            "pos": "LWB",
+            "ovr": 64
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": true
+      },
+      {
+        "id": "CHN_2026_07",
+        "name_cn": "朱辰杰",
+        "name_en": "Zhu Chenjie",
+        "age": 25,
+        "squad_no": 16,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": true
+      },
+      {
+        "id": "CHN_2026_08",
+        "name_cn": "韩鹏飞",
+        "name_en": "Han Pengfei",
+        "age": 30,
+        "squad_no": 2,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 66
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": true
+      },
+      {
+        "id": "CHN_2026_09",
+        "name_cn": "胡荷韬",
+        "name_en": "Hu Hetao",
+        "age": 25,
+        "squad_no": 13,
+        "positions": [
+          {
+            "pos": "LB",
+            "ovr": 67
+          },
+          {
+            "pos": "LWB",
+            "ovr": 65
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": true
+      },
+      {
+        "id": "CHN_2026_10",
+        "name_cn": "李磊",
+        "name_en": "Li Lei",
+        "age": 33,
+        "squad_no": 4,
+        "positions": [
+          {
+            "pos": "LB",
+            "ovr": 68
+          },
+          {
+            "pos": "LWB",
+            "ovr": 66
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": true
+      },
+      {
+        "id": "CHN_2026_11",
+        "name_cn": "吴少聪",
+        "name_en": "Wu Shaocong",
+        "age": 23,
+        "squad_no": 3,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 66
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": true
+      },
+      {
+        "id": "CHN_2026_12",
+        "name_cn": "徐皓阳",
+        "name_en": "Xu Haoyang",
+        "age": 23,
+        "squad_no": 7,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 65
+          },
+          {
+            "pos": "CDM",
+            "ovr": 64
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": true
+      },
+      {
+        "id": "CHN_2026_13",
+        "name_cn": "杨明洋",
+        "name_en": "Yang Mingyang",
+        "age": 30,
+        "squad_no": 26,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 70
+          },
+          {
+            "pos": "CAM",
+            "ovr": 68
+          }
+        ],
+        "tags": [
+          "归化"
+        ],
+        "is_qualification_squad": true
+      },
+      {
+        "id": "CHN_2026_14",
+        "name_cn": "塞尔吉尼奥",
+        "name_en": "Serginho",
+        "age": 30,
+        "squad_no": 6,
+        "positions": [
+          {
+            "pos": "CAM",
+            "ovr": 73
+          },
+          {
+            "pos": "CM",
+            "ovr": 71
+          }
+        ],
+        "tags": [
+          "归化"
+        ],
+        "is_qualification_squad": true
+      },
+      {
+        "id": "CHN_2026_15",
+        "name_cn": "曹永竞",
+        "name_en": "Cao Yongjing",
+        "age": 28,
+        "squad_no": 19,
+        "positions": [
+          {
+            "pos": "CAM",
+            "ovr": 67
+          },
+          {
+            "pos": "LW",
+            "ovr": 65
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": true
+      },
+      {
+        "id": "CHN_2026_16",
+        "name_cn": "黄政宇",
+        "name_en": "Huang Zhengyu",
+        "age": 28,
+        "squad_no": 18,
+        "positions": [
+          {
+            "pos": "CDM",
+            "ovr": 66
+          },
+          {
+            "pos": "CM",
+            "ovr": 65
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": true
+      },
+      {
+        "id": "CHN_2026_17",
+        "name_cn": "谢文能",
+        "name_en": "Xie Wenneng",
+        "age": 25,
+        "squad_no": 20,
+        "positions": [
+          {
+            "pos": "LW",
+            "ovr": 68
+          },
+          {
+            "pos": "RW",
+            "ovr": 66
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": true
+      },
+      {
+        "id": "CHN_2026_18",
+        "name_cn": "王上源",
+        "name_en": "Wang Shangyuan",
+        "age": 32,
+        "squad_no": 15,
+        "positions": [
+          {
+            "pos": "CDM",
+            "ovr": 67
+          },
+          {
+            "pos": "CM",
+            "ovr": 66
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": true
+      },
+      {
+        "id": "CHN_2026_19",
+        "name_cn": "武磊",
+        "name_en": "Wu Lei",
+        "age": 34,
+        "squad_no": 21,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 73
+          },
+          {
+            "pos": "CF",
+            "ovr": 72
+          }
+        ],
+        "tags": [
+          "队长"
+        ],
+        "is_qualification_squad": true
+      },
+      {
+        "id": "CHN_2026_20",
+        "name_cn": "刘诚宇",
+        "name_en": "Liu Chengyu",
+        "age": 19,
+        "squad_no": 24,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 64
+          },
+          {
+            "pos": "CF",
+            "ovr": 62
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": true
+      },
+      {
+        "id": "CHN_2026_21",
+        "name_cn": "韦世豪",
+        "name_en": "Wei Shihao",
+        "age": 30,
+        "squad_no": 10,
+        "positions": [
+          {
+            "pos": "RW",
+            "ovr": 70
+          },
+          {
+            "pos": "ST",
+            "ovr": 68
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": true
+      },
+      {
+        "id": "CHN_2026_22",
+        "name_cn": "王子铭",
+        "name_en": "Wang Ziming",
+        "age": 29,
+        "squad_no": 22,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 66
+          },
+          {
+            "pos": "CF",
+            "ovr": 65
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": true
+      },
+      {
+        "id": "CHN_2026_23",
+        "name_cn": "张玉宁",
+        "name_en": "Zhang Yuning",
+        "age": 28,
+        "squad_no": 9,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 71
+          },
+          {
+            "pos": "CF",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": true
+      },
+      {
+        "id": "CHN_2026_24",
+        "name_cn": "林良铭",
+        "name_en": "Lin Liangming",
+        "age": 28,
+        "squad_no": 25,
+        "positions": [
+          {
+            "pos": "RW",
+            "ovr": 68
+          },
+          {
+            "pos": "LW",
+            "ovr": 66
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": true
+      },
+      {
+        "id": "CHN_2026_25",
+        "name_cn": "王钰栋",
+        "name_en": "Wang Yudong",
+        "age": 19,
+        "squad_no": 11,
+        "positions": [
+          {
+            "pos": "LW",
+            "ovr": 65
+          },
+          {
+            "pos": "ST",
+            "ovr": 64
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": true
+      },
+      {
+        "id": "CHN_2026_26",
+        "name_cn": "拜合拉木",
+        "name_en": "Bahetiyaer Abulahan",
+        "age": 22,
+        "squad_no": 23,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 66
+          },
+          {
+            "pos": "RW",
+            "ovr": 64
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": true
+      }
     ]
   }
 }
