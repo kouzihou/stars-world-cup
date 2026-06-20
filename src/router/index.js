@@ -9,6 +9,7 @@ const routes = [
   { path: '/squad', name: 'squad', component: () => import('../pages/SquadOverview.vue') },
   { path: '/tournament', name: 'tournament', component: () => import('../pages/Tournament.vue') },
   { path: '/match/:stage', name: 'match', component: () => import('../pages/MatchPlay.vue') },
+  { path: '/schedule', name: 'schedule', component: () => import('../pages/Schedule.vue') },
   { path: '/trophy', name: 'trophy', component: () => import('../pages/Trophy.vue') }
 ]
 
@@ -19,7 +20,7 @@ router.beforeEach((to) => {
   if (to.name === 'formation' && !game.country) return { name: 'country' }
   if (to.name === 'pick' && (!game.country || !game.formation)) return { name: 'country' }
   if (to.name === 'squad' && game.completedCount < 11) return { name: 'pick' }
-  if ((to.name === 'tournament' || to.name === 'match') && (!game.country || !game.formation || game.completedCount < 11)) {
+  if ((to.name === 'tournament' || to.name === 'match' || to.name === 'schedule') && (!game.country || !game.formation || game.completedCount < 11)) {
     return { name: 'country' }
   }
 })

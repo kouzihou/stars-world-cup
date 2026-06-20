@@ -5,6 +5,7 @@ import { useGameStore } from '../store/game'
 import { useTournamentStore } from '../store/tournament'
 import { flagEmoji } from '../utils/random'
 import { rankGroup } from '../utils/tournament'
+import SquadDialog from '../components/SquadDialog.vue'
 
 const router = useRouter()
 const game = useGameStore()
@@ -12,6 +13,15 @@ const tour = useTournamentStore()
 
 const loading = ref(false)
 const loadingText = ref('')
+
+const dialogTeam = ref('')
+const dialogVisible = ref(false)
+function showSquad(code) {
+  if (!code) return
+  dialogTeam.value = code
+  dialogVisible.value = true
+}
+function closeDialog() { dialogVisible.value = false }
 
 const userCode = computed(() => game.country?.code)
 const userGroup = computed(() => tour.userGroup)
@@ -139,7 +149,7 @@ function reset() {
           <span class="text-xs text-white/60">/ {{ game.formation?.id }}</span>
         </div>
       </div>
-      <div class="w-20"></div>
+      <button class="btn-ghost text-xs whitespace-nowrap" @click="router.push('/schedule')">📋 赛程</button>
     </div>
 
     <!-- 用户队 / 下一场 -->
@@ -233,7 +243,11 @@ function reset() {
         <tbody>
           <tr v-for="(r, i) in userGroupRanking" :key="r.team.code"
             :class="[r.team.code === userCode ? 'bg-gold/10 text-gold font-bold' : '', i < 2 ? '' : i === 2 ? 'text-emerald-300' : 'text-white/60']">
-            <td class="py-1">{{ flagEmoji(r.team.code) }} {{ r.team.name_cn }}</td>
+            <td class="py-1">
+              <button @click="showSquad(r.team.code)" class="text-left">
+                {{ flagEmoji(r.team.code) }} {{ r.team.name_cn }}
+              </button>
+            </td>
             <td class="text-center">{{ r.P }}</td>
             <td class="text-center">{{ r.W }}</td>
             <td class="text-center">{{ r.D }}</td>
@@ -252,12 +266,14 @@ function reset() {
       <div class="grid grid-cols-2 sm:grid-cols-3 gap-2 mt-2">
         <div v-for="g in tour.groups" :key="g.id" class="bg-white/5 rounded p-2">
           <div class="text-xs text-gold mb-1">{{ g.id }} 组</div>
-          <div v-for="t in g.teams" :key="t.code" class="text-[11px] truncate"
-            :class="t.code === userCode ? 'text-gold font-bold' : 'text-white/80'">
+          <button v-for="t in g.teams" :key="t.code" @click="showSquad(t.code)"
+            class="block w-full text-left text-[11px] truncate"
+            :class="t.code === userCode ? 'text-gold font-bold' : 'text-white/80 hover:text-white'">
             {{ flagEmoji(t.code) }} {{ t.name_cn }}
-          </div>
+          </button>
         </div>
       </div>
     </details>
+    <SquadDialog :visible="dialogVisible" :team-code="dialogTeam" @close="closeDialog" />
   </div>
 </template>

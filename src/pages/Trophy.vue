@@ -64,9 +64,10 @@ function restart() {
 
 <template>
   <div class="max-w-2xl mx-auto p-3 sm:p-5">
-    <div class="flex items-center justify-between mb-3">
-      <button class="btn-ghost text-sm" @click="restart">重新开始</button>
-      <button class="btn-gold text-sm" @click="makePoster" :disabled="generating">
+    <div class="flex items-center justify-between mb-3 gap-2">
+      <button class="btn-ghost text-xs" @click="restart">重新开始</button>
+      <button class="btn-ghost text-xs" @click="router.push('/schedule')">📋 完整赛程</button>
+      <button class="btn-gold text-xs" @click="makePoster" :disabled="generating">
         {{ generating ? '生成中...' : '📸 生成海报' }}
       </button>
     </div>
