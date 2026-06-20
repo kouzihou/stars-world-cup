@@ -2,6 +2,7 @@
 import { ref, computed, onMounted } from 'vue'
 import { useRouter } from 'vue-router'
 import { useGameStore } from '../store/game'
+import { useTournamentStore } from '../store/tournament'
 import PitchView from '../components/PitchView.vue'
 import { flagEmoji } from '../utils/random'
 import html2canvas from 'html2canvas'
@@ -51,6 +52,12 @@ async function makePoster() {
   }
 }
 
+async function enterTournament() {
+  const tour = useTournamentStore()
+  await tour.startTournament()
+  router.push('/tournament')
+}
+
 function restart() {
   game.reset()
   router.push('/')
@@ -66,11 +73,14 @@ onMounted(() => {
 </script>
 <template>
   <div class="max-w-4xl mx-auto p-3 sm:p-6">
-    <div class="flex items-center justify-between mb-3">
+    <div class="flex items-center justify-between mb-3 gap-2 flex-wrap">
       <button class="btn-ghost text-sm" @click="restart">重新开始</button>
-      <button class="btn-gold text-sm" @click="makePoster" :disabled="generating">
-        {{ generating ? '生成中...' : '📸 生成海报' }}
-      </button>
+      <div class="flex gap-2">
+        <button class="btn-ghost text-sm" @click="makePoster" :disabled="generating">
+          {{ generating ? '生成中...' : '📸 海报' }}
+        </button>
+        <button class="btn-gold text-sm font-bold" @click="enterTournament">⚽ 一键参赛 →</button>
+      </div>
     </div>
 
     <!-- 海报截屏区域 -->
