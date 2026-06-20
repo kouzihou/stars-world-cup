@@ -1,0 +1,2657 @@
+{
+  "country_code": "SUI",
+  "squads": {
+    "1994": [
+      {
+        "id": "SUI_1994_01",
+        "name_cn": "Marco Pascolo",
+        "name_en": "Marco Pascolo",
+        "age": 22,
+        "squad_no": 1,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SUI_1994_02",
+        "name_cn": "Marc Hottiger",
+        "name_en": "Marc Hottiger",
+        "age": 31,
+        "squad_no": 2,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 72
+          },
+          {
+            "pos": "RB",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SUI_1994_03",
+        "name_cn": "Yvan Quentin",
+        "name_en": "Yvan Quentin",
+        "age": 33,
+        "squad_no": 3,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 72
+          },
+          {
+            "pos": "LB",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SUI_1994_04",
+        "name_cn": "Dominique Herr",
+        "name_en": "Dominique Herr",
+        "age": 23,
+        "squad_no": 4,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 72
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SUI_1994_05",
+        "name_cn": "Alain Geiger",
+        "name_en": "Alain Geiger",
+        "age": 25,
+        "squad_no": 5,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 72
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SUI_1994_06",
+        "name_cn": "Georges Bregy",
+        "name_en": "Georges Bregy",
+        "age": 22,
+        "squad_no": 6,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 72
+          },
+          {
+            "pos": "DM",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SUI_1994_07",
+        "name_cn": "Alain Sutter",
+        "name_en": "Alain Sutter",
+        "age": 29,
+        "squad_no": 7,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 72
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SUI_1994_08",
+        "name_cn": "Christophe Ohrel",
+        "name_en": "Christophe Ohrel",
+        "age": 27,
+        "squad_no": 8,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 72
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SUI_1994_09",
+        "name_cn": "Adrian Knup",
+        "name_en": "Adrian Knup",
+        "age": 28,
+        "squad_no": 9,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 72
+          },
+          {
+            "pos": "CAM",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SUI_1994_10",
+        "name_cn": "Ciriaco Sforza",
+        "name_en": "Ciriaco Sforza",
+        "age": 24,
+        "squad_no": 10,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 72
+          },
+          {
+            "pos": "CAM",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SUI_1994_11",
+        "name_cn": "Stéphane Chapuisat",
+        "name_en": "Stéphane Chapuisat",
+        "age": 28,
+        "squad_no": 11,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 72
+          },
+          {
+            "pos": "LW",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SUI_1994_12",
+        "name_cn": "Stephan Lehmann",
+        "name_en": "Stephan Lehmann",
+        "age": 33,
+        "squad_no": 12,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SUI_1994_13",
+        "name_cn": "André Egli",
+        "name_en": "André Egli",
+        "age": 25,
+        "squad_no": 13,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SUI_1994_14",
+        "name_cn": "Nestor Subiat",
+        "name_en": "Nestor Subiat",
+        "age": 28,
+        "squad_no": 14,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SUI_1994_15",
+        "name_cn": "Marco Grassi",
+        "name_en": "Marco Grassi",
+        "age": 30,
+        "squad_no": 15,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SUI_1994_16",
+        "name_cn": "Thomas Bickel",
+        "name_en": "Thomas Bickel",
+        "age": 31,
+        "squad_no": 16,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SUI_1994_17",
+        "name_cn": "Sébastien Fournier",
+        "name_en": "Sébastien Fournier",
+        "age": 29,
+        "squad_no": 17,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 68
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SUI_1994_18",
+        "name_cn": "Martin Rueda",
+        "name_en": "Martin Rueda",
+        "age": 33,
+        "squad_no": 18,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 68
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SUI_1994_19",
+        "name_cn": "Jürg Studer",
+        "name_en": "Jürg Studer",
+        "age": 33,
+        "squad_no": 19,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 68
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SUI_1994_20",
+        "name_cn": "Patrick Sylvestre",
+        "name_en": "Patrick Sylvestre",
+        "age": 22,
+        "squad_no": 20,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 68
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SUI_1994_21",
+        "name_cn": "Thomas Wyss",
+        "name_en": "Thomas Wyss",
+        "age": 33,
+        "squad_no": 21,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 68
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SUI_1994_22",
+        "name_cn": "Martin Brunner",
+        "name_en": "Martin Brunner",
+        "age": 24,
+        "squad_no": 22,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      }
+    ],
+    "2006": [
+      {
+        "id": "SUI_2006_01",
+        "name_cn": "Pascal Zuberbühler",
+        "name_en": "Pascal Zuberbühler",
+        "age": 30,
+        "squad_no": 1,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SUI_2006_02",
+        "name_cn": "Johan Djourou",
+        "name_en": "Johan Djourou",
+        "age": 25,
+        "squad_no": 2,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          },
+          {
+            "pos": "RB",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SUI_2006_03",
+        "name_cn": "Ludovic Magnin",
+        "name_en": "Ludovic Magnin",
+        "age": 30,
+        "squad_no": 3,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          },
+          {
+            "pos": "LB",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SUI_2006_04",
+        "name_cn": "Philippe Senderos",
+        "name_en": "Philippe Senderos",
+        "age": 27,
+        "squad_no": 4,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SUI_2006_05",
+        "name_cn": "Xavier Margairaz",
+        "name_en": "Xavier Margairaz",
+        "age": 32,
+        "squad_no": 5,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SUI_2006_06",
+        "name_cn": "Johann Vogel",
+        "name_en": "Johann Vogel",
+        "age": 29,
+        "squad_no": 6,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          },
+          {
+            "pos": "DM",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SUI_2006_07",
+        "name_cn": "Ricardo Cabanas",
+        "name_en": "Ricardo Cabanas",
+        "age": 30,
+        "squad_no": 7,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SUI_2006_08",
+        "name_cn": "Raphaël Wicky",
+        "name_en": "Raphaël Wicky",
+        "age": 28,
+        "squad_no": 8,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SUI_2006_09",
+        "name_cn": "Alexander Frei",
+        "name_en": "Alexander Frei",
+        "age": 27,
+        "squad_no": 9,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 73
+          },
+          {
+            "pos": "CAM",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SUI_2006_10",
+        "name_cn": "Daniel Gygax",
+        "name_en": "Daniel Gygax",
+        "age": 24,
+        "squad_no": 10,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SUI_2006_11",
+        "name_cn": "Marco Streller",
+        "name_en": "Marco Streller",
+        "age": 29,
+        "squad_no": 11,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 73
+          },
+          {
+            "pos": "LW",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SUI_2006_12",
+        "name_cn": "Diego Benaglio",
+        "name_en": "Diego Benaglio",
+        "age": 30,
+        "squad_no": 12,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 72
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SUI_2006_13",
+        "name_cn": "Stéphane Grichting",
+        "name_en": "Stéphane Grichting",
+        "age": 27,
+        "squad_no": 13,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SUI_2006_14",
+        "name_cn": "David Degen",
+        "name_en": "David Degen",
+        "age": 30,
+        "squad_no": 14,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SUI_2006_15",
+        "name_cn": "Blerim Džemaili",
+        "name_en": "Blerim Džemaili",
+        "age": 27,
+        "squad_no": 15,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SUI_2006_16",
+        "name_cn": "Tranquillo Barnetta",
+        "name_en": "Tranquillo Barnetta",
+        "age": 32,
+        "squad_no": 16,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SUI_2006_17",
+        "name_cn": "Christoph Spycher",
+        "name_en": "Christoph Spycher",
+        "age": 33,
+        "squad_no": 17,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SUI_2006_18",
+        "name_cn": "Mauro Lustrinelli",
+        "name_en": "Mauro Lustrinelli",
+        "age": 32,
+        "squad_no": 18,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SUI_2006_19",
+        "name_cn": "Valon Behrami",
+        "name_en": "Valon Behrami",
+        "age": 32,
+        "squad_no": 19,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SUI_2006_20",
+        "name_cn": "Patrick Müller",
+        "name_en": "Patrick Müller",
+        "age": 33,
+        "squad_no": 20,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SUI_2006_21",
+        "name_cn": "Fabio Coltorti",
+        "name_en": "Fabio Coltorti",
+        "age": 26,
+        "squad_no": 21,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SUI_2006_22",
+        "name_cn": "Hakan Yakin",
+        "name_en": "Hakan Yakin",
+        "age": 31,
+        "squad_no": 22,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SUI_2006_23",
+        "name_cn": "Philipp Degen",
+        "name_en": "Philipp Degen",
+        "age": 29,
+        "squad_no": 23,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 68
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      }
+    ],
+    "2010": [
+      {
+        "id": "SUI_2010_01",
+        "name_cn": "Diego Benaglio",
+        "name_en": "Diego Benaglio",
+        "age": 25,
+        "squad_no": 1,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SUI_2010_02",
+        "name_cn": "Stephan Lichtsteiner",
+        "name_en": "Stephan Lichtsteiner",
+        "age": 25,
+        "squad_no": 2,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          },
+          {
+            "pos": "RB",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SUI_2010_03",
+        "name_cn": "Ludovic Magnin",
+        "name_en": "Ludovic Magnin",
+        "age": 26,
+        "squad_no": 3,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          },
+          {
+            "pos": "LB",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SUI_2010_04",
+        "name_cn": "Philippe Senderos",
+        "name_en": "Philippe Senderos",
+        "age": 30,
+        "squad_no": 4,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SUI_2010_05",
+        "name_cn": "Steve von Bergen",
+        "name_en": "Steve von Bergen",
+        "age": 26,
+        "squad_no": 5,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SUI_2010_06",
+        "name_cn": "Benjamin Huggel",
+        "name_en": "Benjamin Huggel",
+        "age": 25,
+        "squad_no": 6,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          },
+          {
+            "pos": "DM",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SUI_2010_07",
+        "name_cn": "Tranquillo Barnetta",
+        "name_en": "Tranquillo Barnetta",
+        "age": 26,
+        "squad_no": 7,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SUI_2010_08",
+        "name_cn": "Gökhan Inler",
+        "name_en": "Gökhan Inler",
+        "age": 26,
+        "squad_no": 8,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          },
+          {
+            "pos": "DM",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SUI_2010_09",
+        "name_cn": "Alexander Frei",
+        "name_en": "Alexander Frei",
+        "age": 33,
+        "squad_no": 9,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 73
+          },
+          {
+            "pos": "CAM",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SUI_2010_10",
+        "name_cn": "Blaise Nkufo",
+        "name_en": "Blaise Nkufo",
+        "age": 25,
+        "squad_no": 10,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SUI_2010_11",
+        "name_cn": "Valon Behrami",
+        "name_en": "Valon Behrami",
+        "age": 33,
+        "squad_no": 11,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SUI_2010_12",
+        "name_cn": "Marco Wölfli",
+        "name_en": "Marco Wölfli",
+        "age": 33,
+        "squad_no": 12,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 72
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SUI_2010_13",
+        "name_cn": "Stéphane Grichting",
+        "name_en": "Stéphane Grichting",
+        "age": 29,
+        "squad_no": 13,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SUI_2010_14",
+        "name_cn": "Marco Padalino",
+        "name_en": "Marco Padalino",
+        "age": 27,
+        "squad_no": 14,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SUI_2010_15",
+        "name_cn": "Hakan Yakin",
+        "name_en": "Hakan Yakin",
+        "age": 29,
+        "squad_no": 15,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SUI_2010_16",
+        "name_cn": "Gélson Fernandes",
+        "name_en": "Gélson Fernandes",
+        "age": 27,
+        "squad_no": 16,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SUI_2010_17",
+        "name_cn": "Reto Ziegler",
+        "name_en": "Reto Ziegler",
+        "age": 30,
+        "squad_no": 17,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SUI_2010_18",
+        "name_cn": "Albert Bunjaku",
+        "name_en": "Albert Bunjaku",
+        "age": 33,
+        "squad_no": 18,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SUI_2010_19",
+        "name_cn": "Eren Derdiyok",
+        "name_en": "Eren Derdiyok",
+        "age": 26,
+        "squad_no": 19,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SUI_2010_20",
+        "name_cn": "Pirmin Schwegler",
+        "name_en": "Pirmin Schwegler",
+        "age": 26,
+        "squad_no": 20,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SUI_2010_21",
+        "name_cn": "Johnny Leoni",
+        "name_en": "Johnny Leoni",
+        "age": 23,
+        "squad_no": 21,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SUI_2010_22",
+        "name_cn": "Mario Eggimann",
+        "name_en": "Mario Eggimann",
+        "age": 31,
+        "squad_no": 22,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SUI_2010_23",
+        "name_cn": "Xherdan Shaqiri",
+        "name_en": "Xherdan Shaqiri",
+        "age": 32,
+        "squad_no": 23,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 68
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      }
+    ],
+    "2014": [
+      {
+        "id": "SUI_2014_01",
+        "name_cn": "Diego Benaglio",
+        "name_en": "Diego Benaglio",
+        "age": 30,
+        "squad_no": 1,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SUI_2014_02",
+        "name_cn": "利希施泰纳",
+        "name_en": "Stephan Lichtsteiner",
+        "age": 28,
+        "squad_no": 2,
+        "positions": [
+          {
+            "pos": "RB",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SUI_2014_03",
+        "name_cn": "Reto Ziegler",
+        "name_en": "Reto Ziegler",
+        "age": 28,
+        "squad_no": 3,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          },
+          {
+            "pos": "LB",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SUI_2014_04",
+        "name_cn": "Philippe Senderos",
+        "name_en": "Philippe Senderos",
+        "age": 27,
+        "squad_no": 4,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SUI_2014_05",
+        "name_cn": "Steve von Bergen",
+        "name_en": "Steve von Bergen",
+        "age": 24,
+        "squad_no": 5,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SUI_2014_06",
+        "name_cn": "Michael Lang",
+        "name_en": "Michael Lang",
+        "age": 26,
+        "squad_no": 6,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SUI_2014_07",
+        "name_cn": "Tranquillo Barnetta",
+        "name_en": "Tranquillo Barnetta",
+        "age": 22,
+        "squad_no": 7,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SUI_2014_08",
+        "name_cn": "Gökhan Inler",
+        "name_en": "Gökhan Inler",
+        "age": 26,
+        "squad_no": 8,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          },
+          {
+            "pos": "DM",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SUI_2014_09",
+        "name_cn": "Haris Seferovic",
+        "name_en": "Haris Seferovic",
+        "age": 33,
+        "squad_no": 9,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 73
+          },
+          {
+            "pos": "CAM",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SUI_2014_10",
+        "name_cn": "扎卡",
+        "name_en": "Granit Xhaka",
+        "age": 23,
+        "squad_no": 10,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 87
+          },
+          {
+            "pos": "DM",
+            "ovr": 84
+          }
+        ],
+        "tags": [
+          "队长"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SUI_2014_11",
+        "name_cn": "Valon Behrami",
+        "name_en": "Valon Behrami",
+        "age": 27,
+        "squad_no": 11,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SUI_2014_12",
+        "name_cn": "索默",
+        "name_en": "Yann Sommer",
+        "age": 29,
+        "squad_no": 12,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 87
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SUI_2014_13",
+        "name_cn": "罗德里格斯",
+        "name_en": "Ricardo Rodríguez",
+        "age": 32,
+        "squad_no": 13,
+        "positions": [
+          {
+            "pos": "LB",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SUI_2014_14",
+        "name_cn": "Valentin Stocker",
+        "name_en": "Valentin Stocker",
+        "age": 26,
+        "squad_no": 14,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SUI_2014_15",
+        "name_cn": "Blerim Džemaili",
+        "name_en": "Blerim Džemaili",
+        "age": 33,
+        "squad_no": 15,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SUI_2014_16",
+        "name_cn": "Gélson Fernandes",
+        "name_en": "Gélson Fernandes",
+        "age": 29,
+        "squad_no": 16,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SUI_2014_17",
+        "name_cn": "Mario Gavranović",
+        "name_en": "Mario Gavranović",
+        "age": 25,
+        "squad_no": 17,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SUI_2014_18",
+        "name_cn": "Admir Mehmedi",
+        "name_en": "Admir Mehmedi",
+        "age": 25,
+        "squad_no": 18,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SUI_2014_19",
+        "name_cn": "Josip Drmić",
+        "name_en": "Josip Drmić",
+        "age": 30,
+        "squad_no": 19,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SUI_2014_20",
+        "name_cn": "Johan Djourou",
+        "name_en": "Johan Djourou",
+        "age": 26,
+        "squad_no": 20,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SUI_2014_21",
+        "name_cn": "Roman Bürki",
+        "name_en": "Roman Bürki",
+        "age": 30,
+        "squad_no": 21,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SUI_2014_22",
+        "name_cn": "Fabian Schär",
+        "name_en": "Fabian Schär",
+        "age": 33,
+        "squad_no": 22,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SUI_2014_23",
+        "name_cn": "沙奇里",
+        "name_en": "Xherdan Shaqiri",
+        "age": 26,
+        "squad_no": 23,
+        "positions": [
+          {
+            "pos": "CAM",
+            "ovr": 84
+          },
+          {
+            "pos": "RW",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      }
+    ],
+    "2018": [
+      {
+        "id": "SUI_2018_01",
+        "name_cn": "索默",
+        "name_en": "Yann Sommer",
+        "age": 24,
+        "squad_no": 1,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 87
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SUI_2018_02",
+        "name_cn": "利希施泰纳",
+        "name_en": "Stephan Lichtsteiner",
+        "age": 23,
+        "squad_no": 2,
+        "positions": [
+          {
+            "pos": "RB",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SUI_2018_03",
+        "name_cn": "François Moubandje",
+        "name_en": "François Moubandje",
+        "age": 31,
+        "squad_no": 3,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          },
+          {
+            "pos": "LB",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SUI_2018_04",
+        "name_cn": "Nico Elvedi",
+        "name_en": "Nico Elvedi",
+        "age": 33,
+        "squad_no": 4,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SUI_2018_05",
+        "name_cn": "阿坎吉",
+        "name_en": "Manuel Akanji",
+        "age": 31,
+        "squad_no": 5,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 87
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SUI_2018_06",
+        "name_cn": "Michael Lang",
+        "name_en": "Michael Lang",
+        "age": 25,
+        "squad_no": 6,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SUI_2018_07",
+        "name_cn": "恩博洛",
+        "name_en": "Breel Embolo",
+        "age": 25,
+        "squad_no": 7,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SUI_2018_08",
+        "name_cn": "弗罗伊勒",
+        "name_en": "Remo Freuler",
+        "age": 22,
+        "squad_no": 8,
+        "positions": [
+          {
+            "pos": "DM",
+            "ovr": 83
+          },
+          {
+            "pos": "CM",
+            "ovr": 82
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SUI_2018_09",
+        "name_cn": "Haris Seferovic",
+        "name_en": "Haris Seferovic",
+        "age": 32,
+        "squad_no": 9,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 73
+          },
+          {
+            "pos": "CAM",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SUI_2018_10",
+        "name_cn": "扎卡",
+        "name_en": "Granit Xhaka",
+        "age": 30,
+        "squad_no": 10,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 87
+          },
+          {
+            "pos": "DM",
+            "ovr": 84
+          }
+        ],
+        "tags": [
+          "队长"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SUI_2018_11",
+        "name_cn": "Valon Behrami",
+        "name_en": "Valon Behrami",
+        "age": 25,
+        "squad_no": 11,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SUI_2018_12",
+        "name_cn": "Yvon Mvogo",
+        "name_en": "Yvon Mvogo",
+        "age": 32,
+        "squad_no": 12,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 72
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SUI_2018_13",
+        "name_cn": "罗德里格斯",
+        "name_en": "Ricardo Rodríguez",
+        "age": 25,
+        "squad_no": 13,
+        "positions": [
+          {
+            "pos": "LB",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SUI_2018_14",
+        "name_cn": "Steven Zuber",
+        "name_en": "Steven Zuber",
+        "age": 22,
+        "squad_no": 14,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SUI_2018_15",
+        "name_cn": "Blerim Džemaili",
+        "name_en": "Blerim Džemaili",
+        "age": 23,
+        "squad_no": 15,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SUI_2018_16",
+        "name_cn": "Gélson Fernandes",
+        "name_en": "Gélson Fernandes",
+        "age": 28,
+        "squad_no": 16,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SUI_2018_17",
+        "name_cn": "Denis Zakaria",
+        "name_en": "Denis Zakaria",
+        "age": 27,
+        "squad_no": 17,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SUI_2018_18",
+        "name_cn": "Mario Gavranović",
+        "name_en": "Mario Gavranović",
+        "age": 33,
+        "squad_no": 18,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SUI_2018_19",
+        "name_cn": "Josip Drmić",
+        "name_en": "Josip Drmić",
+        "age": 29,
+        "squad_no": 19,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SUI_2018_20",
+        "name_cn": "Johan Djourou",
+        "name_en": "Johan Djourou",
+        "age": 23,
+        "squad_no": 20,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SUI_2018_21",
+        "name_cn": "Roman Bürki",
+        "name_en": "Roman Bürki",
+        "age": 32,
+        "squad_no": 21,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SUI_2018_22",
+        "name_cn": "Fabian Schär",
+        "name_en": "Fabian Schär",
+        "age": 24,
+        "squad_no": 22,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SUI_2018_23",
+        "name_cn": "沙奇里",
+        "name_en": "Xherdan Shaqiri",
+        "age": 22,
+        "squad_no": 23,
+        "positions": [
+          {
+            "pos": "CAM",
+            "ovr": 84
+          },
+          {
+            "pos": "RW",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      }
+    ],
+    "2022": [
+      {
+        "id": "SUI_2022_01",
+        "name_cn": "索默",
+        "name_en": "Yann Sommer",
+        "age": 30,
+        "squad_no": 1,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 87
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SUI_2022_02",
+        "name_cn": "Edimilson Fernandes",
+        "name_en": "Edimilson Fernandes",
+        "age": 24,
+        "squad_no": 2,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          },
+          {
+            "pos": "RB",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SUI_2022_03",
+        "name_cn": "Silvan Widmer",
+        "name_en": "Silvan Widmer",
+        "age": 28,
+        "squad_no": 3,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          },
+          {
+            "pos": "LB",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SUI_2022_04",
+        "name_cn": "Nico Elvedi",
+        "name_en": "Nico Elvedi",
+        "age": 32,
+        "squad_no": 4,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SUI_2022_05",
+        "name_cn": "阿坎吉",
+        "name_en": "Manuel Akanji",
+        "age": 29,
+        "squad_no": 5,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 87
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SUI_2022_06",
+        "name_cn": "Denis Zakaria",
+        "name_en": "Denis Zakaria",
+        "age": 29,
+        "squad_no": 6,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          },
+          {
+            "pos": "DM",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SUI_2022_07",
+        "name_cn": "恩博洛",
+        "name_en": "Breel Embolo",
+        "age": 32,
+        "squad_no": 7,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SUI_2022_08",
+        "name_cn": "弗罗伊勒",
+        "name_en": "Remo Freuler",
+        "age": 25,
+        "squad_no": 8,
+        "positions": [
+          {
+            "pos": "DM",
+            "ovr": 83
+          },
+          {
+            "pos": "CM",
+            "ovr": 82
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SUI_2022_09",
+        "name_cn": "Haris Seferovic",
+        "name_en": "Haris Seferovic",
+        "age": 26,
+        "squad_no": 9,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 73
+          },
+          {
+            "pos": "CAM",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SUI_2022_10",
+        "name_cn": "扎卡",
+        "name_en": "Granit Xhaka",
+        "age": 27,
+        "squad_no": 10,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 87
+          },
+          {
+            "pos": "DM",
+            "ovr": 84
+          }
+        ],
+        "tags": [
+          "队长"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SUI_2022_11",
+        "name_cn": "Renato Steffen",
+        "name_en": "Renato Steffen",
+        "age": 26,
+        "squad_no": 11,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SUI_2022_12",
+        "name_cn": "Jonas Omlin",
+        "name_en": "Jonas Omlin",
+        "age": 32,
+        "squad_no": 12,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 72
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SUI_2022_13",
+        "name_cn": "罗德里格斯",
+        "name_en": "Ricardo Rodríguez",
+        "age": 22,
+        "squad_no": 13,
+        "positions": [
+          {
+            "pos": "LB",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SUI_2022_14",
+        "name_cn": "Michel Aebischer",
+        "name_en": "Michel Aebischer",
+        "age": 23,
+        "squad_no": 14,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SUI_2022_15",
+        "name_cn": "Djibril Sow",
+        "name_en": "Djibril Sow",
+        "age": 32,
+        "squad_no": 15,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SUI_2022_16",
+        "name_cn": "Christian Fassnacht",
+        "name_en": "Christian Fassnacht",
+        "age": 31,
+        "squad_no": 16,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SUI_2022_17",
+        "name_cn": "瓦尔加斯",
+        "name_en": "Ruben Vargas",
+        "age": 25,
+        "squad_no": 17,
+        "positions": [
+          {
+            "pos": "LW",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SUI_2022_18",
+        "name_cn": "Eray Cömert",
+        "name_en": "Eray Cömert",
+        "age": 30,
+        "squad_no": 18,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SUI_2022_19",
+        "name_cn": "Noah Okafor",
+        "name_en": "Noah Okafor",
+        "age": 33,
+        "squad_no": 19,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SUI_2022_20",
+        "name_cn": "Fabian Frei",
+        "name_en": "Fabian Frei",
+        "age": 33,
+        "squad_no": 20,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SUI_2022_21",
+        "name_cn": "Gregor Kobel",
+        "name_en": "Gregor Kobel",
+        "age": 22,
+        "squad_no": 21,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SUI_2022_22",
+        "name_cn": "Fabian Schär",
+        "name_en": "Fabian Schär",
+        "age": 24,
+        "squad_no": 22,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SUI_2022_23",
+        "name_cn": "沙奇里",
+        "name_en": "Xherdan Shaqiri",
+        "age": 28,
+        "squad_no": 23,
+        "positions": [
+          {
+            "pos": "CAM",
+            "ovr": 84
+          },
+          {
+            "pos": "RW",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SUI_2022_24",
+        "name_cn": "Philipp Köhn",
+        "name_en": "Philipp Köhn",
+        "age": 24,
+        "squad_no": 24,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SUI_2022_25",
+        "name_cn": "Fabian Rieder",
+        "name_en": "Fabian Rieder",
+        "age": 22,
+        "squad_no": 25,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 68
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SUI_2022_26",
+        "name_cn": "Ardon Jashari",
+        "name_en": "Ardon Jashari",
+        "age": 28,
+        "squad_no": 26,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 68
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      }
+    ],
+    "2026": [
+      {
+        "id": "SUI_2026_01",
+        "name_cn": "Gregor Kobel",
+        "name_en": "Gregor Kobel",
+        "age": 29,
+        "squad_no": 1,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SUI_2026_02",
+        "name_cn": "Yvon Mvogo",
+        "name_en": "Yvon Mvogo",
+        "age": 24,
+        "squad_no": 2,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SUI_2026_03",
+        "name_cn": "Marvin Keller",
+        "name_en": "Marvin Keller",
+        "age": 33,
+        "squad_no": 3,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SUI_2026_04",
+        "name_cn": "阿坎吉",
+        "name_en": "Manuel Akanji",
+        "age": 26,
+        "squad_no": 4,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 87
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SUI_2026_05",
+        "name_cn": "Nico Elvedi",
+        "name_en": "Nico Elvedi",
+        "age": 22,
+        "squad_no": 5,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SUI_2026_06",
+        "name_cn": "Ricardo Rodriguez",
+        "name_en": "Ricardo Rodriguez",
+        "age": 22,
+        "squad_no": 6,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SUI_2026_07",
+        "name_cn": "Silvan Widmer",
+        "name_en": "Silvan Widmer",
+        "age": 26,
+        "squad_no": 7,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SUI_2026_08",
+        "name_cn": "Miro Muheim",
+        "name_en": "Miro Muheim",
+        "age": 31,
+        "squad_no": 8,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SUI_2026_09",
+        "name_cn": "Aurèle Amenda",
+        "name_en": "Aurèle Amenda",
+        "age": 31,
+        "squad_no": 9,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SUI_2026_10",
+        "name_cn": "Eray Cömert",
+        "name_en": "Eray Cömert",
+        "age": 23,
+        "squad_no": 10,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SUI_2026_11",
+        "name_cn": "Luca Jaquez",
+        "name_en": "Luca Jaquez",
+        "age": 27,
+        "squad_no": 11,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SUI_2026_12",
+        "name_cn": "扎卡",
+        "name_en": "Granit Xhaka",
+        "age": 26,
+        "squad_no": 12,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 87
+          },
+          {
+            "pos": "DM",
+            "ovr": 84
+          }
+        ],
+        "tags": [
+          "队长"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SUI_2026_13",
+        "name_cn": "Johan Manzambi",
+        "name_en": "Johan Manzambi",
+        "age": 29,
+        "squad_no": 13,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SUI_2026_14",
+        "name_cn": "弗罗伊勒",
+        "name_en": "Remo Freuler",
+        "age": 32,
+        "squad_no": 14,
+        "positions": [
+          {
+            "pos": "DM",
+            "ovr": 83
+          },
+          {
+            "pos": "CM",
+            "ovr": 82
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SUI_2026_15",
+        "name_cn": "Denis Zakaria",
+        "name_en": "Denis Zakaria",
+        "age": 30,
+        "squad_no": 15,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SUI_2026_16",
+        "name_cn": "Ardon Jashari",
+        "name_en": "Ardon Jashari",
+        "age": 30,
+        "squad_no": 16,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SUI_2026_17",
+        "name_cn": "Djibril Sow",
+        "name_en": "Djibril Sow",
+        "age": 29,
+        "squad_no": 17,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SUI_2026_18",
+        "name_cn": "Christian Fassnacht",
+        "name_en": "Christian Fassnacht",
+        "age": 24,
+        "squad_no": 18,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SUI_2026_19",
+        "name_cn": "Michel Aebischer",
+        "name_en": "Michel Aebischer",
+        "age": 30,
+        "squad_no": 19,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SUI_2026_20",
+        "name_cn": "Fabian Rieder",
+        "name_en": "Fabian Rieder",
+        "age": 29,
+        "squad_no": 20,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SUI_2026_21",
+        "name_cn": "瓦尔加斯",
+        "name_en": "Rubén Vargas",
+        "age": 26,
+        "squad_no": 21,
+        "positions": [
+          {
+            "pos": "LW",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SUI_2026_22",
+        "name_cn": "恩博洛",
+        "name_en": "Breel Embolo",
+        "age": 25,
+        "squad_no": 22,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SUI_2026_23",
+        "name_cn": "Noah Okafor",
+        "name_en": "Noah Okafor",
+        "age": 23,
+        "squad_no": 23,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SUI_2026_24",
+        "name_cn": "Dan Ndoye",
+        "name_en": "Dan Ndoye",
+        "age": 27,
+        "squad_no": 24,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SUI_2026_25",
+        "name_cn": "Zeki Amdouni",
+        "name_en": "Zeki Amdouni",
+        "age": 24,
+        "squad_no": 25,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SUI_2026_26",
+        "name_cn": "Cedric Itten",
+        "name_en": "Cedric Itten",
+        "age": 33,
+        "squad_no": 26,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      }
+    ]
+  }
+}

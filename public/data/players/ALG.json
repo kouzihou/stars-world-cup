@@ -1,0 +1,1135 @@
+{
+  "country_code": "ALG",
+  "squads": {
+    "2010": [
+      {
+        "id": "ALG_2010_01",
+        "name_cn": "Lounès Gaouaoui",
+        "name_en": "Lounès Gaouaoui",
+        "age": 33,
+        "squad_no": 1,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ALG_2010_02",
+        "name_cn": "Madjid Bougherra",
+        "name_en": "Madjid Bougherra",
+        "age": 31,
+        "squad_no": 2,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          },
+          {
+            "pos": "RB",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ALG_2010_03",
+        "name_cn": "Nadir Belhadj",
+        "name_en": "Nadir Belhadj",
+        "age": 25,
+        "squad_no": 3,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          },
+          {
+            "pos": "LB",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ALG_2010_04",
+        "name_cn": "Antar Yahia",
+        "name_en": "Antar Yahia",
+        "age": 33,
+        "squad_no": 4,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ALG_2010_05",
+        "name_cn": "Rafik Halliche",
+        "name_en": "Rafik Halliche",
+        "age": 25,
+        "squad_no": 5,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ALG_2010_06",
+        "name_cn": "Yazid Mansouri",
+        "name_en": "Yazid Mansouri",
+        "age": 26,
+        "squad_no": 6,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          },
+          {
+            "pos": "DM",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ALG_2010_07",
+        "name_cn": "Ryad Boudebouz",
+        "name_en": "Ryad Boudebouz",
+        "age": 29,
+        "squad_no": 7,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ALG_2010_08",
+        "name_cn": "Mehdi Lacen",
+        "name_en": "Mehdi Lacen",
+        "age": 24,
+        "squad_no": 8,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          },
+          {
+            "pos": "DM",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ALG_2010_09",
+        "name_cn": "Abdelkader Ghezzal",
+        "name_en": "Abdelkader Ghezzal",
+        "age": 32,
+        "squad_no": 9,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 73
+          },
+          {
+            "pos": "CAM",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ALG_2010_10",
+        "name_cn": "Rafik Saïfi",
+        "name_en": "Rafik Saïfi",
+        "age": 23,
+        "squad_no": 10,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ALG_2010_11",
+        "name_cn": "Rafik Djebbour",
+        "name_en": "Rafik Djebbour",
+        "age": 24,
+        "squad_no": 11,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 73
+          },
+          {
+            "pos": "LW",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ALG_2010_12",
+        "name_cn": "Habib Bellaïd",
+        "name_en": "Habib Bellaïd",
+        "age": 24,
+        "squad_no": 12,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ALG_2010_13",
+        "name_cn": "Karim Matmour",
+        "name_en": "Karim Matmour",
+        "age": 33,
+        "squad_no": 13,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ALG_2010_14",
+        "name_cn": "Abdelkader Laïfaoui",
+        "name_en": "Abdelkader Laïfaoui",
+        "age": 30,
+        "squad_no": 14,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ALG_2010_15",
+        "name_cn": "Karim Ziani",
+        "name_en": "Karim Ziani",
+        "age": 23,
+        "squad_no": 15,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ALG_2010_16",
+        "name_cn": "Faouzi Chaouchi",
+        "name_en": "Faouzi Chaouchi",
+        "age": 28,
+        "squad_no": 16,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 72
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ALG_2010_17",
+        "name_cn": "Adlène Guedioura",
+        "name_en": "Adlène Guedioura",
+        "age": 22,
+        "squad_no": 17,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ALG_2010_18",
+        "name_cn": "Carl Medjani",
+        "name_en": "Carl Medjani",
+        "age": 28,
+        "squad_no": 18,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ALG_2010_19",
+        "name_cn": "Hassan Yebda",
+        "name_en": "Hassan Yebda",
+        "age": 26,
+        "squad_no": 19,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ALG_2010_20",
+        "name_cn": "Djamel Mesbah",
+        "name_en": "Djamel Mesbah",
+        "age": 30,
+        "squad_no": 20,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ALG_2010_21",
+        "name_cn": "Foued Kadir",
+        "name_en": "Foued Kadir",
+        "age": 26,
+        "squad_no": 21,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ALG_2010_22",
+        "name_cn": "Djamel Abdoun",
+        "name_en": "Djamel Abdoun",
+        "age": 24,
+        "squad_no": 22,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ALG_2010_23",
+        "name_cn": "Raïs M'Bolhi",
+        "name_en": "Raïs M'Bolhi",
+        "age": 24,
+        "squad_no": 23,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      }
+    ],
+    "2014": [
+      {
+        "id": "ALG_2014_01",
+        "name_cn": "Cédric Si Mohamed",
+        "name_en": "Cédric Si Mohamed",
+        "age": 31,
+        "squad_no": 1,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ALG_2014_02",
+        "name_cn": "Madjid Bougherra",
+        "name_en": "Madjid Bougherra",
+        "age": 26,
+        "squad_no": 2,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          },
+          {
+            "pos": "RB",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ALG_2014_03",
+        "name_cn": "Faouzi Ghoulam",
+        "name_en": "Faouzi Ghoulam",
+        "age": 22,
+        "squad_no": 3,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          },
+          {
+            "pos": "LB",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ALG_2014_04",
+        "name_cn": "Essaïd Belkalem",
+        "name_en": "Essaïd Belkalem",
+        "age": 27,
+        "squad_no": 4,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ALG_2014_05",
+        "name_cn": "Rafik Halliche",
+        "name_en": "Rafik Halliche",
+        "age": 29,
+        "squad_no": 5,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ALG_2014_06",
+        "name_cn": "Djamel Mesbah",
+        "name_en": "Djamel Mesbah",
+        "age": 33,
+        "squad_no": 6,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ALG_2014_07",
+        "name_cn": "Hassan Yebda",
+        "name_en": "Hassan Yebda",
+        "age": 24,
+        "squad_no": 7,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ALG_2014_08",
+        "name_cn": "Mehdi Lacen",
+        "name_en": "Mehdi Lacen",
+        "age": 22,
+        "squad_no": 8,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          },
+          {
+            "pos": "DM",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ALG_2014_09",
+        "name_cn": "Nabil Ghilas",
+        "name_en": "Nabil Ghilas",
+        "age": 24,
+        "squad_no": 9,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 73
+          },
+          {
+            "pos": "CAM",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ALG_2014_10",
+        "name_cn": "费古利",
+        "name_en": "Sofiane Feghouli",
+        "age": 27,
+        "squad_no": 10,
+        "positions": [
+          {
+            "pos": "RW",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ALG_2014_11",
+        "name_cn": "Yacine Brahimi",
+        "name_en": "Yacine Brahimi",
+        "age": 31,
+        "squad_no": 11,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ALG_2014_12",
+        "name_cn": "Carl Medjani",
+        "name_en": "Carl Medjani",
+        "age": 22,
+        "squad_no": 12,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ALG_2014_13",
+        "name_cn": "斯利马尼",
+        "name_en": "Islam Slimani",
+        "age": 32,
+        "squad_no": 13,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ALG_2014_14",
+        "name_cn": "Nabil Bentaleb",
+        "name_en": "Nabil Bentaleb",
+        "age": 31,
+        "squad_no": 14,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ALG_2014_15",
+        "name_cn": "Hillal Soudani",
+        "name_en": "Hillal Soudani",
+        "age": 32,
+        "squad_no": 15,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ALG_2014_16",
+        "name_cn": "Mohamed Zemmamouche",
+        "name_en": "Mohamed Zemmamouche",
+        "age": 26,
+        "squad_no": 16,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 72
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ALG_2014_17",
+        "name_cn": "Liassine Cadamuro-Bentaïba",
+        "name_en": "Liassine Cadamuro-Bentaïba",
+        "age": 29,
+        "squad_no": 17,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ALG_2014_18",
+        "name_cn": "Abdelmoumene Djabou",
+        "name_en": "Abdelmoumene Djabou",
+        "age": 31,
+        "squad_no": 18,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ALG_2014_19",
+        "name_cn": "Saphir Taïder",
+        "name_en": "Saphir Taïder",
+        "age": 30,
+        "squad_no": 19,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ALG_2014_20",
+        "name_cn": "Aïssa Mandi",
+        "name_en": "Aïssa Mandi",
+        "age": 27,
+        "squad_no": 20,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ALG_2014_21",
+        "name_cn": "马赫雷斯",
+        "name_en": "Riyad Mahrez",
+        "age": 23,
+        "squad_no": 21,
+        "positions": [
+          {
+            "pos": "RW",
+            "ovr": 90
+          },
+          {
+            "pos": "LW",
+            "ovr": 87
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ALG_2014_22",
+        "name_cn": "Mehdi Mostefa",
+        "name_en": "Mehdi Mostefa",
+        "age": 33,
+        "squad_no": 22,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ALG_2014_23",
+        "name_cn": "Raïs M'Bolhi",
+        "name_en": "Raïs M'Bolhi",
+        "age": 27,
+        "squad_no": 23,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      }
+    ],
+    "2026": [
+      {
+        "id": "ALG_2026_01",
+        "name_cn": "Oussama Benbot",
+        "name_en": "Oussama Benbot",
+        "age": 30,
+        "squad_no": 1,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ALG_2026_02",
+        "name_cn": "Melvin Masstil",
+        "name_en": "Melvin Masstil",
+        "age": 25,
+        "squad_no": 2,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ALG_2026_03",
+        "name_cn": "齐达内（卢卡）",
+        "name_en": "Luca Zidane",
+        "age": 24,
+        "squad_no": 3,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ALG_2026_04",
+        "name_cn": "Achraf Abada",
+        "name_en": "Achraf Abada",
+        "age": 30,
+        "squad_no": 4,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ALG_2026_05",
+        "name_cn": "艾特-努里",
+        "name_en": "Rayan Ait Nouri",
+        "age": 23,
+        "squad_no": 5,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ALG_2026_06",
+        "name_cn": "Zinedine Belaid",
+        "name_en": "Zinedine Belaid",
+        "age": 30,
+        "squad_no": 6,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ALG_2026_07",
+        "name_cn": "Rafik Belghali",
+        "name_en": "Rafik Belghali",
+        "age": 24,
+        "squad_no": 7,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ALG_2026_08",
+        "name_cn": "本塞拜尼",
+        "name_en": "Ramy Bensebaini",
+        "age": 28,
+        "squad_no": 8,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ALG_2026_09",
+        "name_cn": "Samir Chergui",
+        "name_en": "Samir Chergui",
+        "age": 30,
+        "squad_no": 9,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ALG_2026_10",
+        "name_cn": "Jaouen Hadjam",
+        "name_en": "Jaouen Hadjam",
+        "age": 30,
+        "squad_no": 10,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ALG_2026_11",
+        "name_cn": "Aissa Mandi",
+        "name_en": "Aissa Mandi",
+        "age": 28,
+        "squad_no": 11,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ALG_2026_12",
+        "name_cn": "Mohamed Amine Tougai",
+        "name_en": "Mohamed Amine Tougai",
+        "age": 23,
+        "squad_no": 12,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ALG_2026_13",
+        "name_cn": "奥亚尔",
+        "name_en": "Houssem Aouar",
+        "age": 27,
+        "squad_no": 13,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ALG_2026_14",
+        "name_cn": "Nabil Bentaleb",
+        "name_en": "Nabil Bentaleb",
+        "age": 25,
+        "squad_no": 14,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ALG_2026_15",
+        "name_cn": "Hicham Boudaoui",
+        "name_en": "Hicham Boudaoui",
+        "age": 25,
+        "squad_no": 15,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ALG_2026_16",
+        "name_cn": "Fares Chaibi",
+        "name_en": "Fares Chaibi",
+        "age": 32,
+        "squad_no": 16,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ALG_2026_17",
+        "name_cn": "Ibrahim Maza",
+        "name_en": "Ibrahim Maza",
+        "age": 27,
+        "squad_no": 17,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ALG_2026_18",
+        "name_cn": "Yassine Titraoui",
+        "name_en": "Yassine Titraoui",
+        "age": 27,
+        "squad_no": 18,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ALG_2026_19",
+        "name_cn": "Ramiz Zerrouki",
+        "name_en": "Ramiz Zerrouki",
+        "age": 27,
+        "squad_no": 19,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ALG_2026_20",
+        "name_cn": "阿穆拉",
+        "name_en": "Mohamed Amine Amoura",
+        "age": 26,
+        "squad_no": 20,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ALG_2026_21",
+        "name_cn": "Nadir Benbouali",
+        "name_en": "Nadir Benbouali",
+        "age": 25,
+        "squad_no": 21,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ALG_2026_22",
+        "name_cn": "Adil Boulbina",
+        "name_en": "Adil Boulbina",
+        "age": 31,
+        "squad_no": 22,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ALG_2026_23",
+        "name_cn": "Fares Ghedjemis",
+        "name_en": "Fares Ghedjemis",
+        "age": 30,
+        "squad_no": 23,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ALG_2026_24",
+        "name_cn": "古伊里",
+        "name_en": "Amine Gouiri",
+        "age": 29,
+        "squad_no": 24,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ALG_2026_25",
+        "name_cn": "马赫雷斯",
+        "name_en": "Riyad Mahrez",
+        "age": 30,
+        "squad_no": 25,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ALG_2026_26",
+        "name_cn": "Anis Hadj Moussa",
+        "name_en": "Anis Hadj Moussa",
+        "age": 32,
+        "squad_no": 26,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      }
+    ]
+  }
+}

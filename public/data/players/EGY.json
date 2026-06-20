@@ -1,0 +1,1130 @@
+{
+  "country_code": "EGY",
+  "squads": {
+    "1990": [
+      {
+        "id": "EGY_1990_01",
+        "name_cn": "Ahmed Shobair",
+        "name_en": "Ahmed Shobair",
+        "age": 22,
+        "squad_no": 1,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 72
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "EGY_1990_02",
+        "name_cn": "Ibrahim Hassan",
+        "name_en": "Ibrahim Hassan",
+        "age": 23,
+        "squad_no": 2,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 71
+          },
+          {
+            "pos": "RB",
+            "ovr": 68
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "EGY_1990_03",
+        "name_cn": "Rabie Yassin",
+        "name_en": "Rabie Yassin",
+        "age": 32,
+        "squad_no": 3,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 71
+          },
+          {
+            "pos": "LB",
+            "ovr": 68
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "EGY_1990_04",
+        "name_cn": "Hany Ramzy",
+        "name_en": "Hany Ramzy",
+        "age": 27,
+        "squad_no": 4,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "EGY_1990_05",
+        "name_cn": "Hesham Yakan",
+        "name_en": "Hesham Yakan",
+        "age": 29,
+        "squad_no": 5,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "EGY_1990_06",
+        "name_cn": "Ashraf Kasem",
+        "name_en": "Ashraf Kasem",
+        "age": 25,
+        "squad_no": 6,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "EGY_1990_07",
+        "name_cn": "Ismail Youssef",
+        "name_en": "Ismail Youssef",
+        "age": 32,
+        "squad_no": 7,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "EGY_1990_08",
+        "name_cn": "Magdi Abdelghani",
+        "name_en": "Magdi Abdelghani",
+        "age": 31,
+        "squad_no": 8,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 71
+          },
+          {
+            "pos": "DM",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "EGY_1990_09",
+        "name_cn": "Hossam Hassan",
+        "name_en": "Hossam Hassan",
+        "age": 31,
+        "squad_no": 9,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 71
+          },
+          {
+            "pos": "CAM",
+            "ovr": 68
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "EGY_1990_10",
+        "name_cn": "Gamal Abdel-Hamid",
+        "name_en": "Gamal Abdel-Hamid",
+        "age": 25,
+        "squad_no": 10,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 71
+          },
+          {
+            "pos": "CAM",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "EGY_1990_11",
+        "name_cn": "Tarek Soliman",
+        "name_en": "Tarek Soliman",
+        "age": 22,
+        "squad_no": 11,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "EGY_1990_12",
+        "name_cn": "Taher Abouzeid",
+        "name_en": "Taher Abouzeid",
+        "age": 32,
+        "squad_no": 12,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "EGY_1990_13",
+        "name_cn": "Ahmed Ramzy",
+        "name_en": "Ahmed Ramzy",
+        "age": 27,
+        "squad_no": 13,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "EGY_1990_14",
+        "name_cn": "Alaa Maihoub",
+        "name_en": "Alaa Maihoub",
+        "age": 28,
+        "squad_no": 14,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "EGY_1990_15",
+        "name_cn": "Saber Eid",
+        "name_en": "Saber Eid",
+        "age": 23,
+        "squad_no": 15,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "EGY_1990_16",
+        "name_cn": "Magdy Tolba",
+        "name_en": "Magdy Tolba",
+        "age": 28,
+        "squad_no": 16,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "EGY_1990_17",
+        "name_cn": "Ayman Shawky",
+        "name_en": "Ayman Shawky",
+        "age": 26,
+        "squad_no": 17,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 67
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "EGY_1990_18",
+        "name_cn": "Osama Orabi",
+        "name_en": "Osama Orabi",
+        "age": 30,
+        "squad_no": 18,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 67
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "EGY_1990_19",
+        "name_cn": "Adel Abdel Rahman",
+        "name_en": "Adel Abdel Rahman",
+        "age": 33,
+        "squad_no": 19,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 67
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "EGY_1990_20",
+        "name_cn": "Ahmed El-Kass",
+        "name_en": "Ahmed El-Kass",
+        "age": 26,
+        "squad_no": 20,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 67
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "EGY_1990_21",
+        "name_cn": "Ayman Taher",
+        "name_en": "Ayman Taher",
+        "age": 22,
+        "squad_no": 21,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 68
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "EGY_1990_22",
+        "name_cn": "Thabet El-Batal",
+        "name_en": "Thabet El-Batal",
+        "age": 30,
+        "squad_no": 22,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 68
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      }
+    ],
+    "2018": [
+      {
+        "id": "EGY_2018_01",
+        "name_cn": "埃尔·哈达里",
+        "name_en": "Essam El Hadary",
+        "age": 27,
+        "squad_no": 1,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 84
+          }
+        ],
+        "tags": [
+          "老将门将"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "EGY_2018_02",
+        "name_cn": "Ali Gabr",
+        "name_en": "Ali Gabr",
+        "age": 30,
+        "squad_no": 2,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          },
+          {
+            "pos": "RB",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "EGY_2018_03",
+        "name_cn": "Ahmed Elmohamady",
+        "name_en": "Ahmed Elmohamady",
+        "age": 30,
+        "squad_no": 3,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          },
+          {
+            "pos": "LB",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "EGY_2018_04",
+        "name_cn": "Omar Gaber",
+        "name_en": "Omar Gaber",
+        "age": 29,
+        "squad_no": 4,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "EGY_2018_05",
+        "name_cn": "Sam Morsy",
+        "name_en": "Sam Morsy",
+        "age": 29,
+        "squad_no": 5,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "EGY_2018_06",
+        "name_cn": "阿什拉夫",
+        "name_en": "Ahmed Hegazi",
+        "age": 22,
+        "squad_no": 6,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "EGY_2018_07",
+        "name_cn": "Ahmed Fathy",
+        "name_en": "Ahmed Fathy",
+        "age": 26,
+        "squad_no": 7,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "EGY_2018_08",
+        "name_cn": "Tarek Hamed",
+        "name_en": "Tarek Hamed",
+        "age": 32,
+        "squad_no": 8,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          },
+          {
+            "pos": "DM",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "EGY_2018_09",
+        "name_cn": "Marwan Mohsen",
+        "name_en": "Marwan Mohsen",
+        "age": 25,
+        "squad_no": 9,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 73
+          },
+          {
+            "pos": "CAM",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "EGY_2018_10",
+        "name_cn": "萨拉赫",
+        "name_en": "Mohamed Salah",
+        "age": 27,
+        "squad_no": 10,
+        "positions": [
+          {
+            "pos": "RW",
+            "ovr": 92
+          },
+          {
+            "pos": "LW",
+            "ovr": 90
+          }
+        ],
+        "tags": [
+          "埃及法老"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "EGY_2018_11",
+        "name_cn": "Kahraba",
+        "name_en": "Kahraba",
+        "age": 30,
+        "squad_no": 11,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 73
+          },
+          {
+            "pos": "LW",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "EGY_2018_12",
+        "name_cn": "Ayman Ashraf",
+        "name_en": "Ayman Ashraf",
+        "age": 23,
+        "squad_no": 12,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "EGY_2018_13",
+        "name_cn": "Mohamed Abdel Shafy",
+        "name_en": "Mohamed Abdel Shafy",
+        "age": 23,
+        "squad_no": 13,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "EGY_2018_14",
+        "name_cn": "Ramadan Sobhi",
+        "name_en": "Ramadan Sobhi",
+        "age": 24,
+        "squad_no": 14,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "EGY_2018_15",
+        "name_cn": "Mahmoud Hamdy",
+        "name_en": "Mahmoud Hamdy",
+        "age": 30,
+        "squad_no": 15,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "EGY_2018_16",
+        "name_cn": "Sherif Ekramy",
+        "name_en": "Sherif Ekramy",
+        "age": 30,
+        "squad_no": 16,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 72
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "EGY_2018_17",
+        "name_cn": "Mohamed Elneny",
+        "name_en": "Mohamed Elneny",
+        "age": 22,
+        "squad_no": 17,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "EGY_2018_18",
+        "name_cn": "Shikabala",
+        "name_en": "Shikabala",
+        "age": 32,
+        "squad_no": 18,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "EGY_2018_19",
+        "name_cn": "Abdallah El Said",
+        "name_en": "Abdallah El Said",
+        "age": 23,
+        "squad_no": 19,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "EGY_2018_20",
+        "name_cn": "Saad Samir",
+        "name_en": "Saad Samir",
+        "age": 25,
+        "squad_no": 20,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "EGY_2018_21",
+        "name_cn": "Trézéguet",
+        "name_en": "Trézéguet",
+        "age": 32,
+        "squad_no": 21,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "EGY_2018_22",
+        "name_cn": "Amr Warda",
+        "name_en": "Amr Warda",
+        "age": 32,
+        "squad_no": 22,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "EGY_2018_23",
+        "name_cn": "Mohamed El Shenawy",
+        "name_en": "Mohamed El Shenawy",
+        "age": 25,
+        "squad_no": 23,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      }
+    ],
+    "2026": [
+      {
+        "id": "EGY_2026_01",
+        "name_cn": "Mohamed El Shenawy",
+        "name_en": "Mohamed El Shenawy",
+        "age": 32,
+        "squad_no": 1,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "EGY_2026_02",
+        "name_cn": "Mostafa Shobeir",
+        "name_en": "Mostafa Shobeir",
+        "age": 28,
+        "squad_no": 2,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "EGY_2026_03",
+        "name_cn": "El Mahdy Soliman",
+        "name_en": "El Mahdy Soliman",
+        "age": 23,
+        "squad_no": 3,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "EGY_2026_04",
+        "name_cn": "Mohamed Alaa",
+        "name_en": "Mohamed Alaa",
+        "age": 25,
+        "squad_no": 4,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "EGY_2026_05",
+        "name_cn": "Mohamed Hany",
+        "name_en": "Mohamed Hany",
+        "age": 30,
+        "squad_no": 5,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "EGY_2026_06",
+        "name_cn": "Tarek Alaa",
+        "name_en": "Tarek Alaa",
+        "age": 33,
+        "squad_no": 6,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "EGY_2026_07",
+        "name_cn": "Hamdy Fathy",
+        "name_en": "Hamdy Fathy",
+        "age": 33,
+        "squad_no": 7,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "EGY_2026_08",
+        "name_cn": "Ramy Rabia",
+        "name_en": "Ramy Rabia",
+        "age": 28,
+        "squad_no": 8,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "EGY_2026_09",
+        "name_cn": "Yasser Ibrahim",
+        "name_en": "Yasser Ibrahim",
+        "age": 32,
+        "squad_no": 9,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "EGY_2026_10",
+        "name_cn": "Hossam Abdelmaguid",
+        "name_en": "Hossam Abdelmaguid",
+        "age": 23,
+        "squad_no": 10,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "EGY_2026_11",
+        "name_cn": "阿卜杜勒蒙内姆",
+        "name_en": "Mohamed Abdelmonem",
+        "age": 33,
+        "squad_no": 11,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "EGY_2026_12",
+        "name_cn": "Ahmed Fatouh",
+        "name_en": "Ahmed Fatouh",
+        "age": 32,
+        "squad_no": 12,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "EGY_2026_13",
+        "name_cn": "Karim Hafez",
+        "name_en": "Karim Hafez",
+        "age": 24,
+        "squad_no": 13,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "EGY_2026_14",
+        "name_cn": "Marwan Attia",
+        "name_en": "Marwan Attia",
+        "age": 22,
+        "squad_no": 14,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "EGY_2026_15",
+        "name_cn": "Mohanad Lasheen",
+        "name_en": "Mohanad Lasheen",
+        "age": 29,
+        "squad_no": 15,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "EGY_2026_16",
+        "name_cn": "Nabil Emad",
+        "name_en": "Nabil Emad",
+        "age": 33,
+        "squad_no": 16,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "EGY_2026_17",
+        "name_cn": "Mahmoud Saber",
+        "name_en": "Mahmoud Saber",
+        "age": 27,
+        "squad_no": 17,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "EGY_2026_18",
+        "name_cn": "Ahmed Zizo",
+        "name_en": "Ahmed Zizo",
+        "age": 22,
+        "squad_no": 18,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "EGY_2026_19",
+        "name_cn": "阿舒尔",
+        "name_en": "Emam Ashour",
+        "age": 23,
+        "squad_no": 19,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "EGY_2026_20",
+        "name_cn": "Mostafa Ziko",
+        "name_en": "Mostafa Ziko",
+        "age": 23,
+        "squad_no": 20,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "EGY_2026_21",
+        "name_cn": "特雷泽盖",
+        "name_en": "Mahmoud Trezeguet",
+        "age": 22,
+        "squad_no": 21,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "EGY_2026_22",
+        "name_cn": "Ibrahim Adel",
+        "name_en": "Ibrahim Adel",
+        "age": 24,
+        "squad_no": 22,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "EGY_2026_23",
+        "name_cn": "Haissem Hassan",
+        "name_en": "Haissem Hassan",
+        "age": 26,
+        "squad_no": 23,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "EGY_2026_24",
+        "name_cn": "马尔穆什",
+        "name_en": "Omar Marmoush",
+        "age": 30,
+        "squad_no": 24,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "EGY_2026_25",
+        "name_cn": "萨拉赫",
+        "name_en": "Mohamed Salah",
+        "age": 23,
+        "squad_no": 25,
+        "positions": [
+          {
+            "pos": "RW",
+            "ovr": 92
+          },
+          {
+            "pos": "LW",
+            "ovr": 90
+          }
+        ],
+        "tags": [
+          "埃及法老"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "EGY_2026_26",
+        "name_cn": "Hamza Abdelkarim",
+        "name_en": "Hamza Abdelkarim",
+        "age": 31,
+        "squad_no": 26,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      }
+    ]
+  }
+}

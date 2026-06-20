@@ -1,0 +1,370 @@
+{
+  "country_code": "UKR",
+  "squads": {
+    "2006": [
+      {
+        "id": "UKR_2006_01",
+        "name_cn": "Oleksandr Shovkovskyi",
+        "name_en": "Oleksandr Shovkovskyi",
+        "age": 24,
+        "squad_no": 1,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "UKR_2006_02",
+        "name_cn": "Andriy Nesmachniy",
+        "name_en": "Andriy Nesmachniy",
+        "age": 30,
+        "squad_no": 2,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          },
+          {
+            "pos": "RB",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "UKR_2006_03",
+        "name_cn": "Oleksandr Yatsenko",
+        "name_en": "Oleksandr Yatsenko",
+        "age": 26,
+        "squad_no": 3,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          },
+          {
+            "pos": "LB",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "UKR_2006_04",
+        "name_cn": "齐金",
+        "name_en": "Anatoliy Tymoshchuk",
+        "age": 25,
+        "squad_no": 4,
+        "positions": [
+          {
+            "pos": "DM",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "UKR_2006_05",
+        "name_cn": "Volodymyr Yezerskiy",
+        "name_en": "Volodymyr Yezerskiy",
+        "age": 26,
+        "squad_no": 5,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "UKR_2006_06",
+        "name_cn": "Andriy Rusol",
+        "name_en": "Andriy Rusol",
+        "age": 29,
+        "squad_no": 6,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "UKR_2006_07",
+        "name_cn": "舍甫琴科",
+        "name_en": "Andriy Shevchenko",
+        "age": 31,
+        "squad_no": 7,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 94
+          }
+        ],
+        "tags": [
+          "金球奖04"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "UKR_2006_08",
+        "name_cn": "Oleh Shelayev",
+        "name_en": "Oleh Shelayev",
+        "age": 27,
+        "squad_no": 8,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          },
+          {
+            "pos": "DM",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "UKR_2006_09",
+        "name_cn": "Oleh Husyev",
+        "name_en": "Oleh Husyev",
+        "age": 27,
+        "squad_no": 9,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "UKR_2006_10",
+        "name_cn": "沃罗宁",
+        "name_en": "Andriy Voronin",
+        "age": 24,
+        "squad_no": 10,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "UKR_2006_11",
+        "name_cn": "Serhii Rebrov",
+        "name_en": "Serhii Rebrov",
+        "age": 29,
+        "squad_no": 11,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 73
+          },
+          {
+            "pos": "LW",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "UKR_2006_12",
+        "name_cn": "Andriy Pyatov",
+        "name_en": "Andriy Pyatov",
+        "age": 28,
+        "squad_no": 12,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 72
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "UKR_2006_13",
+        "name_cn": "Dmytro Chyhrynskyi",
+        "name_en": "Dmytro Chyhrynskyi",
+        "age": 25,
+        "squad_no": 13,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "UKR_2006_14",
+        "name_cn": "Andriy Husin",
+        "name_en": "Andriy Husin",
+        "age": 28,
+        "squad_no": 14,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "UKR_2006_15",
+        "name_cn": "Artem Milevskyi",
+        "name_en": "Artem Milevskyi",
+        "age": 33,
+        "squad_no": 15,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "UKR_2006_16",
+        "name_cn": "Andriy Vorobey",
+        "name_en": "Andriy Vorobey",
+        "age": 27,
+        "squad_no": 16,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "UKR_2006_17",
+        "name_cn": "Vladyslav Vashchuk",
+        "name_en": "Vladyslav Vashchuk",
+        "age": 27,
+        "squad_no": 17,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "UKR_2006_18",
+        "name_cn": "Serhiy Nazarenko",
+        "name_en": "Serhiy Nazarenko",
+        "age": 28,
+        "squad_no": 18,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "UKR_2006_19",
+        "name_cn": "Maksym Kalynychenko",
+        "name_en": "Maksym Kalynychenko",
+        "age": 26,
+        "squad_no": 19,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "UKR_2006_20",
+        "name_cn": "Oleksiy Byelik",
+        "name_en": "Oleksiy Byelik",
+        "age": 29,
+        "squad_no": 20,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "UKR_2006_21",
+        "name_cn": "Ruslan Rotan",
+        "name_en": "Ruslan Rotan",
+        "age": 24,
+        "squad_no": 21,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "UKR_2006_22",
+        "name_cn": "Vyacheslav Sviderskyi",
+        "name_en": "Vyacheslav Sviderskyi",
+        "age": 31,
+        "squad_no": 22,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "UKR_2006_23",
+        "name_cn": "Bohdan Shust",
+        "name_en": "Bohdan Shust",
+        "age": 24,
+        "squad_no": 23,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      }
+    ]
+  }
+}

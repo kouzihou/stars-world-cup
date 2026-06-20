@@ -1,0 +1,2277 @@
+{
+  "country_code": "AUS",
+  "squads": {
+    "2006": [
+      {
+        "id": "AUS_2006_01",
+        "name_cn": "施瓦泽",
+        "name_en": "Mark Schwarzer",
+        "age": 23,
+        "squad_no": 1,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 85
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "AUS_2006_02",
+        "name_cn": "Lucas Neill",
+        "name_en": "Lucas Neill",
+        "age": 27,
+        "squad_no": 2,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          },
+          {
+            "pos": "RB",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "AUS_2006_03",
+        "name_cn": "Craig Moore",
+        "name_en": "Craig Moore",
+        "age": 24,
+        "squad_no": 3,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          },
+          {
+            "pos": "LB",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "AUS_2006_04",
+        "name_cn": "卡希尔",
+        "name_en": "Tim Cahill",
+        "age": 28,
+        "squad_no": 4,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 87
+          },
+          {
+            "pos": "CAM",
+            "ovr": 85
+          }
+        ],
+        "tags": [
+          "袋鼠"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "AUS_2006_05",
+        "name_cn": "Jason Culina",
+        "name_en": "Jason Culina",
+        "age": 24,
+        "squad_no": 5,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "AUS_2006_06",
+        "name_cn": "Tony Popovic",
+        "name_en": "Tony Popovic",
+        "age": 33,
+        "squad_no": 6,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "AUS_2006_07",
+        "name_cn": "Brett Emerton",
+        "name_en": "Brett Emerton",
+        "age": 23,
+        "squad_no": 7,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "AUS_2006_08",
+        "name_cn": "Josip Skoko",
+        "name_en": "Josip Skoko",
+        "age": 30,
+        "squad_no": 8,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          },
+          {
+            "pos": "DM",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "AUS_2006_09",
+        "name_cn": "维杜卡",
+        "name_en": "Mark Viduka",
+        "age": 23,
+        "squad_no": 9,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 87
+          }
+        ],
+        "tags": [
+          "队长"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "AUS_2006_10",
+        "name_cn": "Harry Kewell",
+        "name_en": "Harry Kewell",
+        "age": 27,
+        "squad_no": 10,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "AUS_2006_11",
+        "name_cn": "Stan Lazaridis",
+        "name_en": "Stan Lazaridis",
+        "age": 31,
+        "squad_no": 11,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "AUS_2006_12",
+        "name_cn": "Ante Covic",
+        "name_en": "Ante Covic",
+        "age": 31,
+        "squad_no": 12,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 72
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "AUS_2006_13",
+        "name_cn": "Vince Grella",
+        "name_en": "Vince Grella",
+        "age": 29,
+        "squad_no": 13,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "AUS_2006_14",
+        "name_cn": "Scott Chipperfield",
+        "name_en": "Scott Chipperfield",
+        "age": 33,
+        "squad_no": 14,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "AUS_2006_15",
+        "name_cn": "John Aloisi",
+        "name_en": "John Aloisi",
+        "age": 22,
+        "squad_no": 15,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "AUS_2006_16",
+        "name_cn": "Michael Beauchamp",
+        "name_en": "Michael Beauchamp",
+        "age": 28,
+        "squad_no": 16,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "AUS_2006_17",
+        "name_cn": "Archie Thompson",
+        "name_en": "Archie Thompson",
+        "age": 32,
+        "squad_no": 17,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "AUS_2006_18",
+        "name_cn": "Zeljko Kalac",
+        "name_en": "Zeljko Kalac",
+        "age": 24,
+        "squad_no": 18,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "AUS_2006_19",
+        "name_cn": "Joshua Kennedy",
+        "name_en": "Joshua Kennedy",
+        "age": 31,
+        "squad_no": 19,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "AUS_2006_20",
+        "name_cn": "Luke Wilkshire",
+        "name_en": "Luke Wilkshire",
+        "age": 28,
+        "squad_no": 20,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "AUS_2006_21",
+        "name_cn": "Mile Sterjovski",
+        "name_en": "Mile Sterjovski",
+        "age": 24,
+        "squad_no": 21,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "AUS_2006_22",
+        "name_cn": "Mark Milligan",
+        "name_en": "Mark Milligan",
+        "age": 22,
+        "squad_no": 22,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "AUS_2006_23",
+        "name_cn": "Mark Bresciano",
+        "name_en": "Mark Bresciano",
+        "age": 23,
+        "squad_no": 23,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 68
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      }
+    ],
+    "2010": [
+      {
+        "id": "AUS_2010_01",
+        "name_cn": "施瓦泽",
+        "name_en": "Mark Schwarzer",
+        "age": 27,
+        "squad_no": 1,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 85
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "AUS_2010_02",
+        "name_cn": "Lucas Neill",
+        "name_en": "Lucas Neill",
+        "age": 25,
+        "squad_no": 2,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          },
+          {
+            "pos": "RB",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "AUS_2010_03",
+        "name_cn": "Craig Moore",
+        "name_en": "Craig Moore",
+        "age": 25,
+        "squad_no": 3,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          },
+          {
+            "pos": "LB",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "AUS_2010_04",
+        "name_cn": "卡希尔",
+        "name_en": "Tim Cahill",
+        "age": 28,
+        "squad_no": 4,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 87
+          },
+          {
+            "pos": "CAM",
+            "ovr": 85
+          }
+        ],
+        "tags": [
+          "袋鼠"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "AUS_2010_05",
+        "name_cn": "Jason Culina",
+        "name_en": "Jason Culina",
+        "age": 33,
+        "squad_no": 5,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "AUS_2010_06",
+        "name_cn": "Michael Beauchamp",
+        "name_en": "Michael Beauchamp",
+        "age": 30,
+        "squad_no": 6,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "AUS_2010_07",
+        "name_cn": "Brett Emerton",
+        "name_en": "Brett Emerton",
+        "age": 33,
+        "squad_no": 7,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "AUS_2010_08",
+        "name_cn": "Luke Wilkshire",
+        "name_en": "Luke Wilkshire",
+        "age": 33,
+        "squad_no": 8,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "AUS_2010_09",
+        "name_cn": "Joshua Kennedy",
+        "name_en": "Joshua Kennedy",
+        "age": 30,
+        "squad_no": 9,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 73
+          },
+          {
+            "pos": "CAM",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "AUS_2010_10",
+        "name_cn": "Harry Kewell",
+        "name_en": "Harry Kewell",
+        "age": 26,
+        "squad_no": 10,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "AUS_2010_11",
+        "name_cn": "Scott Chipperfield",
+        "name_en": "Scott Chipperfield",
+        "age": 32,
+        "squad_no": 11,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "AUS_2010_12",
+        "name_cn": "Adam Federici",
+        "name_en": "Adam Federici",
+        "age": 26,
+        "squad_no": 12,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 72
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "AUS_2010_13",
+        "name_cn": "Vince Grella",
+        "name_en": "Vince Grella",
+        "age": 26,
+        "squad_no": 13,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "AUS_2010_14",
+        "name_cn": "Brett Holman",
+        "name_en": "Brett Holman",
+        "age": 25,
+        "squad_no": 14,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "AUS_2010_15",
+        "name_cn": "Mile Jedinak",
+        "name_en": "Mile Jedinak",
+        "age": 23,
+        "squad_no": 15,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "AUS_2010_16",
+        "name_cn": "Carl Valeri",
+        "name_en": "Carl Valeri",
+        "age": 22,
+        "squad_no": 16,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "AUS_2010_17",
+        "name_cn": "Nikita Rukavytsya",
+        "name_en": "Nikita Rukavytsya",
+        "age": 28,
+        "squad_no": 17,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "AUS_2010_18",
+        "name_cn": "Eugene Galekovic",
+        "name_en": "Eugene Galekovic",
+        "age": 31,
+        "squad_no": 18,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "AUS_2010_19",
+        "name_cn": "Richard Garcia",
+        "name_en": "Richard Garcia",
+        "age": 30,
+        "squad_no": 19,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "AUS_2010_20",
+        "name_cn": "Mark Milligan",
+        "name_en": "Mark Milligan",
+        "age": 29,
+        "squad_no": 20,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "AUS_2010_21",
+        "name_cn": "David Carney",
+        "name_en": "David Carney",
+        "age": 24,
+        "squad_no": 21,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "AUS_2010_22",
+        "name_cn": "Dario Vidošić",
+        "name_en": "Dario Vidošić",
+        "age": 22,
+        "squad_no": 22,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "AUS_2010_23",
+        "name_cn": "Mark Bresciano",
+        "name_en": "Mark Bresciano",
+        "age": 27,
+        "squad_no": 23,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 68
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      }
+    ],
+    "2014": [
+      {
+        "id": "AUS_2014_01",
+        "name_cn": "Mathew Ryan",
+        "name_en": "Mathew Ryan",
+        "age": 22,
+        "squad_no": 1,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "AUS_2014_02",
+        "name_cn": "Ivan Franjic",
+        "name_en": "Ivan Franjic",
+        "age": 28,
+        "squad_no": 2,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          },
+          {
+            "pos": "RB",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "AUS_2014_03",
+        "name_cn": "Jason Davidson",
+        "name_en": "Jason Davidson",
+        "age": 23,
+        "squad_no": 3,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          },
+          {
+            "pos": "LB",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "AUS_2014_04",
+        "name_cn": "卡希尔",
+        "name_en": "Tim Cahill",
+        "age": 26,
+        "squad_no": 4,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 87
+          },
+          {
+            "pos": "CAM",
+            "ovr": 85
+          }
+        ],
+        "tags": [
+          "袋鼠"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "AUS_2014_05",
+        "name_cn": "Mark Milligan",
+        "name_en": "Mark Milligan",
+        "age": 32,
+        "squad_no": 5,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "AUS_2014_06",
+        "name_cn": "Matthew Spiranovic",
+        "name_en": "Matthew Spiranovic",
+        "age": 32,
+        "squad_no": 6,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "AUS_2014_07",
+        "name_cn": "莱基",
+        "name_en": "Mathew Leckie",
+        "age": 31,
+        "squad_no": 7,
+        "positions": [
+          {
+            "pos": "RW",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "AUS_2014_08",
+        "name_cn": "Bailey Wright",
+        "name_en": "Bailey Wright",
+        "age": 29,
+        "squad_no": 8,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "AUS_2014_09",
+        "name_cn": "Adam Taggart",
+        "name_en": "Adam Taggart",
+        "age": 25,
+        "squad_no": 9,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 73
+          },
+          {
+            "pos": "CAM",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "AUS_2014_10",
+        "name_cn": "Ben Halloran",
+        "name_en": "Ben Halloran",
+        "age": 23,
+        "squad_no": 10,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          },
+          {
+            "pos": "CAM",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "AUS_2014_11",
+        "name_cn": "Tommy Oar",
+        "name_en": "Tommy Oar",
+        "age": 22,
+        "squad_no": 11,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "AUS_2014_12",
+        "name_cn": "Mitchell Langerak",
+        "name_en": "Mitchell Langerak",
+        "age": 25,
+        "squad_no": 12,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 72
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "AUS_2014_13",
+        "name_cn": "Oliver Bozanic",
+        "name_en": "Oliver Bozanic",
+        "age": 24,
+        "squad_no": 13,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "AUS_2014_14",
+        "name_cn": "James Troisi",
+        "name_en": "James Troisi",
+        "age": 32,
+        "squad_no": 14,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "AUS_2014_15",
+        "name_cn": "Mile Jedinak",
+        "name_en": "Mile Jedinak",
+        "age": 26,
+        "squad_no": 15,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "AUS_2014_16",
+        "name_cn": "James Holland",
+        "name_en": "James Holland",
+        "age": 23,
+        "squad_no": 16,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "AUS_2014_17",
+        "name_cn": "Matt McKay",
+        "name_en": "Matt McKay",
+        "age": 29,
+        "squad_no": 17,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "AUS_2014_18",
+        "name_cn": "Eugene Galekovic",
+        "name_en": "Eugene Galekovic",
+        "age": 23,
+        "squad_no": 18,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "AUS_2014_19",
+        "name_cn": "Ryan McGowan",
+        "name_en": "Ryan McGowan",
+        "age": 26,
+        "squad_no": 19,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "AUS_2014_20",
+        "name_cn": "Dario Vidošić",
+        "name_en": "Dario Vidošić",
+        "age": 28,
+        "squad_no": 20,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "AUS_2014_21",
+        "name_cn": "Massimo Luongo",
+        "name_en": "Massimo Luongo",
+        "age": 29,
+        "squad_no": 21,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "AUS_2014_22",
+        "name_cn": "Alex Wilkinson",
+        "name_en": "Alex Wilkinson",
+        "age": 29,
+        "squad_no": 22,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "AUS_2014_23",
+        "name_cn": "Mark Bresciano",
+        "name_en": "Mark Bresciano",
+        "age": 32,
+        "squad_no": 23,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 68
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      }
+    ],
+    "2018": [
+      {
+        "id": "AUS_2018_01",
+        "name_cn": "Mathew Ryan",
+        "name_en": "Mathew Ryan",
+        "age": 26,
+        "squad_no": 1,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "AUS_2018_02",
+        "name_cn": "Miloš Degenek",
+        "name_en": "Miloš Degenek",
+        "age": 23,
+        "squad_no": 2,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          },
+          {
+            "pos": "RB",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "AUS_2018_03",
+        "name_cn": "James Meredith",
+        "name_en": "James Meredith",
+        "age": 32,
+        "squad_no": 3,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          },
+          {
+            "pos": "LB",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "AUS_2018_04",
+        "name_cn": "Tim Cahill",
+        "name_en": "Tim Cahill",
+        "age": 30,
+        "squad_no": 4,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "AUS_2018_05",
+        "name_cn": "Mark Milligan",
+        "name_en": "Mark Milligan",
+        "age": 28,
+        "squad_no": 5,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "AUS_2018_06",
+        "name_cn": "Matthew Jurman",
+        "name_en": "Matthew Jurman",
+        "age": 24,
+        "squad_no": 6,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "AUS_2018_07",
+        "name_cn": "莱基",
+        "name_en": "Mathew Leckie",
+        "age": 27,
+        "squad_no": 7,
+        "positions": [
+          {
+            "pos": "RW",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "AUS_2018_08",
+        "name_cn": "Massimo Luongo",
+        "name_en": "Massimo Luongo",
+        "age": 28,
+        "squad_no": 8,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          },
+          {
+            "pos": "DM",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "AUS_2018_09",
+        "name_cn": "Tomi Juric",
+        "name_en": "Tomi Juric",
+        "age": 27,
+        "squad_no": 9,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 73
+          },
+          {
+            "pos": "CAM",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "AUS_2018_10",
+        "name_cn": "Robbie Kruse",
+        "name_en": "Robbie Kruse",
+        "age": 24,
+        "squad_no": 10,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "AUS_2018_11",
+        "name_cn": "Andrew Nabbout",
+        "name_en": "Andrew Nabbout",
+        "age": 29,
+        "squad_no": 11,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 73
+          },
+          {
+            "pos": "LW",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "AUS_2018_12",
+        "name_cn": "Brad Jones",
+        "name_en": "Brad Jones",
+        "age": 22,
+        "squad_no": 12,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 72
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "AUS_2018_13",
+        "name_cn": "默塞德斯",
+        "name_en": "Aaron Mooy",
+        "age": 26,
+        "squad_no": 13,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "AUS_2018_14",
+        "name_cn": "Jamie Maclaren",
+        "name_en": "Jamie Maclaren",
+        "age": 29,
+        "squad_no": 14,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "AUS_2018_15",
+        "name_cn": "Mile Jedinak",
+        "name_en": "Mile Jedinak",
+        "age": 29,
+        "squad_no": 15,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "AUS_2018_16",
+        "name_cn": "Aziz Behich",
+        "name_en": "Aziz Behich",
+        "age": 26,
+        "squad_no": 16,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "AUS_2018_17",
+        "name_cn": "Daniel Arzani",
+        "name_en": "Daniel Arzani",
+        "age": 25,
+        "squad_no": 17,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "AUS_2018_18",
+        "name_cn": "Danny Vukovic",
+        "name_en": "Danny Vukovic",
+        "age": 26,
+        "squad_no": 18,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "AUS_2018_19",
+        "name_cn": "Josh Risdon",
+        "name_en": "Josh Risdon",
+        "age": 31,
+        "squad_no": 19,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "AUS_2018_20",
+        "name_cn": "Trent Sainsbury",
+        "name_en": "Trent Sainsbury",
+        "age": 22,
+        "squad_no": 20,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "AUS_2018_21",
+        "name_cn": "Dimitri Petratos",
+        "name_en": "Dimitri Petratos",
+        "age": 24,
+        "squad_no": 21,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "AUS_2018_22",
+        "name_cn": "Jackson Irvine",
+        "name_en": "Jackson Irvine",
+        "age": 33,
+        "squad_no": 22,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "AUS_2018_23",
+        "name_cn": "Tom Rogic",
+        "name_en": "Tom Rogic",
+        "age": 32,
+        "squad_no": 23,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 68
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      }
+    ],
+    "2022": [
+      {
+        "id": "AUS_2022_01",
+        "name_cn": "瑞安",
+        "name_en": "Mathew Ryan",
+        "age": 23,
+        "squad_no": 1,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "AUS_2022_02",
+        "name_cn": "Miloš Degenek",
+        "name_en": "Miloš Degenek",
+        "age": 23,
+        "squad_no": 2,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          },
+          {
+            "pos": "RB",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "AUS_2022_03",
+        "name_cn": "Nathaniel Atkinson",
+        "name_en": "Nathaniel Atkinson",
+        "age": 32,
+        "squad_no": 3,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          },
+          {
+            "pos": "LB",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "AUS_2022_04",
+        "name_cn": "Kye Rowles",
+        "name_en": "Kye Rowles",
+        "age": 27,
+        "squad_no": 4,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "AUS_2022_05",
+        "name_cn": "Fran Karačić",
+        "name_en": "Fran Karačić",
+        "age": 30,
+        "squad_no": 5,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "AUS_2022_06",
+        "name_cn": "Marco Tilio",
+        "name_en": "Marco Tilio",
+        "age": 28,
+        "squad_no": 6,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "AUS_2022_07",
+        "name_cn": "莱基",
+        "name_en": "Mathew Leckie",
+        "age": 31,
+        "squad_no": 7,
+        "positions": [
+          {
+            "pos": "RW",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "AUS_2022_08",
+        "name_cn": "Bailey Wright",
+        "name_en": "Bailey Wright",
+        "age": 25,
+        "squad_no": 8,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "AUS_2022_09",
+        "name_cn": "Jamie Maclaren",
+        "name_en": "Jamie Maclaren",
+        "age": 30,
+        "squad_no": 9,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 73
+          },
+          {
+            "pos": "CAM",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "AUS_2022_10",
+        "name_cn": "Ajdin Hrustic",
+        "name_en": "Ajdin Hrustic",
+        "age": 22,
+        "squad_no": 10,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          },
+          {
+            "pos": "CAM",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "AUS_2022_11",
+        "name_cn": "Awer Mabil",
+        "name_en": "Awer Mabil",
+        "age": 28,
+        "squad_no": 11,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 73
+          },
+          {
+            "pos": "LW",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "AUS_2022_12",
+        "name_cn": "Andrew Redmayne",
+        "name_en": "Andrew Redmayne",
+        "age": 30,
+        "squad_no": 12,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 72
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "AUS_2022_13",
+        "name_cn": "Aaron Mooy",
+        "name_en": "Aaron Mooy",
+        "age": 28,
+        "squad_no": 13,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "AUS_2022_14",
+        "name_cn": "Riley McGree",
+        "name_en": "Riley McGree",
+        "age": 30,
+        "squad_no": 14,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "AUS_2022_15",
+        "name_cn": "Mitchell Duke",
+        "name_en": "Mitchell Duke",
+        "age": 32,
+        "squad_no": 15,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "AUS_2022_16",
+        "name_cn": "Aziz Behich",
+        "name_en": "Aziz Behich",
+        "age": 29,
+        "squad_no": 16,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "AUS_2022_17",
+        "name_cn": "Cameron Devlin",
+        "name_en": "Cameron Devlin",
+        "age": 31,
+        "squad_no": 17,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "AUS_2022_18",
+        "name_cn": "Danny Vukovic",
+        "name_en": "Danny Vukovic",
+        "age": 25,
+        "squad_no": 18,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "AUS_2022_19",
+        "name_cn": "Harry Souttar",
+        "name_en": "Harry Souttar",
+        "age": 29,
+        "squad_no": 19,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "AUS_2022_20",
+        "name_cn": "Thomas Deng",
+        "name_en": "Thomas Deng",
+        "age": 26,
+        "squad_no": 20,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "AUS_2022_21",
+        "name_cn": "Garang Kuol",
+        "name_en": "Garang Kuol",
+        "age": 23,
+        "squad_no": 21,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "AUS_2022_22",
+        "name_cn": "Jackson Irvine",
+        "name_en": "Jackson Irvine",
+        "age": 28,
+        "squad_no": 22,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "AUS_2022_23",
+        "name_cn": "古德温",
+        "name_en": "Craig Goodwin",
+        "age": 33,
+        "squad_no": 23,
+        "positions": [
+          {
+            "pos": "LW",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "AUS_2022_24",
+        "name_cn": "Joel King",
+        "name_en": "Joel King",
+        "age": 22,
+        "squad_no": 24,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 68
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "AUS_2022_25",
+        "name_cn": "Jason Cummings",
+        "name_en": "Jason Cummings",
+        "age": 30,
+        "squad_no": 25,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 68
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "AUS_2022_26",
+        "name_cn": "Keanu Baccus",
+        "name_en": "Keanu Baccus",
+        "age": 31,
+        "squad_no": 26,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 68
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      }
+    ],
+    "2026": [
+      {
+        "id": "AUS_2026_01",
+        "name_cn": "Mathew Ryan",
+        "name_en": "Mathew Ryan",
+        "age": 30,
+        "squad_no": 1,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "AUS_2026_02",
+        "name_cn": "Paul Izzo",
+        "name_en": "Paul Izzo",
+        "age": 31,
+        "squad_no": 2,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "AUS_2026_03",
+        "name_cn": "Patrick Beach",
+        "name_en": "Patrick Beach",
+        "age": 32,
+        "squad_no": 3,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "AUS_2026_04",
+        "name_cn": "Jordan Bos",
+        "name_en": "Jordan Bos",
+        "age": 31,
+        "squad_no": 4,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "AUS_2026_05",
+        "name_cn": "Aziz Behich",
+        "name_en": "Aziz Behich",
+        "age": 24,
+        "squad_no": 5,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "AUS_2026_06",
+        "name_cn": "Harry Souttar",
+        "name_en": "Harry Souttar",
+        "age": 23,
+        "squad_no": 6,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "AUS_2026_07",
+        "name_cn": "Alessandro Circati",
+        "name_en": "Alessandro Circati",
+        "age": 29,
+        "squad_no": 7,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "AUS_2026_08",
+        "name_cn": "Lucas Herrington",
+        "name_en": "Lucas Herrington",
+        "age": 24,
+        "squad_no": 8,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "AUS_2026_09",
+        "name_cn": "Cameron Burgess",
+        "name_en": "Cameron Burgess",
+        "age": 24,
+        "squad_no": 9,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "AUS_2026_10",
+        "name_cn": "Kai Trewin",
+        "name_en": "Kai Trewin",
+        "age": 25,
+        "squad_no": 10,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "AUS_2026_11",
+        "name_cn": "Milos Degenek",
+        "name_en": "Milos Degenek",
+        "age": 25,
+        "squad_no": 11,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "AUS_2026_12",
+        "name_cn": "Jason Geria",
+        "name_en": "Jason Geria",
+        "age": 24,
+        "squad_no": 12,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "AUS_2026_13",
+        "name_cn": "Jacob Italiano",
+        "name_en": "Jacob Italiano",
+        "age": 22,
+        "squad_no": 13,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "AUS_2026_14",
+        "name_cn": "Jackson Irvine",
+        "name_en": "Jackson Irvine",
+        "age": 28,
+        "squad_no": 14,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "AUS_2026_15",
+        "name_cn": "Aiden O'Neill",
+        "name_en": "Aiden O'Neill",
+        "age": 23,
+        "squad_no": 15,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "AUS_2026_16",
+        "name_cn": "Paul Okon Jr",
+        "name_en": "Paul Okon Jr",
+        "age": 32,
+        "squad_no": 16,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "AUS_2026_17",
+        "name_cn": "Cameron Devlin",
+        "name_en": "Cameron Devlin",
+        "age": 28,
+        "squad_no": 17,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "AUS_2026_18",
+        "name_cn": "Connor Metcalfe",
+        "name_en": "Connor Metcalfe",
+        "age": 25,
+        "squad_no": 18,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "AUS_2026_19",
+        "name_cn": "Mathew Leckie",
+        "name_en": "Mathew Leckie",
+        "age": 32,
+        "squad_no": 19,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "AUS_2026_20",
+        "name_cn": "Nishan Velupillay",
+        "name_en": "Nishan Velupillay",
+        "age": 24,
+        "squad_no": 20,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "AUS_2026_21",
+        "name_cn": "Cristian Volpato",
+        "name_en": "Cristian Volpato",
+        "age": 31,
+        "squad_no": 21,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "AUS_2026_22",
+        "name_cn": "Nestory Irankunda",
+        "name_en": "Nestory Irankunda",
+        "age": 26,
+        "squad_no": 22,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "AUS_2026_23",
+        "name_cn": "Awer Mabil",
+        "name_en": "Awer Mabil",
+        "age": 27,
+        "squad_no": 23,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "AUS_2026_24",
+        "name_cn": "Ajdin Hrustic",
+        "name_en": "Ajdin Hrustic",
+        "age": 33,
+        "squad_no": 24,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "AUS_2026_25",
+        "name_cn": "Mohamed Toure",
+        "name_en": "Mohamed Toure",
+        "age": 23,
+        "squad_no": 25,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "AUS_2026_26",
+        "name_cn": "Tete Yengi",
+        "name_en": "Tete Yengi",
+        "age": 23,
+        "squad_no": 26,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      }
+    ]
+  }
+}

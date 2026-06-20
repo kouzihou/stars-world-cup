@@ -1,0 +1,764 @@
+{
+  "country_code": "TUR",
+  "squads": {
+    "2002": [
+      {
+        "id": "TUR_2002_01",
+        "name_cn": "Rüştü Reçber",
+        "name_en": "Rüştü Reçber",
+        "age": 29,
+        "squad_no": 1,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "TUR_2002_02",
+        "name_cn": "Emre Aşık",
+        "name_en": "Emre Aşık",
+        "age": 27,
+        "squad_no": 2,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 69
+          },
+          {
+            "pos": "RB",
+            "ovr": 66
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "TUR_2002_03",
+        "name_cn": "Bülent Korkmaz",
+        "name_en": "Bülent Korkmaz",
+        "age": 23,
+        "squad_no": 3,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 69
+          },
+          {
+            "pos": "LB",
+            "ovr": 66
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "TUR_2002_04",
+        "name_cn": "Fatih Akyel",
+        "name_en": "Fatih Akyel",
+        "age": 30,
+        "squad_no": 4,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "TUR_2002_05",
+        "name_cn": "Alpay Özalan",
+        "name_en": "Alpay Özalan",
+        "age": 33,
+        "squad_no": 5,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "TUR_2002_06",
+        "name_cn": "Arif Erdem",
+        "name_en": "Arif Erdem",
+        "age": 25,
+        "squad_no": 6,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "TUR_2002_07",
+        "name_cn": "Okan Buruk",
+        "name_en": "Okan Buruk",
+        "age": 22,
+        "squad_no": 7,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "TUR_2002_08",
+        "name_cn": "Tugay Kerimoğlu",
+        "name_en": "Tugay Kerimoğlu",
+        "age": 26,
+        "squad_no": 8,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 69
+          },
+          {
+            "pos": "DM",
+            "ovr": 67
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "TUR_2002_09",
+        "name_cn": "哈坎·苏库尔",
+        "name_en": "Hakan Şükür",
+        "age": 28,
+        "squad_no": 9,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 90
+          }
+        ],
+        "tags": [
+          "季军前锋"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "TUR_2002_10",
+        "name_cn": "Yıldıray Baştürk",
+        "name_en": "Yıldıray Baştürk",
+        "age": 32,
+        "squad_no": 10,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 69
+          },
+          {
+            "pos": "CAM",
+            "ovr": 67
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "TUR_2002_11",
+        "name_cn": "哈桑·萨什",
+        "name_en": "Hasan Şaş",
+        "age": 31,
+        "squad_no": 11,
+        "positions": [
+          {
+            "pos": "CAM",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "TUR_2002_12",
+        "name_cn": "Ömer Çatkıç",
+        "name_en": "Ömer Çatkıç",
+        "age": 31,
+        "squad_no": 12,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 68
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "TUR_2002_13",
+        "name_cn": "Muzzy Izzet",
+        "name_en": "Muzzy Izzet",
+        "age": 22,
+        "squad_no": 13,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 67
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "TUR_2002_14",
+        "name_cn": "Tayfur Havutçu",
+        "name_en": "Tayfur Havutçu",
+        "age": 23,
+        "squad_no": 14,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 67
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "TUR_2002_15",
+        "name_cn": "Nihat Kahveci",
+        "name_en": "Nihat Kahveci",
+        "age": 25,
+        "squad_no": 15,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 67
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "TUR_2002_16",
+        "name_cn": "Ümit Özat",
+        "name_en": "Ümit Özat",
+        "age": 31,
+        "squad_no": 16,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 67
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "TUR_2002_17",
+        "name_cn": "İlhan Mansız",
+        "name_en": "İlhan Mansız",
+        "age": 33,
+        "squad_no": 17,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 65
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "TUR_2002_18",
+        "name_cn": "Ergün Penbe",
+        "name_en": "Ergün Penbe",
+        "age": 32,
+        "squad_no": 18,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 65
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "TUR_2002_19",
+        "name_cn": "Abdullah Ercan",
+        "name_en": "Abdullah Ercan",
+        "age": 30,
+        "squad_no": 19,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 65
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "TUR_2002_20",
+        "name_cn": "Hakan Ünsal",
+        "name_en": "Hakan Ünsal",
+        "age": 25,
+        "squad_no": 20,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 65
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "TUR_2002_21",
+        "name_cn": "Emre Belözoğlu",
+        "name_en": "Emre Belözoğlu",
+        "age": 29,
+        "squad_no": 21,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 65
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "TUR_2002_22",
+        "name_cn": "Ümit Davala",
+        "name_en": "Ümit Davala",
+        "age": 25,
+        "squad_no": 22,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 65
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "TUR_2002_23",
+        "name_cn": "Zafer Özgültekin",
+        "name_en": "Zafer Özgültekin",
+        "age": 27,
+        "squad_no": 23,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 65
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      }
+    ],
+    "2026": [
+      {
+        "id": "TUR_2026_01",
+        "name_cn": "Ugurcan Cakir",
+        "name_en": "Ugurcan Cakir",
+        "age": 26,
+        "squad_no": 1,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "TUR_2026_02",
+        "name_cn": "Mert Gunok",
+        "name_en": "Mert Gunok",
+        "age": 22,
+        "squad_no": 2,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "TUR_2026_03",
+        "name_cn": "Altay Bayindir",
+        "name_en": "Altay Bayindir",
+        "age": 25,
+        "squad_no": 3,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "TUR_2026_04",
+        "name_cn": "德米拉尔",
+        "name_en": "Merih Demiral",
+        "age": 25,
+        "squad_no": 4,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "TUR_2026_05",
+        "name_cn": "Zeki Celik",
+        "name_en": "Zeki Celik",
+        "age": 33,
+        "squad_no": 5,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "TUR_2026_06",
+        "name_cn": "Caglar Soyuncu",
+        "name_en": "Caglar Soyuncu",
+        "age": 23,
+        "squad_no": 6,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "TUR_2026_07",
+        "name_cn": "Mert Muldur",
+        "name_en": "Mert Muldur",
+        "age": 33,
+        "squad_no": 7,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "TUR_2026_08",
+        "name_cn": "Ferdi Kadioglu",
+        "name_en": "Ferdi Kadioglu",
+        "age": 29,
+        "squad_no": 8,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "TUR_2026_09",
+        "name_cn": "Ozan Kabak",
+        "name_en": "Ozan Kabak",
+        "age": 25,
+        "squad_no": 9,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "TUR_2026_10",
+        "name_cn": "Abdulkerim Bardakci",
+        "name_en": "Abdulkerim Bardakci",
+        "age": 33,
+        "squad_no": 10,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "TUR_2026_11",
+        "name_cn": "Eren Elmali",
+        "name_en": "Eren Elmali",
+        "age": 31,
+        "squad_no": 11,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "TUR_2026_12",
+        "name_cn": "Samet Akaydin",
+        "name_en": "Samet Akaydin",
+        "age": 33,
+        "squad_no": 12,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 68
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "TUR_2026_13",
+        "name_cn": "Hakan Calhanoglou",
+        "name_en": "Hakan Calhanoglou",
+        "age": 25,
+        "squad_no": 13,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 68
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "TUR_2026_14",
+        "name_cn": "Orkun Kokcu",
+        "name_en": "Orkun Kokcu",
+        "age": 28,
+        "squad_no": 14,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 68
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "TUR_2026_15",
+        "name_cn": "Ismail Yuksek",
+        "name_en": "Ismail Yuksek",
+        "age": 25,
+        "squad_no": 15,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 68
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "TUR_2026_16",
+        "name_cn": "Salih Ozcan",
+        "name_en": "Salih Ozcan",
+        "age": 30,
+        "squad_no": 16,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 68
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "TUR_2026_17",
+        "name_cn": "Kerem Akturkoglu",
+        "name_en": "Kerem Akturkoglu",
+        "age": 27,
+        "squad_no": 17,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 68
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "TUR_2026_18",
+        "name_cn": "Irfan Can Kahveci",
+        "name_en": "Irfan Can Kahveci",
+        "age": 26,
+        "squad_no": 18,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 68
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "TUR_2026_19",
+        "name_cn": "Baris Apler Yilmaz",
+        "name_en": "Baris Apler Yilmaz",
+        "age": 28,
+        "squad_no": 19,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 66
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "TUR_2026_20",
+        "name_cn": "居勒尔",
+        "name_en": "Arda Guler",
+        "age": 29,
+        "squad_no": 20,
+        "positions": [
+          {
+            "pos": "CAM",
+            "ovr": 84
+          }
+        ],
+        "tags": [
+          "新星"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "TUR_2026_21",
+        "name_cn": "Kenan Yildiz",
+        "name_en": "Kenan Yildiz",
+        "age": 30,
+        "squad_no": 21,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 66
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "TUR_2026_22",
+        "name_cn": "Yunus Akgun",
+        "name_en": "Yunus Akgun",
+        "age": 32,
+        "squad_no": 22,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 66
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "TUR_2026_23",
+        "name_cn": "Oguz Aydin",
+        "name_en": "Oguz Aydin",
+        "age": 27,
+        "squad_no": 23,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 66
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "TUR_2026_24",
+        "name_cn": "Deniz Gul",
+        "name_en": "Deniz Gul",
+        "age": 26,
+        "squad_no": 24,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 66
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "TUR_2026_25",
+        "name_cn": "Can Uzun",
+        "name_en": "Can Uzun",
+        "age": 26,
+        "squad_no": 25,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 66
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "TUR_2026_26",
+        "name_cn": "Kaan Ayhan",
+        "name_en": "Kaan Ayhan",
+        "age": 27,
+        "squad_no": 26,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 66
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      }
+    ]
+  }
+}

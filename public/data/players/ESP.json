@@ -1,0 +1,3872 @@
+{
+  "country_code": "ESP",
+  "squads": {
+    "1990": [
+      {
+        "id": "ESP_1990_01",
+        "name_cn": "苏比萨雷塔",
+        "name_en": "Zubizarreta",
+        "age": 31,
+        "squad_no": 1,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 87
+          }
+        ],
+        "tags": [
+          "传奇门将"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ESP_1990_02",
+        "name_cn": "Chendo",
+        "name_en": "Chendo",
+        "age": 22,
+        "squad_no": 2,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 82
+          },
+          {
+            "pos": "RB",
+            "ovr": 79
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ESP_1990_03",
+        "name_cn": "Manuel Jiménez",
+        "name_en": "Manuel Jiménez",
+        "age": 32,
+        "squad_no": 3,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 82
+          },
+          {
+            "pos": "LB",
+            "ovr": 79
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ESP_1990_04",
+        "name_cn": "Genar Andrinúa",
+        "name_en": "Genar Andrinúa",
+        "age": 26,
+        "squad_no": 4,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 82
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ESP_1990_05",
+        "name_cn": "Manuel Sanchís",
+        "name_en": "Manuel Sanchís",
+        "age": 31,
+        "squad_no": 5,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 82
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ESP_1990_06",
+        "name_cn": "Rafael Martín Vázquez",
+        "name_en": "Rafael Martín Vázquez",
+        "age": 22,
+        "squad_no": 6,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 82
+          },
+          {
+            "pos": "DM",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ESP_1990_07",
+        "name_cn": "布特拉格诺",
+        "name_en": "Butragueño",
+        "age": 24,
+        "squad_no": 7,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 87
+          }
+        ],
+        "tags": [
+          "秃鹰"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ESP_1990_08",
+        "name_cn": "Miguel Pardeza",
+        "name_en": "Miguel Pardeza",
+        "age": 29,
+        "squad_no": 8,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 82
+          },
+          {
+            "pos": "LW",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ESP_1990_09",
+        "name_cn": "米歇尔",
+        "name_en": "Michel",
+        "age": 30,
+        "squad_no": 9,
+        "positions": [
+          {
+            "pos": "RW",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ESP_1990_10",
+        "name_cn": "Quique Sánchez Flores",
+        "name_en": "Quique Sánchez Flores",
+        "age": 32,
+        "squad_no": 10,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 82
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ESP_1990_11",
+        "name_cn": "马蒂内斯",
+        "name_en": "Martín Vázquez",
+        "age": 29,
+        "squad_no": 11,
+        "positions": [
+          {
+            "pos": "CAM",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ESP_1990_12",
+        "name_cn": "Fernando",
+        "name_en": "Fernando",
+        "age": 26,
+        "squad_no": 12,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 82
+          },
+          {
+            "pos": "CAM",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ESP_1990_13",
+        "name_cn": "Francisco Villarroya",
+        "name_en": "Francisco Villarroya",
+        "age": 24,
+        "squad_no": 13,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 82
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ESP_1990_14",
+        "name_cn": "Rafael Alkorta",
+        "name_en": "Rafael Alkorta",
+        "age": 31,
+        "squad_no": 14,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ESP_1990_15",
+        "name_cn": "Juan Carlos Ablanedo",
+        "name_en": "Juan Carlos Ablanedo",
+        "age": 28,
+        "squad_no": 15,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 81
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ESP_1990_16",
+        "name_cn": "Alberto Górriz",
+        "name_en": "Alberto Górriz",
+        "age": 32,
+        "squad_no": 16,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ESP_1990_17",
+        "name_cn": "Roberto",
+        "name_en": "Roberto",
+        "age": 29,
+        "squad_no": 17,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ESP_1990_18",
+        "name_cn": "José María Bakero",
+        "name_en": "José María Bakero",
+        "age": 23,
+        "squad_no": 18,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ESP_1990_19",
+        "name_cn": "Fernando Hierro",
+        "name_en": "Fernando Hierro",
+        "age": 29,
+        "squad_no": 19,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 78
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ESP_1990_20",
+        "name_cn": "Rafael Paz",
+        "name_en": "Rafael Paz",
+        "age": 27,
+        "squad_no": 20,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 78
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ESP_1990_21",
+        "name_cn": "Julio Salinas",
+        "name_en": "Julio Salinas",
+        "age": 28,
+        "squad_no": 21,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 78
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ESP_1990_22",
+        "name_cn": "Manolo",
+        "name_en": "Manolo",
+        "age": 27,
+        "squad_no": 22,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 78
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      }
+    ],
+    "1994": [
+      {
+        "id": "ESP_1994_01",
+        "name_cn": "苏比萨雷塔",
+        "name_en": "Zubizarreta",
+        "age": 27,
+        "squad_no": 1,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 87
+          }
+        ],
+        "tags": [
+          "队长"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ESP_1994_02",
+        "name_cn": "Albert Ferrer",
+        "name_en": "Albert Ferrer",
+        "age": 32,
+        "squad_no": 2,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 83
+          },
+          {
+            "pos": "RB",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ESP_1994_03",
+        "name_cn": "塞尔吉",
+        "name_en": "Sergi",
+        "age": 23,
+        "squad_no": 3,
+        "positions": [
+          {
+            "pos": "LB",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ESP_1994_04",
+        "name_cn": "Jorge Otero",
+        "name_en": "Jorge Otero",
+        "age": 24,
+        "squad_no": 4,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 83
+          },
+          {
+            "pos": "LB",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ESP_1994_05",
+        "name_cn": "Paco Camarasa",
+        "name_en": "Paco Camarasa",
+        "age": 27,
+        "squad_no": 5,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ESP_1994_06",
+        "name_cn": "Abelardo",
+        "name_en": "Abelardo",
+        "age": 28,
+        "squad_no": 6,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ESP_1994_07",
+        "name_cn": "Fernando Hierro",
+        "name_en": "Fernando Hierro",
+        "age": 33,
+        "squad_no": 7,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 83
+          },
+          {
+            "pos": "DM",
+            "ovr": 81
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ESP_1994_08",
+        "name_cn": "Andoni Goikoetxea",
+        "name_en": "Andoni Goikoetxea",
+        "age": 29,
+        "squad_no": 8,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 83
+          },
+          {
+            "pos": "LW",
+            "ovr": 81
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ESP_1994_09",
+        "name_cn": "Julen Guerrero",
+        "name_en": "Julen Guerrero",
+        "age": 26,
+        "squad_no": 9,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 83
+          },
+          {
+            "pos": "DM",
+            "ovr": 81
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ESP_1994_10",
+        "name_cn": "巴克罗",
+        "name_en": "Bakero",
+        "age": 32,
+        "squad_no": 10,
+        "positions": [
+          {
+            "pos": "CAM",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ESP_1994_11",
+        "name_cn": "萨利纳斯",
+        "name_en": "Salinas",
+        "age": 28,
+        "squad_no": 11,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ESP_1994_12",
+        "name_cn": "Txiki Begiristain",
+        "name_en": "Txiki Begiristain",
+        "age": 30,
+        "squad_no": 12,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 83
+          },
+          {
+            "pos": "LW",
+            "ovr": 81
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ESP_1994_13",
+        "name_cn": "Santiago Cañizares",
+        "name_en": "Santiago Cañizares",
+        "age": 22,
+        "squad_no": 13,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 82
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ESP_1994_14",
+        "name_cn": "Juanele",
+        "name_en": "Juanele",
+        "age": 29,
+        "squad_no": 14,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 81
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ESP_1994_15",
+        "name_cn": "瓜尔迪奥拉",
+        "name_en": "Guardiola",
+        "age": 23,
+        "squad_no": 15,
+        "positions": [
+          {
+            "pos": "DM",
+            "ovr": 85
+          },
+          {
+            "pos": "CM",
+            "ovr": 83
+          }
+        ],
+        "tags": [
+          "未来名教"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ESP_1994_16",
+        "name_cn": "José Luis Caminero",
+        "name_en": "José Luis Caminero",
+        "age": 27,
+        "squad_no": 16,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 81
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ESP_1994_17",
+        "name_cn": "Felipe Miñambres",
+        "name_en": "Felipe Miñambres",
+        "age": 26,
+        "squad_no": 17,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 81
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ESP_1994_18",
+        "name_cn": "Voro",
+        "name_en": "Voro",
+        "age": 27,
+        "squad_no": 18,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 79
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ESP_1994_19",
+        "name_cn": "Rafael Alkorta",
+        "name_en": "Rafael Alkorta",
+        "age": 23,
+        "squad_no": 19,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 79
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ESP_1994_20",
+        "name_cn": "Miguel Ángel Nadal",
+        "name_en": "Miguel Ángel Nadal",
+        "age": 28,
+        "squad_no": 20,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 79
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ESP_1994_21",
+        "name_cn": "Luis Enrique",
+        "name_en": "Luis Enrique",
+        "age": 30,
+        "squad_no": 21,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 79
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ESP_1994_22",
+        "name_cn": "Julen Lopetegui",
+        "name_en": "Julen Lopetegui",
+        "age": 22,
+        "squad_no": 22,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      }
+    ],
+    "1998": [
+      {
+        "id": "ESP_1998_01",
+        "name_cn": "苏比萨雷塔",
+        "name_en": "Zubizarreta",
+        "age": 32,
+        "squad_no": 1,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 84
+          }
+        ],
+        "tags": [
+          "队长"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ESP_1998_02",
+        "name_cn": "Albert Ferrer",
+        "name_en": "Albert Ferrer",
+        "age": 30,
+        "squad_no": 2,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 83
+          },
+          {
+            "pos": "RB",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ESP_1998_03",
+        "name_cn": "Agustín Aranzábal",
+        "name_en": "Agustín Aranzábal",
+        "age": 29,
+        "squad_no": 3,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 83
+          },
+          {
+            "pos": "LB",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ESP_1998_04",
+        "name_cn": "Rafael Alkorta",
+        "name_en": "Rafael Alkorta",
+        "age": 28,
+        "squad_no": 4,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ESP_1998_05",
+        "name_cn": "Abelardo",
+        "name_en": "Abelardo",
+        "age": 22,
+        "squad_no": 5,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ESP_1998_06",
+        "name_cn": "Julen Guerrero",
+        "name_en": "Julen Guerrero",
+        "age": 25,
+        "squad_no": 6,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 83
+          },
+          {
+            "pos": "DM",
+            "ovr": 81
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ESP_1998_07",
+        "name_cn": "Fernando Morientes",
+        "name_en": "Fernando Morientes",
+        "age": 30,
+        "squad_no": 7,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 83
+          },
+          {
+            "pos": "LW",
+            "ovr": 81
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ESP_1998_08",
+        "name_cn": "瓜尔迪奥拉",
+        "name_en": "Guardiola",
+        "age": 27,
+        "squad_no": 8,
+        "positions": [
+          {
+            "pos": "DM",
+            "ovr": 87
+          },
+          {
+            "pos": "CM",
+            "ovr": 85
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ESP_1998_09",
+        "name_cn": "劳尔",
+        "name_en": "Raúl",
+        "age": 31,
+        "squad_no": 9,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 90
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ESP_1998_10",
+        "name_cn": "耶罗",
+        "name_en": "Hierro",
+        "age": 29,
+        "squad_no": 10,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 90
+          },
+          {
+            "pos": "DM",
+            "ovr": 87
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ESP_1998_11",
+        "name_cn": "Juan Antonio Pizzi",
+        "name_en": "Juan Antonio Pizzi",
+        "age": 32,
+        "squad_no": 11,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 83
+          },
+          {
+            "pos": "CAM",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ESP_1998_12",
+        "name_cn": "Alfonso",
+        "name_en": "Alfonso",
+        "age": 29,
+        "squad_no": 12,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 83
+          },
+          {
+            "pos": "LW",
+            "ovr": 81
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ESP_1998_13",
+        "name_cn": "塞尔吉",
+        "name_en": "Sergi",
+        "age": 22,
+        "squad_no": 13,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 81
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ESP_1998_14",
+        "name_cn": "Santiago Cañizares",
+        "name_en": "Santiago Cañizares",
+        "age": 25,
+        "squad_no": 14,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 82
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ESP_1998_15",
+        "name_cn": "恩里克",
+        "name_en": "Enrique",
+        "age": 26,
+        "squad_no": 15,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ESP_1998_16",
+        "name_cn": "Iván Campo",
+        "name_en": "Iván Campo",
+        "age": 30,
+        "squad_no": 16,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 81
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ESP_1998_17",
+        "name_cn": "Carlos Aguilera",
+        "name_en": "Carlos Aguilera",
+        "age": 24,
+        "squad_no": 17,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 81
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ESP_1998_18",
+        "name_cn": "Albert Celades",
+        "name_en": "Albert Celades",
+        "age": 26,
+        "squad_no": 18,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 81
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ESP_1998_19",
+        "name_cn": "Joseba Etxeberria",
+        "name_en": "Joseba Etxeberria",
+        "age": 29,
+        "squad_no": 19,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 79
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ESP_1998_20",
+        "name_cn": "Guillermo Amor",
+        "name_en": "Guillermo Amor",
+        "age": 33,
+        "squad_no": 20,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 79
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ESP_1998_21",
+        "name_cn": "Kiko",
+        "name_en": "Kiko",
+        "age": 29,
+        "squad_no": 21,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 79
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ESP_1998_22",
+        "name_cn": "Miguel Ángel Nadal",
+        "name_en": "Miguel Ángel Nadal",
+        "age": 23,
+        "squad_no": 22,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 79
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      }
+    ],
+    "2002": [
+      {
+        "id": "ESP_2002_01",
+        "name_cn": "卡西利亚斯",
+        "name_en": "Casillas",
+        "age": 22,
+        "squad_no": 1,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 84
+          }
+        ],
+        "tags": [
+          "新星"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ESP_2002_02",
+        "name_cn": "Curro Torres",
+        "name_en": "Curro Torres",
+        "age": 32,
+        "squad_no": 2,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 84
+          },
+          {
+            "pos": "RB",
+            "ovr": 81
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ESP_2002_03",
+        "name_cn": "Juanfran",
+        "name_en": "Juanfran",
+        "age": 31,
+        "squad_no": 3,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 84
+          },
+          {
+            "pos": "LB",
+            "ovr": 81
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ESP_2002_04",
+        "name_cn": "普约尔",
+        "name_en": "Puyol",
+        "age": 25,
+        "squad_no": 4,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 85
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ESP_2002_05",
+        "name_cn": "Diego Tristán",
+        "name_en": "Diego Tristán",
+        "age": 33,
+        "squad_no": 5,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ESP_2002_06",
+        "name_cn": "巴拉哈",
+        "name_en": "Baraja",
+        "age": 24,
+        "squad_no": 6,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ESP_2002_07",
+        "name_cn": "劳尔",
+        "name_en": "Raúl",
+        "age": 26,
+        "squad_no": 7,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 92
+          }
+        ],
+        "tags": [
+          "队长",
+          "白色幽灵"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ESP_2002_08",
+        "name_cn": "门迪埃塔",
+        "name_en": "Mendieta",
+        "age": 30,
+        "squad_no": 8,
+        "positions": [
+          {
+            "pos": "RM",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ESP_2002_09",
+        "name_cn": "Javier de Pedro",
+        "name_en": "Javier de Pedro",
+        "age": 22,
+        "squad_no": 9,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ESP_2002_10",
+        "name_cn": "耶罗",
+        "name_en": "Hierro",
+        "age": 30,
+        "squad_no": 10,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 87
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ESP_2002_11",
+        "name_cn": "莫连特斯",
+        "name_en": "Morientes",
+        "age": 28,
+        "squad_no": 11,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 87
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ESP_2002_12",
+        "name_cn": "Albert Luque",
+        "name_en": "Albert Luque",
+        "age": 23,
+        "squad_no": 12,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 82
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ESP_2002_13",
+        "name_cn": "里卡多",
+        "name_en": "Ricardo",
+        "age": 25,
+        "squad_no": 13,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ESP_2002_14",
+        "name_cn": "Enrique Romero",
+        "name_en": "Enrique Romero",
+        "age": 23,
+        "squad_no": 14,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 82
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ESP_2002_15",
+        "name_cn": "萨拉戈萨",
+        "name_en": "Helguera",
+        "age": 29,
+        "squad_no": 15,
+        "positions": [
+          {
+            "pos": "DM",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ESP_2002_16",
+        "name_cn": "巴拉贾",
+        "name_en": "Albelda",
+        "age": 23,
+        "squad_no": 16,
+        "positions": [
+          {
+            "pos": "DM",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ESP_2002_17",
+        "name_cn": "Juan Carlos Valerón",
+        "name_en": "Juan Carlos Valerón",
+        "age": 32,
+        "squad_no": 17,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ESP_2002_18",
+        "name_cn": "Sergio",
+        "name_en": "Sergio",
+        "age": 24,
+        "squad_no": 18,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ESP_2002_19",
+        "name_cn": "哈维",
+        "name_en": "Xavi",
+        "age": 29,
+        "squad_no": 19,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ESP_2002_20",
+        "name_cn": "Miguel Ángel Nadal",
+        "name_en": "Miguel Ángel Nadal",
+        "age": 33,
+        "squad_no": 20,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ESP_2002_21",
+        "name_cn": "Luis Enrique",
+        "name_en": "Luis Enrique",
+        "age": 26,
+        "squad_no": 21,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ESP_2002_22",
+        "name_cn": "Joaquín",
+        "name_en": "Joaquín",
+        "age": 30,
+        "squad_no": 22,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ESP_2002_23",
+        "name_cn": "Pedro Contreras",
+        "name_en": "Pedro Contreras",
+        "age": 33,
+        "squad_no": 23,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      }
+    ],
+    "2006": [
+      {
+        "id": "ESP_2006_01",
+        "name_cn": "卡西利亚斯",
+        "name_en": "Casillas",
+        "age": 26,
+        "squad_no": 1,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 87
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ESP_2006_02",
+        "name_cn": "Míchel Salgado",
+        "name_en": "Míchel Salgado",
+        "age": 28,
+        "squad_no": 2,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 84
+          },
+          {
+            "pos": "RB",
+            "ovr": 81
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ESP_2006_03",
+        "name_cn": "Mariano Pernía",
+        "name_en": "Mariano Pernía",
+        "age": 29,
+        "squad_no": 3,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 84
+          },
+          {
+            "pos": "LB",
+            "ovr": 81
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ESP_2006_04",
+        "name_cn": "马切纳",
+        "name_en": "Marchena",
+        "age": 29,
+        "squad_no": 4,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ESP_2006_05",
+        "name_cn": "普约尔",
+        "name_en": "Puyol",
+        "age": 25,
+        "squad_no": 5,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 87
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ESP_2006_06",
+        "name_cn": "伊涅斯塔",
+        "name_en": "Iniesta",
+        "age": 29,
+        "squad_no": 6,
+        "positions": [
+          {
+            "pos": "CAM",
+            "ovr": 87
+          },
+          {
+            "pos": "CM",
+            "ovr": 85
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ESP_2006_07",
+        "name_cn": "劳尔",
+        "name_en": "Raúl",
+        "age": 30,
+        "squad_no": 7,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 87
+          }
+        ],
+        "tags": [
+          "队长"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ESP_2006_08",
+        "name_cn": "哈维",
+        "name_en": "Xavi",
+        "age": 24,
+        "squad_no": 8,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 87
+          },
+          {
+            "pos": "CAM",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ESP_2006_09",
+        "name_cn": "托雷斯",
+        "name_en": "Torres",
+        "age": 28,
+        "squad_no": 9,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 87
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ESP_2006_10",
+        "name_cn": "塞斯克",
+        "name_en": "Cesc",
+        "age": 25,
+        "squad_no": 10,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 84
+          },
+          {
+            "pos": "CAM",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ESP_2006_11",
+        "name_cn": "比利亚",
+        "name_en": "Villa",
+        "age": 31,
+        "squad_no": 11,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 85
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ESP_2006_12",
+        "name_cn": "David Albelda",
+        "name_en": "David Albelda",
+        "age": 30,
+        "squad_no": 12,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 84
+          },
+          {
+            "pos": "DM",
+            "ovr": 82
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ESP_2006_13",
+        "name_cn": "José Antonio Reyes",
+        "name_en": "José Antonio Reyes",
+        "age": 33,
+        "squad_no": 13,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 84
+          },
+          {
+            "pos": "CAM",
+            "ovr": 82
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ESP_2006_14",
+        "name_cn": "Luis García",
+        "name_en": "Luis García",
+        "age": 24,
+        "squad_no": 14,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ESP_2006_15",
+        "name_cn": "塞尔吉奥·拉莫斯",
+        "name_en": "S. Ramos",
+        "age": 23,
+        "squad_no": 15,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 84
+          },
+          {
+            "pos": "RB",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ESP_2006_16",
+        "name_cn": "Antonio López",
+        "name_en": "Antonio López",
+        "age": 26,
+        "squad_no": 16,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 82
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ESP_2006_17",
+        "name_cn": "阿隆索",
+        "name_en": "Xabi Alonso",
+        "age": 28,
+        "squad_no": 17,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 82
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ESP_2006_18",
+        "name_cn": "Marcos Senna",
+        "name_en": "Marcos Senna",
+        "age": 27,
+        "squad_no": 18,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 82
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ESP_2006_19",
+        "name_cn": "Joaquín",
+        "name_en": "Joaquín",
+        "age": 30,
+        "squad_no": 19,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ESP_2006_20",
+        "name_cn": "Cesc Fàbregas",
+        "name_en": "Cesc Fàbregas",
+        "age": 26,
+        "squad_no": 20,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ESP_2006_21",
+        "name_cn": "Santiago Cañizares",
+        "name_en": "Santiago Cañizares",
+        "age": 22,
+        "squad_no": 21,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 81
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ESP_2006_22",
+        "name_cn": "Juanito",
+        "name_en": "Juanito",
+        "age": 26,
+        "squad_no": 22,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ESP_2006_23",
+        "name_cn": "Pablo Ibáñez",
+        "name_en": "Pablo Ibáñez",
+        "age": 33,
+        "squad_no": 23,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      }
+    ],
+    "2010": [
+      {
+        "id": "ESP_2010_01",
+        "name_cn": "卡西利亚斯",
+        "name_en": "Casillas",
+        "age": 26,
+        "squad_no": 1,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 92
+          }
+        ],
+        "tags": [
+          "冠军队长",
+          "圣卡西"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ESP_2010_02",
+        "name_cn": "Raúl Albiol",
+        "name_en": "Raúl Albiol",
+        "age": 31,
+        "squad_no": 2,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 84
+          },
+          {
+            "pos": "RB",
+            "ovr": 81
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ESP_2010_03",
+        "name_cn": "皮克",
+        "name_en": "Piqué",
+        "age": 31,
+        "squad_no": 3,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 87
+          }
+        ],
+        "tags": [
+          "冠军"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ESP_2010_04",
+        "name_cn": "Carlos Marchena",
+        "name_en": "Carlos Marchena",
+        "age": 32,
+        "squad_no": 4,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ESP_2010_05",
+        "name_cn": "普约尔",
+        "name_en": "Puyol",
+        "age": 29,
+        "squad_no": 5,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 90
+          }
+        ],
+        "tags": [
+          "冠军半决赛进球"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ESP_2010_06",
+        "name_cn": "伊涅斯塔",
+        "name_en": "Iniesta",
+        "age": 24,
+        "squad_no": 6,
+        "positions": [
+          {
+            "pos": "CAM",
+            "ovr": 92
+          },
+          {
+            "pos": "CM",
+            "ovr": 90
+          }
+        ],
+        "tags": [
+          "冠军决赛进球"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ESP_2010_07",
+        "name_cn": "比利亚",
+        "name_en": "Villa",
+        "age": 29,
+        "squad_no": 7,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 92
+          }
+        ],
+        "tags": [
+          "冠军金靴"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ESP_2010_08",
+        "name_cn": "哈维",
+        "name_en": "Xavi",
+        "age": 30,
+        "squad_no": 8,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 91
+          },
+          {
+            "pos": "CAM",
+            "ovr": 87
+          }
+        ],
+        "tags": [
+          "冠军核心"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ESP_2010_09",
+        "name_cn": "托雷斯",
+        "name_en": "Torres",
+        "age": 29,
+        "squad_no": 9,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 87
+          }
+        ],
+        "tags": [
+          "冠军"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ESP_2010_10",
+        "name_cn": "塞斯克",
+        "name_en": "Cesc",
+        "age": 27,
+        "squad_no": 10,
+        "positions": [
+          {
+            "pos": "CAM",
+            "ovr": 84
+          },
+          {
+            "pos": "CM",
+            "ovr": 83
+          }
+        ],
+        "tags": [
+          "冠军"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ESP_2010_11",
+        "name_cn": "卡普德维拉",
+        "name_en": "Capdevila",
+        "age": 27,
+        "squad_no": 11,
+        "positions": [
+          {
+            "pos": "LB",
+            "ovr": 83
+          }
+        ],
+        "tags": [
+          "冠军"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ESP_2010_12",
+        "name_cn": "Cesc Fàbregas",
+        "name_en": "Cesc Fàbregas",
+        "age": 30,
+        "squad_no": 12,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 84
+          },
+          {
+            "pos": "CAM",
+            "ovr": 82
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ESP_2010_13",
+        "name_cn": "Víctor Valdés",
+        "name_en": "Víctor Valdés",
+        "age": 30,
+        "squad_no": 13,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ESP_2010_14",
+        "name_cn": "阿隆索",
+        "name_en": "Xabi Alonso",
+        "age": 28,
+        "squad_no": 14,
+        "positions": [
+          {
+            "pos": "DM",
+            "ovr": 87
+          },
+          {
+            "pos": "CM",
+            "ovr": 85
+          }
+        ],
+        "tags": [
+          "冠军"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ESP_2010_15",
+        "name_cn": "塞尔吉奥·拉莫斯",
+        "name_en": "S. Ramos",
+        "age": 29,
+        "squad_no": 15,
+        "positions": [
+          {
+            "pos": "RB",
+            "ovr": 87
+          },
+          {
+            "pos": "CB",
+            "ovr": 87
+          }
+        ],
+        "tags": [
+          "冠军"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ESP_2010_16",
+        "name_cn": "布斯克茨",
+        "name_en": "Busquets",
+        "age": 27,
+        "squad_no": 16,
+        "positions": [
+          {
+            "pos": "DM",
+            "ovr": 85
+          },
+          {
+            "pos": "CM",
+            "ovr": 83
+          }
+        ],
+        "tags": [
+          "冠军"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ESP_2010_17",
+        "name_cn": "略伦特",
+        "name_en": "Llorente",
+        "age": 25,
+        "squad_no": 17,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 83
+          }
+        ],
+        "tags": [
+          "冠军"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ESP_2010_18",
+        "name_cn": "Juan Mata",
+        "name_en": "Juan Mata",
+        "age": 33,
+        "squad_no": 18,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 82
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ESP_2010_19",
+        "name_cn": "Álvaro Arbeloa",
+        "name_en": "Álvaro Arbeloa",
+        "age": 25,
+        "squad_no": 19,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ESP_2010_20",
+        "name_cn": "哈维·马丁内斯",
+        "name_en": "Javi Martínez",
+        "age": 31,
+        "squad_no": 20,
+        "positions": [
+          {
+            "pos": "DM",
+            "ovr": 83
+          }
+        ],
+        "tags": [
+          "冠军"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ESP_2010_21",
+        "name_cn": "佩德罗",
+        "name_en": "Pedro",
+        "age": 28,
+        "squad_no": 21,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ESP_2010_22",
+        "name_cn": "纳瓦斯",
+        "name_en": "J. Navas",
+        "age": 25,
+        "squad_no": 22,
+        "positions": [
+          {
+            "pos": "RW",
+            "ovr": 84
+          },
+          {
+            "pos": "RM",
+            "ovr": 83
+          }
+        ],
+        "tags": [
+          "冠军"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ESP_2010_23",
+        "name_cn": "席尔瓦",
+        "name_en": "David Silva",
+        "age": 28,
+        "squad_no": 23,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      }
+    ],
+    "2014": [
+      {
+        "id": "ESP_2014_01",
+        "name_cn": "卡西利亚斯",
+        "name_en": "Casillas",
+        "age": 22,
+        "squad_no": 1,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 87
+          }
+        ],
+        "tags": [
+          "队长"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ESP_2014_02",
+        "name_cn": "Raúl Albiol",
+        "name_en": "Raúl Albiol",
+        "age": 27,
+        "squad_no": 2,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 84
+          },
+          {
+            "pos": "RB",
+            "ovr": 81
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ESP_2014_03",
+        "name_cn": "皮克",
+        "name_en": "Piqué",
+        "age": 33,
+        "squad_no": 3,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 87
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ESP_2014_04",
+        "name_cn": "哈维·马丁内斯",
+        "name_en": "Javi Martínez",
+        "age": 29,
+        "squad_no": 4,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ESP_2014_05",
+        "name_cn": "Juanfran",
+        "name_en": "Juanfran",
+        "age": 33,
+        "squad_no": 5,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ESP_2014_06",
+        "name_cn": "伊涅斯塔",
+        "name_en": "Iniesta",
+        "age": 28,
+        "squad_no": 6,
+        "positions": [
+          {
+            "pos": "CAM",
+            "ovr": 90
+          },
+          {
+            "pos": "CM",
+            "ovr": 88
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ESP_2014_07",
+        "name_cn": "比利亚",
+        "name_en": "Villa",
+        "age": 28,
+        "squad_no": 7,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ESP_2014_08",
+        "name_cn": "哈维",
+        "name_en": "Xavi",
+        "age": 32,
+        "squad_no": 8,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 87
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ESP_2014_09",
+        "name_cn": "托雷斯",
+        "name_en": "Torres",
+        "age": 32,
+        "squad_no": 9,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ESP_2014_10",
+        "name_cn": "塞斯克",
+        "name_en": "Cesc",
+        "age": 24,
+        "squad_no": 10,
+        "positions": [
+          {
+            "pos": "CAM",
+            "ovr": 85
+          },
+          {
+            "pos": "CM",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ESP_2014_11",
+        "name_cn": "佩德罗",
+        "name_en": "Pedro",
+        "age": 29,
+        "squad_no": 11,
+        "positions": [
+          {
+            "pos": "RW",
+            "ovr": 84
+          },
+          {
+            "pos": "LW",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ESP_2014_12",
+        "name_cn": "Cesc Fàbregas",
+        "name_en": "Cesc Fàbregas",
+        "age": 22,
+        "squad_no": 12,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 84
+          },
+          {
+            "pos": "CAM",
+            "ovr": 82
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ESP_2014_13",
+        "name_cn": "David de Gea",
+        "name_en": "David de Gea",
+        "age": 24,
+        "squad_no": 13,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ESP_2014_14",
+        "name_cn": "阿隆索",
+        "name_en": "Xabi Alonso",
+        "age": 30,
+        "squad_no": 14,
+        "positions": [
+          {
+            "pos": "DM",
+            "ovr": 87
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ESP_2014_15",
+        "name_cn": "塞尔吉奥·拉莫斯",
+        "name_en": "S. Ramos",
+        "age": 31,
+        "squad_no": 15,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 87
+          },
+          {
+            "pos": "RB",
+            "ovr": 85
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ESP_2014_16",
+        "name_cn": "布斯克茨",
+        "name_en": "Busquets",
+        "age": 27,
+        "squad_no": 16,
+        "positions": [
+          {
+            "pos": "DM",
+            "ovr": 87
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ESP_2014_17",
+        "name_cn": "Juan Mata",
+        "name_en": "Juan Mata",
+        "age": 23,
+        "squad_no": 17,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 82
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ESP_2014_18",
+        "name_cn": "科克",
+        "name_en": "Koke",
+        "age": 29,
+        "squad_no": 18,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ESP_2014_19",
+        "name_cn": "科斯塔",
+        "name_en": "Diego Costa",
+        "age": 23,
+        "squad_no": 19,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 87
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ESP_2014_20",
+        "name_cn": "阿尔巴",
+        "name_en": "Jordi Alba",
+        "age": 30,
+        "squad_no": 20,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ESP_2014_21",
+        "name_cn": "席尔瓦",
+        "name_en": "Silva",
+        "age": 29,
+        "squad_no": 21,
+        "positions": [
+          {
+            "pos": "CAM",
+            "ovr": 87
+          },
+          {
+            "pos": "LM",
+            "ovr": 85
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ESP_2014_22",
+        "name_cn": "Santi Cazorla",
+        "name_en": "Santi Cazorla",
+        "age": 22,
+        "squad_no": 22,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ESP_2014_23",
+        "name_cn": "César Azpilicueta",
+        "name_en": "César Azpilicueta",
+        "age": 33,
+        "squad_no": 23,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      }
+    ],
+    "2018": [
+      {
+        "id": "ESP_2018_01",
+        "name_cn": "德赫亚",
+        "name_en": "De Gea",
+        "age": 24,
+        "squad_no": 1,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 87
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ESP_2018_02",
+        "name_cn": "卡瓦哈尔",
+        "name_en": "Carvajal",
+        "age": 28,
+        "squad_no": 2,
+        "positions": [
+          {
+            "pos": "RB",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ESP_2018_03",
+        "name_cn": "皮克",
+        "name_en": "Piqué",
+        "age": 32,
+        "squad_no": 3,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 87
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ESP_2018_04",
+        "name_cn": "César Azpilicueta",
+        "name_en": "César Azpilicueta",
+        "age": 24,
+        "squad_no": 4,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 82
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ESP_2018_05",
+        "name_cn": "布斯克茨",
+        "name_en": "Busquets",
+        "age": 23,
+        "squad_no": 5,
+        "positions": [
+          {
+            "pos": "DM",
+            "ovr": 87
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ESP_2018_06",
+        "name_cn": "伊涅斯塔",
+        "name_en": "Iniesta",
+        "age": 29,
+        "squad_no": 6,
+        "positions": [
+          {
+            "pos": "CAM",
+            "ovr": 87
+          },
+          {
+            "pos": "CM",
+            "ovr": 85
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ESP_2018_07",
+        "name_cn": "Saúl",
+        "name_en": "Saúl",
+        "age": 26,
+        "squad_no": 7,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ESP_2018_08",
+        "name_cn": "科克",
+        "name_en": "Koke",
+        "age": 27,
+        "squad_no": 8,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 84
+          },
+          {
+            "pos": "DM",
+            "ovr": 82
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ESP_2018_09",
+        "name_cn": "罗德里戈",
+        "name_en": "Rodrigo",
+        "age": 31,
+        "squad_no": 9,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ESP_2018_10",
+        "name_cn": "Nacho Monreal",
+        "name_en": "Nacho Monreal",
+        "age": 33,
+        "squad_no": 10,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 82
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ESP_2018_11",
+        "name_cn": "卢卡斯·巴斯克斯",
+        "name_en": "Vázquez",
+        "age": 28,
+        "squad_no": 11,
+        "positions": [
+          {
+            "pos": "RW",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ESP_2018_12",
+        "name_cn": "Álvaro Odriozola",
+        "name_en": "Álvaro Odriozola",
+        "age": 32,
+        "squad_no": 12,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 82
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ESP_2018_13",
+        "name_cn": "Kepa Arrizabalaga",
+        "name_en": "Kepa Arrizabalaga",
+        "age": 23,
+        "squad_no": 13,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ESP_2018_14",
+        "name_cn": "诺雷托",
+        "name_en": "Nacho",
+        "age": 27,
+        "squad_no": 14,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 83
+          },
+          {
+            "pos": "RB",
+            "ovr": 82
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ESP_2018_15",
+        "name_cn": "塞尔吉奥·拉莫斯",
+        "name_en": "S. Ramos",
+        "age": 32,
+        "squad_no": 15,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 87
+          }
+        ],
+        "tags": [
+          "队长"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ESP_2018_16",
+        "name_cn": "蒂亚戈",
+        "name_en": "Thiago",
+        "age": 30,
+        "squad_no": 16,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 85
+          },
+          {
+            "pos": "CAM",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ESP_2018_17",
+        "name_cn": "Iago Aspas",
+        "name_en": "Iago Aspas",
+        "age": 28,
+        "squad_no": 17,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ESP_2018_18",
+        "name_cn": "乔迪·阿尔巴",
+        "name_en": "Jordi Alba",
+        "age": 27,
+        "squad_no": 18,
+        "positions": [
+          {
+            "pos": "LB",
+            "ovr": 87
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ESP_2018_19",
+        "name_cn": "迭戈·科斯塔",
+        "name_en": "Diego Costa",
+        "age": 32,
+        "squad_no": 19,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 85
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ESP_2018_20",
+        "name_cn": "阿森西奥",
+        "name_en": "Asensio",
+        "age": 33,
+        "squad_no": 20,
+        "positions": [
+          {
+            "pos": "RW",
+            "ovr": 84
+          },
+          {
+            "pos": "LW",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ESP_2018_21",
+        "name_cn": "席尔瓦",
+        "name_en": "D. Silva",
+        "age": 29,
+        "squad_no": 21,
+        "positions": [
+          {
+            "pos": "CAM",
+            "ovr": 87
+          },
+          {
+            "pos": "LM",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ESP_2018_22",
+        "name_cn": "伊斯科",
+        "name_en": "Isco",
+        "age": 30,
+        "squad_no": 22,
+        "positions": [
+          {
+            "pos": "CAM",
+            "ovr": 87
+          },
+          {
+            "pos": "LM",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ESP_2018_23",
+        "name_cn": "Pepe Reina",
+        "name_en": "Pepe Reina",
+        "age": 22,
+        "squad_no": 23,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      }
+    ],
+    "2022": [
+      {
+        "id": "ESP_2022_01",
+        "name_cn": "Robert Sánchez",
+        "name_en": "Robert Sánchez",
+        "age": 31,
+        "squad_no": 1,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ESP_2022_02",
+        "name_cn": "卡瓦哈尔",
+        "name_en": "Carvajal",
+        "age": 23,
+        "squad_no": 2,
+        "positions": [
+          {
+            "pos": "RB",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ESP_2022_03",
+        "name_cn": "César Azpilicueta",
+        "name_en": "César Azpilicueta",
+        "age": 25,
+        "squad_no": 3,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 84
+          },
+          {
+            "pos": "RB",
+            "ovr": 81
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ESP_2022_04",
+        "name_cn": "巴勃罗·托雷斯",
+        "name_en": "Pau Torres",
+        "age": 32,
+        "squad_no": 4,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ESP_2022_05",
+        "name_cn": "布斯克茨",
+        "name_en": "Busquets",
+        "age": 32,
+        "squad_no": 5,
+        "positions": [
+          {
+            "pos": "DM",
+            "ovr": 84
+          }
+        ],
+        "tags": [
+          "队长"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ESP_2022_06",
+        "name_cn": "Eric García",
+        "name_en": "Eric García",
+        "age": 26,
+        "squad_no": 6,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 84
+          },
+          {
+            "pos": "LB",
+            "ovr": 81
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ESP_2022_07",
+        "name_cn": "莫拉塔",
+        "name_en": "Morata",
+        "age": 25,
+        "squad_no": 7,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ESP_2022_08",
+        "name_cn": "Marcos Llorente",
+        "name_en": "Marcos Llorente",
+        "age": 33,
+        "squad_no": 8,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 84
+          },
+          {
+            "pos": "DM",
+            "ovr": 82
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ESP_2022_09",
+        "name_cn": "加维",
+        "name_en": "Gavi",
+        "age": 23,
+        "squad_no": 9,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 85
+          },
+          {
+            "pos": "CAM",
+            "ovr": 83
+          }
+        ],
+        "tags": [
+          "新星"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ESP_2022_10",
+        "name_cn": "阿森西奥",
+        "name_en": "Asensio",
+        "age": 28,
+        "squad_no": 10,
+        "positions": [
+          {
+            "pos": "RW",
+            "ovr": 83
+          },
+          {
+            "pos": "LW",
+            "ovr": 82
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ESP_2022_11",
+        "name_cn": "费兰·托雷斯",
+        "name_en": "Ferran Torres",
+        "age": 23,
+        "squad_no": 11,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 83
+          },
+          {
+            "pos": "RW",
+            "ovr": 82
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ESP_2022_12",
+        "name_cn": "科克",
+        "name_en": "Koke",
+        "age": 32,
+        "squad_no": 12,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 84
+          },
+          {
+            "pos": "DM",
+            "ovr": 82
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ESP_2022_13",
+        "name_cn": "Nico Williams",
+        "name_en": "Nico Williams",
+        "age": 33,
+        "squad_no": 13,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 82
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ESP_2022_14",
+        "name_cn": "David Raya",
+        "name_en": "David Raya",
+        "age": 23,
+        "squad_no": 14,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ESP_2022_15",
+        "name_cn": "伊尼戈·马丁内斯",
+        "name_en": "Iñigo Martínez",
+        "age": 29,
+        "squad_no": 15,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ESP_2022_16",
+        "name_cn": "罗德里",
+        "name_en": "Rodri",
+        "age": 24,
+        "squad_no": 16,
+        "positions": [
+          {
+            "pos": "DM",
+            "ovr": 87
+          },
+          {
+            "pos": "CB",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ESP_2022_17",
+        "name_cn": "阿尔瓦罗·萨拉戈萨",
+        "name_en": "Yéremy Pino",
+        "age": 33,
+        "squad_no": 17,
+        "positions": [
+          {
+            "pos": "RW",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ESP_2022_18",
+        "name_cn": "乔迪·阿尔巴",
+        "name_en": "Jordi Alba",
+        "age": 26,
+        "squad_no": 18,
+        "positions": [
+          {
+            "pos": "LB",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ESP_2022_19",
+        "name_cn": "Alejandro Balde",
+        "name_en": "Alejandro Balde",
+        "age": 22,
+        "squad_no": 19,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 82
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ESP_2022_20",
+        "name_cn": "Hugo Guillamón",
+        "name_en": "Hugo Guillamón",
+        "age": 22,
+        "squad_no": 20,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 82
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ESP_2022_21",
+        "name_cn": "奥尔莫",
+        "name_en": "Dani Olmo",
+        "age": 27,
+        "squad_no": 21,
+        "positions": [
+          {
+            "pos": "CAM",
+            "ovr": 84
+          },
+          {
+            "pos": "LW",
+            "ovr": 82
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ESP_2022_22",
+        "name_cn": "Carlos Soler",
+        "name_en": "Carlos Soler",
+        "age": 22,
+        "squad_no": 22,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ESP_2022_23",
+        "name_cn": "乌奈·西蒙",
+        "name_en": "Unai Simón",
+        "age": 26,
+        "squad_no": 23,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ESP_2022_24",
+        "name_cn": "拉波尔特",
+        "name_en": "Laporte",
+        "age": 27,
+        "squad_no": 24,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ESP_2022_25",
+        "name_cn": "Pablo Sarabia",
+        "name_en": "Pablo Sarabia",
+        "age": 27,
+        "squad_no": 25,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ESP_2022_26",
+        "name_cn": "佩德里",
+        "name_en": "Pedri",
+        "age": 28,
+        "squad_no": 26,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 87
+          },
+          {
+            "pos": "CAM",
+            "ovr": 85
+          }
+        ],
+        "tags": [
+          "新星"
+        ],
+        "is_qualification_squad": false
+      }
+    ],
+    "2026": [
+      {
+        "id": "ESP_2026_01",
+        "name_cn": "乌奈·西蒙",
+        "name_en": "Unai Simón",
+        "age": 24,
+        "squad_no": 1,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ESP_2026_02",
+        "name_cn": "拉亚",
+        "name_en": "David Raya",
+        "age": 25,
+        "squad_no": 2,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ESP_2026_03",
+        "name_cn": "卡瓦哈尔",
+        "name_en": "Carvajal",
+        "age": 30,
+        "squad_no": 3,
+        "positions": [
+          {
+            "pos": "RB",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ESP_2026_04",
+        "name_cn": "勒诺尔曼德",
+        "name_en": "Le Normand",
+        "age": 28,
+        "squad_no": 4,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ESP_2026_05",
+        "name_cn": "拉波尔特",
+        "name_en": "Laporte",
+        "age": 31,
+        "squad_no": 5,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ESP_2026_06",
+        "name_cn": "加维",
+        "name_en": "Gavi",
+        "age": 32,
+        "squad_no": 6,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 85
+          },
+          {
+            "pos": "CAM",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ESP_2026_07",
+        "name_cn": "莫拉塔",
+        "name_en": "Morata",
+        "age": 24,
+        "squad_no": 7,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 84
+          }
+        ],
+        "tags": [
+          "队长"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ESP_2026_08",
+        "name_cn": "佩德里",
+        "name_en": "Pedri",
+        "age": 24,
+        "squad_no": 8,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 87
+          },
+          {
+            "pos": "CAM",
+            "ovr": 85
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ESP_2026_09",
+        "name_cn": "亚马尔",
+        "name_en": "Yamal",
+        "age": 24,
+        "squad_no": 9,
+        "positions": [
+          {
+            "pos": "RW",
+            "ovr": 90
+          },
+          {
+            "pos": "LW",
+            "ovr": 87
+          }
+        ],
+        "tags": [
+          "超新星"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ESP_2026_10",
+        "name_cn": "尼科·威廉姆斯",
+        "name_en": "Nico Williams",
+        "age": 23,
+        "squad_no": 10,
+        "positions": [
+          {
+            "pos": "LW",
+            "ovr": 87
+          },
+          {
+            "pos": "RW",
+            "ovr": 85
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ESP_2026_11",
+        "name_cn": "霍安·加西亚",
+        "name_en": "Joan García",
+        "age": 31,
+        "squad_no": 11,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ESP_2026_12",
+        "name_cn": "格里马尔多",
+        "name_en": "Grimaldo",
+        "age": 28,
+        "squad_no": 12,
+        "positions": [
+          {
+            "pos": "LB",
+            "ovr": 85
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ESP_2026_13",
+        "name_cn": "库巴西",
+        "name_en": "Pau Cubarsí",
+        "age": 31,
+        "squad_no": 13,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ESP_2026_14",
+        "name_cn": "库库雷利亚",
+        "name_en": "Cucurella",
+        "age": 32,
+        "squad_no": 14,
+        "positions": [
+          {
+            "pos": "LB",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ESP_2026_15",
+        "name_cn": "奥亚萨瓦尔",
+        "name_en": "Oyarzabal",
+        "age": 25,
+        "squad_no": 15,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 84
+          },
+          {
+            "pos": "LW",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ESP_2026_16",
+        "name_cn": "罗德里",
+        "name_en": "Rodri",
+        "age": 29,
+        "squad_no": 16,
+        "positions": [
+          {
+            "pos": "DM",
+            "ovr": 91
+          },
+          {
+            "pos": "CM",
+            "ovr": 87
+          }
+        ],
+        "tags": [
+          "金球奖"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ESP_2026_17",
+        "name_cn": "梅里诺",
+        "name_en": "Merino",
+        "age": 31,
+        "squad_no": 17,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 85
+          },
+          {
+            "pos": "CAM",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ESP_2026_18",
+        "name_cn": "佩德罗·波罗",
+        "name_en": "Pedro Porro",
+        "age": 24,
+        "squad_no": 18,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ESP_2026_19",
+        "name_cn": "奥尔莫",
+        "name_en": "Dani Olmo",
+        "age": 25,
+        "squad_no": 19,
+        "positions": [
+          {
+            "pos": "CAM",
+            "ovr": 87
+          },
+          {
+            "pos": "CM",
+            "ovr": 85
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ESP_2026_20",
+        "name_cn": "贝纳尔多",
+        "name_en": "Fermín López",
+        "age": 29,
+        "squad_no": 20,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 83
+          },
+          {
+            "pos": "CAM",
+            "ovr": 82
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ESP_2026_21",
+        "name_cn": "埃里克·加西亚",
+        "name_en": "Eric García",
+        "age": 32,
+        "squad_no": 21,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ESP_2026_22",
+        "name_cn": "皮诺",
+        "name_en": "Yéremy Pino",
+        "age": 26,
+        "squad_no": 22,
+        "positions": [
+          {
+            "pos": "RW",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ESP_2026_23",
+        "name_cn": "略伦特",
+        "name_en": "Marcos Llorente",
+        "age": 29,
+        "squad_no": 23,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ESP_2026_24",
+        "name_cn": "佐巴拉加",
+        "name_en": "Zubimendi",
+        "age": 26,
+        "squad_no": 24,
+        "positions": [
+          {
+            "pos": "DM",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ESP_2026_25",
+        "name_cn": "普比尔",
+        "name_en": "Marc Pubill",
+        "age": 32,
+        "squad_no": 25,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ESP_2026_26",
+        "name_cn": "法比安·鲁伊斯",
+        "name_en": "Fabián Ruiz",
+        "age": 22,
+        "squad_no": 26,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      }
+    ]
+  }
+}

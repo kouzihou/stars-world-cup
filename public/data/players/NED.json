@@ -1,0 +1,3013 @@
+{
+  "country_code": "NED",
+  "squads": {
+    "1990": [
+      {
+        "id": "NED_1990_01",
+        "name_cn": "范布雷克伦",
+        "name_en": "van Breukelen",
+        "age": 29,
+        "squad_no": 1,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 85
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NED_1990_02",
+        "name_cn": "Berry van Aerle",
+        "name_en": "Berry van Aerle",
+        "age": 25,
+        "squad_no": 2,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 82
+          },
+          {
+            "pos": "RB",
+            "ovr": 79
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NED_1990_03",
+        "name_cn": "Wim Kieft",
+        "name_en": "Wim Kieft",
+        "age": 27,
+        "squad_no": 3,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NED_1990_04",
+        "name_cn": "科曼",
+        "name_en": "R. Koeman",
+        "age": 23,
+        "squad_no": 4,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 90
+          },
+          {
+            "pos": "DM",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NED_1990_05",
+        "name_cn": "Adri van Tiggelen",
+        "name_en": "Adri van Tiggelen",
+        "age": 32,
+        "squad_no": 5,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 82
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NED_1990_06",
+        "name_cn": "Jan Wouters",
+        "name_en": "Jan Wouters",
+        "age": 27,
+        "squad_no": 6,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 82
+          },
+          {
+            "pos": "DM",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NED_1990_07",
+        "name_cn": "Erwin Koeman",
+        "name_en": "Erwin Koeman",
+        "age": 30,
+        "squad_no": 7,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 82
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NED_1990_08",
+        "name_cn": "Gerald Vanenburg",
+        "name_en": "Gerald Vanenburg",
+        "age": 32,
+        "squad_no": 8,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 82
+          },
+          {
+            "pos": "DM",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NED_1990_09",
+        "name_cn": "Hans Gillhaus",
+        "name_en": "Hans Gillhaus",
+        "age": 27,
+        "squad_no": 9,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 78
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NED_1990_10",
+        "name_cn": "古利特",
+        "name_en": "Gullit",
+        "age": 22,
+        "squad_no": 10,
+        "positions": [
+          {
+            "pos": "CAM",
+            "ovr": 94
+          },
+          {
+            "pos": "LW",
+            "ovr": 90
+          },
+          {
+            "pos": "ST",
+            "ovr": 87
+          }
+        ],
+        "tags": [
+          "金球x1",
+          "GOAT"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NED_1990_11",
+        "name_cn": "Richard Witschge",
+        "name_en": "Richard Witschge",
+        "age": 28,
+        "squad_no": 11,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 82
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NED_1990_12",
+        "name_cn": "范巴斯滕",
+        "name_en": "van Basten",
+        "age": 26,
+        "squad_no": 12,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 95
+          }
+        ],
+        "tags": [
+          "金球x3",
+          "郁金香三剑客"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NED_1990_13",
+        "name_cn": "Graeme Rutjes",
+        "name_en": "Graeme Rutjes",
+        "age": 25,
+        "squad_no": 13,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NED_1990_14",
+        "name_cn": "John van 't Schip",
+        "name_en": "John van 't Schip",
+        "age": 23,
+        "squad_no": 14,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NED_1990_15",
+        "name_cn": "Bryan Roy",
+        "name_en": "Bryan Roy",
+        "age": 29,
+        "squad_no": 15,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NED_1990_16",
+        "name_cn": "Joop Hiele",
+        "name_en": "Joop Hiele",
+        "age": 23,
+        "squad_no": 16,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 81
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NED_1990_17",
+        "name_cn": "里杰卡尔德",
+        "name_en": "Rijkaard",
+        "age": 32,
+        "squad_no": 17,
+        "positions": [
+          {
+            "pos": "DM",
+            "ovr": 90
+          },
+          {
+            "pos": "CB",
+            "ovr": 87
+          }
+        ],
+        "tags": [
+          "三剑客之一"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NED_1990_18",
+        "name_cn": "Henk Fraser",
+        "name_en": "Henk Fraser",
+        "age": 25,
+        "squad_no": 18,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 78
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NED_1990_19",
+        "name_cn": "John van Loen",
+        "name_en": "John van Loen",
+        "age": 32,
+        "squad_no": 19,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 78
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NED_1990_20",
+        "name_cn": "Aron Winter",
+        "name_en": "Aron Winter",
+        "age": 32,
+        "squad_no": 20,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 78
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NED_1990_21",
+        "name_cn": "Danny Blind",
+        "name_en": "Danny Blind",
+        "age": 31,
+        "squad_no": 21,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 78
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NED_1990_22",
+        "name_cn": "Stanley Menzo",
+        "name_en": "Stanley Menzo",
+        "age": 22,
+        "squad_no": 22,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 79
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      }
+    ],
+    "1994": [
+      {
+        "id": "NED_1994_01",
+        "name_cn": "德霍依",
+        "name_en": "de Goey",
+        "age": 22,
+        "squad_no": 1,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NED_1994_02",
+        "name_cn": "Frank de Boer",
+        "name_en": "Frank de Boer",
+        "age": 27,
+        "squad_no": 2,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 83
+          },
+          {
+            "pos": "RB",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NED_1994_03",
+        "name_cn": "威姆·容克",
+        "name_en": "Wim Jonk",
+        "age": 25,
+        "squad_no": 3,
+        "positions": [
+          {
+            "pos": "CAM",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NED_1994_04",
+        "name_cn": "科曼",
+        "name_en": "R. Koeman",
+        "age": 24,
+        "squad_no": 4,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 87
+          },
+          {
+            "pos": "DM",
+            "ovr": 84
+          }
+        ],
+        "tags": [
+          "队长"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NED_1994_05",
+        "name_cn": "里杰卡尔德",
+        "name_en": "Frank Rijkaard",
+        "age": 31,
+        "squad_no": 5,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NED_1994_06",
+        "name_cn": "Rob Witschge",
+        "name_en": "Rob Witschge",
+        "age": 25,
+        "squad_no": 6,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NED_1994_07",
+        "name_cn": "Jan Wouters",
+        "name_en": "Jan Wouters",
+        "age": 23,
+        "squad_no": 7,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 83
+          },
+          {
+            "pos": "DM",
+            "ovr": 81
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NED_1994_08",
+        "name_cn": "奥维马斯",
+        "name_en": "Overmars",
+        "age": 30,
+        "squad_no": 8,
+        "positions": [
+          {
+            "pos": "LW",
+            "ovr": 87
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NED_1994_10",
+        "name_cn": "博格坎普",
+        "name_en": "Bergkamp",
+        "age": 25,
+        "squad_no": 10,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 92
+          },
+          {
+            "pos": "CAM",
+            "ovr": 87
+          }
+        ],
+        "tags": [
+          "上帝之子"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NED_1994_11",
+        "name_cn": "罗伊",
+        "name_en": "Roy",
+        "age": 31,
+        "squad_no": 11,
+        "positions": [
+          {
+            "pos": "LM",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NED_1994_12",
+        "name_cn": "John Bosman",
+        "name_en": "John Bosman",
+        "age": 25,
+        "squad_no": 12,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 81
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NED_1994_13",
+        "name_cn": "范德萨",
+        "name_en": "Edwin van der Sar",
+        "age": 25,
+        "squad_no": 13,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 82
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NED_1994_14",
+        "name_cn": "Ulrich van Gobbel",
+        "name_en": "Ulrich van Gobbel",
+        "age": 27,
+        "squad_no": 14,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 81
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NED_1994_15",
+        "name_cn": "Danny Blind",
+        "name_en": "Danny Blind",
+        "age": 24,
+        "squad_no": 15,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 81
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NED_1994_16",
+        "name_cn": "Arthur Numan",
+        "name_en": "Arthur Numan",
+        "age": 31,
+        "squad_no": 16,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 81
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NED_1994_17",
+        "name_cn": "Gaston Taument",
+        "name_en": "Gaston Taument",
+        "age": 22,
+        "squad_no": 17,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 79
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NED_1994_18",
+        "name_cn": "Stan Valckx",
+        "name_en": "Stan Valckx",
+        "age": 26,
+        "squad_no": 18,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 79
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NED_1994_19",
+        "name_cn": "Peter van Vossen",
+        "name_en": "Peter van Vossen",
+        "age": 24,
+        "squad_no": 19,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 79
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NED_1994_20",
+        "name_cn": "Aron Winter",
+        "name_en": "Aron Winter",
+        "age": 24,
+        "squad_no": 20,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 79
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NED_1994_21",
+        "name_cn": "John de Wolf",
+        "name_en": "John de Wolf",
+        "age": 30,
+        "squad_no": 21,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 79
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NED_1994_22",
+        "name_cn": "Theo Snelders",
+        "name_en": "Theo Snelders",
+        "age": 26,
+        "squad_no": 22,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      }
+    ],
+    "1998": [
+      {
+        "id": "NED_1998_01",
+        "name_cn": "范德萨",
+        "name_en": "van der Sar",
+        "age": 24,
+        "squad_no": 1,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 87
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NED_1998_02",
+        "name_cn": "Michael Reiziger",
+        "name_en": "Michael Reiziger",
+        "age": 23,
+        "squad_no": 2,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 83
+          },
+          {
+            "pos": "RB",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NED_1998_03",
+        "name_cn": "弗兰克·德布尔",
+        "name_en": "F. de Boer",
+        "age": 32,
+        "squad_no": 3,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 88
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NED_1998_04",
+        "name_cn": "Jaap Stam",
+        "name_en": "Jaap Stam",
+        "age": 22,
+        "squad_no": 4,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 83
+          },
+          {
+            "pos": "LB",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NED_1998_05",
+        "name_cn": "威姆·容克",
+        "name_en": "Wim Jonk",
+        "age": 24,
+        "squad_no": 5,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 83
+          },
+          {
+            "pos": "DM",
+            "ovr": 81
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NED_1998_06",
+        "name_cn": "科库",
+        "name_en": "Cocu",
+        "age": 22,
+        "squad_no": 6,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 85
+          },
+          {
+            "pos": "DM",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NED_1998_07",
+        "name_cn": "Winston Bogarde",
+        "name_en": "Winston Bogarde",
+        "age": 27,
+        "squad_no": 7,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 81
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NED_1998_08",
+        "name_cn": "戴维斯",
+        "name_en": "Davids",
+        "age": 25,
+        "squad_no": 8,
+        "positions": [
+          {
+            "pos": "DM",
+            "ovr": 88
+          },
+          {
+            "pos": "CM",
+            "ovr": 85
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NED_1998_09",
+        "name_cn": "克鲁伊维特",
+        "name_en": "Kluivert",
+        "age": 31,
+        "squad_no": 9,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 90
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NED_1998_10",
+        "name_cn": "博格坎普",
+        "name_en": "Bergkamp",
+        "age": 27,
+        "squad_no": 10,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 92
+          },
+          {
+            "pos": "CAM",
+            "ovr": 87
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NED_1998_11",
+        "name_cn": "奥维马斯",
+        "name_en": "Overmars",
+        "age": 22,
+        "squad_no": 11,
+        "positions": [
+          {
+            "pos": "LW",
+            "ovr": 88
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NED_1998_12",
+        "name_cn": "Boudewijn Zenden",
+        "name_en": "Boudewijn Zenden",
+        "age": 24,
+        "squad_no": 12,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 81
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NED_1998_13",
+        "name_cn": "André Ooijer",
+        "name_en": "André Ooijer",
+        "age": 26,
+        "squad_no": 13,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 81
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NED_1998_15",
+        "name_cn": "塞多夫",
+        "name_en": "Seedorf",
+        "age": 22,
+        "squad_no": 15,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 87
+          },
+          {
+            "pos": "CAM",
+            "ovr": 85
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NED_1998_16",
+        "name_cn": "努曼",
+        "name_en": "Numan",
+        "age": 24,
+        "squad_no": 16,
+        "positions": [
+          {
+            "pos": "LB",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NED_1998_17",
+        "name_cn": "Pierre van Hooijdonk",
+        "name_en": "Pierre van Hooijdonk",
+        "age": 33,
+        "squad_no": 17,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 79
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NED_1998_18",
+        "name_cn": "Ed de Goey",
+        "name_en": "Ed de Goey",
+        "age": 28,
+        "squad_no": 18,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NED_1998_19",
+        "name_cn": "Giovanni van Bronckhorst",
+        "name_en": "Giovanni van Bronckhorst",
+        "age": 30,
+        "squad_no": 19,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 79
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NED_1998_20",
+        "name_cn": "Aron Winter",
+        "name_en": "Aron Winter",
+        "age": 23,
+        "squad_no": 20,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 79
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NED_1998_21",
+        "name_cn": "Jimmy Floyd Hasselbaink",
+        "name_en": "Jimmy Floyd Hasselbaink",
+        "age": 33,
+        "squad_no": 21,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 79
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NED_1998_22",
+        "name_cn": "Ruud Hesp",
+        "name_en": "Ruud Hesp",
+        "age": 23,
+        "squad_no": 22,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      }
+    ],
+    "2006": [
+      {
+        "id": "NED_2006_01",
+        "name_cn": "范德萨",
+        "name_en": "van der Sar",
+        "age": 29,
+        "squad_no": 1,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 87
+          }
+        ],
+        "tags": [
+          "队长"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NED_2006_02",
+        "name_cn": "Kew Jaliens",
+        "name_en": "Kew Jaliens",
+        "age": 29,
+        "squad_no": 2,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 84
+          },
+          {
+            "pos": "RB",
+            "ovr": 81
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NED_2006_03",
+        "name_cn": "海廷加",
+        "name_en": "Heitinga",
+        "age": 27,
+        "squad_no": 3,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NED_2006_04",
+        "name_cn": "范布隆克霍斯特",
+        "name_en": "van Bronckhorst",
+        "age": 30,
+        "squad_no": 4,
+        "positions": [
+          {
+            "pos": "LB",
+            "ovr": 87
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NED_2006_05",
+        "name_cn": "范德麦德",
+        "name_en": "Van Bommel",
+        "age": 31,
+        "squad_no": 5,
+        "positions": [
+          {
+            "pos": "DM",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NED_2006_06",
+        "name_cn": "Khalid Boulahrouz",
+        "name_en": "Khalid Boulahrouz",
+        "age": 23,
+        "squad_no": 6,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 84
+          },
+          {
+            "pos": "LB",
+            "ovr": 81
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NED_2006_07",
+        "name_cn": "范佩西",
+        "name_en": "van Persie",
+        "age": 29,
+        "squad_no": 7,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 87
+          },
+          {
+            "pos": "LW",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NED_2006_08",
+        "name_cn": "科库",
+        "name_en": "Cocu",
+        "age": 30,
+        "squad_no": 8,
+        "positions": [
+          {
+            "pos": "DM",
+            "ovr": 83
+          },
+          {
+            "pos": "CM",
+            "ovr": 82
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NED_2006_09",
+        "name_cn": "范尼斯特鲁伊",
+        "name_en": "van Nistelrooy",
+        "age": 25,
+        "squad_no": 9,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 92
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NED_2006_10",
+        "name_cn": "范德法特",
+        "name_en": "van der Vaart",
+        "age": 31,
+        "squad_no": 10,
+        "positions": [
+          {
+            "pos": "CAM",
+            "ovr": 87
+          },
+          {
+            "pos": "CM",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NED_2006_11",
+        "name_cn": "罗本",
+        "name_en": "Robben",
+        "age": 22,
+        "squad_no": 11,
+        "positions": [
+          {
+            "pos": "LW",
+            "ovr": 90
+          },
+          {
+            "pos": "RW",
+            "ovr": 87
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NED_2006_12",
+        "name_cn": "Joris Mathijsen",
+        "name_en": "Joris Mathijsen",
+        "age": 33,
+        "squad_no": 12,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NED_2006_13",
+        "name_cn": "Denny Landzaat",
+        "name_en": "Denny Landzaat",
+        "age": 32,
+        "squad_no": 13,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 84
+          },
+          {
+            "pos": "DM",
+            "ovr": 82
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NED_2006_14",
+        "name_cn": "Dirk Kuyt",
+        "name_en": "Dirk Kuyt",
+        "age": 30,
+        "squad_no": 14,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 84
+          },
+          {
+            "pos": "LW",
+            "ovr": 82
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NED_2006_15",
+        "name_cn": "Jan Kromkamp",
+        "name_en": "Jan Kromkamp",
+        "age": 26,
+        "squad_no": 15,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 82
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NED_2006_16",
+        "name_cn": "André Ooijer",
+        "name_en": "André Ooijer",
+        "age": 29,
+        "squad_no": 16,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 82
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NED_2006_17",
+        "name_cn": "Tim de Cler",
+        "name_en": "Tim de Cler",
+        "age": 32,
+        "squad_no": 17,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 82
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NED_2006_18",
+        "name_cn": "Hedwiges Maduro",
+        "name_en": "Hedwiges Maduro",
+        "age": 22,
+        "squad_no": 18,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 82
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NED_2006_19",
+        "name_cn": "Jan Vennegoor of Hesselink",
+        "name_en": "Jan Vennegoor of Hesselink",
+        "age": 22,
+        "squad_no": 19,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NED_2006_20",
+        "name_cn": "斯内德",
+        "name_en": "Wesley Sneijder",
+        "age": 29,
+        "squad_no": 20,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NED_2006_21",
+        "name_cn": "Ryan Babel",
+        "name_en": "Ryan Babel",
+        "age": 28,
+        "squad_no": 21,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NED_2006_22",
+        "name_cn": "Henk Timmer",
+        "name_en": "Henk Timmer",
+        "age": 28,
+        "squad_no": 22,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 81
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NED_2006_23",
+        "name_cn": "Maarten Stekelenburg",
+        "name_en": "Maarten Stekelenburg",
+        "age": 32,
+        "squad_no": 23,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      }
+    ],
+    "2010": [
+      {
+        "id": "NED_2010_01",
+        "name_cn": "斯特克伦堡",
+        "name_en": "Stekelenburg",
+        "age": 23,
+        "squad_no": 1,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 84
+          }
+        ],
+        "tags": [
+          "亚军"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NED_2010_02",
+        "name_cn": "范德威尔",
+        "name_en": "van der Wiel",
+        "age": 29,
+        "squad_no": 2,
+        "positions": [
+          {
+            "pos": "RB",
+            "ovr": 83
+          }
+        ],
+        "tags": [
+          "亚军"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NED_2010_03",
+        "name_cn": "海廷加",
+        "name_en": "Heitinga",
+        "age": 33,
+        "squad_no": 3,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 84
+          }
+        ],
+        "tags": [
+          "亚军"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NED_2010_04",
+        "name_cn": "马泰森",
+        "name_en": "Mathijsen",
+        "age": 29,
+        "squad_no": 4,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 84
+          }
+        ],
+        "tags": [
+          "亚军"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NED_2010_05",
+        "name_cn": "范布隆克霍斯特",
+        "name_en": "van Bronckhorst",
+        "age": 23,
+        "squad_no": 5,
+        "positions": [
+          {
+            "pos": "LB",
+            "ovr": 87
+          }
+        ],
+        "tags": [
+          "亚军队长"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NED_2010_06",
+        "name_cn": "范博梅尔",
+        "name_en": "van Bommel",
+        "age": 23,
+        "squad_no": 6,
+        "positions": [
+          {
+            "pos": "DM",
+            "ovr": 87
+          }
+        ],
+        "tags": [
+          "亚军"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NED_2010_07",
+        "name_cn": "库伊特",
+        "name_en": "Kuyt",
+        "age": 27,
+        "squad_no": 7,
+        "positions": [
+          {
+            "pos": "RM",
+            "ovr": 84
+          },
+          {
+            "pos": "ST",
+            "ovr": 83
+          }
+        ],
+        "tags": [
+          "亚军"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NED_2010_08",
+        "name_cn": "德容",
+        "name_en": "de Jong",
+        "age": 31,
+        "squad_no": 8,
+        "positions": [
+          {
+            "pos": "DM",
+            "ovr": 87
+          }
+        ],
+        "tags": [
+          "亚军"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NED_2010_09",
+        "name_cn": "范佩西",
+        "name_en": "van Persie",
+        "age": 24,
+        "squad_no": 9,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 90
+          },
+          {
+            "pos": "LW",
+            "ovr": 84
+          }
+        ],
+        "tags": [
+          "亚军"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NED_2010_10",
+        "name_cn": "斯内德",
+        "name_en": "Sneijder",
+        "age": 23,
+        "squad_no": 10,
+        "positions": [
+          {
+            "pos": "CAM",
+            "ovr": 92
+          },
+          {
+            "pos": "CM",
+            "ovr": 87
+          }
+        ],
+        "tags": [
+          "亚军金靴争夺"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NED_2010_11",
+        "name_cn": "罗本",
+        "name_en": "Robben",
+        "age": 24,
+        "squad_no": 11,
+        "positions": [
+          {
+            "pos": "RW",
+            "ovr": 92
+          },
+          {
+            "pos": "LW",
+            "ovr": 87
+          }
+        ],
+        "tags": [
+          "亚军"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NED_2010_12",
+        "name_cn": "Khalid Boulahrouz",
+        "name_en": "Khalid Boulahrouz",
+        "age": 26,
+        "squad_no": 12,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 82
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NED_2010_13",
+        "name_cn": "André Ooijer",
+        "name_en": "André Ooijer",
+        "age": 31,
+        "squad_no": 13,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 82
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NED_2010_14",
+        "name_cn": "Demy de Zeeuw",
+        "name_en": "Demy de Zeeuw",
+        "age": 32,
+        "squad_no": 14,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 82
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NED_2010_15",
+        "name_cn": "范德法特",
+        "name_en": "van der Vaart",
+        "age": 31,
+        "squad_no": 15,
+        "positions": [
+          {
+            "pos": "CAM",
+            "ovr": 87
+          }
+        ],
+        "tags": [
+          "亚军"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NED_2010_16",
+        "name_cn": "Edson Braafheid",
+        "name_en": "Edson Braafheid",
+        "age": 30,
+        "squad_no": 16,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 82
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NED_2010_17",
+        "name_cn": "Michel Vorm",
+        "name_en": "Michel Vorm",
+        "age": 33,
+        "squad_no": 17,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NED_2010_18",
+        "name_cn": "Eljero Elia",
+        "name_en": "Eljero Elia",
+        "age": 27,
+        "squad_no": 18,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NED_2010_19",
+        "name_cn": "Stijn Schaars",
+        "name_en": "Stijn Schaars",
+        "age": 28,
+        "squad_no": 19,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NED_2010_20",
+        "name_cn": "Ryan Babel",
+        "name_en": "Ryan Babel",
+        "age": 31,
+        "squad_no": 20,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NED_2010_21",
+        "name_cn": "Ibrahim Afellay",
+        "name_en": "Ibrahim Afellay",
+        "age": 30,
+        "squad_no": 21,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NED_2010_22",
+        "name_cn": "Klaas-Jan Huntelaar",
+        "name_en": "Klaas-Jan Huntelaar",
+        "age": 26,
+        "squad_no": 22,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NED_2010_23",
+        "name_cn": "Sander Boschker",
+        "name_en": "Sander Boschker",
+        "age": 29,
+        "squad_no": 23,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 81
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      }
+    ],
+    "2014": [
+      {
+        "id": "NED_2014_01",
+        "name_cn": "西莱森",
+        "name_en": "Cillessen",
+        "age": 30,
+        "squad_no": 1,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NED_2014_02",
+        "name_cn": "Ron Vlaar",
+        "name_en": "Ron Vlaar",
+        "age": 31,
+        "squad_no": 2,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 84
+          },
+          {
+            "pos": "RB",
+            "ovr": 81
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NED_2014_03",
+        "name_cn": "德弗里",
+        "name_en": "de Vrij",
+        "age": 28,
+        "squad_no": 3,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 84
+          }
+        ],
+        "tags": [
+          "季军"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NED_2014_04",
+        "name_cn": "马蒂斯",
+        "name_en": "Martins Indi",
+        "age": 23,
+        "squad_no": 4,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NED_2014_05",
+        "name_cn": "布林德",
+        "name_en": "Blind",
+        "age": 33,
+        "squad_no": 5,
+        "positions": [
+          {
+            "pos": "LB",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NED_2014_06",
+        "name_cn": "Bruno Martins Indi",
+        "name_en": "Bruno Martins Indi",
+        "age": 23,
+        "squad_no": 6,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NED_2014_07",
+        "name_cn": "德佩",
+        "name_en": "Depay",
+        "age": 32,
+        "squad_no": 7,
+        "positions": [
+          {
+            "pos": "LW",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NED_2014_08",
+        "name_cn": "德容",
+        "name_en": "de Jong",
+        "age": 32,
+        "squad_no": 8,
+        "positions": [
+          {
+            "pos": "DM",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NED_2014_09",
+        "name_cn": "范佩西",
+        "name_en": "van Persie",
+        "age": 30,
+        "squad_no": 9,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 90
+          }
+        ],
+        "tags": [
+          "季军队长"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NED_2014_10",
+        "name_cn": "罗本",
+        "name_en": "Robben",
+        "age": 33,
+        "squad_no": 10,
+        "positions": [
+          {
+            "pos": "RW",
+            "ovr": 92
+          },
+          {
+            "pos": "LW",
+            "ovr": 87
+          }
+        ],
+        "tags": [
+          "季军"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NED_2014_11",
+        "name_cn": "斯内德",
+        "name_en": "Sneijder",
+        "age": 25,
+        "squad_no": 11,
+        "positions": [
+          {
+            "pos": "CAM",
+            "ovr": 87
+          }
+        ],
+        "tags": [
+          "季军"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NED_2014_12",
+        "name_cn": "Jonathan de Guzmán",
+        "name_en": "Jonathan de Guzmán",
+        "age": 28,
+        "squad_no": 12,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 84
+          },
+          {
+            "pos": "DM",
+            "ovr": 82
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NED_2014_13",
+        "name_cn": "Paul Verhaegh",
+        "name_en": "Paul Verhaegh",
+        "age": 29,
+        "squad_no": 13,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 82
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NED_2014_14",
+        "name_cn": "维纳尔杜姆",
+        "name_en": "Wijnaldum",
+        "age": 25,
+        "squad_no": 14,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NED_2014_15",
+        "name_cn": "杨马特",
+        "name_en": "Janmaat",
+        "age": 28,
+        "squad_no": 15,
+        "positions": [
+          {
+            "pos": "RB",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NED_2014_16",
+        "name_cn": "Joël Veltman",
+        "name_en": "Joël Veltman",
+        "age": 27,
+        "squad_no": 16,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 82
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NED_2014_17",
+        "name_cn": "Terence Kongolo",
+        "name_en": "Terence Kongolo",
+        "age": 29,
+        "squad_no": 17,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 82
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NED_2014_18",
+        "name_cn": "Dirk Kuyt",
+        "name_en": "Dirk Kuyt",
+        "age": 28,
+        "squad_no": 18,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 82
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NED_2014_19",
+        "name_cn": "亨特拉尔",
+        "name_en": "Huntelaar",
+        "age": 28,
+        "squad_no": 19,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NED_2014_20",
+        "name_cn": "Jordy Clasie",
+        "name_en": "Jordy Clasie",
+        "age": 33,
+        "squad_no": 20,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 82
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NED_2014_21",
+        "name_cn": "Jeremain Lens",
+        "name_en": "Jeremain Lens",
+        "age": 23,
+        "squad_no": 21,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NED_2014_22",
+        "name_cn": "Leroy Fer",
+        "name_en": "Leroy Fer",
+        "age": 27,
+        "squad_no": 22,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NED_2014_23",
+        "name_cn": "Michel Vorm",
+        "name_en": "Michel Vorm",
+        "age": 28,
+        "squad_no": 23,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 81
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      }
+    ],
+    "2022": [
+      {
+        "id": "NED_2022_01",
+        "name_cn": "诺珀特",
+        "name_en": "Noppert",
+        "age": 27,
+        "squad_no": 1,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NED_2022_02",
+        "name_cn": "Remko Pasveer",
+        "name_en": "Remko Pasveer",
+        "age": 32,
+        "squad_no": 2,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NED_2022_03",
+        "name_cn": "德利赫特",
+        "name_en": "de Ligt",
+        "age": 26,
+        "squad_no": 3,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 87
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NED_2022_04",
+        "name_cn": "范戴克",
+        "name_en": "van Dijk",
+        "age": 27,
+        "squad_no": 4,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 90
+          }
+        ],
+        "tags": [
+          "队长"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NED_2022_05",
+        "name_cn": "阿凯",
+        "name_en": "Aké",
+        "age": 24,
+        "squad_no": 5,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 84
+          },
+          {
+            "pos": "LB",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NED_2022_06",
+        "name_cn": "德容",
+        "name_en": "F. de Jong",
+        "age": 32,
+        "squad_no": 6,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 87
+          },
+          {
+            "pos": "DM",
+            "ovr": 85
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NED_2022_07",
+        "name_cn": "Jurriën Timber",
+        "name_en": "Jurriën Timber",
+        "age": 29,
+        "squad_no": 7,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 84
+          },
+          {
+            "pos": "RB",
+            "ovr": 81
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NED_2022_08",
+        "name_cn": "科普梅纳斯",
+        "name_en": "Koopmeiners",
+        "age": 23,
+        "squad_no": 8,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 84
+          },
+          {
+            "pos": "DM",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NED_2022_09",
+        "name_cn": "哈坎·伯格",
+        "name_en": "Bergwijn",
+        "age": 23,
+        "squad_no": 9,
+        "positions": [
+          {
+            "pos": "RW",
+            "ovr": 83
+          },
+          {
+            "pos": "LW",
+            "ovr": 82
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NED_2022_10",
+        "name_cn": "德佩",
+        "name_en": "Depay",
+        "age": 23,
+        "squad_no": 10,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 85
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NED_2022_11",
+        "name_cn": "德弗里",
+        "name_en": "Stefan de Vrij",
+        "age": 23,
+        "squad_no": 11,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NED_2022_12",
+        "name_cn": "Steven Berghuis",
+        "name_en": "Steven Berghuis",
+        "age": 28,
+        "squad_no": 12,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NED_2022_13",
+        "name_cn": "Noa Lang",
+        "name_en": "Noa Lang",
+        "age": 23,
+        "squad_no": 13,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 82
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NED_2022_14",
+        "name_cn": "加克波",
+        "name_en": "Gakpo",
+        "age": 33,
+        "squad_no": 14,
+        "positions": [
+          {
+            "pos": "LW",
+            "ovr": 87
+          },
+          {
+            "pos": "ST",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NED_2022_15",
+        "name_cn": "德隆",
+        "name_en": "de Roon",
+        "age": 33,
+        "squad_no": 15,
+        "positions": [
+          {
+            "pos": "DM",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NED_2022_16",
+        "name_cn": "Justin Bijlow",
+        "name_en": "Justin Bijlow",
+        "age": 27,
+        "squad_no": 16,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NED_2022_17",
+        "name_cn": "布林德",
+        "name_en": "Blind",
+        "age": 24,
+        "squad_no": 17,
+        "positions": [
+          {
+            "pos": "LB",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NED_2022_18",
+        "name_cn": "Tyrell Malacia",
+        "name_en": "Tyrell Malacia",
+        "age": 30,
+        "squad_no": 18,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 82
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NED_2022_19",
+        "name_cn": "维霍斯特",
+        "name_en": "Weghorst",
+        "age": 22,
+        "squad_no": 19,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 82
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NED_2022_20",
+        "name_cn": "Vincent Janssen",
+        "name_en": "Vincent Janssen",
+        "age": 31,
+        "squad_no": 20,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NED_2022_21",
+        "name_cn": "克拉森",
+        "name_en": "Klaassen",
+        "age": 30,
+        "squad_no": 21,
+        "positions": [
+          {
+            "pos": "CAM",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NED_2022_22",
+        "name_cn": "邓弗里斯",
+        "name_en": "Dumfries",
+        "age": 30,
+        "squad_no": 22,
+        "positions": [
+          {
+            "pos": "RB",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NED_2022_24",
+        "name_cn": "Kenneth Taylor",
+        "name_en": "Kenneth Taylor",
+        "age": 27,
+        "squad_no": 24,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 79
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NED_2022_25",
+        "name_cn": "Xavi Simons",
+        "name_en": "Xavi Simons",
+        "age": 32,
+        "squad_no": 25,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 79
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NED_2022_26",
+        "name_cn": "Jeremie Frimpong",
+        "name_en": "Jeremie Frimpong",
+        "age": 23,
+        "squad_no": 26,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 79
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      }
+    ],
+    "2026": [
+      {
+        "id": "NED_2026_01",
+        "name_cn": "维尔布鲁根",
+        "name_en": "Verbruggen",
+        "age": 28,
+        "squad_no": 1,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NED_2026_02",
+        "name_cn": "Mark Flekken",
+        "name_en": "Mark Flekken",
+        "age": 27,
+        "squad_no": 2,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NED_2026_03",
+        "name_cn": "德利赫特",
+        "name_en": "de Ligt",
+        "age": 32,
+        "squad_no": 3,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 85
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NED_2026_04",
+        "name_cn": "范戴克",
+        "name_en": "van Dijk",
+        "age": 28,
+        "squad_no": 4,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 87
+          }
+        ],
+        "tags": [
+          "队长"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NED_2026_05",
+        "name_cn": "阿凯",
+        "name_en": "Aké",
+        "age": 33,
+        "squad_no": 5,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NED_2026_06",
+        "name_cn": "廷贝尔",
+        "name_en": "Timber",
+        "age": 22,
+        "squad_no": 6,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 84
+          },
+          {
+            "pos": "RB",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NED_2026_07",
+        "name_cn": "贝尔温",
+        "name_en": "Bergwijn",
+        "age": 26,
+        "squad_no": 7,
+        "positions": [
+          {
+            "pos": "RW",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NED_2026_08",
+        "name_cn": "加克波",
+        "name_en": "Gakpo",
+        "age": 31,
+        "squad_no": 8,
+        "positions": [
+          {
+            "pos": "LW",
+            "ovr": 87
+          },
+          {
+            "pos": "ST",
+            "ovr": 85
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NED_2026_09",
+        "name_cn": "Robin Roefs",
+        "name_en": "Robin Roefs",
+        "age": 26,
+        "squad_no": 9,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NED_2026_10",
+        "name_cn": "德佩",
+        "name_en": "Depay",
+        "age": 27,
+        "squad_no": 10,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NED_2026_11",
+        "name_cn": "西蒙斯",
+        "name_en": "Simons",
+        "age": 23,
+        "squad_no": 11,
+        "positions": [
+          {
+            "pos": "CAM",
+            "ovr": 87
+          },
+          {
+            "pos": "LW",
+            "ovr": 85
+          },
+          {
+            "pos": "RW",
+            "ovr": 83
+          }
+        ],
+        "tags": [
+          "新星"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NED_2026_12",
+        "name_cn": "哈托",
+        "name_en": "Hato",
+        "age": 31,
+        "squad_no": 12,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NED_2026_13",
+        "name_cn": "Jan Paul van Hecke",
+        "name_en": "Jan Paul van Hecke",
+        "age": 30,
+        "squad_no": 13,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NED_2026_14",
+        "name_cn": "维赫斯特",
+        "name_en": "Weghorst",
+        "age": 25,
+        "squad_no": 14,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NED_2026_15",
+        "name_cn": "赖恩德斯",
+        "name_en": "Reijnders",
+        "age": 24,
+        "squad_no": 15,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 87
+          },
+          {
+            "pos": "CAM",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NED_2026_16",
+        "name_cn": "Micky van de Ven",
+        "name_en": "Micky van de Ven",
+        "age": 32,
+        "squad_no": 16,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NED_2026_17",
+        "name_cn": "Marten de Roon",
+        "name_en": "Marten de Roon",
+        "age": 29,
+        "squad_no": 17,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NED_2026_18",
+        "name_cn": "Ryan Gravenberch",
+        "name_en": "Ryan Gravenberch",
+        "age": 25,
+        "squad_no": 18,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NED_2026_19",
+        "name_cn": "马伦",
+        "name_en": "Malen",
+        "age": 23,
+        "squad_no": 19,
+        "positions": [
+          {
+            "pos": "RW",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NED_2026_20",
+        "name_cn": "Teun Koopmeiners",
+        "name_en": "Teun Koopmeiners",
+        "age": 27,
+        "squad_no": 20,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NED_2026_21",
+        "name_cn": "德容",
+        "name_en": "F. de Jong",
+        "age": 30,
+        "squad_no": 21,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 87
+          },
+          {
+            "pos": "DM",
+            "ovr": 85
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NED_2026_22",
+        "name_cn": "邓弗里斯",
+        "name_en": "Dumfries",
+        "age": 27,
+        "squad_no": 22,
+        "positions": [
+          {
+            "pos": "RB",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NED_2026_23",
+        "name_cn": "Guus Til",
+        "name_en": "Guus Til",
+        "age": 23,
+        "squad_no": 23,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NED_2026_24",
+        "name_cn": "Mats Wieffer",
+        "name_en": "Mats Wieffer",
+        "age": 26,
+        "squad_no": 24,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NED_2026_25",
+        "name_cn": "Brian Brobbey",
+        "name_en": "Brian Brobbey",
+        "age": 31,
+        "squad_no": 25,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 81
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NED_2026_26",
+        "name_cn": "Justin Kluivert",
+        "name_en": "Justin Kluivert",
+        "age": 25,
+        "squad_no": 26,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 81
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      }
+    ]
+  }
+}

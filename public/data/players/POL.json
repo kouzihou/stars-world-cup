@@ -1,0 +1,1513 @@
+{
+  "country_code": "POL",
+  "squads": {
+    "2002": [
+      {
+        "id": "POL_2002_01",
+        "name_cn": "Jerzy Dudek",
+        "name_en": "Jerzy Dudek",
+        "age": 29,
+        "squad_no": 1,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "POL_2002_02",
+        "name_cn": "Tomasz Kłos",
+        "name_en": "Tomasz Kłos",
+        "age": 29,
+        "squad_no": 2,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          },
+          {
+            "pos": "RB",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "POL_2002_03",
+        "name_cn": "Jacek Zieliński",
+        "name_en": "Jacek Zieliński",
+        "age": 26,
+        "squad_no": 3,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          },
+          {
+            "pos": "LB",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "POL_2002_04",
+        "name_cn": "Michał Żewłakow",
+        "name_en": "Michał Żewłakow",
+        "age": 22,
+        "squad_no": 4,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "POL_2002_05",
+        "name_cn": "Tomasz Rząsa",
+        "name_en": "Tomasz Rząsa",
+        "age": 28,
+        "squad_no": 5,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "POL_2002_06",
+        "name_cn": "Tomasz Hajto",
+        "name_en": "Tomasz Hajto",
+        "age": 26,
+        "squad_no": 6,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "POL_2002_07",
+        "name_cn": "Piotr Świerczewski",
+        "name_en": "Piotr Świerczewski",
+        "age": 31,
+        "squad_no": 7,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "POL_2002_08",
+        "name_cn": "Cezary Kucharski",
+        "name_en": "Cezary Kucharski",
+        "age": 25,
+        "squad_no": 8,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "POL_2002_09",
+        "name_cn": "Paweł Kryszałowicz",
+        "name_en": "Paweł Kryszałowicz",
+        "age": 22,
+        "squad_no": 9,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 73
+          },
+          {
+            "pos": "CAM",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "POL_2002_10",
+        "name_cn": "Radosław Kałużny",
+        "name_en": "Radosław Kałużny",
+        "age": 30,
+        "squad_no": 10,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          },
+          {
+            "pos": "CAM",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "POL_2002_11",
+        "name_cn": "Emmanuel Olisadebe",
+        "name_en": "Emmanuel Olisadebe",
+        "age": 27,
+        "squad_no": 11,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 73
+          },
+          {
+            "pos": "LW",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "POL_2002_12",
+        "name_cn": "Radosław Majdan",
+        "name_en": "Radosław Majdan",
+        "age": 25,
+        "squad_no": 12,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 72
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "POL_2002_13",
+        "name_cn": "Arkadiusz Głowacki",
+        "name_en": "Arkadiusz Głowacki",
+        "age": 28,
+        "squad_no": 13,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "POL_2002_15",
+        "name_cn": "Tomasz Wałdoch",
+        "name_en": "Tomasz Wałdoch",
+        "age": 30,
+        "squad_no": 15,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "POL_2002_16",
+        "name_cn": "Maciej Murawski",
+        "name_en": "Maciej Murawski",
+        "age": 28,
+        "squad_no": 16,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "POL_2002_17",
+        "name_cn": "Arkadiusz Bąk",
+        "name_en": "Arkadiusz Bąk",
+        "age": 28,
+        "squad_no": 17,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "POL_2002_18",
+        "name_cn": "Jacek Krzynówek",
+        "name_en": "Jacek Krzynówek",
+        "age": 25,
+        "squad_no": 18,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "POL_2002_19",
+        "name_cn": "Maciej Żurawski",
+        "name_en": "Maciej Żurawski",
+        "age": 24,
+        "squad_no": 19,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "POL_2002_20",
+        "name_cn": "Jacek Bąk",
+        "name_en": "Jacek Bąk",
+        "age": 33,
+        "squad_no": 20,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "POL_2002_21",
+        "name_cn": "Marek Koźmiński",
+        "name_en": "Marek Koźmiński",
+        "age": 33,
+        "squad_no": 21,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "POL_2002_22",
+        "name_cn": "Adam Matysek",
+        "name_en": "Adam Matysek",
+        "age": 32,
+        "squad_no": 22,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "POL_2002_23",
+        "name_cn": "Paweł Sibik",
+        "name_en": "Paweł Sibik",
+        "age": 28,
+        "squad_no": 23,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 68
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      }
+    ],
+    "2006": [
+      {
+        "id": "POL_2006_01",
+        "name_cn": "Artur Boruc",
+        "name_en": "Artur Boruc",
+        "age": 28,
+        "squad_no": 1,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "POL_2006_02",
+        "name_cn": "Mariusz Jop",
+        "name_en": "Mariusz Jop",
+        "age": 25,
+        "squad_no": 2,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          },
+          {
+            "pos": "RB",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "POL_2006_03",
+        "name_cn": "Seweryn Gancarczyk",
+        "name_en": "Seweryn Gancarczyk",
+        "age": 26,
+        "squad_no": 3,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          },
+          {
+            "pos": "LB",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "POL_2006_04",
+        "name_cn": "Marcin Baszczyński",
+        "name_en": "Marcin Baszczyński",
+        "age": 23,
+        "squad_no": 4,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "POL_2006_05",
+        "name_cn": "Kamil Kosowski",
+        "name_en": "Kamil Kosowski",
+        "age": 28,
+        "squad_no": 5,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "POL_2006_06",
+        "name_cn": "Jacek Bąk",
+        "name_en": "Jacek Bąk",
+        "age": 32,
+        "squad_no": 6,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "POL_2006_07",
+        "name_cn": "Radosław Sobolewski",
+        "name_en": "Radosław Sobolewski",
+        "age": 25,
+        "squad_no": 7,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "POL_2006_08",
+        "name_cn": "Jacek Krzynówek",
+        "name_en": "Jacek Krzynówek",
+        "age": 30,
+        "squad_no": 8,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          },
+          {
+            "pos": "DM",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "POL_2006_09",
+        "name_cn": "Maciej Żurawski",
+        "name_en": "Maciej Żurawski",
+        "age": 31,
+        "squad_no": 9,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 73
+          },
+          {
+            "pos": "CAM",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "POL_2006_10",
+        "name_cn": "Mirosław Szymkowiak",
+        "name_en": "Mirosław Szymkowiak",
+        "age": 33,
+        "squad_no": 10,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          },
+          {
+            "pos": "CAM",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "POL_2006_11",
+        "name_cn": "Grzegorz Rasiak",
+        "name_en": "Grzegorz Rasiak",
+        "age": 32,
+        "squad_no": 11,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 73
+          },
+          {
+            "pos": "LW",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "POL_2006_12",
+        "name_cn": "Tomasz Kuszczak",
+        "name_en": "Tomasz Kuszczak",
+        "age": 26,
+        "squad_no": 12,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 72
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "POL_2006_13",
+        "name_cn": "Sebastian Mila",
+        "name_en": "Sebastian Mila",
+        "age": 26,
+        "squad_no": 13,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "POL_2006_14",
+        "name_cn": "Michał Żewłakow",
+        "name_en": "Michał Żewłakow",
+        "age": 32,
+        "squad_no": 14,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "POL_2006_15",
+        "name_cn": "Euzebiusz Smolarek",
+        "name_en": "Euzebiusz Smolarek",
+        "age": 33,
+        "squad_no": 15,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "POL_2006_16",
+        "name_cn": "Arkadiusz Radomski",
+        "name_en": "Arkadiusz Radomski",
+        "age": 30,
+        "squad_no": 16,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "POL_2006_17",
+        "name_cn": "Dariusz Dudka",
+        "name_en": "Dariusz Dudka",
+        "age": 26,
+        "squad_no": 17,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "POL_2006_18",
+        "name_cn": "Mariusz Lewandowski",
+        "name_en": "Mariusz Lewandowski",
+        "age": 28,
+        "squad_no": 18,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "POL_2006_19",
+        "name_cn": "Bartosz Bosacki",
+        "name_en": "Bartosz Bosacki",
+        "age": 25,
+        "squad_no": 19,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "POL_2006_20",
+        "name_cn": "Piotr Giza",
+        "name_en": "Piotr Giza",
+        "age": 23,
+        "squad_no": 20,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "POL_2006_21",
+        "name_cn": "Ireneusz Jeleń",
+        "name_en": "Ireneusz Jeleń",
+        "age": 24,
+        "squad_no": 21,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "POL_2006_22",
+        "name_cn": "Łukasz Fabiański",
+        "name_en": "Łukasz Fabiański",
+        "age": 24,
+        "squad_no": 22,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "POL_2006_23",
+        "name_cn": "Paweł Brożek",
+        "name_en": "Paweł Brożek",
+        "age": 26,
+        "squad_no": 23,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 68
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      }
+    ],
+    "2018": [
+      {
+        "id": "POL_2018_01",
+        "name_cn": "斯曾尼",
+        "name_en": "Wojciech Szczęsny",
+        "age": 23,
+        "squad_no": 1,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 87
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "POL_2018_02",
+        "name_cn": "Michał Pazdan",
+        "name_en": "Michał Pazdan",
+        "age": 32,
+        "squad_no": 2,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          },
+          {
+            "pos": "RB",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "POL_2018_03",
+        "name_cn": "Artur Jędrzejczyk",
+        "name_en": "Artur Jędrzejczyk",
+        "age": 29,
+        "squad_no": 3,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          },
+          {
+            "pos": "LB",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "POL_2018_04",
+        "name_cn": "Thiago Cionek",
+        "name_en": "Thiago Cionek",
+        "age": 31,
+        "squad_no": 4,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "POL_2018_05",
+        "name_cn": "Jan Bednarek",
+        "name_en": "Jan Bednarek",
+        "age": 29,
+        "squad_no": 5,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "POL_2018_06",
+        "name_cn": "Jacek Góralski",
+        "name_en": "Jacek Góralski",
+        "age": 26,
+        "squad_no": 6,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          },
+          {
+            "pos": "DM",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "POL_2018_07",
+        "name_cn": "米利克",
+        "name_en": "Arkadiusz Milik",
+        "age": 33,
+        "squad_no": 7,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "POL_2018_08",
+        "name_cn": "Karol Linetty",
+        "name_en": "Karol Linetty",
+        "age": 31,
+        "squad_no": 8,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          },
+          {
+            "pos": "DM",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "POL_2018_09",
+        "name_cn": "莱万多夫斯基",
+        "name_en": "Robert Lewandowski",
+        "age": 29,
+        "squad_no": 9,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 94
+          }
+        ],
+        "tags": [
+          "金靴怪兽",
+          "队长"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "POL_2018_10",
+        "name_cn": "克里乔维亚克",
+        "name_en": "Grzegorz Krychowiak",
+        "age": 25,
+        "squad_no": 10,
+        "positions": [
+          {
+            "pos": "DM",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "POL_2018_11",
+        "name_cn": "Kamil Grosicki",
+        "name_en": "Kamil Grosicki",
+        "age": 27,
+        "squad_no": 11,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "POL_2018_12",
+        "name_cn": "Bartosz Białkowski",
+        "name_en": "Bartosz Białkowski",
+        "age": 22,
+        "squad_no": 12,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 72
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "POL_2018_13",
+        "name_cn": "Maciej Rybus",
+        "name_en": "Maciej Rybus",
+        "age": 24,
+        "squad_no": 13,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "POL_2018_14",
+        "name_cn": "Łukasz Teodorczyk",
+        "name_en": "Łukasz Teodorczyk",
+        "age": 22,
+        "squad_no": 14,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "POL_2018_15",
+        "name_cn": "Kamil Glik",
+        "name_en": "Kamil Glik",
+        "age": 30,
+        "squad_no": 15,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "POL_2018_16",
+        "name_cn": "Jakub Błaszczykowski",
+        "name_en": "Jakub Błaszczykowski",
+        "age": 22,
+        "squad_no": 16,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "POL_2018_17",
+        "name_cn": "Sławomir Peszko",
+        "name_en": "Sławomir Peszko",
+        "age": 24,
+        "squad_no": 17,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "POL_2018_18",
+        "name_cn": "Bartosz Bereszyński",
+        "name_en": "Bartosz Bereszyński",
+        "age": 23,
+        "squad_no": 18,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "POL_2018_19",
+        "name_cn": "齐林斯基",
+        "name_en": "Piotr Zieliński",
+        "age": 26,
+        "squad_no": 19,
+        "positions": [
+          {
+            "pos": "CAM",
+            "ovr": 87
+          },
+          {
+            "pos": "CM",
+            "ovr": 85
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "POL_2018_20",
+        "name_cn": "Łukasz Piszczek",
+        "name_en": "Łukasz Piszczek",
+        "age": 26,
+        "squad_no": 20,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "POL_2018_21",
+        "name_cn": "Rafał Kurzawa",
+        "name_en": "Rafał Kurzawa",
+        "age": 24,
+        "squad_no": 21,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "POL_2018_22",
+        "name_cn": "Łukasz Fabiański",
+        "name_en": "Łukasz Fabiański",
+        "age": 33,
+        "squad_no": 22,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "POL_2018_23",
+        "name_cn": "Dawid Kownacki",
+        "name_en": "Dawid Kownacki",
+        "age": 29,
+        "squad_no": 23,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 68
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      }
+    ],
+    "2022": [
+      {
+        "id": "POL_2022_01",
+        "name_cn": "斯曾尼",
+        "name_en": "Wojciech Szczęsny",
+        "age": 33,
+        "squad_no": 1,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 87
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "POL_2022_02",
+        "name_cn": "Matty Cash",
+        "name_en": "Matty Cash",
+        "age": 22,
+        "squad_no": 2,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          },
+          {
+            "pos": "RB",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "POL_2022_03",
+        "name_cn": "Artur Jędrzejczyk",
+        "name_en": "Artur Jędrzejczyk",
+        "age": 25,
+        "squad_no": 3,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          },
+          {
+            "pos": "LB",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "POL_2022_04",
+        "name_cn": "Mateusz Wieteska",
+        "name_en": "Mateusz Wieteska",
+        "age": 23,
+        "squad_no": 4,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "POL_2022_05",
+        "name_cn": "Jan Bednarek",
+        "name_en": "Jan Bednarek",
+        "age": 24,
+        "squad_no": 5,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "POL_2022_06",
+        "name_cn": "Krystian Bielik",
+        "name_en": "Krystian Bielik",
+        "age": 22,
+        "squad_no": 6,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          },
+          {
+            "pos": "DM",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "POL_2022_07",
+        "name_cn": "米利克",
+        "name_en": "Arkadiusz Milik",
+        "age": 29,
+        "squad_no": 7,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "POL_2022_08",
+        "name_cn": "Damian Szymański",
+        "name_en": "Damian Szymański",
+        "age": 25,
+        "squad_no": 8,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          },
+          {
+            "pos": "DM",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "POL_2022_09",
+        "name_cn": "莱万多夫斯基",
+        "name_en": "Robert Lewandowski",
+        "age": 27,
+        "squad_no": 9,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 94
+          }
+        ],
+        "tags": [
+          "金靴怪兽",
+          "队长"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "POL_2022_10",
+        "name_cn": "克里乔维亚克",
+        "name_en": "Grzegorz Krychowiak",
+        "age": 28,
+        "squad_no": 10,
+        "positions": [
+          {
+            "pos": "DM",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "POL_2022_11",
+        "name_cn": "Kamil Grosicki",
+        "name_en": "Kamil Grosicki",
+        "age": 26,
+        "squad_no": 11,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "POL_2022_12",
+        "name_cn": "Łukasz Skorupski",
+        "name_en": "Łukasz Skorupski",
+        "age": 29,
+        "squad_no": 12,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 72
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "POL_2022_13",
+        "name_cn": "Jakub Kamiński",
+        "name_en": "Jakub Kamiński",
+        "age": 27,
+        "squad_no": 13,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "POL_2022_14",
+        "name_cn": "基维奥尔",
+        "name_en": "Jakub Kiwior",
+        "age": 29,
+        "squad_no": 14,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "POL_2022_15",
+        "name_cn": "Kamil Glik",
+        "name_en": "Kamil Glik",
+        "age": 33,
+        "squad_no": 15,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "POL_2022_16",
+        "name_cn": "Karol Świderski",
+        "name_en": "Karol Świderski",
+        "age": 22,
+        "squad_no": 16,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "POL_2022_17",
+        "name_cn": "Szymon Żurkowski",
+        "name_en": "Szymon Żurkowski",
+        "age": 27,
+        "squad_no": 17,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "POL_2022_18",
+        "name_cn": "Bartosz Bereszyński",
+        "name_en": "Bartosz Bereszyński",
+        "age": 23,
+        "squad_no": 18,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "POL_2022_19",
+        "name_cn": "Sebastian Szymański",
+        "name_en": "Sebastian Szymański",
+        "age": 24,
+        "squad_no": 19,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "POL_2022_20",
+        "name_cn": "齐林斯基",
+        "name_en": "Piotr Zieliński",
+        "age": 22,
+        "squad_no": 20,
+        "positions": [
+          {
+            "pos": "CAM",
+            "ovr": 87
+          },
+          {
+            "pos": "CM",
+            "ovr": 85
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "POL_2022_21",
+        "name_cn": "Nicola Zalewski",
+        "name_en": "Nicola Zalewski",
+        "age": 26,
+        "squad_no": 21,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "POL_2022_22",
+        "name_cn": "Kamil Grabara",
+        "name_en": "Kamil Grabara",
+        "age": 28,
+        "squad_no": 22,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "POL_2022_23",
+        "name_cn": "彼得格林斯基",
+        "name_en": "Krzysztof Piątek",
+        "age": 23,
+        "squad_no": 23,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "POL_2022_24",
+        "name_cn": "Przemysław Frankowski",
+        "name_en": "Przemysław Frankowski",
+        "age": 30,
+        "squad_no": 24,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 68
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "POL_2022_25",
+        "name_cn": "Robert Gumny",
+        "name_en": "Robert Gumny",
+        "age": 29,
+        "squad_no": 25,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 68
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "POL_2022_26",
+        "name_cn": "Michał Skóraś",
+        "name_en": "Michał Skóraś",
+        "age": 24,
+        "squad_no": 26,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 68
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      }
+    ]
+  }
+}

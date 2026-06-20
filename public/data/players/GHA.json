@@ -1,0 +1,1912 @@
+{
+  "country_code": "GHA",
+  "squads": {
+    "2006": [
+      {
+        "id": "GHA_2006_01",
+        "name_cn": "Sammy Adjei",
+        "name_en": "Sammy Adjei",
+        "age": 31,
+        "squad_no": 1,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GHA_2006_02",
+        "name_cn": "Hans Sarpei",
+        "name_en": "Hans Sarpei",
+        "age": 32,
+        "squad_no": 2,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GHA_2006_03",
+        "name_cn": "阿萨莫阿·吉安",
+        "name_en": "Asamoah Gyan",
+        "age": 29,
+        "squad_no": 3,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 87
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GHA_2006_04",
+        "name_cn": "Samuel Kuffour",
+        "name_en": "Samuel Kuffour",
+        "age": 24,
+        "squad_no": 4,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GHA_2006_05",
+        "name_cn": "John Mensah",
+        "name_en": "John Mensah",
+        "age": 23,
+        "squad_no": 5,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GHA_2006_06",
+        "name_cn": "Emmanuel Pappoe",
+        "name_en": "Emmanuel Pappoe",
+        "age": 30,
+        "squad_no": 6,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GHA_2006_07",
+        "name_cn": "Illiasu Shilla",
+        "name_en": "Illiasu Shilla",
+        "age": 23,
+        "squad_no": 7,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GHA_2006_08",
+        "name_cn": "埃辛",
+        "name_en": "Michael Essien",
+        "age": 33,
+        "squad_no": 8,
+        "positions": [
+          {
+            "pos": "DM",
+            "ovr": 90
+          },
+          {
+            "pos": "CM",
+            "ovr": 87
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GHA_2006_09",
+        "name_cn": "Derek Boateng",
+        "name_en": "Derek Boateng",
+        "age": 33,
+        "squad_no": 9,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GHA_2006_10",
+        "name_cn": "阿皮亚",
+        "name_en": "Stephen Appiah",
+        "age": 23,
+        "squad_no": 10,
+        "positions": [
+          {
+            "pos": "CAM",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GHA_2006_11",
+        "name_cn": "Sulley Muntari",
+        "name_en": "Sulley Muntari",
+        "age": 26,
+        "squad_no": 11,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GHA_2006_12",
+        "name_cn": "Alex Tachie-Mensah",
+        "name_en": "Alex Tachie-Mensah",
+        "age": 32,
+        "squad_no": 12,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GHA_2006_13",
+        "name_cn": "Habib Mohamed",
+        "name_en": "Habib Mohamed",
+        "age": 25,
+        "squad_no": 13,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GHA_2006_14",
+        "name_cn": "Matthew Amoah",
+        "name_en": "Matthew Amoah",
+        "age": 29,
+        "squad_no": 14,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GHA_2006_15",
+        "name_cn": "John Paintsil",
+        "name_en": "John Paintsil",
+        "age": 26,
+        "squad_no": 15,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GHA_2006_16",
+        "name_cn": "George Owu",
+        "name_en": "George Owu",
+        "age": 26,
+        "squad_no": 16,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 72
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GHA_2006_17",
+        "name_cn": "Daniel Quaye",
+        "name_en": "Daniel Quaye",
+        "age": 29,
+        "squad_no": 17,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GHA_2006_18",
+        "name_cn": "Eric Addo",
+        "name_en": "Eric Addo",
+        "age": 22,
+        "squad_no": 18,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GHA_2006_19",
+        "name_cn": "Razak Pimpong",
+        "name_en": "Razak Pimpong",
+        "age": 23,
+        "squad_no": 19,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GHA_2006_20",
+        "name_cn": "Otto Addo",
+        "name_en": "Otto Addo",
+        "age": 24,
+        "squad_no": 20,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GHA_2006_21",
+        "name_cn": "Issah Ahmed",
+        "name_en": "Issah Ahmed",
+        "age": 22,
+        "squad_no": 21,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GHA_2006_22",
+        "name_cn": "Richard Kingson",
+        "name_en": "Richard Kingson",
+        "age": 26,
+        "squad_no": 22,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GHA_2006_23",
+        "name_cn": "Haminu Draman",
+        "name_en": "Haminu Draman",
+        "age": 27,
+        "squad_no": 23,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 68
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      }
+    ],
+    "2010": [
+      {
+        "id": "GHA_2010_01",
+        "name_cn": "Daniel Agyei",
+        "name_en": "Daniel Agyei",
+        "age": 32,
+        "squad_no": 1,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GHA_2010_02",
+        "name_cn": "Hans Sarpei",
+        "name_en": "Hans Sarpei",
+        "age": 27,
+        "squad_no": 2,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          },
+          {
+            "pos": "RB",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GHA_2010_03",
+        "name_cn": "阿萨莫阿·吉安",
+        "name_en": "Asamoah Gyan",
+        "age": 28,
+        "squad_no": 3,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 87
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GHA_2010_04",
+        "name_cn": "John Paintsil",
+        "name_en": "John Paintsil",
+        "age": 33,
+        "squad_no": 4,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GHA_2010_05",
+        "name_cn": "John Mensah",
+        "name_en": "John Mensah",
+        "age": 23,
+        "squad_no": 5,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GHA_2010_06",
+        "name_cn": "Anthony Annan",
+        "name_en": "Anthony Annan",
+        "age": 23,
+        "squad_no": 6,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          },
+          {
+            "pos": "DM",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GHA_2010_07",
+        "name_cn": "Samuel Inkoom",
+        "name_en": "Samuel Inkoom",
+        "age": 22,
+        "squad_no": 7,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GHA_2010_08",
+        "name_cn": "埃辛",
+        "name_en": "Essien",
+        "age": 22,
+        "squad_no": 8,
+        "positions": [
+          {
+            "pos": "DM",
+            "ovr": 90
+          },
+          {
+            "pos": "CM",
+            "ovr": 87
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GHA_2010_09",
+        "name_cn": "Derek Boateng",
+        "name_en": "Derek Boateng",
+        "age": 24,
+        "squad_no": 9,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GHA_2010_10",
+        "name_cn": "Stephen Appiah",
+        "name_en": "Stephen Appiah",
+        "age": 32,
+        "squad_no": 10,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          },
+          {
+            "pos": "CAM",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GHA_2010_11",
+        "name_cn": "Sulley Muntari",
+        "name_en": "Sulley Muntari",
+        "age": 32,
+        "squad_no": 11,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GHA_2010_12",
+        "name_cn": "Prince Tagoe",
+        "name_en": "Prince Tagoe",
+        "age": 24,
+        "squad_no": 12,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GHA_2010_13",
+        "name_cn": "André Ayew",
+        "name_en": "André Ayew",
+        "age": 27,
+        "squad_no": 13,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GHA_2010_14",
+        "name_cn": "Matthew Amoah",
+        "name_en": "Matthew Amoah",
+        "age": 27,
+        "squad_no": 14,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GHA_2010_15",
+        "name_cn": "Isaac Vorsah",
+        "name_en": "Isaac Vorsah",
+        "age": 29,
+        "squad_no": 15,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GHA_2010_16",
+        "name_cn": "Stephen Ahorlu",
+        "name_en": "Stephen Ahorlu",
+        "age": 31,
+        "squad_no": 16,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 72
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GHA_2010_17",
+        "name_cn": "Ibrahim Ayew",
+        "name_en": "Ibrahim Ayew",
+        "age": 26,
+        "squad_no": 17,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GHA_2010_18",
+        "name_cn": "Dominic Adiyiah",
+        "name_en": "Dominic Adiyiah",
+        "age": 33,
+        "squad_no": 18,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GHA_2010_19",
+        "name_cn": "Lee Addy",
+        "name_en": "Lee Addy",
+        "age": 23,
+        "squad_no": 19,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GHA_2010_20",
+        "name_cn": "Quincy Owusu-Abeyie",
+        "name_en": "Quincy Owusu-Abeyie",
+        "age": 27,
+        "squad_no": 20,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GHA_2010_21",
+        "name_cn": "Kwadwo Asamoah",
+        "name_en": "Kwadwo Asamoah",
+        "age": 27,
+        "squad_no": 21,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GHA_2010_22",
+        "name_cn": "Richard Kingson",
+        "name_en": "Richard Kingson",
+        "age": 24,
+        "squad_no": 22,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GHA_2010_23",
+        "name_cn": "博阿滕",
+        "name_en": "Kevin-Prince Boateng",
+        "age": 23,
+        "squad_no": 23,
+        "positions": [
+          {
+            "pos": "CAM",
+            "ovr": 84
+          },
+          {
+            "pos": "CM",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      }
+    ],
+    "2014": [
+      {
+        "id": "GHA_2014_01",
+        "name_cn": "Stephen Adams",
+        "name_en": "Stephen Adams",
+        "age": 28,
+        "squad_no": 1,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GHA_2014_02",
+        "name_cn": "Samuel Inkoom",
+        "name_en": "Samuel Inkoom",
+        "age": 28,
+        "squad_no": 2,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          },
+          {
+            "pos": "RB",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GHA_2014_03",
+        "name_cn": "阿萨莫阿·吉安",
+        "name_en": "Asamoah Gyan",
+        "age": 29,
+        "squad_no": 3,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 87
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GHA_2014_04",
+        "name_cn": "Daniel Opare",
+        "name_en": "Daniel Opare",
+        "age": 26,
+        "squad_no": 4,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GHA_2014_05",
+        "name_cn": "埃辛",
+        "name_en": "Michael Essien",
+        "age": 28,
+        "squad_no": 5,
+        "positions": [
+          {
+            "pos": "DM",
+            "ovr": 90
+          },
+          {
+            "pos": "CM",
+            "ovr": 87
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GHA_2014_06",
+        "name_cn": "Afriyie Acquah",
+        "name_en": "Afriyie Acquah",
+        "age": 33,
+        "squad_no": 6,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          },
+          {
+            "pos": "DM",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GHA_2014_07",
+        "name_cn": "Christian Atsu",
+        "name_en": "Christian Atsu",
+        "age": 29,
+        "squad_no": 7,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GHA_2014_08",
+        "name_cn": "Emmanuel Agyemang-Badu",
+        "name_en": "Emmanuel Agyemang-Badu",
+        "age": 28,
+        "squad_no": 8,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          },
+          {
+            "pos": "DM",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GHA_2014_09",
+        "name_cn": "博阿滕",
+        "name_en": "Kevin-Prince Boateng",
+        "age": 32,
+        "squad_no": 9,
+        "positions": [
+          {
+            "pos": "CAM",
+            "ovr": 84
+          },
+          {
+            "pos": "CM",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GHA_2014_10",
+        "name_cn": "阿尤",
+        "name_en": "André Ayew",
+        "age": 24,
+        "squad_no": 10,
+        "positions": [
+          {
+            "pos": "LW",
+            "ovr": 83
+          },
+          {
+            "pos": "ST",
+            "ovr": 82
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GHA_2014_11",
+        "name_cn": "Sulley Muntari",
+        "name_en": "Sulley Muntari",
+        "age": 23,
+        "squad_no": 11,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GHA_2014_12",
+        "name_cn": "Adam Larsen Kwarasey",
+        "name_en": "Adam Larsen Kwarasey",
+        "age": 24,
+        "squad_no": 12,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 72
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GHA_2014_13",
+        "name_cn": "Jordan Ayew",
+        "name_en": "Jordan Ayew",
+        "age": 33,
+        "squad_no": 13,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GHA_2014_14",
+        "name_cn": "Albert Adomah",
+        "name_en": "Albert Adomah",
+        "age": 33,
+        "squad_no": 14,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GHA_2014_15",
+        "name_cn": "Rashid Sumaila",
+        "name_en": "Rashid Sumaila",
+        "age": 22,
+        "squad_no": 15,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GHA_2014_16",
+        "name_cn": "Fatau Dauda",
+        "name_en": "Fatau Dauda",
+        "age": 24,
+        "squad_no": 16,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 72
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GHA_2014_17",
+        "name_cn": "Mohammed Rabiu",
+        "name_en": "Mohammed Rabiu",
+        "age": 23,
+        "squad_no": 17,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GHA_2014_18",
+        "name_cn": "Abdul Majeed Waris",
+        "name_en": "Abdul Majeed Waris",
+        "age": 28,
+        "squad_no": 18,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GHA_2014_19",
+        "name_cn": "Jonathan Mensah",
+        "name_en": "Jonathan Mensah",
+        "age": 31,
+        "squad_no": 19,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GHA_2014_20",
+        "name_cn": "Kwadwo Asamoah",
+        "name_en": "Kwadwo Asamoah",
+        "age": 29,
+        "squad_no": 20,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GHA_2014_21",
+        "name_cn": "John Boye",
+        "name_en": "John Boye",
+        "age": 31,
+        "squad_no": 21,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GHA_2014_22",
+        "name_cn": "Mubarak Wakaso",
+        "name_en": "Mubarak Wakaso",
+        "age": 32,
+        "squad_no": 22,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GHA_2014_23",
+        "name_cn": "Harrison Afful",
+        "name_en": "Harrison Afful",
+        "age": 29,
+        "squad_no": 23,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 68
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      }
+    ],
+    "2022": [
+      {
+        "id": "GHA_2022_01",
+        "name_cn": "Lawrence Ati-Zigi",
+        "name_en": "Lawrence Ati-Zigi",
+        "age": 24,
+        "squad_no": 1,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GHA_2022_02",
+        "name_cn": "Tariq Lamptey",
+        "name_en": "Tariq Lamptey",
+        "age": 31,
+        "squad_no": 2,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          },
+          {
+            "pos": "RB",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GHA_2022_03",
+        "name_cn": "Denis Odoi",
+        "name_en": "Denis Odoi",
+        "age": 28,
+        "squad_no": 3,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          },
+          {
+            "pos": "LB",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GHA_2022_04",
+        "name_cn": "Mohammed Salisu",
+        "name_en": "Mohammed Salisu",
+        "age": 27,
+        "squad_no": 4,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GHA_2022_05",
+        "name_cn": "帕廷顿",
+        "name_en": "Thomas Partey",
+        "age": 31,
+        "squad_no": 5,
+        "positions": [
+          {
+            "pos": "DM",
+            "ovr": 87
+          },
+          {
+            "pos": "CM",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GHA_2022_06",
+        "name_cn": "Elisha Owusu",
+        "name_en": "Elisha Owusu",
+        "age": 22,
+        "squad_no": 6,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          },
+          {
+            "pos": "DM",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GHA_2022_07",
+        "name_cn": "Abdul Fatawu Issahaku",
+        "name_en": "Abdul Fatawu Issahaku",
+        "age": 32,
+        "squad_no": 7,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GHA_2022_08",
+        "name_cn": "Daniel-Kofi Kyereh",
+        "name_en": "Daniel-Kofi Kyereh",
+        "age": 33,
+        "squad_no": 8,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          },
+          {
+            "pos": "DM",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GHA_2022_09",
+        "name_cn": "阿尤",
+        "name_en": "Jordan Ayew",
+        "age": 24,
+        "squad_no": 9,
+        "positions": [
+          {
+            "pos": "LW",
+            "ovr": 83
+          },
+          {
+            "pos": "ST",
+            "ovr": 82
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GHA_2022_10",
+        "name_cn": "André Ayew",
+        "name_en": "André Ayew",
+        "age": 29,
+        "squad_no": 10,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GHA_2022_11",
+        "name_cn": "Osman Bukari",
+        "name_en": "Osman Bukari",
+        "age": 29,
+        "squad_no": 11,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GHA_2022_12",
+        "name_cn": "Ibrahim Danlad",
+        "name_en": "Ibrahim Danlad",
+        "age": 23,
+        "squad_no": 12,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 72
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GHA_2022_13",
+        "name_cn": "Daniel Afriyie",
+        "name_en": "Daniel Afriyie",
+        "age": 28,
+        "squad_no": 13,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GHA_2022_14",
+        "name_cn": "Gideon Mensah",
+        "name_en": "Gideon Mensah",
+        "age": 29,
+        "squad_no": 14,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GHA_2022_15",
+        "name_cn": "Joseph Aidoo",
+        "name_en": "Joseph Aidoo",
+        "age": 22,
+        "squad_no": 15,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GHA_2022_16",
+        "name_cn": "Abdul Manaf Nurudeen",
+        "name_en": "Abdul Manaf Nurudeen",
+        "age": 23,
+        "squad_no": 16,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 72
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GHA_2022_17",
+        "name_cn": "Baba Rahman",
+        "name_en": "Baba Rahman",
+        "age": 26,
+        "squad_no": 17,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GHA_2022_18",
+        "name_cn": "Daniel Amartey",
+        "name_en": "Daniel Amartey",
+        "age": 32,
+        "squad_no": 18,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GHA_2022_19",
+        "name_cn": "Iñaki Williams",
+        "name_en": "Iñaki Williams",
+        "age": 27,
+        "squad_no": 19,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GHA_2022_20",
+        "name_cn": "库杜斯",
+        "name_en": "Mohammed Kudus",
+        "age": 22,
+        "squad_no": 20,
+        "positions": [
+          {
+            "pos": "CAM",
+            "ovr": 87
+          },
+          {
+            "pos": "RW",
+            "ovr": 85
+          }
+        ],
+        "tags": [
+          "新星"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GHA_2022_21",
+        "name_cn": "Salis Abdul Samed",
+        "name_en": "Salis Abdul Samed",
+        "age": 33,
+        "squad_no": 21,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GHA_2022_22",
+        "name_cn": "Kamaldeen Sulemana",
+        "name_en": "Kamaldeen Sulemana",
+        "age": 32,
+        "squad_no": 22,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GHA_2022_23",
+        "name_cn": "Alexander Djiku",
+        "name_en": "Alexander Djiku",
+        "age": 30,
+        "squad_no": 23,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 68
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GHA_2022_24",
+        "name_cn": "Kamal Sowah",
+        "name_en": "Kamal Sowah",
+        "age": 33,
+        "squad_no": 24,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 68
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GHA_2022_25",
+        "name_cn": "Antoine Semenyo",
+        "name_en": "Antoine Semenyo",
+        "age": 31,
+        "squad_no": 25,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 68
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GHA_2022_26",
+        "name_cn": "Alidu Seidu",
+        "name_en": "Alidu Seidu",
+        "age": 33,
+        "squad_no": 26,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 68
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      }
+    ],
+    "2026": [
+      {
+        "id": "GHA_2026_01",
+        "name_cn": "Benjamin Asare",
+        "name_en": "Benjamin Asare",
+        "age": 31,
+        "squad_no": 1,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GHA_2026_02",
+        "name_cn": "Lawrence Ati-Zigi",
+        "name_en": "Lawrence Ati-Zigi",
+        "age": 25,
+        "squad_no": 2,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GHA_2026_03",
+        "name_cn": "Joseph Anang",
+        "name_en": "Joseph Anang",
+        "age": 32,
+        "squad_no": 3,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GHA_2026_04",
+        "name_cn": "Baba Abdul Rahman",
+        "name_en": "Baba Abdul Rahman",
+        "age": 27,
+        "squad_no": 4,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GHA_2026_05",
+        "name_cn": "Gideon Mensah",
+        "name_en": "Gideon Mensah",
+        "age": 30,
+        "squad_no": 5,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GHA_2026_06",
+        "name_cn": "Marvin Senaya",
+        "name_en": "Marvin Senaya",
+        "age": 30,
+        "squad_no": 6,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GHA_2026_07",
+        "name_cn": "Alidu Seidu",
+        "name_en": "Alidu Seidu",
+        "age": 33,
+        "squad_no": 7,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GHA_2026_08",
+        "name_cn": "Abdul Mumin",
+        "name_en": "Abdul Mumin",
+        "age": 33,
+        "squad_no": 8,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GHA_2026_09",
+        "name_cn": "Jerome Opoku",
+        "name_en": "Jerome Opoku",
+        "age": 31,
+        "squad_no": 9,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GHA_2026_10",
+        "name_cn": "Jonas Adjetey",
+        "name_en": "Jonas Adjetey",
+        "age": 23,
+        "squad_no": 10,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GHA_2026_11",
+        "name_cn": "Kojo Oppong Peprah",
+        "name_en": "Kojo Oppong Peprah",
+        "age": 28,
+        "squad_no": 11,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GHA_2026_12",
+        "name_cn": "Derrick Luckassen",
+        "name_en": "Derrick Luckassen",
+        "age": 32,
+        "squad_no": 12,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GHA_2026_13",
+        "name_cn": "Elisha Owusu",
+        "name_en": "Elisha Owusu",
+        "age": 33,
+        "squad_no": 13,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GHA_2026_14",
+        "name_cn": "帕廷顿",
+        "name_en": "Thomas Partey",
+        "age": 25,
+        "squad_no": 14,
+        "positions": [
+          {
+            "pos": "DM",
+            "ovr": 87
+          },
+          {
+            "pos": "CM",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GHA_2026_15",
+        "name_cn": "Kwasi Sibo",
+        "name_en": "Kwasi Sibo",
+        "age": 29,
+        "squad_no": 15,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GHA_2026_16",
+        "name_cn": "Augustine Boakye",
+        "name_en": "Augustine Boakye",
+        "age": 27,
+        "squad_no": 16,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GHA_2026_17",
+        "name_cn": "Caleb Yirenkyi",
+        "name_en": "Caleb Yirenkyi",
+        "age": 32,
+        "squad_no": 17,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GHA_2026_18",
+        "name_cn": "伊萨胡库",
+        "name_en": "Abdul Fatawu Issahaku",
+        "age": 32,
+        "squad_no": 18,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GHA_2026_19",
+        "name_cn": "苏莱曼纳",
+        "name_en": "Kamal Deen Sulemana",
+        "age": 32,
+        "squad_no": 19,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GHA_2026_20",
+        "name_cn": "Christopher Bonsu Baah",
+        "name_en": "Christopher Bonsu Baah",
+        "age": 28,
+        "squad_no": 20,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GHA_2026_21",
+        "name_cn": "努阿马",
+        "name_en": "Ernest Nuamah",
+        "age": 24,
+        "squad_no": 21,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GHA_2026_22",
+        "name_cn": "塞门约",
+        "name_en": "Antoine Semenyo",
+        "age": 30,
+        "squad_no": 22,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GHA_2026_23",
+        "name_cn": "Brandon Thomas-Asante",
+        "name_en": "Brandon Thomas-Asante",
+        "age": 31,
+        "squad_no": 23,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GHA_2026_24",
+        "name_cn": "Prince Kwabena Adu",
+        "name_en": "Prince Kwabena Adu",
+        "age": 22,
+        "squad_no": 24,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GHA_2026_25",
+        "name_cn": "Iñaki Williams",
+        "name_en": "Iñaki Williams",
+        "age": 22,
+        "squad_no": 25,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GHA_2026_26",
+        "name_cn": "乔丹·阿尤",
+        "name_en": "Jordan Ayew",
+        "age": 32,
+        "squad_no": 26,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      }
+    ]
+  }
+}

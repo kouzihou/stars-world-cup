@@ -1,0 +1,3742 @@
+{
+  "country_code": "KOR",
+  "squads": {
+    "1990": [
+      {
+        "id": "KOR_1990_01",
+        "name_cn": "Poong-joo Kim",
+        "name_en": "Poong-joo Kim",
+        "age": 30,
+        "squad_no": 1,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 77
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KOR_1990_02",
+        "name_cn": "Kyung-hoon Park",
+        "name_en": "Kyung-hoon Park",
+        "age": 26,
+        "squad_no": 2,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 76
+          },
+          {
+            "pos": "RB",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KOR_1990_03",
+        "name_cn": "Kang-hee Choi",
+        "name_en": "Kang-hee Choi",
+        "age": 32,
+        "squad_no": 3,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 76
+          },
+          {
+            "pos": "LB",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KOR_1990_04",
+        "name_cn": "Deok-yeo Yoon",
+        "name_en": "Deok-yeo Yoon",
+        "age": 33,
+        "squad_no": 4,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KOR_1990_05",
+        "name_cn": "Yong-hwan Chung",
+        "name_en": "Yong-hwan Chung",
+        "age": 30,
+        "squad_no": 5,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KOR_1990_06",
+        "name_cn": "Tae-ho Lee",
+        "name_en": "Tae-ho Lee",
+        "age": 28,
+        "squad_no": 6,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KOR_1990_07",
+        "name_cn": "Soo-jin Noh",
+        "name_en": "Soo-jin Noh",
+        "age": 28,
+        "squad_no": 7,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KOR_1990_08",
+        "name_cn": "Hae-won Chung",
+        "name_en": "Hae-won Chung",
+        "age": 33,
+        "squad_no": 8,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KOR_1990_09",
+        "name_cn": "Kwan Hwangbo",
+        "name_en": "Kwan Hwangbo",
+        "age": 28,
+        "squad_no": 9,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KOR_1990_10",
+        "name_cn": "Sang-yoon Lee",
+        "name_en": "Sang-yoon Lee",
+        "age": 23,
+        "squad_no": 10,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KOR_1990_11",
+        "name_cn": "Byung-joo Byun",
+        "name_en": "Byung-joo Byun",
+        "age": 32,
+        "squad_no": 11,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 76
+          },
+          {
+            "pos": "LW",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KOR_1990_12",
+        "name_cn": "Heung-sil Lee",
+        "name_en": "Heung-sil Lee",
+        "age": 30,
+        "squad_no": 12,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KOR_1990_13",
+        "name_cn": "Jong-soo Chung",
+        "name_en": "Jong-soo Chung",
+        "age": 30,
+        "squad_no": 13,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KOR_1990_14",
+        "name_cn": "Soon-ho Choi",
+        "name_en": "Soon-ho Choi",
+        "age": 31,
+        "squad_no": 14,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KOR_1990_15",
+        "name_cn": "Min-kook Cho",
+        "name_en": "Min-kook Cho",
+        "age": 24,
+        "squad_no": 15,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KOR_1990_16",
+        "name_cn": "Joo-sung Kim",
+        "name_en": "Joo-sung Kim",
+        "age": 26,
+        "squad_no": 16,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KOR_1990_17",
+        "name_cn": "Sang-bum Gu",
+        "name_en": "Sang-bum Gu",
+        "age": 23,
+        "squad_no": 17,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 72
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KOR_1990_18",
+        "name_cn": "Sun-hong Hwang",
+        "name_en": "Sun-hong Hwang",
+        "age": 26,
+        "squad_no": 18,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 72
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KOR_1990_19",
+        "name_cn": "Gi-dong Jeong",
+        "name_en": "Gi-dong Jeong",
+        "age": 23,
+        "squad_no": 19,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KOR_1990_20",
+        "name_cn": "Myung-bo Hong",
+        "name_en": "Myung-bo Hong",
+        "age": 30,
+        "squad_no": 20,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 72
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KOR_1990_21",
+        "name_cn": "In-young Choi",
+        "name_en": "In-young Choi",
+        "age": 25,
+        "squad_no": 21,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KOR_1990_22",
+        "name_cn": "Young-jin Lee",
+        "name_en": "Young-jin Lee",
+        "age": 24,
+        "squad_no": 22,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 72
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      }
+    ],
+    "1994": [
+      {
+        "id": "KOR_1994_01",
+        "name_cn": "In-young Choi",
+        "name_en": "In-young Choi",
+        "age": 30,
+        "squad_no": 1,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 78
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KOR_1994_02",
+        "name_cn": "Jong-son Chung",
+        "name_en": "Jong-son Chung",
+        "age": 27,
+        "squad_no": 2,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 77
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KOR_1994_03",
+        "name_cn": "Jong-hwa Lee",
+        "name_en": "Jong-hwa Lee",
+        "age": 28,
+        "squad_no": 3,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 77
+          },
+          {
+            "pos": "LB",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KOR_1994_04",
+        "name_cn": "Pan-keun Kim",
+        "name_en": "Pan-keun Kim",
+        "age": 31,
+        "squad_no": 4,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 77
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KOR_1994_05",
+        "name_cn": "Jung-bae Park",
+        "name_en": "Jung-bae Park",
+        "age": 32,
+        "squad_no": 5,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 77
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KOR_1994_06",
+        "name_cn": "Young-jin Lee",
+        "name_en": "Young-jin Lee",
+        "age": 32,
+        "squad_no": 6,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 77
+          },
+          {
+            "pos": "DM",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KOR_1994_07",
+        "name_cn": "Hong-gi Shin",
+        "name_en": "Hong-gi Shin",
+        "age": 32,
+        "squad_no": 7,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 77
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KOR_1994_08",
+        "name_cn": "Jung-yoon Noh",
+        "name_en": "Jung-yoon Noh",
+        "age": 32,
+        "squad_no": 8,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 77
+          },
+          {
+            "pos": "DM",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KOR_1994_09",
+        "name_cn": "Joo-sung Kim",
+        "name_en": "Joo-sung Kim",
+        "age": 23,
+        "squad_no": 9,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 77
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KOR_1994_10",
+        "name_cn": "Jeong-woon Ko",
+        "name_en": "Jeong-woon Ko",
+        "age": 26,
+        "squad_no": 10,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 77
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KOR_1994_11",
+        "name_cn": "Jung-won Seo",
+        "name_en": "Jung-won Seo",
+        "age": 33,
+        "squad_no": 11,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 77
+          },
+          {
+            "pos": "LW",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KOR_1994_12",
+        "name_cn": "Young-il Choi",
+        "name_en": "Young-il Choi",
+        "age": 28,
+        "squad_no": 12,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KOR_1994_13",
+        "name_cn": "Ik-soo An",
+        "name_en": "Ik-soo An",
+        "age": 33,
+        "squad_no": 13,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KOR_1994_14",
+        "name_cn": "Dae-shik Choi",
+        "name_en": "Dae-shik Choi",
+        "age": 25,
+        "squad_no": 14,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KOR_1994_15",
+        "name_cn": "Jin-ho Cho",
+        "name_en": "Jin-ho Cho",
+        "age": 22,
+        "squad_no": 15,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KOR_1994_16",
+        "name_cn": "Seok-ju Ha",
+        "name_en": "Seok-ju Ha",
+        "age": 25,
+        "squad_no": 16,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KOR_1994_17",
+        "name_cn": "Sang-bum Gu",
+        "name_en": "Sang-bum Gu",
+        "age": 23,
+        "squad_no": 17,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KOR_1994_18",
+        "name_cn": "Sun-hong Hwang",
+        "name_en": "Sun-hong Hwang",
+        "age": 28,
+        "squad_no": 18,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KOR_1994_19",
+        "name_cn": "Moon-sik Choi",
+        "name_en": "Moon-sik Choi",
+        "age": 23,
+        "squad_no": 19,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KOR_1994_20",
+        "name_cn": "Myung-bo Hong",
+        "name_en": "Myung-bo Hong",
+        "age": 29,
+        "squad_no": 20,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KOR_1994_21",
+        "name_cn": "Chul-woo Park",
+        "name_en": "Chul-woo Park",
+        "age": 31,
+        "squad_no": 21,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KOR_1994_22",
+        "name_cn": "Woon-jae Lee",
+        "name_en": "Woon-jae Lee",
+        "age": 31,
+        "squad_no": 22,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      }
+    ],
+    "1998": [
+      {
+        "id": "KOR_1998_01",
+        "name_cn": "Byung-ji Kim",
+        "name_en": "Byung-ji Kim",
+        "age": 22,
+        "squad_no": 1,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 78
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KOR_1998_02",
+        "name_cn": "Sung-yong Choi",
+        "name_en": "Sung-yong Choi",
+        "age": 26,
+        "squad_no": 2,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 77
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KOR_1998_03",
+        "name_cn": "Lim-saeng Lee",
+        "name_en": "Lim-saeng Lee",
+        "age": 32,
+        "squad_no": 3,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 77
+          },
+          {
+            "pos": "LB",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KOR_1998_04",
+        "name_cn": "Young-il Choi",
+        "name_en": "Young-il Choi",
+        "age": 33,
+        "squad_no": 4,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 77
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KOR_1998_05",
+        "name_cn": "Min-sung Lee",
+        "name_en": "Min-sung Lee",
+        "age": 32,
+        "squad_no": 5,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 77
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KOR_1998_06",
+        "name_cn": "Sang-chul Yoo",
+        "name_en": "Sang-chul Yoo",
+        "age": 33,
+        "squad_no": 6,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 77
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KOR_1998_07",
+        "name_cn": "Do-keun Kim",
+        "name_en": "Do-keun Kim",
+        "age": 24,
+        "squad_no": 7,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 77
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KOR_1998_08",
+        "name_cn": "Jung-yoon Noh",
+        "name_en": "Jung-yoon Noh",
+        "age": 23,
+        "squad_no": 8,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 77
+          },
+          {
+            "pos": "DM",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KOR_1998_09",
+        "name_cn": "Do-hoon Kim",
+        "name_en": "Do-hoon Kim",
+        "age": 22,
+        "squad_no": 9,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 77
+          },
+          {
+            "pos": "CAM",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KOR_1998_10",
+        "name_cn": "洪明甫",
+        "name_en": "Hong Myung-bo",
+        "age": 33,
+        "squad_no": 10,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 87
+          }
+        ],
+        "tags": [
+          "亚洲后卫"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KOR_1998_11",
+        "name_cn": "Jung-won Seo",
+        "name_en": "Jung-won Seo",
+        "age": 24,
+        "squad_no": 11,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 77
+          },
+          {
+            "pos": "LW",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KOR_1998_12",
+        "name_cn": "Sang-hun Lee",
+        "name_en": "Sang-hun Lee",
+        "age": 33,
+        "squad_no": 12,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KOR_1998_13",
+        "name_cn": "Tae-young Kim",
+        "name_en": "Tae-young Kim",
+        "age": 22,
+        "squad_no": 13,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KOR_1998_14",
+        "name_cn": "Jong-soo Ko",
+        "name_en": "Jong-soo Ko",
+        "age": 24,
+        "squad_no": 14,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KOR_1998_15",
+        "name_cn": "黄善洪",
+        "name_en": "Hwang Sun-hong",
+        "age": 29,
+        "squad_no": 15,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KOR_1998_16",
+        "name_cn": "Hyung-seok Jang",
+        "name_en": "Hyung-seok Jang",
+        "age": 27,
+        "squad_no": 16,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KOR_1998_17",
+        "name_cn": "Seok-ju Ha",
+        "name_en": "Seok-ju Ha",
+        "age": 30,
+        "squad_no": 17,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KOR_1998_18",
+        "name_cn": "Sun-hong Hwang",
+        "name_en": "Sun-hong Hwang",
+        "age": 30,
+        "squad_no": 18,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KOR_1998_19",
+        "name_cn": "Dae-il Jang",
+        "name_en": "Dae-il Jang",
+        "age": 33,
+        "squad_no": 19,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KOR_1998_20",
+        "name_cn": "Myung-bo Hong",
+        "name_en": "Myung-bo Hong",
+        "age": 26,
+        "squad_no": 20,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KOR_1998_21",
+        "name_cn": "Dong-gook Lee",
+        "name_en": "Dong-gook Lee",
+        "age": 24,
+        "squad_no": 21,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KOR_1998_22",
+        "name_cn": "Dong-myung Seo",
+        "name_en": "Dong-myung Seo",
+        "age": 27,
+        "squad_no": 22,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      }
+    ],
+    "2002": [
+      {
+        "id": "KOR_2002_01",
+        "name_cn": "Woon-jae Lee",
+        "name_en": "Woon-jae Lee",
+        "age": 24,
+        "squad_no": 1,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 79
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KOR_2002_02",
+        "name_cn": "Young-min Hyun",
+        "name_en": "Young-min Hyun",
+        "age": 33,
+        "squad_no": 2,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 78
+          },
+          {
+            "pos": "RB",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KOR_2002_03",
+        "name_cn": "Sung-yong Choi",
+        "name_en": "Sung-yong Choi",
+        "age": 26,
+        "squad_no": 3,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 78
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KOR_2002_04",
+        "name_cn": "Jin-cheul Choi",
+        "name_en": "Jin-cheul Choi",
+        "age": 33,
+        "squad_no": 4,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 78
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KOR_2002_05",
+        "name_cn": "Nam-il Kim",
+        "name_en": "Nam-il Kim",
+        "age": 23,
+        "squad_no": 5,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 78
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KOR_2002_06",
+        "name_cn": "Sang-chul Yoo",
+        "name_en": "Sang-chul Yoo",
+        "age": 22,
+        "squad_no": 6,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 78
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KOR_2002_07",
+        "name_cn": "Tae-young Kim",
+        "name_en": "Tae-young Kim",
+        "age": 27,
+        "squad_no": 7,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 78
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KOR_2002_08",
+        "name_cn": "Tae-uk Choi",
+        "name_en": "Tae-uk Choi",
+        "age": 28,
+        "squad_no": 8,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 78
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KOR_2002_09",
+        "name_cn": "Ki-hyeon Seol",
+        "name_en": "Ki-hyeon Seol",
+        "age": 26,
+        "squad_no": 9,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 78
+          },
+          {
+            "pos": "CAM",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KOR_2002_10",
+        "name_cn": "Young-pyo Lee",
+        "name_en": "Young-pyo Lee",
+        "age": 30,
+        "squad_no": 10,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 78
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KOR_2002_11",
+        "name_cn": "Yong-soo Choi",
+        "name_en": "Yong-soo Choi",
+        "age": 23,
+        "squad_no": 11,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 78
+          },
+          {
+            "pos": "LW",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KOR_2002_12",
+        "name_cn": "Byung-ji Kim",
+        "name_en": "Byung-ji Kim",
+        "age": 26,
+        "squad_no": 12,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 77
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KOR_2002_13",
+        "name_cn": "Eul-yong Lee",
+        "name_en": "Eul-yong Lee",
+        "age": 33,
+        "squad_no": 13,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KOR_2002_14",
+        "name_cn": "Chun-soo Lee",
+        "name_en": "Chun-soo Lee",
+        "age": 31,
+        "squad_no": 14,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KOR_2002_15",
+        "name_cn": "Min-sung Lee",
+        "name_en": "Min-sung Lee",
+        "age": 32,
+        "squad_no": 15,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KOR_2002_16",
+        "name_cn": "Du-ri Cha",
+        "name_en": "Du-ri Cha",
+        "age": 23,
+        "squad_no": 16,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KOR_2002_17",
+        "name_cn": "Jong-hwan Yoon",
+        "name_en": "Jong-hwan Yoon",
+        "age": 29,
+        "squad_no": 17,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KOR_2002_18",
+        "name_cn": "Sun-hong Hwang",
+        "name_en": "Sun-hong Hwang",
+        "age": 29,
+        "squad_no": 18,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KOR_2002_19",
+        "name_cn": "Jung-hwan Ahn",
+        "name_en": "Jung-hwan Ahn",
+        "age": 30,
+        "squad_no": 19,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KOR_2002_20",
+        "name_cn": "Myung-bo Hong",
+        "name_en": "Myung-bo Hong",
+        "age": 27,
+        "squad_no": 20,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KOR_2002_21",
+        "name_cn": "Ji-sung Park",
+        "name_en": "Ji-sung Park",
+        "age": 22,
+        "squad_no": 21,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KOR_2002_22",
+        "name_cn": "Chong-gug Song",
+        "name_en": "Chong-gug Song",
+        "age": 29,
+        "squad_no": 22,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KOR_2002_23",
+        "name_cn": "Eun-sung Choi",
+        "name_en": "Eun-sung Choi",
+        "age": 31,
+        "squad_no": 23,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      }
+    ],
+    "2006": [
+      {
+        "id": "KOR_2006_01",
+        "name_cn": "Woon-jae Lee",
+        "name_en": "Woon-jae Lee",
+        "age": 24,
+        "squad_no": 1,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 79
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KOR_2006_02",
+        "name_cn": "Young-chul Kim",
+        "name_en": "Young-chul Kim",
+        "age": 27,
+        "squad_no": 2,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 78
+          },
+          {
+            "pos": "RB",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KOR_2006_03",
+        "name_cn": "Dong-jin Kim",
+        "name_en": "Dong-jin Kim",
+        "age": 24,
+        "squad_no": 3,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 78
+          },
+          {
+            "pos": "LB",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KOR_2006_04",
+        "name_cn": "Jin-cheul Choi",
+        "name_en": "Jin-cheul Choi",
+        "age": 26,
+        "squad_no": 4,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 78
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KOR_2006_05",
+        "name_cn": "Nam-il Kim",
+        "name_en": "Nam-il Kim",
+        "age": 23,
+        "squad_no": 5,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 78
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KOR_2006_06",
+        "name_cn": "Jin-kyu Kim",
+        "name_en": "Jin-kyu Kim",
+        "age": 31,
+        "squad_no": 6,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 78
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KOR_2006_07",
+        "name_cn": "Ji-sung Park",
+        "name_en": "Ji-sung Park",
+        "age": 32,
+        "squad_no": 7,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 78
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KOR_2006_08",
+        "name_cn": "Do-heon Kim",
+        "name_en": "Do-heon Kim",
+        "age": 33,
+        "squad_no": 8,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 78
+          },
+          {
+            "pos": "DM",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KOR_2006_09",
+        "name_cn": "Jung-hwan Ahn",
+        "name_en": "Jung-hwan Ahn",
+        "age": 23,
+        "squad_no": 9,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 78
+          },
+          {
+            "pos": "CAM",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KOR_2006_10",
+        "name_cn": "Chu-young Park",
+        "name_en": "Chu-young Park",
+        "age": 25,
+        "squad_no": 10,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 78
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KOR_2006_11",
+        "name_cn": "Ki-hyeon Seol",
+        "name_en": "Ki-hyeon Seol",
+        "age": 33,
+        "squad_no": 11,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 78
+          },
+          {
+            "pos": "LW",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KOR_2006_12",
+        "name_cn": "Young-pyo Lee",
+        "name_en": "Young-pyo Lee",
+        "age": 30,
+        "squad_no": 12,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KOR_2006_13",
+        "name_cn": "Eul-yong Lee",
+        "name_en": "Eul-yong Lee",
+        "age": 22,
+        "squad_no": 13,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KOR_2006_14",
+        "name_cn": "Chun-soo Lee",
+        "name_en": "Chun-soo Lee",
+        "age": 22,
+        "squad_no": 14,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KOR_2006_15",
+        "name_cn": "Ji-hoon Baek",
+        "name_en": "Ji-hoon Baek",
+        "age": 22,
+        "squad_no": 15,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KOR_2006_16",
+        "name_cn": "Kyung-ho Chung",
+        "name_en": "Kyung-ho Chung",
+        "age": 25,
+        "squad_no": 16,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KOR_2006_17",
+        "name_cn": "Ho Lee",
+        "name_en": "Ho Lee",
+        "age": 22,
+        "squad_no": 17,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KOR_2006_18",
+        "name_cn": "Sang-sik Kim",
+        "name_en": "Sang-sik Kim",
+        "age": 29,
+        "squad_no": 18,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KOR_2006_19",
+        "name_cn": "Jae-jin Cho",
+        "name_en": "Jae-jin Cho",
+        "age": 27,
+        "squad_no": 19,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KOR_2006_20",
+        "name_cn": "朴智星",
+        "name_en": "Park Ji-sung",
+        "age": 28,
+        "squad_no": 20,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 87
+          },
+          {
+            "pos": "LM",
+            "ovr": 85
+          }
+        ],
+        "tags": [
+          "红魔老朴"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KOR_2006_21",
+        "name_cn": "李荣杓",
+        "name_en": "Lee Young-pyo",
+        "age": 24,
+        "squad_no": 21,
+        "positions": [
+          {
+            "pos": "LB",
+            "ovr": 85
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KOR_2006_22",
+        "name_cn": "Chong-gug Song",
+        "name_en": "Chong-gug Song",
+        "age": 24,
+        "squad_no": 22,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KOR_2006_23",
+        "name_cn": "Won-hee Cho",
+        "name_en": "Won-hee Cho",
+        "age": 22,
+        "squad_no": 23,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      }
+    ],
+    "2010": [
+      {
+        "id": "KOR_2010_01",
+        "name_cn": "Woon-jae Lee",
+        "name_en": "Woon-jae Lee",
+        "age": 30,
+        "squad_no": 1,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 79
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KOR_2010_02",
+        "name_cn": "Beom-seok Oh",
+        "name_en": "Beom-seok Oh",
+        "age": 33,
+        "squad_no": 2,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 78
+          },
+          {
+            "pos": "RB",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KOR_2010_03",
+        "name_cn": "Hyung-il Kim",
+        "name_en": "Hyung-il Kim",
+        "age": 33,
+        "squad_no": 3,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 78
+          },
+          {
+            "pos": "LB",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KOR_2010_04",
+        "name_cn": "Yong-hyung Cho",
+        "name_en": "Yong-hyung Cho",
+        "age": 32,
+        "squad_no": 4,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 78
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KOR_2010_05",
+        "name_cn": "Nam-il Kim",
+        "name_en": "Nam-il Kim",
+        "age": 28,
+        "squad_no": 5,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 78
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KOR_2010_06",
+        "name_cn": "Bo-kyung Kim",
+        "name_en": "Bo-kyung Kim",
+        "age": 25,
+        "squad_no": 6,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 78
+          },
+          {
+            "pos": "DM",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KOR_2010_07",
+        "name_cn": "Ji-sung Park",
+        "name_en": "Ji-sung Park",
+        "age": 27,
+        "squad_no": 7,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 78
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KOR_2010_08",
+        "name_cn": "Jung-woo Kim",
+        "name_en": "Jung-woo Kim",
+        "age": 25,
+        "squad_no": 8,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 78
+          },
+          {
+            "pos": "DM",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KOR_2010_09",
+        "name_cn": "Jung-hwan Ahn",
+        "name_en": "Jung-hwan Ahn",
+        "age": 28,
+        "squad_no": 9,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 78
+          },
+          {
+            "pos": "CAM",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KOR_2010_10",
+        "name_cn": "Chu-young Park",
+        "name_en": "Chu-young Park",
+        "age": 33,
+        "squad_no": 10,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 78
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KOR_2010_11",
+        "name_cn": "Seung-yeoul Lee",
+        "name_en": "Seung-yeoul Lee",
+        "age": 27,
+        "squad_no": 11,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 78
+          },
+          {
+            "pos": "LW",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KOR_2010_12",
+        "name_cn": "Young-pyo Lee",
+        "name_en": "Young-pyo Lee",
+        "age": 26,
+        "squad_no": 12,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KOR_2010_13",
+        "name_cn": "朴智星",
+        "name_en": "Park Ji-sung",
+        "age": 23,
+        "squad_no": 13,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 87
+          },
+          {
+            "pos": "LM",
+            "ovr": 85
+          }
+        ],
+        "tags": [
+          "红魔老朴"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KOR_2010_14",
+        "name_cn": "Jung-soo Lee",
+        "name_en": "Jung-soo Lee",
+        "age": 31,
+        "squad_no": 14,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KOR_2010_15",
+        "name_cn": "Dong-jin Kim",
+        "name_en": "Dong-jin Kim",
+        "age": 27,
+        "squad_no": 15,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KOR_2010_16",
+        "name_cn": "Sung-yueng Ki",
+        "name_en": "Sung-yueng Ki",
+        "age": 23,
+        "squad_no": 16,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KOR_2010_17",
+        "name_cn": "Chung-yong Lee",
+        "name_en": "Chung-yong Lee",
+        "age": 30,
+        "squad_no": 17,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KOR_2010_18",
+        "name_cn": "Sung-ryong Jung",
+        "name_en": "Sung-ryong Jung",
+        "age": 32,
+        "squad_no": 18,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KOR_2010_19",
+        "name_cn": "Ki-hun Yeom",
+        "name_en": "Ki-hun Yeom",
+        "age": 22,
+        "squad_no": 19,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KOR_2010_20",
+        "name_cn": "Dong-gook Lee",
+        "name_en": "Dong-gook Lee",
+        "age": 24,
+        "squad_no": 20,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KOR_2010_21",
+        "name_cn": "Young-kwang Kim",
+        "name_en": "Young-kwang Kim",
+        "age": 25,
+        "squad_no": 21,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KOR_2010_22",
+        "name_cn": "Du-ri Cha",
+        "name_en": "Du-ri Cha",
+        "age": 30,
+        "squad_no": 22,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KOR_2010_23",
+        "name_cn": "Min-soo Kang",
+        "name_en": "Min-soo Kang",
+        "age": 22,
+        "squad_no": 23,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      }
+    ],
+    "2014": [
+      {
+        "id": "KOR_2014_01",
+        "name_cn": "Sung-ryong Jung",
+        "name_en": "Sung-ryong Jung",
+        "age": 28,
+        "squad_no": 1,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 79
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KOR_2014_02",
+        "name_cn": "Chang-soo Kim",
+        "name_en": "Chang-soo Kim",
+        "age": 23,
+        "squad_no": 2,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 78
+          },
+          {
+            "pos": "RB",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KOR_2014_03",
+        "name_cn": "Suk-young Yun",
+        "name_en": "Suk-young Yun",
+        "age": 29,
+        "squad_no": 3,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 78
+          },
+          {
+            "pos": "LB",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KOR_2014_04",
+        "name_cn": "Tae-hwi Kwak",
+        "name_en": "Tae-hwi Kwak",
+        "age": 26,
+        "squad_no": 4,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 78
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KOR_2014_05",
+        "name_cn": "Young-gwon Kim",
+        "name_en": "Young-gwon Kim",
+        "age": 26,
+        "squad_no": 5,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 78
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KOR_2014_06",
+        "name_cn": "Seok-ho Hwang",
+        "name_en": "Seok-ho Hwang",
+        "age": 27,
+        "squad_no": 6,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 78
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KOR_2014_07",
+        "name_cn": "Bo-kyung Kim",
+        "name_en": "Bo-kyung Kim",
+        "age": 23,
+        "squad_no": 7,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 78
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KOR_2014_08",
+        "name_cn": "Dae-sung Ha",
+        "name_en": "Dae-sung Ha",
+        "age": 30,
+        "squad_no": 8,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 78
+          },
+          {
+            "pos": "DM",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KOR_2014_09",
+        "name_cn": "Heung-min Son",
+        "name_en": "Heung-min Son",
+        "age": 29,
+        "squad_no": 9,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 78
+          },
+          {
+            "pos": "CAM",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KOR_2014_10",
+        "name_cn": "Chu-young Park",
+        "name_en": "Chu-young Park",
+        "age": 22,
+        "squad_no": 10,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 78
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KOR_2014_11",
+        "name_cn": "Keun-ho Lee",
+        "name_en": "Keun-ho Lee",
+        "age": 27,
+        "squad_no": 11,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 78
+          },
+          {
+            "pos": "LW",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KOR_2014_12",
+        "name_cn": "Yong Lee",
+        "name_en": "Yong Lee",
+        "age": 25,
+        "squad_no": 12,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KOR_2014_13",
+        "name_cn": "Ja-cheol Koo",
+        "name_en": "Ja-cheol Koo",
+        "age": 26,
+        "squad_no": 13,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KOR_2014_14",
+        "name_cn": "Kook-young Han",
+        "name_en": "Kook-young Han",
+        "age": 31,
+        "squad_no": 14,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KOR_2014_15",
+        "name_cn": "Jong-woo Park",
+        "name_en": "Jong-woo Park",
+        "age": 26,
+        "squad_no": 15,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KOR_2014_16",
+        "name_cn": "Sung-yueng Ki",
+        "name_en": "Sung-yueng Ki",
+        "age": 33,
+        "squad_no": 16,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KOR_2014_17",
+        "name_cn": "Chung-yong Lee",
+        "name_en": "Chung-yong Lee",
+        "age": 31,
+        "squad_no": 17,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KOR_2014_18",
+        "name_cn": "Shin-wook Kim",
+        "name_en": "Shin-wook Kim",
+        "age": 25,
+        "squad_no": 18,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KOR_2014_19",
+        "name_cn": "Dong-won Ji",
+        "name_en": "Dong-won Ji",
+        "age": 29,
+        "squad_no": 19,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KOR_2014_20",
+        "name_cn": "Jeong-ho Hong",
+        "name_en": "Jeong-ho Hong",
+        "age": 27,
+        "squad_no": 20,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KOR_2014_21",
+        "name_cn": "孙兴慜",
+        "name_en": "Son Heung-min",
+        "age": 31,
+        "squad_no": 21,
+        "positions": [
+          {
+            "pos": "LW",
+            "ovr": 92
+          },
+          {
+            "pos": "ST",
+            "ovr": 87
+          }
+        ],
+        "tags": [
+          "亚洲一哥"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KOR_2014_22",
+        "name_cn": "奇诚庸",
+        "name_en": "Ki Sung-yueng",
+        "age": 29,
+        "squad_no": 22,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 84
+          },
+          {
+            "pos": "DM",
+            "ovr": 82
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KOR_2014_23",
+        "name_cn": "Bum-young Lee",
+        "name_en": "Bum-young Lee",
+        "age": 25,
+        "squad_no": 23,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      }
+    ],
+    "2018": [
+      {
+        "id": "KOR_2018_01",
+        "name_cn": "Seung-gyu Kim",
+        "name_en": "Seung-gyu Kim",
+        "age": 33,
+        "squad_no": 1,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 79
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KOR_2018_02",
+        "name_cn": "Yong Lee",
+        "name_en": "Yong Lee",
+        "age": 30,
+        "squad_no": 2,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 78
+          },
+          {
+            "pos": "RB",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KOR_2018_03",
+        "name_cn": "Seung-hyun Jung",
+        "name_en": "Seung-hyun Jung",
+        "age": 25,
+        "squad_no": 3,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 78
+          },
+          {
+            "pos": "LB",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KOR_2018_04",
+        "name_cn": "Ban-suk Oh",
+        "name_en": "Ban-suk Oh",
+        "age": 24,
+        "squad_no": 4,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 78
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KOR_2018_05",
+        "name_cn": "Young-sun Yun",
+        "name_en": "Young-sun Yun",
+        "age": 22,
+        "squad_no": 5,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 78
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KOR_2018_06",
+        "name_cn": "Joo-ho Park",
+        "name_en": "Joo-ho Park",
+        "age": 28,
+        "squad_no": 6,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 78
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KOR_2018_07",
+        "name_cn": "Heung-min Son",
+        "name_en": "Heung-min Son",
+        "age": 22,
+        "squad_no": 7,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 78
+          },
+          {
+            "pos": "LW",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KOR_2018_08",
+        "name_cn": "Se-jong Ju",
+        "name_en": "Se-jong Ju",
+        "age": 25,
+        "squad_no": 8,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 78
+          },
+          {
+            "pos": "DM",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KOR_2018_09",
+        "name_cn": "孙兴慜",
+        "name_en": "Son Heung-min",
+        "age": 30,
+        "squad_no": 9,
+        "positions": [
+          {
+            "pos": "LW",
+            "ovr": 92
+          },
+          {
+            "pos": "ST",
+            "ovr": 87
+          }
+        ],
+        "tags": [
+          "亚洲一哥"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KOR_2018_10",
+        "name_cn": "Seung-woo Lee",
+        "name_en": "Seung-woo Lee",
+        "age": 27,
+        "squad_no": 10,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 78
+          },
+          {
+            "pos": "CAM",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KOR_2018_11",
+        "name_cn": "Hee-chan Hwang",
+        "name_en": "Hee-chan Hwang",
+        "age": 32,
+        "squad_no": 11,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 78
+          },
+          {
+            "pos": "LW",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KOR_2018_12",
+        "name_cn": "Min-woo Kim",
+        "name_en": "Min-woo Kim",
+        "age": 33,
+        "squad_no": 12,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KOR_2018_13",
+        "name_cn": "Ja-cheol Koo",
+        "name_en": "Ja-cheol Koo",
+        "age": 22,
+        "squad_no": 13,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KOR_2018_14",
+        "name_cn": "Chul Hong",
+        "name_en": "Chul Hong",
+        "age": 27,
+        "squad_no": 14,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KOR_2018_15",
+        "name_cn": "Woo-young Jung",
+        "name_en": "Woo-young Jung",
+        "age": 22,
+        "squad_no": 15,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KOR_2018_16",
+        "name_cn": "Sung-yueng Ki",
+        "name_en": "Sung-yueng Ki",
+        "age": 32,
+        "squad_no": 16,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KOR_2018_17",
+        "name_cn": "Jae-sung Lee",
+        "name_en": "Jae-sung Lee",
+        "age": 28,
+        "squad_no": 17,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KOR_2018_18",
+        "name_cn": "Seon-min Moon",
+        "name_en": "Seon-min Moon",
+        "age": 33,
+        "squad_no": 18,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KOR_2018_19",
+        "name_cn": "Young-gwon Kim",
+        "name_en": "Young-gwon Kim",
+        "age": 33,
+        "squad_no": 19,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KOR_2018_20",
+        "name_cn": "Hyun-soo Jang",
+        "name_en": "Hyun-soo Jang",
+        "age": 26,
+        "squad_no": 20,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KOR_2018_21",
+        "name_cn": "Jin-hyeon Kim",
+        "name_en": "Jin-hyeon Kim",
+        "age": 23,
+        "squad_no": 21,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KOR_2018_22",
+        "name_cn": "Yo-han Go",
+        "name_en": "Yo-han Go",
+        "age": 25,
+        "squad_no": 22,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KOR_2018_23",
+        "name_cn": "Hyeon-woo Jo",
+        "name_en": "Hyeon-woo Jo",
+        "age": 30,
+        "squad_no": 23,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      }
+    ],
+    "2022": [
+      {
+        "id": "KOR_2022_01",
+        "name_cn": "Seung-gyu Kim",
+        "name_en": "Seung-gyu Kim",
+        "age": 25,
+        "squad_no": 1,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 79
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KOR_2022_02",
+        "name_cn": "Yoon Jong-gyu",
+        "name_en": "Yoon Jong-gyu",
+        "age": 28,
+        "squad_no": 2,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 78
+          },
+          {
+            "pos": "RB",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KOR_2022_03",
+        "name_cn": "Kim Jin-su",
+        "name_en": "Kim Jin-su",
+        "age": 29,
+        "squad_no": 3,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 78
+          },
+          {
+            "pos": "LB",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KOR_2022_04",
+        "name_cn": "金敏在",
+        "name_en": "Kim Min-jae",
+        "age": 22,
+        "squad_no": 4,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 87
+          }
+        ],
+        "tags": [
+          "怪兽"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KOR_2022_05",
+        "name_cn": "Woo-young Jung",
+        "name_en": "Woo-young Jung",
+        "age": 24,
+        "squad_no": 5,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 78
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KOR_2022_06",
+        "name_cn": "黄喜灿",
+        "name_en": "Hwang In-beom",
+        "age": 33,
+        "squad_no": 6,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KOR_2022_07",
+        "name_cn": "Heung-min Son",
+        "name_en": "Heung-min Son",
+        "age": 26,
+        "squad_no": 7,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 78
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KOR_2022_08",
+        "name_cn": "Paik Seung-ho",
+        "name_en": "Paik Seung-ho",
+        "age": 23,
+        "squad_no": 8,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 78
+          },
+          {
+            "pos": "DM",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KOR_2022_09",
+        "name_cn": "曹圭成",
+        "name_en": "Cho Gue-sung",
+        "age": 22,
+        "squad_no": 9,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KOR_2022_10",
+        "name_cn": "Jae-sung Lee",
+        "name_en": "Jae-sung Lee",
+        "age": 25,
+        "squad_no": 10,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 78
+          },
+          {
+            "pos": "CAM",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KOR_2022_11",
+        "name_cn": "Hee-chan Hwang",
+        "name_en": "Hee-chan Hwang",
+        "age": 30,
+        "squad_no": 11,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 78
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KOR_2022_12",
+        "name_cn": "Song Bum-keun",
+        "name_en": "Song Bum-keun",
+        "age": 28,
+        "squad_no": 12,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 77
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KOR_2022_13",
+        "name_cn": "Son Jun-ho",
+        "name_en": "Son Jun-ho",
+        "age": 33,
+        "squad_no": 13,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KOR_2022_14",
+        "name_cn": "Chul Hong",
+        "name_en": "Chul Hong",
+        "age": 27,
+        "squad_no": 14,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KOR_2022_15",
+        "name_cn": "Kim Moon-hwan",
+        "name_en": "Kim Moon-hwan",
+        "age": 29,
+        "squad_no": 15,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KOR_2022_16",
+        "name_cn": "Hwang Ui-jo",
+        "name_en": "Hwang Ui-jo",
+        "age": 33,
+        "squad_no": 16,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KOR_2022_17",
+        "name_cn": "Na Sang-ho",
+        "name_en": "Na Sang-ho",
+        "age": 23,
+        "squad_no": 17,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KOR_2022_18",
+        "name_cn": "李刚仁",
+        "name_en": "Lee Kang-in",
+        "age": 31,
+        "squad_no": 18,
+        "positions": [
+          {
+            "pos": "CAM",
+            "ovr": 85
+          },
+          {
+            "pos": "RW",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KOR_2022_19",
+        "name_cn": "Young-gwon Kim",
+        "name_en": "Young-gwon Kim",
+        "age": 23,
+        "squad_no": 19,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KOR_2022_20",
+        "name_cn": "Kwon Kyung-won",
+        "name_en": "Kwon Kyung-won",
+        "age": 30,
+        "squad_no": 20,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KOR_2022_21",
+        "name_cn": "孙兴慜",
+        "name_en": "Son Heung-min",
+        "age": 24,
+        "squad_no": 21,
+        "positions": [
+          {
+            "pos": "LW",
+            "ovr": 92
+          },
+          {
+            "pos": "ST",
+            "ovr": 87
+          }
+        ],
+        "tags": [
+          "亚洲一哥"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KOR_2022_22",
+        "name_cn": "Kwon Chang-hoon",
+        "name_en": "Kwon Chang-hoon",
+        "age": 32,
+        "squad_no": 22,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KOR_2022_23",
+        "name_cn": "黄喜灿",
+        "name_en": "Hwang Hee-chan",
+        "age": 28,
+        "squad_no": 23,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 84
+          },
+          {
+            "pos": "LW",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KOR_2022_24",
+        "name_cn": "Cho Yu-min",
+        "name_en": "Cho Yu-min",
+        "age": 23,
+        "squad_no": 24,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KOR_2022_25",
+        "name_cn": "Jeong Woo-yeong",
+        "name_en": "Jeong Woo-yeong",
+        "age": 31,
+        "squad_no": 25,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KOR_2022_26",
+        "name_cn": "Song Min-kyu",
+        "name_en": "Song Min-kyu",
+        "age": 31,
+        "squad_no": 26,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      }
+    ],
+    "2026": [
+      {
+        "id": "KOR_2026_01",
+        "name_cn": "赵贤祐",
+        "name_en": "Jo Hyun-Woo",
+        "age": 22,
+        "squad_no": 1,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 81
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KOR_2026_02",
+        "name_cn": "Kim Seung-Gyu",
+        "name_en": "Kim Seung-Gyu",
+        "age": 28,
+        "squad_no": 2,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 81
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KOR_2026_03",
+        "name_cn": "Song Bum-Keun",
+        "name_en": "Song Bum-Keun",
+        "age": 32,
+        "squad_no": 3,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 81
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KOR_2026_04",
+        "name_cn": "金敏在",
+        "name_en": "Kim Min-Jae",
+        "age": 24,
+        "squad_no": 4,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 87
+          }
+        ],
+        "tags": [
+          "怪兽"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KOR_2026_05",
+        "name_cn": "Jo Yu-Min",
+        "name_en": "Jo Yu-Min",
+        "age": 25,
+        "squad_no": 5,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KOR_2026_06",
+        "name_cn": "Lee Han-Beom",
+        "name_en": "Lee Han-Beom",
+        "age": 26,
+        "squad_no": 6,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KOR_2026_07",
+        "name_cn": "Kim Tae-Hyun",
+        "name_en": "Kim Tae-Hyun",
+        "age": 26,
+        "squad_no": 7,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KOR_2026_08",
+        "name_cn": "Park Jin-Seop",
+        "name_en": "Park Jin-Seop",
+        "age": 27,
+        "squad_no": 8,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KOR_2026_09",
+        "name_cn": "Lee Ki-Hyeok",
+        "name_en": "Lee Ki-Hyeok",
+        "age": 28,
+        "squad_no": 9,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KOR_2026_10",
+        "name_cn": "Lee Tae-Seok",
+        "name_en": "Lee Tae-Seok",
+        "age": 33,
+        "squad_no": 10,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KOR_2026_11",
+        "name_cn": "Seol Young-Woo",
+        "name_en": "Seol Young-Woo",
+        "age": 33,
+        "squad_no": 11,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KOR_2026_12",
+        "name_cn": "Jens Castrop",
+        "name_en": "Jens Castrop",
+        "age": 27,
+        "squad_no": 12,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 78
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KOR_2026_13",
+        "name_cn": "Kim Moon-Hwan",
+        "name_en": "Kim Moon-Hwan",
+        "age": 27,
+        "squad_no": 13,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 78
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KOR_2026_14",
+        "name_cn": "梁玹准",
+        "name_en": "Yang Hyun-Jun",
+        "age": 29,
+        "squad_no": 14,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 78
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KOR_2026_15",
+        "name_cn": "Paik Seung-Ho",
+        "name_en": "Paik Seung-Ho",
+        "age": 26,
+        "squad_no": 15,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 78
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KOR_2026_16",
+        "name_cn": "黄喜灿",
+        "name_en": "Hwang In-Beom",
+        "age": 25,
+        "squad_no": 16,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KOR_2026_17",
+        "name_cn": "Kim Jin-Kyu",
+        "name_en": "Kim Jin-Kyu",
+        "age": 23,
+        "squad_no": 17,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 78
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KOR_2026_18",
+        "name_cn": "Bae Jun-Ho",
+        "name_en": "Bae Jun-Ho",
+        "age": 25,
+        "squad_no": 18,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 78
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KOR_2026_19",
+        "name_cn": "Um Ji-Sung",
+        "name_en": "Um Ji-Sung",
+        "age": 24,
+        "squad_no": 19,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KOR_2026_20",
+        "name_cn": "黄喜灿",
+        "name_en": "Hwang Hee-Chan",
+        "age": 31,
+        "squad_no": 20,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 84
+          },
+          {
+            "pos": "LW",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KOR_2026_21",
+        "name_cn": "Lee Dong-Gyeong",
+        "name_en": "Lee Dong-Gyeong",
+        "age": 23,
+        "squad_no": 21,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KOR_2026_22",
+        "name_cn": "李在城",
+        "name_en": "Lee Jae-Sung",
+        "age": 24,
+        "squad_no": 22,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KOR_2026_23",
+        "name_cn": "李刚仁",
+        "name_en": "Lee Kang-In",
+        "age": 23,
+        "squad_no": 23,
+        "positions": [
+          {
+            "pos": "CAM",
+            "ovr": 85
+          },
+          {
+            "pos": "RW",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KOR_2026_24",
+        "name_cn": "吴贤奎",
+        "name_en": "Oh Hyun-Kyu",
+        "age": 24,
+        "squad_no": 24,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KOR_2026_25",
+        "name_cn": "孙兴慜",
+        "name_en": "Son Heung-Min",
+        "age": 29,
+        "squad_no": 25,
+        "positions": [
+          {
+            "pos": "LW",
+            "ovr": 92
+          },
+          {
+            "pos": "ST",
+            "ovr": 87
+          }
+        ],
+        "tags": [
+          "亚洲一哥"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KOR_2026_26",
+        "name_cn": "曹圭成",
+        "name_en": "Cho Kyu-Sung",
+        "age": 29,
+        "squad_no": 26,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      }
+    ]
+  }
+}

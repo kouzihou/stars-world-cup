@@ -1,0 +1,3050 @@
+{
+  "country_code": "JPN",
+  "squads": {
+    "1998": [
+      {
+        "id": "JPN_1998_01",
+        "name_cn": "Nobuyuki Kojima",
+        "name_en": "Nobuyuki Kojima",
+        "age": 22,
+        "squad_no": 1,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 78
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "JPN_1998_02",
+        "name_cn": "Akira Narahashi",
+        "name_en": "Akira Narahashi",
+        "age": 33,
+        "squad_no": 2,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 77
+          },
+          {
+            "pos": "RB",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "JPN_1998_03",
+        "name_cn": "Naoki Soma",
+        "name_en": "Naoki Soma",
+        "age": 23,
+        "squad_no": 3,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 77
+          },
+          {
+            "pos": "LB",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "JPN_1998_04",
+        "name_cn": "Masami Ihara",
+        "name_en": "Masami Ihara",
+        "age": 33,
+        "squad_no": 4,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 77
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "JPN_1998_05",
+        "name_cn": "Norio Omura",
+        "name_en": "Norio Omura",
+        "age": 29,
+        "squad_no": 5,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 77
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "JPN_1998_06",
+        "name_cn": "Motohiro Yamaguchi",
+        "name_en": "Motohiro Yamaguchi",
+        "age": 32,
+        "squad_no": 6,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 77
+          },
+          {
+            "pos": "DM",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "JPN_1998_07",
+        "name_cn": "Teruyoshi Ito",
+        "name_en": "Teruyoshi Ito",
+        "age": 32,
+        "squad_no": 7,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 77
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "JPN_1998_08",
+        "name_cn": "中田英寿",
+        "name_en": "Hidetoshi Nakata",
+        "age": 33,
+        "squad_no": 8,
+        "positions": [
+          {
+            "pos": "CAM",
+            "ovr": 90
+          },
+          {
+            "pos": "CM",
+            "ovr": 87
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "JPN_1998_09",
+        "name_cn": "中山雅史",
+        "name_en": "Masashi Nakayama",
+        "age": 27,
+        "squad_no": 9,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "JPN_1998_10",
+        "name_cn": "Hiroshi Nanami",
+        "name_en": "Hiroshi Nanami",
+        "age": 23,
+        "squad_no": 10,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 77
+          },
+          {
+            "pos": "CAM",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "JPN_1998_11",
+        "name_cn": "Shinji Ono",
+        "name_en": "Shinji Ono",
+        "age": 30,
+        "squad_no": 11,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 77
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "JPN_1998_12",
+        "name_cn": "Wagner Lopes",
+        "name_en": "Wagner Lopes",
+        "age": 28,
+        "squad_no": 12,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "JPN_1998_13",
+        "name_cn": "Toshihiro Hattori",
+        "name_en": "Toshihiro Hattori",
+        "age": 25,
+        "squad_no": 13,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "JPN_1998_14",
+        "name_cn": "Masayuki Okano",
+        "name_en": "Masayuki Okano",
+        "age": 28,
+        "squad_no": 14,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "JPN_1998_15",
+        "name_cn": "Hiroaki Morishima",
+        "name_en": "Hiroaki Morishima",
+        "age": 25,
+        "squad_no": 15,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "JPN_1998_16",
+        "name_cn": "Toshihide Saito",
+        "name_en": "Toshihide Saito",
+        "age": 29,
+        "squad_no": 16,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "JPN_1998_17",
+        "name_cn": "Yutaka Akita",
+        "name_en": "Yutaka Akita",
+        "age": 26,
+        "squad_no": 17,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "JPN_1998_18",
+        "name_cn": "Shoji Jo",
+        "name_en": "Shoji Jo",
+        "age": 27,
+        "squad_no": 18,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "JPN_1998_19",
+        "name_cn": "Eisuke Nakanishi",
+        "name_en": "Eisuke Nakanishi",
+        "age": 26,
+        "squad_no": 19,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "JPN_1998_20",
+        "name_cn": "川口能活",
+        "name_en": "Yoshikatsu Kawaguchi",
+        "age": 27,
+        "squad_no": 20,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "JPN_1998_21",
+        "name_cn": "Seigo Narazaki",
+        "name_en": "Seigo Narazaki",
+        "age": 30,
+        "squad_no": 21,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "JPN_1998_22",
+        "name_cn": "Takashi Hirano",
+        "name_en": "Takashi Hirano",
+        "age": 31,
+        "squad_no": 22,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      }
+    ],
+    "2002": [
+      {
+        "id": "JPN_2002_01",
+        "name_cn": "川口能活",
+        "name_en": "Yoshikatsu Kawaguchi",
+        "age": 24,
+        "squad_no": 1,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "JPN_2002_02",
+        "name_cn": "Yutaka Akita",
+        "name_en": "Yutaka Akita",
+        "age": 31,
+        "squad_no": 2,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 78
+          },
+          {
+            "pos": "RB",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "JPN_2002_03",
+        "name_cn": "Naoki Matsuda",
+        "name_en": "Naoki Matsuda",
+        "age": 29,
+        "squad_no": 3,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 78
+          },
+          {
+            "pos": "LB",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "JPN_2002_04",
+        "name_cn": "Ryuzo Morioka",
+        "name_en": "Ryuzo Morioka",
+        "age": 27,
+        "squad_no": 4,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 78
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "JPN_2002_05",
+        "name_cn": "Junichi Inamoto",
+        "name_en": "Junichi Inamoto",
+        "age": 32,
+        "squad_no": 5,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 78
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "JPN_2002_06",
+        "name_cn": "Toshihiro Hattori",
+        "name_en": "Toshihiro Hattori",
+        "age": 22,
+        "squad_no": 6,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 78
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "JPN_2002_07",
+        "name_cn": "中田英寿",
+        "name_en": "Hidetoshi Nakata",
+        "age": 22,
+        "squad_no": 7,
+        "positions": [
+          {
+            "pos": "CAM",
+            "ovr": 90
+          },
+          {
+            "pos": "CM",
+            "ovr": 87
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "JPN_2002_08",
+        "name_cn": "Hiroaki Morishima",
+        "name_en": "Hiroaki Morishima",
+        "age": 23,
+        "squad_no": 8,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 78
+          },
+          {
+            "pos": "DM",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "JPN_2002_09",
+        "name_cn": "Akinori Nishizawa",
+        "name_en": "Akinori Nishizawa",
+        "age": 32,
+        "squad_no": 9,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 78
+          },
+          {
+            "pos": "CAM",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "JPN_2002_10",
+        "name_cn": "中山雅史",
+        "name_en": "Masashi Nakayama",
+        "age": 29,
+        "squad_no": 10,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "JPN_2002_11",
+        "name_cn": "Takayuki Suzuki",
+        "name_en": "Takayuki Suzuki",
+        "age": 22,
+        "squad_no": 11,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 78
+          },
+          {
+            "pos": "LW",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "JPN_2002_12",
+        "name_cn": "Seigo Narazaki",
+        "name_en": "Seigo Narazaki",
+        "age": 23,
+        "squad_no": 12,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 77
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "JPN_2002_13",
+        "name_cn": "Atsushi Yanagisawa",
+        "name_en": "Atsushi Yanagisawa",
+        "age": 24,
+        "squad_no": 13,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "JPN_2002_14",
+        "name_cn": "Alessandro Santos",
+        "name_en": "Alessandro Santos",
+        "age": 29,
+        "squad_no": 14,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "JPN_2002_15",
+        "name_cn": "Takashi Fukunishi",
+        "name_en": "Takashi Fukunishi",
+        "age": 29,
+        "squad_no": 15,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "JPN_2002_16",
+        "name_cn": "Kōji Nakata",
+        "name_en": "Kōji Nakata",
+        "age": 22,
+        "squad_no": 16,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "JPN_2002_17",
+        "name_cn": "Tsuneyasu Miyamoto",
+        "name_en": "Tsuneyasu Miyamoto",
+        "age": 28,
+        "squad_no": 17,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "JPN_2002_18",
+        "name_cn": "Shinji Ono",
+        "name_en": "Shinji Ono",
+        "age": 25,
+        "squad_no": 18,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "JPN_2002_19",
+        "name_cn": "Mitsuo Ogasawara",
+        "name_en": "Mitsuo Ogasawara",
+        "age": 33,
+        "squad_no": 19,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "JPN_2002_20",
+        "name_cn": "Tomokazu Myojin",
+        "name_en": "Tomokazu Myojin",
+        "age": 24,
+        "squad_no": 20,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "JPN_2002_21",
+        "name_cn": "Kazuyuki Toda",
+        "name_en": "Kazuyuki Toda",
+        "age": 32,
+        "squad_no": 21,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "JPN_2002_22",
+        "name_cn": "Daisuke Ichikawa",
+        "name_en": "Daisuke Ichikawa",
+        "age": 26,
+        "squad_no": 22,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "JPN_2002_23",
+        "name_cn": "Hitoshi Sogahata",
+        "name_en": "Hitoshi Sogahata",
+        "age": 24,
+        "squad_no": 23,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      }
+    ],
+    "2006": [
+      {
+        "id": "JPN_2006_01",
+        "name_cn": "Seigo Narazaki",
+        "name_en": "Seigo Narazaki",
+        "age": 26,
+        "squad_no": 1,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 79
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "JPN_2006_02",
+        "name_cn": "Teruyuki Moniwa",
+        "name_en": "Teruyuki Moniwa",
+        "age": 23,
+        "squad_no": 2,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 78
+          },
+          {
+            "pos": "RB",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "JPN_2006_03",
+        "name_cn": "Yūichi Komano",
+        "name_en": "Yūichi Komano",
+        "age": 32,
+        "squad_no": 3,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 78
+          },
+          {
+            "pos": "LB",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "JPN_2006_04",
+        "name_cn": "Yasuhito Endō",
+        "name_en": "Yasuhito Endō",
+        "age": 27,
+        "squad_no": 4,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 78
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "JPN_2006_05",
+        "name_cn": "Tsuneyasu Miyamoto",
+        "name_en": "Tsuneyasu Miyamoto",
+        "age": 26,
+        "squad_no": 5,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 78
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "JPN_2006_06",
+        "name_cn": "中田英寿",
+        "name_en": "Kōji Nakata",
+        "age": 23,
+        "squad_no": 6,
+        "positions": [
+          {
+            "pos": "CAM",
+            "ovr": 90
+          },
+          {
+            "pos": "CM",
+            "ovr": 87
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "JPN_2006_07",
+        "name_cn": "中田英寿",
+        "name_en": "Hidetoshi Nakata",
+        "age": 27,
+        "squad_no": 7,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 78
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "JPN_2006_08",
+        "name_cn": "Mitsuo Ogasawara",
+        "name_en": "Mitsuo Ogasawara",
+        "age": 32,
+        "squad_no": 8,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 78
+          },
+          {
+            "pos": "DM",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "JPN_2006_09",
+        "name_cn": "Naohiro Takahara",
+        "name_en": "Naohiro Takahara",
+        "age": 32,
+        "squad_no": 9,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 78
+          },
+          {
+            "pos": "CAM",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "JPN_2006_10",
+        "name_cn": "中村俊辅",
+        "name_en": "Shunsuke Nakamura",
+        "age": 24,
+        "squad_no": 10,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 78
+          },
+          {
+            "pos": "CAM",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "JPN_2006_11",
+        "name_cn": "Seiichiro Maki",
+        "name_en": "Seiichiro Maki",
+        "age": 22,
+        "squad_no": 11,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 78
+          },
+          {
+            "pos": "LW",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "JPN_2006_12",
+        "name_cn": "Yoichi Doi",
+        "name_en": "Yoichi Doi",
+        "age": 28,
+        "squad_no": 12,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 77
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "JPN_2006_13",
+        "name_cn": "Atsushi Yanagisawa",
+        "name_en": "Atsushi Yanagisawa",
+        "age": 32,
+        "squad_no": 13,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "JPN_2006_14",
+        "name_cn": "Alessandro Santos",
+        "name_en": "Alessandro Santos",
+        "age": 26,
+        "squad_no": 14,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "JPN_2006_15",
+        "name_cn": "Takashi Fukunishi",
+        "name_en": "Takashi Fukunishi",
+        "age": 33,
+        "squad_no": 15,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "JPN_2006_16",
+        "name_cn": "Masashi Oguro",
+        "name_en": "Masashi Oguro",
+        "age": 33,
+        "squad_no": 16,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "JPN_2006_17",
+        "name_cn": "Junichi Inamoto",
+        "name_en": "Junichi Inamoto",
+        "age": 25,
+        "squad_no": 17,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "JPN_2006_18",
+        "name_cn": "Shinji Ono",
+        "name_en": "Shinji Ono",
+        "age": 28,
+        "squad_no": 18,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "JPN_2006_19",
+        "name_cn": "Keisuke Tsuboi",
+        "name_en": "Keisuke Tsuboi",
+        "age": 32,
+        "squad_no": 19,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "JPN_2006_20",
+        "name_cn": "Keiji Tamada",
+        "name_en": "Keiji Tamada",
+        "age": 23,
+        "squad_no": 20,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "JPN_2006_21",
+        "name_cn": "Akira Kaji",
+        "name_en": "Akira Kaji",
+        "age": 33,
+        "squad_no": 21,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "JPN_2006_22",
+        "name_cn": "Yuji Nakazawa",
+        "name_en": "Yuji Nakazawa",
+        "age": 23,
+        "squad_no": 22,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "JPN_2006_23",
+        "name_cn": "川口能活",
+        "name_en": "Yoshikatsu Kawaguchi",
+        "age": 22,
+        "squad_no": 23,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      }
+    ],
+    "2010": [
+      {
+        "id": "JPN_2010_01",
+        "name_cn": "Seigo Narazaki",
+        "name_en": "Seigo Narazaki",
+        "age": 25,
+        "squad_no": 1,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 79
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "JPN_2010_02",
+        "name_cn": "Yuki Abe",
+        "name_en": "Yuki Abe",
+        "age": 29,
+        "squad_no": 2,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 78
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "JPN_2010_03",
+        "name_cn": "Yūichi Komano",
+        "name_en": "Yūichi Komano",
+        "age": 23,
+        "squad_no": 3,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 78
+          },
+          {
+            "pos": "LB",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "JPN_2010_04",
+        "name_cn": "Marcus Tulio Tanaka",
+        "name_en": "Marcus Tulio Tanaka",
+        "age": 24,
+        "squad_no": 4,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 78
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "JPN_2010_05",
+        "name_cn": "长友佑都",
+        "name_en": "Yuto Nagatomo",
+        "age": 31,
+        "squad_no": 5,
+        "positions": [
+          {
+            "pos": "LB",
+            "ovr": 85
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "JPN_2010_06",
+        "name_cn": "Atsuto Uchida",
+        "name_en": "Atsuto Uchida",
+        "age": 25,
+        "squad_no": 6,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 78
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "JPN_2010_07",
+        "name_cn": "Yasuhito Endō",
+        "name_en": "Yasuhito Endō",
+        "age": 30,
+        "squad_no": 7,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 78
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "JPN_2010_08",
+        "name_cn": "Daisuke Matsui",
+        "name_en": "Daisuke Matsui",
+        "age": 32,
+        "squad_no": 8,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 78
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "JPN_2010_09",
+        "name_cn": "冈崎慎司",
+        "name_en": "Shinji Okazaki",
+        "age": 29,
+        "squad_no": 9,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 78
+          },
+          {
+            "pos": "CAM",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "JPN_2010_10",
+        "name_cn": "中村俊辅",
+        "name_en": "Shunsuke Nakamura",
+        "age": 22,
+        "squad_no": 10,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 78
+          },
+          {
+            "pos": "CAM",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "JPN_2010_11",
+        "name_cn": "Keiji Tamada",
+        "name_en": "Keiji Tamada",
+        "age": 22,
+        "squad_no": 11,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 78
+          },
+          {
+            "pos": "LW",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "JPN_2010_12",
+        "name_cn": "Kisho Yano",
+        "name_en": "Kisho Yano",
+        "age": 33,
+        "squad_no": 12,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "JPN_2010_13",
+        "name_cn": "Daiki Iwamasa",
+        "name_en": "Daiki Iwamasa",
+        "age": 27,
+        "squad_no": 13,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "JPN_2010_14",
+        "name_cn": "Kengo Nakamura",
+        "name_en": "Kengo Nakamura",
+        "age": 23,
+        "squad_no": 14,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "JPN_2010_15",
+        "name_cn": "Yasuyuki Konno",
+        "name_en": "Yasuyuki Konno",
+        "age": 28,
+        "squad_no": 15,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "JPN_2010_16",
+        "name_cn": "Yoshito Ōkubo",
+        "name_en": "Yoshito Ōkubo",
+        "age": 33,
+        "squad_no": 16,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "JPN_2010_17",
+        "name_cn": "Makoto Hasebe",
+        "name_en": "Makoto Hasebe",
+        "age": 24,
+        "squad_no": 17,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "JPN_2010_18",
+        "name_cn": "本田圭佑",
+        "name_en": "Keisuke Honda",
+        "age": 29,
+        "squad_no": 18,
+        "positions": [
+          {
+            "pos": "CAM",
+            "ovr": 87
+          },
+          {
+            "pos": "LM",
+            "ovr": 85
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "JPN_2010_19",
+        "name_cn": "Takayuki Morimoto",
+        "name_en": "Takayuki Morimoto",
+        "age": 23,
+        "squad_no": 19,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "JPN_2010_20",
+        "name_cn": "Junichi Inamoto",
+        "name_en": "Junichi Inamoto",
+        "age": 25,
+        "squad_no": 20,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "JPN_2010_21",
+        "name_cn": "Eiji Kawashima",
+        "name_en": "Eiji Kawashima",
+        "age": 28,
+        "squad_no": 21,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "JPN_2010_22",
+        "name_cn": "Yuji Nakazawa",
+        "name_en": "Yuji Nakazawa",
+        "age": 23,
+        "squad_no": 22,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "JPN_2010_23",
+        "name_cn": "Yoshikatsu Kawaguchi",
+        "name_en": "Yoshikatsu Kawaguchi",
+        "age": 33,
+        "squad_no": 23,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      }
+    ],
+    "2014": [
+      {
+        "id": "JPN_2014_01",
+        "name_cn": "Eiji Kawashima",
+        "name_en": "Eiji Kawashima",
+        "age": 23,
+        "squad_no": 1,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 79
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "JPN_2014_02",
+        "name_cn": "Atsuto Uchida",
+        "name_en": "Atsuto Uchida",
+        "age": 23,
+        "squad_no": 2,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 78
+          },
+          {
+            "pos": "RB",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "JPN_2014_03",
+        "name_cn": "Gōtoku Sakai",
+        "name_en": "Gōtoku Sakai",
+        "age": 27,
+        "squad_no": 3,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 78
+          },
+          {
+            "pos": "LB",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "JPN_2014_04",
+        "name_cn": "本田圭佑",
+        "name_en": "Keisuke Honda",
+        "age": 27,
+        "squad_no": 4,
+        "positions": [
+          {
+            "pos": "CAM",
+            "ovr": 87
+          },
+          {
+            "pos": "LM",
+            "ovr": 85
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "JPN_2014_05",
+        "name_cn": "长友佑都",
+        "name_en": "Yuto Nagatomo",
+        "age": 26,
+        "squad_no": 5,
+        "positions": [
+          {
+            "pos": "LB",
+            "ovr": 85
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "JPN_2014_06",
+        "name_cn": "Masato Morishige",
+        "name_en": "Masato Morishige",
+        "age": 24,
+        "squad_no": 6,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 78
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "JPN_2014_07",
+        "name_cn": "Yasuhito Endō",
+        "name_en": "Yasuhito Endō",
+        "age": 28,
+        "squad_no": 7,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 78
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "JPN_2014_08",
+        "name_cn": "Hiroshi Kiyotake",
+        "name_en": "Hiroshi Kiyotake",
+        "age": 24,
+        "squad_no": 8,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 78
+          },
+          {
+            "pos": "DM",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "JPN_2014_09",
+        "name_cn": "冈崎慎司",
+        "name_en": "Shinji Okazaki",
+        "age": 32,
+        "squad_no": 9,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 78
+          },
+          {
+            "pos": "CAM",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "JPN_2014_10",
+        "name_cn": "香川真司",
+        "name_en": "Shinji Kagawa",
+        "age": 32,
+        "squad_no": 10,
+        "positions": [
+          {
+            "pos": "CAM",
+            "ovr": 87
+          },
+          {
+            "pos": "CM",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "JPN_2014_11",
+        "name_cn": "Yoichiro Kakitani",
+        "name_en": "Yoichiro Kakitani",
+        "age": 24,
+        "squad_no": 11,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 78
+          },
+          {
+            "pos": "LW",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "JPN_2014_12",
+        "name_cn": "Shusaku Nishikawa",
+        "name_en": "Shusaku Nishikawa",
+        "age": 23,
+        "squad_no": 12,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 77
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "JPN_2014_13",
+        "name_cn": "Yoshito Ōkubo",
+        "name_en": "Yoshito Ōkubo",
+        "age": 30,
+        "squad_no": 13,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "JPN_2014_14",
+        "name_cn": "Toshihiro Aoyama",
+        "name_en": "Toshihiro Aoyama",
+        "age": 31,
+        "squad_no": 14,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "JPN_2014_15",
+        "name_cn": "Yasuyuki Konno",
+        "name_en": "Yasuyuki Konno",
+        "age": 22,
+        "squad_no": 15,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "JPN_2014_16",
+        "name_cn": "Hotaru Yamaguchi",
+        "name_en": "Hotaru Yamaguchi",
+        "age": 31,
+        "squad_no": 16,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "JPN_2014_17",
+        "name_cn": "Makoto Hasebe",
+        "name_en": "Makoto Hasebe",
+        "age": 32,
+        "squad_no": 17,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "JPN_2014_18",
+        "name_cn": "Yuya Osako",
+        "name_en": "Yuya Osako",
+        "age": 24,
+        "squad_no": 18,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "JPN_2014_19",
+        "name_cn": "Masahiko Inoha",
+        "name_en": "Masahiko Inoha",
+        "age": 29,
+        "squad_no": 19,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "JPN_2014_20",
+        "name_cn": "Manabu Saitō",
+        "name_en": "Manabu Saitō",
+        "age": 27,
+        "squad_no": 20,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "JPN_2014_21",
+        "name_cn": "Hiroki Sakai",
+        "name_en": "Hiroki Sakai",
+        "age": 33,
+        "squad_no": 21,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "JPN_2014_22",
+        "name_cn": "吉田麻也",
+        "name_en": "Maya Yoshida",
+        "age": 25,
+        "squad_no": 22,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 85
+          }
+        ],
+        "tags": [
+          "队长"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "JPN_2014_23",
+        "name_cn": "Shūichi Gonda",
+        "name_en": "Shūichi Gonda",
+        "age": 32,
+        "squad_no": 23,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      }
+    ],
+    "2018": [
+      {
+        "id": "JPN_2018_01",
+        "name_cn": "Eiji Kawashima",
+        "name_en": "Eiji Kawashima",
+        "age": 33,
+        "squad_no": 1,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 79
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "JPN_2018_02",
+        "name_cn": "Naomichi Ueda",
+        "name_en": "Naomichi Ueda",
+        "age": 24,
+        "squad_no": 2,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 78
+          },
+          {
+            "pos": "RB",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "JPN_2018_03",
+        "name_cn": "Gen Shoji",
+        "name_en": "Gen Shoji",
+        "age": 28,
+        "squad_no": 3,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 78
+          },
+          {
+            "pos": "LB",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "JPN_2018_04",
+        "name_cn": "本田圭佑",
+        "name_en": "Keisuke Honda",
+        "age": 31,
+        "squad_no": 4,
+        "positions": [
+          {
+            "pos": "CAM",
+            "ovr": 87
+          },
+          {
+            "pos": "LM",
+            "ovr": 85
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "JPN_2018_05",
+        "name_cn": "长友佑都",
+        "name_en": "Yuto Nagatomo",
+        "age": 32,
+        "squad_no": 5,
+        "positions": [
+          {
+            "pos": "LB",
+            "ovr": 85
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "JPN_2018_06",
+        "name_cn": "远藤航",
+        "name_en": "Wataru Endo",
+        "age": 29,
+        "squad_no": 6,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 78
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "JPN_2018_07",
+        "name_cn": "Gaku Shibasaki",
+        "name_en": "Gaku Shibasaki",
+        "age": 25,
+        "squad_no": 7,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 78
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "JPN_2018_08",
+        "name_cn": "Genki Haraguchi",
+        "name_en": "Genki Haraguchi",
+        "age": 23,
+        "squad_no": 8,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 78
+          },
+          {
+            "pos": "DM",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "JPN_2018_09",
+        "name_cn": "冈崎慎司",
+        "name_en": "Shinji Okazaki",
+        "age": 23,
+        "squad_no": 9,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 78
+          },
+          {
+            "pos": "CAM",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "JPN_2018_10",
+        "name_cn": "香川真司",
+        "name_en": "Shinji Kagawa",
+        "age": 24,
+        "squad_no": 10,
+        "positions": [
+          {
+            "pos": "CAM",
+            "ovr": 87
+          },
+          {
+            "pos": "CM",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "JPN_2018_11",
+        "name_cn": "Takashi Usami",
+        "name_en": "Takashi Usami",
+        "age": 23,
+        "squad_no": 11,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 78
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "JPN_2018_12",
+        "name_cn": "Masaaki Higashiguchi",
+        "name_en": "Masaaki Higashiguchi",
+        "age": 31,
+        "squad_no": 12,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 77
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "JPN_2018_13",
+        "name_cn": "Yoshinori Muto",
+        "name_en": "Yoshinori Muto",
+        "age": 33,
+        "squad_no": 13,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "JPN_2018_14",
+        "name_cn": "Takashi Inui",
+        "name_en": "Takashi Inui",
+        "age": 28,
+        "squad_no": 14,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "JPN_2018_15",
+        "name_cn": "Yuya Osako",
+        "name_en": "Yuya Osako",
+        "age": 27,
+        "squad_no": 15,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "JPN_2018_16",
+        "name_cn": "Hotaru Yamaguchi",
+        "name_en": "Hotaru Yamaguchi",
+        "age": 28,
+        "squad_no": 16,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "JPN_2018_17",
+        "name_cn": "Makoto Hasebe",
+        "name_en": "Makoto Hasebe",
+        "age": 27,
+        "squad_no": 17,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "JPN_2018_18",
+        "name_cn": "Ryota Oshima",
+        "name_en": "Ryota Oshima",
+        "age": 24,
+        "squad_no": 18,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "JPN_2018_19",
+        "name_cn": "Hiroki Sakai",
+        "name_en": "Hiroki Sakai",
+        "age": 25,
+        "squad_no": 19,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "JPN_2018_20",
+        "name_cn": "Tomoaki Makino",
+        "name_en": "Tomoaki Makino",
+        "age": 26,
+        "squad_no": 20,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "JPN_2018_21",
+        "name_cn": "Gōtoku Sakai",
+        "name_en": "Gōtoku Sakai",
+        "age": 32,
+        "squad_no": 21,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "JPN_2018_22",
+        "name_cn": "吉田麻也",
+        "name_en": "Maya Yoshida",
+        "age": 23,
+        "squad_no": 22,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 85
+          }
+        ],
+        "tags": [
+          "队长"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "JPN_2018_23",
+        "name_cn": "Kosuke Nakamura",
+        "name_en": "Kosuke Nakamura",
+        "age": 25,
+        "squad_no": 23,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      }
+    ],
+    "2022": [
+      {
+        "id": "JPN_2022_01",
+        "name_cn": "Eiji Kawashima",
+        "name_en": "Eiji Kawashima",
+        "age": 30,
+        "squad_no": 1,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 79
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "JPN_2022_02",
+        "name_cn": "Miki Yamane",
+        "name_en": "Miki Yamane",
+        "age": 31,
+        "squad_no": 2,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 78
+          },
+          {
+            "pos": "RB",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "JPN_2022_03",
+        "name_cn": "Shogo Taniguchi",
+        "name_en": "Shogo Taniguchi",
+        "age": 31,
+        "squad_no": 3,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 78
+          },
+          {
+            "pos": "LB",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "JPN_2022_04",
+        "name_cn": "板仓滉",
+        "name_en": "Ko Itakura",
+        "age": 33,
+        "squad_no": 4,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "JPN_2022_05",
+        "name_cn": "长友佑都",
+        "name_en": "Yuto Nagatomo",
+        "age": 31,
+        "squad_no": 5,
+        "positions": [
+          {
+            "pos": "LB",
+            "ovr": 85
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "JPN_2022_06",
+        "name_cn": "远藤航",
+        "name_en": "Wataru Endo",
+        "age": 26,
+        "squad_no": 6,
+        "positions": [
+          {
+            "pos": "DM",
+            "ovr": 87
+          },
+          {
+            "pos": "CM",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "JPN_2022_07",
+        "name_cn": "Gaku Shibasaki",
+        "name_en": "Gaku Shibasaki",
+        "age": 33,
+        "squad_no": 7,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 78
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "JPN_2022_08",
+        "name_cn": "Ritsu Dōan",
+        "name_en": "Ritsu Dōan",
+        "age": 22,
+        "squad_no": 8,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 78
+          },
+          {
+            "pos": "DM",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "JPN_2022_09",
+        "name_cn": "三笘薫",
+        "name_en": "Kaoru Mitoma",
+        "age": 32,
+        "squad_no": 9,
+        "positions": [
+          {
+            "pos": "LW",
+            "ovr": 87
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "JPN_2022_10",
+        "name_cn": "南野拓实",
+        "name_en": "Takumi Minamino",
+        "age": 26,
+        "squad_no": 10,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 78
+          },
+          {
+            "pos": "CAM",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "JPN_2022_11",
+        "name_cn": "久保建英",
+        "name_en": "Takefusa Kubo",
+        "age": 25,
+        "squad_no": 11,
+        "positions": [
+          {
+            "pos": "RW",
+            "ovr": 85
+          },
+          {
+            "pos": "CAM",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "JPN_2022_12",
+        "name_cn": "权田修一",
+        "name_en": "Shūichi Gonda",
+        "age": 30,
+        "squad_no": 12,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "JPN_2022_13",
+        "name_cn": "守田英正",
+        "name_en": "Hidemasa Morita",
+        "age": 31,
+        "squad_no": 13,
+        "positions": [
+          {
+            "pos": "DM",
+            "ovr": 83
+          },
+          {
+            "pos": "CM",
+            "ovr": 82
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "JPN_2022_14",
+        "name_cn": "Junya Ito",
+        "name_en": "Junya Ito",
+        "age": 30,
+        "squad_no": 14,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "JPN_2022_15",
+        "name_cn": "镰田大地",
+        "name_en": "Daichi Kamada",
+        "age": 25,
+        "squad_no": 15,
+        "positions": [
+          {
+            "pos": "CAM",
+            "ovr": 84
+          },
+          {
+            "pos": "CM",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "JPN_2022_16",
+        "name_cn": "Takehiro Tomiyasu",
+        "name_en": "Takehiro Tomiyasu",
+        "age": 33,
+        "squad_no": 16,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "JPN_2022_17",
+        "name_cn": "Ao Tanaka",
+        "name_en": "Ao Tanaka",
+        "age": 28,
+        "squad_no": 17,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "JPN_2022_18",
+        "name_cn": "浅野拓磨",
+        "name_en": "Takuma Asano",
+        "age": 26,
+        "squad_no": 18,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "JPN_2022_19",
+        "name_cn": "Hiroki Sakai",
+        "name_en": "Hiroki Sakai",
+        "age": 32,
+        "squad_no": 19,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "JPN_2022_20",
+        "name_cn": "Shuto Machino",
+        "name_en": "Shuto Machino",
+        "age": 22,
+        "squad_no": 20,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "JPN_2022_21",
+        "name_cn": "Ayase Ueda",
+        "name_en": "Ayase Ueda",
+        "age": 25,
+        "squad_no": 21,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "JPN_2022_22",
+        "name_cn": "吉田麻也",
+        "name_en": "Maya Yoshida",
+        "age": 29,
+        "squad_no": 22,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 85
+          }
+        ],
+        "tags": [
+          "队长"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "JPN_2022_23",
+        "name_cn": "Daniel Schmidt",
+        "name_en": "Daniel Schmidt",
+        "age": 28,
+        "squad_no": 23,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "JPN_2022_24",
+        "name_cn": "Yuki Soma",
+        "name_en": "Yuki Soma",
+        "age": 23,
+        "squad_no": 24,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "JPN_2022_25",
+        "name_cn": "Daizen Maeda",
+        "name_en": "Daizen Maeda",
+        "age": 25,
+        "squad_no": 25,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "JPN_2022_26",
+        "name_cn": "Hiroki Ito",
+        "name_en": "Hiroki Ito",
+        "age": 29,
+        "squad_no": 26,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      }
+    ],
+    "2026": [
+      {
+        "id": "JPN_2026_01",
+        "name_cn": "Zion Suzuki",
+        "name_en": "Zion Suzuki",
+        "age": 32,
+        "squad_no": 1,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 81
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "JPN_2026_02",
+        "name_cn": "Keisuke Osako",
+        "name_en": "Keisuke Osako",
+        "age": 31,
+        "squad_no": 2,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 81
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "JPN_2026_03",
+        "name_cn": "Tomoki Hayakawa",
+        "name_en": "Tomoki Hayakawa",
+        "age": 23,
+        "squad_no": 3,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 81
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "JPN_2026_04",
+        "name_cn": "长友佑都",
+        "name_en": "Yūto Nagatomo",
+        "age": 30,
+        "squad_no": 4,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "JPN_2026_05",
+        "name_cn": "谷口彰悟",
+        "name_en": "Shogo Taniguchi",
+        "age": 22,
+        "squad_no": 5,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "JPN_2026_06",
+        "name_cn": "板仓滉",
+        "name_en": "Ko Itakura",
+        "age": 27,
+        "squad_no": 6,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "JPN_2026_07",
+        "name_cn": "Tsuyoshi Watanabe",
+        "name_en": "Tsuyoshi Watanabe",
+        "age": 27,
+        "squad_no": 7,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "JPN_2026_08",
+        "name_cn": "Takehiro Tomiyasu",
+        "name_en": "Takehiro Tomiyasu",
+        "age": 24,
+        "squad_no": 8,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "JPN_2026_09",
+        "name_cn": "Hiroki Ito",
+        "name_en": "Hiroki Ito",
+        "age": 28,
+        "squad_no": 9,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "JPN_2026_10",
+        "name_cn": "Ayumu Seko",
+        "name_en": "Ayumu Seko",
+        "age": 31,
+        "squad_no": 10,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "JPN_2026_11",
+        "name_cn": "Yukinari Sugawara",
+        "name_en": "Yukinari Sugawara",
+        "age": 28,
+        "squad_no": 11,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "JPN_2026_12",
+        "name_cn": "Junnosuke Suzuki",
+        "name_en": "Junnosuke Suzuki",
+        "age": 27,
+        "squad_no": 12,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 78
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "JPN_2026_13",
+        "name_cn": "远藤航",
+        "name_en": "Wataru Endo",
+        "age": 30,
+        "squad_no": 13,
+        "positions": [
+          {
+            "pos": "DM",
+            "ovr": 87
+          },
+          {
+            "pos": "CM",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "JPN_2026_14",
+        "name_cn": "Junya Ito",
+        "name_en": "Junya Ito",
+        "age": 32,
+        "squad_no": 14,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 78
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "JPN_2026_15",
+        "name_cn": "镰田大地",
+        "name_en": "Daichi Kamada",
+        "age": 24,
+        "squad_no": 15,
+        "positions": [
+          {
+            "pos": "CAM",
+            "ovr": 84
+          },
+          {
+            "pos": "CM",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "JPN_2026_16",
+        "name_cn": "堂安律",
+        "name_en": "Ritsu Doan",
+        "age": 29,
+        "squad_no": 16,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 78
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "JPN_2026_17",
+        "name_cn": "Ao Tanaka",
+        "name_en": "Ao Tanaka",
+        "age": 23,
+        "squad_no": 17,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 78
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "JPN_2026_18",
+        "name_cn": "Keito Nakamura",
+        "name_en": "Keito Nakamura",
+        "age": 22,
+        "squad_no": 18,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 78
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "JPN_2026_19",
+        "name_cn": "Kaishu Sano",
+        "name_en": "Kaishu Sano",
+        "age": 31,
+        "squad_no": 19,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "JPN_2026_20",
+        "name_cn": "久保建英",
+        "name_en": "Takefusa Kubo",
+        "age": 23,
+        "squad_no": 20,
+        "positions": [
+          {
+            "pos": "RW",
+            "ovr": 85
+          },
+          {
+            "pos": "CAM",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "JPN_2026_21",
+        "name_cn": "Yuito Suzuki",
+        "name_en": "Yuito Suzuki",
+        "age": 22,
+        "squad_no": 21,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "JPN_2026_22",
+        "name_cn": "Koki Ogawa",
+        "name_en": "Koki Ogawa",
+        "age": 26,
+        "squad_no": 22,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "JPN_2026_23",
+        "name_cn": "Daizen Maeda",
+        "name_en": "Daizen Maeda",
+        "age": 25,
+        "squad_no": 23,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "JPN_2026_24",
+        "name_cn": "Ayase Ueda",
+        "name_en": "Ayase Ueda",
+        "age": 22,
+        "squad_no": 24,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "JPN_2026_25",
+        "name_cn": "Kento Shiogai",
+        "name_en": "Kento Shiogai",
+        "age": 22,
+        "squad_no": 25,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "JPN_2026_26",
+        "name_cn": "Keisuke Goto",
+        "name_en": "Keisuke Goto",
+        "age": 28,
+        "squad_no": 26,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,397 @@
+{
+  "country_code": "UZB",
+  "squads": {
+    "2026": [
+      {
+        "id": "UZB_2026_01",
+        "name_cn": "Utkir Yusupov",
+        "name_en": "Utkir Yusupov",
+        "age": 33,
+        "squad_no": 1,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "UZB_2026_02",
+        "name_cn": "Botirali Ergashev",
+        "name_en": "Botirali Ergashev",
+        "age": 29,
+        "squad_no": 2,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "UZB_2026_03",
+        "name_cn": "Abduvokhid Nematov",
+        "name_en": "Abduvokhid Nematov",
+        "age": 26,
+        "squad_no": 3,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "UZB_2026_04",
+        "name_cn": "Avazbek Ulmasaliev",
+        "name_en": "Avazbek Ulmasaliev",
+        "age": 27,
+        "squad_no": 4,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "UZB_2026_05",
+        "name_cn": "Jakhongir Urozov",
+        "name_en": "Jakhongir Urozov",
+        "age": 22,
+        "squad_no": 5,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "UZB_2026_06",
+        "name_cn": "Rustamjon Ashurmatov",
+        "name_en": "Rustamjon Ashurmatov",
+        "age": 27,
+        "squad_no": 6,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "UZB_2026_07",
+        "name_cn": "Umarbek Eshmurodov",
+        "name_en": "Umarbek Eshmurodov",
+        "age": 26,
+        "squad_no": 7,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "UZB_2026_08",
+        "name_cn": "胡萨诺夫",
+        "name_en": "Abdukodir Khusanov",
+        "age": 26,
+        "squad_no": 8,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "UZB_2026_09",
+        "name_cn": "Abdulla Abdullaev",
+        "name_en": "Abdulla Abdullaev",
+        "age": 26,
+        "squad_no": 9,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "UZB_2026_10",
+        "name_cn": "Farrukh Sayfiev",
+        "name_en": "Farrukh Sayfiev",
+        "age": 29,
+        "squad_no": 10,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "UZB_2026_11",
+        "name_cn": "Khojiakbar Alijonov",
+        "name_en": "Khojiakbar Alijonov",
+        "age": 33,
+        "squad_no": 11,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "UZB_2026_12",
+        "name_cn": "Sherzod Nasrullaev",
+        "name_en": "Sherzod Nasrullaev",
+        "age": 32,
+        "squad_no": 12,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "UZB_2026_13",
+        "name_cn": "Behruz Karimov",
+        "name_en": "Behruz Karimov",
+        "age": 23,
+        "squad_no": 13,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "UZB_2026_14",
+        "name_cn": "Sherzod Esanov",
+        "name_en": "Sherzod Esanov",
+        "age": 25,
+        "squad_no": 14,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "UZB_2026_15",
+        "name_cn": "Umarali Rakhmonaliev",
+        "name_en": "Umarali Rakhmonaliev",
+        "age": 24,
+        "squad_no": 15,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "UZB_2026_16",
+        "name_cn": "Akmal Mozgovoy",
+        "name_en": "Akmal Mozgovoy",
+        "age": 26,
+        "squad_no": 16,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "UZB_2026_17",
+        "name_cn": "Otabek Shukurov",
+        "name_en": "Otabek Shukurov",
+        "age": 33,
+        "squad_no": 17,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "UZB_2026_18",
+        "name_cn": "Jamshid Iskanderov",
+        "name_en": "Jamshid Iskanderov",
+        "age": 29,
+        "squad_no": 18,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "UZB_2026_19",
+        "name_cn": "Azizjon Ganiev",
+        "name_en": "Azizjon Ganiev",
+        "age": 27,
+        "squad_no": 19,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "UZB_2026_20",
+        "name_cn": "Abbosek Fayzullaev",
+        "name_en": "Abbosek Fayzullaev",
+        "age": 26,
+        "squad_no": 20,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "UZB_2026_21",
+        "name_cn": "Jaloliddin Masharipov",
+        "name_en": "Jaloliddin Masharipov",
+        "age": 33,
+        "squad_no": 21,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "UZB_2026_22",
+        "name_cn": "Dostonbek Khamdamov",
+        "name_en": "Dostonbek Khamdamov",
+        "age": 28,
+        "squad_no": 22,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "UZB_2026_23",
+        "name_cn": "Oston Urunov",
+        "name_en": "Oston Urunov",
+        "age": 31,
+        "squad_no": 23,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "UZB_2026_24",
+        "name_cn": "Azizbek Amonov",
+        "name_en": "Azizbek Amonov",
+        "age": 32,
+        "squad_no": 24,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "UZB_2026_25",
+        "name_cn": "Igor Sergeev",
+        "name_en": "Igor Sergeev",
+        "age": 23,
+        "squad_no": 25,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "UZB_2026_26",
+        "name_cn": "Eldor Shomurodov",
+        "name_en": "Eldor Shomurodov",
+        "age": 25,
+        "squad_no": 26,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      }
+    ]
+  }
+}

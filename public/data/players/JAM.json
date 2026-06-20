@@ -1,0 +1,349 @@
+{
+  "country_code": "JAM",
+  "squads": {
+    "1998": [
+      {
+        "id": "JAM_1998_01",
+        "name_cn": "Warren Barrett",
+        "name_en": "Warren Barrett",
+        "age": 32,
+        "squad_no": 1,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "JAM_1998_02",
+        "name_cn": "Stephen Malcolm",
+        "name_en": "Stephen Malcolm",
+        "age": 25,
+        "squad_no": 2,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 72
+          },
+          {
+            "pos": "RB",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "JAM_1998_03",
+        "name_cn": "Chris Dawes",
+        "name_en": "Chris Dawes",
+        "age": 28,
+        "squad_no": 3,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 72
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "JAM_1998_04",
+        "name_cn": "Linval Dixon",
+        "name_en": "Linval Dixon",
+        "age": 27,
+        "squad_no": 4,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 72
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "JAM_1998_05",
+        "name_cn": "Ian Goodison",
+        "name_en": "Ian Goodison",
+        "age": 33,
+        "squad_no": 5,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 72
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "JAM_1998_06",
+        "name_cn": "Fitzroy Simpson",
+        "name_en": "Fitzroy Simpson",
+        "age": 23,
+        "squad_no": 6,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 72
+          },
+          {
+            "pos": "DM",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "JAM_1998_07",
+        "name_cn": "Peter Cargill",
+        "name_en": "Peter Cargill",
+        "age": 29,
+        "squad_no": 7,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 72
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "JAM_1998_08",
+        "name_cn": "Marcus Gayle",
+        "name_en": "Marcus Gayle",
+        "age": 32,
+        "squad_no": 8,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 72
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "JAM_1998_09",
+        "name_cn": "Andy Williams",
+        "name_en": "Andy Williams",
+        "age": 29,
+        "squad_no": 9,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 72
+          },
+          {
+            "pos": "CAM",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "JAM_1998_10",
+        "name_cn": "Walter Boyd",
+        "name_en": "Walter Boyd",
+        "age": 29,
+        "squad_no": 10,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 72
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "JAM_1998_11",
+        "name_cn": "Theodore Whitmore",
+        "name_en": "Theodore Whitmore",
+        "age": 25,
+        "squad_no": 11,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 72
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "JAM_1998_12",
+        "name_cn": "Dean Sewell",
+        "name_en": "Dean Sewell",
+        "age": 31,
+        "squad_no": 12,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "JAM_1998_13",
+        "name_cn": "Aaron Lawrence",
+        "name_en": "Aaron Lawrence",
+        "age": 24,
+        "squad_no": 13,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "JAM_1998_14",
+        "name_cn": "Donovan Ricketts",
+        "name_en": "Donovan Ricketts",
+        "age": 32,
+        "squad_no": 14,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "JAM_1998_15",
+        "name_cn": "Ricardo Gardner",
+        "name_en": "Ricardo Gardner",
+        "age": 28,
+        "squad_no": 15,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "JAM_1998_16",
+        "name_cn": "Robbie Earle",
+        "name_en": "Robbie Earle",
+        "age": 22,
+        "squad_no": 16,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "JAM_1998_17",
+        "name_cn": "Onandi Lowe",
+        "name_en": "Onandi Lowe",
+        "age": 25,
+        "squad_no": 17,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 68
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "JAM_1998_18",
+        "name_cn": "Deon Burton",
+        "name_en": "Deon Burton",
+        "age": 22,
+        "squad_no": 18,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 68
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "JAM_1998_19",
+        "name_cn": "Oihane Hernández",
+        "name_en": "Oihane Hernández",
+        "age": 24,
+        "squad_no": 19,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 68
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "JAM_1998_20",
+        "name_cn": "Darryl Powell",
+        "name_en": "Darryl Powell",
+        "age": 31,
+        "squad_no": 20,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 68
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "JAM_1998_21",
+        "name_cn": "Durrant Brown",
+        "name_en": "Durrant Brown",
+        "age": 31,
+        "squad_no": 21,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 68
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "JAM_1998_22",
+        "name_cn": "Paul Hall",
+        "name_en": "Paul Hall",
+        "age": 24,
+        "squad_no": 22,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 68
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      }
+    ]
+  }
+}

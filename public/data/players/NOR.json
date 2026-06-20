@@ -1,0 +1,1121 @@
+{
+  "country_code": "NOR",
+  "squads": {
+    "1994": [
+      {
+        "id": "NOR_1994_01",
+        "name_cn": "Erik Thorstvedt",
+        "name_en": "Erik Thorstvedt",
+        "age": 30,
+        "squad_no": 1,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NOR_1994_02",
+        "name_cn": "Gunnar Halle",
+        "name_en": "Gunnar Halle",
+        "age": 29,
+        "squad_no": 2,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 68
+          },
+          {
+            "pos": "RB",
+            "ovr": 65
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NOR_1994_03",
+        "name_cn": "Erland Johnsen",
+        "name_en": "Erland Johnsen",
+        "age": 29,
+        "squad_no": 3,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 68
+          },
+          {
+            "pos": "LB",
+            "ovr": 65
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NOR_1994_04",
+        "name_cn": "Rune Bratseth",
+        "name_en": "Rune Bratseth",
+        "age": 23,
+        "squad_no": 4,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 68
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NOR_1994_05",
+        "name_cn": "Stig Inge Bjørnebye",
+        "name_en": "Stig Inge Bjørnebye",
+        "age": 33,
+        "squad_no": 5,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 68
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NOR_1994_06",
+        "name_cn": "Jostein Flo",
+        "name_en": "Jostein Flo",
+        "age": 29,
+        "squad_no": 6,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 68
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NOR_1994_07",
+        "name_cn": "Erik Mykland",
+        "name_en": "Erik Mykland",
+        "age": 27,
+        "squad_no": 7,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 68
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NOR_1994_08",
+        "name_cn": "Øyvind Leonhardsen",
+        "name_en": "Øyvind Leonhardsen",
+        "age": 25,
+        "squad_no": 8,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 68
+          },
+          {
+            "pos": "DM",
+            "ovr": 66
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NOR_1994_09",
+        "name_cn": "Jan Åge Fjørtoft",
+        "name_en": "Jan Åge Fjørtoft",
+        "age": 27,
+        "squad_no": 9,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 68
+          },
+          {
+            "pos": "CAM",
+            "ovr": 65
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NOR_1994_10",
+        "name_cn": "Kjetil Rekdal",
+        "name_en": "Kjetil Rekdal",
+        "age": 27,
+        "squad_no": 10,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 68
+          },
+          {
+            "pos": "CAM",
+            "ovr": 66
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NOR_1994_11",
+        "name_cn": "Mini Jakobsen",
+        "name_en": "Mini Jakobsen",
+        "age": 28,
+        "squad_no": 11,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 68
+          },
+          {
+            "pos": "LW",
+            "ovr": 66
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NOR_1994_12",
+        "name_cn": "Frode Grodås",
+        "name_en": "Frode Grodås",
+        "age": 22,
+        "squad_no": 12,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 67
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NOR_1994_13",
+        "name_cn": "Ola By Rise",
+        "name_en": "Ola By Rise",
+        "age": 31,
+        "squad_no": 13,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 67
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NOR_1994_14",
+        "name_cn": "Roger Nilsen",
+        "name_en": "Roger Nilsen",
+        "age": 25,
+        "squad_no": 14,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 66
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NOR_1994_15",
+        "name_cn": "Karl Petter Løken",
+        "name_en": "Karl Petter Løken",
+        "age": 33,
+        "squad_no": 15,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 66
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NOR_1994_16",
+        "name_cn": "Gøran Sørloth",
+        "name_en": "Gøran Sørloth",
+        "age": 24,
+        "squad_no": 16,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 66
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NOR_1994_17",
+        "name_cn": "Dan Eggen",
+        "name_en": "Dan Eggen",
+        "age": 22,
+        "squad_no": 17,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 64
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NOR_1994_18",
+        "name_cn": "Alf-Inge Håland",
+        "name_en": "Alf-Inge Håland",
+        "age": 26,
+        "squad_no": 18,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 64
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NOR_1994_19",
+        "name_cn": "Roar Strand",
+        "name_en": "Roar Strand",
+        "age": 30,
+        "squad_no": 19,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 64
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NOR_1994_20",
+        "name_cn": "Henning Berg",
+        "name_en": "Henning Berg",
+        "age": 31,
+        "squad_no": 20,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 64
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NOR_1994_21",
+        "name_cn": "Sigurd Rushfeldt",
+        "name_en": "Sigurd Rushfeldt",
+        "age": 31,
+        "squad_no": 21,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 64
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NOR_1994_22",
+        "name_cn": "Lars Bohinen",
+        "name_en": "Lars Bohinen",
+        "age": 33,
+        "squad_no": 22,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 64
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      }
+    ],
+    "1998": [
+      {
+        "id": "NOR_1998_01",
+        "name_cn": "Frode Grodås",
+        "name_en": "Frode Grodås",
+        "age": 28,
+        "squad_no": 1,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NOR_1998_02",
+        "name_cn": "Gunnar Halle",
+        "name_en": "Gunnar Halle",
+        "age": 26,
+        "squad_no": 2,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 68
+          },
+          {
+            "pos": "RB",
+            "ovr": 65
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NOR_1998_03",
+        "name_cn": "Ronny Johnsen",
+        "name_en": "Ronny Johnsen",
+        "age": 24,
+        "squad_no": 3,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 68
+          },
+          {
+            "pos": "LB",
+            "ovr": 65
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NOR_1998_04",
+        "name_cn": "Henning Berg",
+        "name_en": "Henning Berg",
+        "age": 25,
+        "squad_no": 4,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 68
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NOR_1998_05",
+        "name_cn": "Stig Inge Bjørnebye",
+        "name_en": "Stig Inge Bjørnebye",
+        "age": 27,
+        "squad_no": 5,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 68
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NOR_1998_06",
+        "name_cn": "Ståle Solbakken",
+        "name_en": "Ståle Solbakken",
+        "age": 25,
+        "squad_no": 6,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 68
+          },
+          {
+            "pos": "DM",
+            "ovr": 66
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NOR_1998_07",
+        "name_cn": "Erik Mykland",
+        "name_en": "Erik Mykland",
+        "age": 28,
+        "squad_no": 7,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 68
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NOR_1998_08",
+        "name_cn": "Øyvind Leonhardsen",
+        "name_en": "Øyvind Leonhardsen",
+        "age": 31,
+        "squad_no": 8,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 68
+          },
+          {
+            "pos": "DM",
+            "ovr": 66
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NOR_1998_09",
+        "name_cn": "Tore André Flo",
+        "name_en": "Tore André Flo",
+        "age": 25,
+        "squad_no": 9,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 68
+          },
+          {
+            "pos": "CAM",
+            "ovr": 65
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NOR_1998_10",
+        "name_cn": "Kjetil Rekdal",
+        "name_en": "Kjetil Rekdal",
+        "age": 29,
+        "squad_no": 10,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 68
+          },
+          {
+            "pos": "CAM",
+            "ovr": 66
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NOR_1998_11",
+        "name_cn": "Mini Jakobsen",
+        "name_en": "Mini Jakobsen",
+        "age": 30,
+        "squad_no": 11,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 68
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NOR_1998_12",
+        "name_cn": "Thomas Myhre",
+        "name_en": "Thomas Myhre",
+        "age": 32,
+        "squad_no": 12,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 67
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NOR_1998_13",
+        "name_cn": "Espen Baardsen",
+        "name_en": "Espen Baardsen",
+        "age": 32,
+        "squad_no": 13,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 67
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NOR_1998_14",
+        "name_cn": "Vegard Heggem",
+        "name_en": "Vegard Heggem",
+        "age": 27,
+        "squad_no": 14,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 66
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NOR_1998_15",
+        "name_cn": "Dan Eggen",
+        "name_en": "Dan Eggen",
+        "age": 26,
+        "squad_no": 15,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 66
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NOR_1998_16",
+        "name_cn": "Jostein Flo",
+        "name_en": "Jostein Flo",
+        "age": 29,
+        "squad_no": 16,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 66
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NOR_1998_17",
+        "name_cn": "Håvard Flo",
+        "name_en": "Håvard Flo",
+        "age": 33,
+        "squad_no": 17,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 64
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NOR_1998_18",
+        "name_cn": "Egil Østenstad",
+        "name_en": "Egil Østenstad",
+        "age": 32,
+        "squad_no": 18,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 64
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NOR_1998_19",
+        "name_cn": "Erik Hoftun",
+        "name_en": "Erik Hoftun",
+        "age": 33,
+        "squad_no": 19,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 64
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NOR_1998_20",
+        "name_cn": "索尔斯泰恩松",
+        "name_en": "Ole Gunnar Solskjær",
+        "age": 29,
+        "squad_no": 20,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 87
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NOR_1998_21",
+        "name_cn": "Vidar Riseth",
+        "name_en": "Vidar Riseth",
+        "age": 29,
+        "squad_no": 21,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 64
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NOR_1998_22",
+        "name_cn": "Roar Strand",
+        "name_en": "Roar Strand",
+        "age": 24,
+        "squad_no": 22,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 64
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      }
+    ],
+    "2026": [
+      {
+        "id": "NOR_2026_01",
+        "name_cn": "尼尔森",
+        "name_en": "Ørjan Nyland",
+        "age": 33,
+        "squad_no": 1,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NOR_2026_02",
+        "name_cn": "Egil Selvik",
+        "name_en": "Egil Selvik",
+        "age": 27,
+        "squad_no": 2,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NOR_2026_03",
+        "name_cn": "Sander Tangvik",
+        "name_en": "Sander Tangvik",
+        "age": 24,
+        "squad_no": 3,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NOR_2026_04",
+        "name_cn": "里尔森",
+        "name_en": "Julian Ryerson",
+        "age": 24,
+        "squad_no": 4,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NOR_2026_05",
+        "name_cn": "阿耶尔",
+        "name_en": "Kristoffer Ajer",
+        "age": 33,
+        "squad_no": 5,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NOR_2026_06",
+        "name_cn": "Leo Østigård",
+        "name_en": "Leo Østigård",
+        "age": 30,
+        "squad_no": 6,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NOR_2026_07",
+        "name_cn": "David Møller Wolfe",
+        "name_en": "David Møller Wolfe",
+        "age": 29,
+        "squad_no": 7,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NOR_2026_08",
+        "name_cn": "Marcus Pedersen",
+        "name_en": "Marcus Pedersen",
+        "age": 24,
+        "squad_no": 8,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NOR_2026_09",
+        "name_cn": "Torbjørn Heggem",
+        "name_en": "Torbjørn Heggem",
+        "age": 30,
+        "squad_no": 9,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NOR_2026_10",
+        "name_cn": "Fredrik André Bjørkan",
+        "name_en": "Fredrik André Bjørkan",
+        "age": 32,
+        "squad_no": 10,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NOR_2026_11",
+        "name_cn": "Henrik Falchener",
+        "name_en": "Henrik Falchener",
+        "age": 22,
+        "squad_no": 11,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NOR_2026_12",
+        "name_cn": "Sondre Langås",
+        "name_en": "Sondre Langås",
+        "age": 30,
+        "squad_no": 12,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 68
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NOR_2026_13",
+        "name_cn": "厄德高",
+        "name_en": "Martin Ødegaard",
+        "age": 22,
+        "squad_no": 13,
+        "positions": [
+          {
+            "pos": "CAM",
+            "ovr": 90
+          },
+          {
+            "pos": "CM",
+            "ovr": 87
+          }
+        ],
+        "tags": [
+          "队长"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NOR_2026_14",
+        "name_cn": "贝里",
+        "name_en": "Sander Berge",
+        "age": 23,
+        "squad_no": 14,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 68
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NOR_2026_15",
+        "name_cn": "佩尔·伯格",
+        "name_en": "Patrick Berg",
+        "age": 32,
+        "squad_no": 15,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 68
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NOR_2026_16",
+        "name_cn": "托尔斯特韦特",
+        "name_en": "Kristian Thorstvedt",
+        "age": 22,
+        "squad_no": 16,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 68
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NOR_2026_17",
+        "name_cn": "Morten Thorsby",
+        "name_en": "Morten Thorsby",
+        "age": 22,
+        "squad_no": 17,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 68
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NOR_2026_18",
+        "name_cn": "Thelo Aasgaard",
+        "name_en": "Thelo Aasgaard",
+        "age": 28,
+        "squad_no": 18,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 68
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NOR_2026_19",
+        "name_cn": "Andreas Schjelderup",
+        "name_en": "Andreas Schjelderup",
+        "age": 24,
+        "squad_no": 19,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 66
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NOR_2026_20",
+        "name_cn": "Jens Petter Hauge",
+        "name_en": "Jens Petter Hauge",
+        "age": 32,
+        "squad_no": 20,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 66
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NOR_2026_21",
+        "name_cn": "Fredrik Aursnes",
+        "name_en": "Fredrik Aursnes",
+        "age": 25,
+        "squad_no": 21,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 66
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NOR_2026_22",
+        "name_cn": "奥斯卡·鲍勃",
+        "name_en": "Oscar Bobb",
+        "age": 23,
+        "squad_no": 22,
+        "positions": [
+          {
+            "pos": "RW",
+            "ovr": 83
+          },
+          {
+            "pos": "LW",
+            "ovr": 82
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NOR_2026_23",
+        "name_cn": "努萨",
+        "name_en": "Antonio Nusa",
+        "age": 33,
+        "squad_no": 23,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 66
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NOR_2026_24",
+        "name_cn": "哈兰德",
+        "name_en": "Erling Haaland",
+        "age": 24,
+        "squad_no": 24,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 94
+          }
+        ],
+        "tags": [
+          "金靴怪兽"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NOR_2026_25",
+        "name_cn": "索尔洛特",
+        "name_en": "Alexander Sørloth",
+        "age": 22,
+        "squad_no": 25,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NOR_2026_26",
+        "name_cn": "Jørgen Strand Larsen",
+        "name_en": "Jørgen Strand Larsen",
+        "age": 25,
+        "squad_no": 26,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 66
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      }
+    ]
+  }
+}

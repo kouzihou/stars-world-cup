@@ -1,0 +1,1100 @@
+{
+  "country_code": "CHI",
+  "squads": {
+    "1998": [
+      {
+        "id": "CHI_1998_01",
+        "name_cn": "Nelson Tapia",
+        "name_en": "Nelson Tapia",
+        "age": 24,
+        "squad_no": 1,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CHI_1998_02",
+        "name_cn": "Cristián Castañeda",
+        "name_en": "Cristián Castañeda",
+        "age": 33,
+        "squad_no": 2,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 72
+          },
+          {
+            "pos": "RB",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CHI_1998_03",
+        "name_cn": "Ronald Fuentes",
+        "name_en": "Ronald Fuentes",
+        "age": 25,
+        "squad_no": 3,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 72
+          },
+          {
+            "pos": "LB",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CHI_1998_04",
+        "name_cn": "Francisco Rojas",
+        "name_en": "Francisco Rojas",
+        "age": 32,
+        "squad_no": 4,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 72
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CHI_1998_05",
+        "name_cn": "Javier Margas",
+        "name_en": "Javier Margas",
+        "age": 26,
+        "squad_no": 5,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 72
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CHI_1998_06",
+        "name_cn": "Pedro Reyes",
+        "name_en": "Pedro Reyes",
+        "age": 33,
+        "squad_no": 6,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 72
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CHI_1998_07",
+        "name_cn": "Nelson Parraguez",
+        "name_en": "Nelson Parraguez",
+        "age": 33,
+        "squad_no": 7,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 72
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CHI_1998_08",
+        "name_cn": "Clarence Acuña",
+        "name_en": "Clarence Acuña",
+        "age": 33,
+        "squad_no": 8,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 72
+          },
+          {
+            "pos": "DM",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CHI_1998_09",
+        "name_cn": "萨莫拉诺",
+        "name_en": "Iván Zamorano",
+        "age": 23,
+        "squad_no": 9,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 87
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CHI_1998_10",
+        "name_cn": "José Luis Sierra",
+        "name_en": "José Luis Sierra",
+        "age": 25,
+        "squad_no": 10,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 72
+          },
+          {
+            "pos": "CAM",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CHI_1998_11",
+        "name_cn": "萨拉斯",
+        "name_en": "Marcelo Salas",
+        "age": 24,
+        "squad_no": 11,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 87
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CHI_1998_12",
+        "name_cn": "Marcelo Ramírez",
+        "name_en": "Marcelo Ramírez",
+        "age": 28,
+        "squad_no": 12,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CHI_1998_13",
+        "name_cn": "Manuel Neira",
+        "name_en": "Manuel Neira",
+        "age": 23,
+        "squad_no": 13,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CHI_1998_15",
+        "name_cn": "Moisés Villarroel",
+        "name_en": "Moisés Villarroel",
+        "age": 23,
+        "squad_no": 15,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CHI_1998_16",
+        "name_cn": "Mauricio Aros",
+        "name_en": "Mauricio Aros",
+        "age": 23,
+        "squad_no": 16,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CHI_1998_17",
+        "name_cn": "Marcelo Vega",
+        "name_en": "Marcelo Vega",
+        "age": 29,
+        "squad_no": 17,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 68
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CHI_1998_18",
+        "name_cn": "Luis Musrri",
+        "name_en": "Luis Musrri",
+        "age": 30,
+        "squad_no": 18,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 68
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CHI_1998_19",
+        "name_cn": "Fernando Cornejo",
+        "name_en": "Fernando Cornejo",
+        "age": 22,
+        "squad_no": 19,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 68
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CHI_1998_20",
+        "name_cn": "Fabián Estay",
+        "name_en": "Fabián Estay",
+        "age": 22,
+        "squad_no": 20,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 68
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CHI_1998_21",
+        "name_cn": "Rodrigo Barrera",
+        "name_en": "Rodrigo Barrera",
+        "age": 28,
+        "squad_no": 21,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 68
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CHI_1998_22",
+        "name_cn": "Carlos Tejas",
+        "name_en": "Carlos Tejas",
+        "age": 30,
+        "squad_no": 22,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      }
+    ],
+    "2010": [
+      {
+        "id": "CHI_2010_01",
+        "name_cn": "布拉沃",
+        "name_en": "Claudio Bravo",
+        "age": 23,
+        "squad_no": 1,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 87
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CHI_2010_02",
+        "name_cn": "Ismael Fuentes",
+        "name_en": "Ismael Fuentes",
+        "age": 23,
+        "squad_no": 2,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          },
+          {
+            "pos": "RB",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CHI_2010_03",
+        "name_cn": "Waldo Ponce",
+        "name_en": "Waldo Ponce",
+        "age": 26,
+        "squad_no": 3,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          },
+          {
+            "pos": "LB",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CHI_2010_04",
+        "name_cn": "Mauricio Isla",
+        "name_en": "Mauricio Isla",
+        "age": 31,
+        "squad_no": 4,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CHI_2010_05",
+        "name_cn": "Pablo Contreras",
+        "name_en": "Pablo Contreras",
+        "age": 24,
+        "squad_no": 5,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CHI_2010_06",
+        "name_cn": "Carlos Carmona",
+        "name_en": "Carlos Carmona",
+        "age": 23,
+        "squad_no": 6,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          },
+          {
+            "pos": "DM",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CHI_2010_07",
+        "name_cn": "亚历克西斯·桑切斯",
+        "name_en": "Alexis Sánchez",
+        "age": 32,
+        "squad_no": 7,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 90
+          },
+          {
+            "pos": "RW",
+            "ovr": 87
+          }
+        ],
+        "tags": [
+          "队长"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CHI_2010_08",
+        "name_cn": "比达尔",
+        "name_en": "Arturo Vidal",
+        "age": 28,
+        "squad_no": 8,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 87
+          },
+          {
+            "pos": "DM",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CHI_2010_09",
+        "name_cn": "Humberto Suazo",
+        "name_en": "Humberto Suazo",
+        "age": 26,
+        "squad_no": 9,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 73
+          },
+          {
+            "pos": "CAM",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CHI_2010_10",
+        "name_cn": "巴尔迪维亚",
+        "name_en": "Jorge Valdivia",
+        "age": 25,
+        "squad_no": 10,
+        "positions": [
+          {
+            "pos": "CAM",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CHI_2010_11",
+        "name_cn": "Mark González",
+        "name_en": "Mark González",
+        "age": 25,
+        "squad_no": 11,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 73
+          },
+          {
+            "pos": "LW",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CHI_2010_12",
+        "name_cn": "Miguel Pinto",
+        "name_en": "Miguel Pinto",
+        "age": 33,
+        "squad_no": 12,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 72
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CHI_2010_13",
+        "name_cn": "Marco Estrada",
+        "name_en": "Marco Estrada",
+        "age": 26,
+        "squad_no": 13,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CHI_2010_14",
+        "name_cn": "Matías Fernández",
+        "name_en": "Matías Fernández",
+        "age": 29,
+        "squad_no": 14,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CHI_2010_15",
+        "name_cn": "Jean Beausejour",
+        "name_en": "Jean Beausejour",
+        "age": 32,
+        "squad_no": 15,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CHI_2010_16",
+        "name_cn": "Fabián Orellana",
+        "name_en": "Fabián Orellana",
+        "age": 24,
+        "squad_no": 16,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CHI_2010_17",
+        "name_cn": "梅迪尔",
+        "name_en": "Gary Medel",
+        "age": 24,
+        "squad_no": 17,
+        "positions": [
+          {
+            "pos": "DM",
+            "ovr": 84
+          },
+          {
+            "pos": "CB",
+            "ovr": 82
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CHI_2010_18",
+        "name_cn": "Gonzalo Jara",
+        "name_en": "Gonzalo Jara",
+        "age": 30,
+        "squad_no": 18,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CHI_2010_19",
+        "name_cn": "Gonzalo Fierro",
+        "name_en": "Gonzalo Fierro",
+        "age": 24,
+        "squad_no": 19,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CHI_2010_20",
+        "name_cn": "Rodrigo Millar",
+        "name_en": "Rodrigo Millar",
+        "age": 22,
+        "squad_no": 20,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CHI_2010_21",
+        "name_cn": "Rodrigo Tello",
+        "name_en": "Rodrigo Tello",
+        "age": 22,
+        "squad_no": 21,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CHI_2010_22",
+        "name_cn": "Esteban Paredes",
+        "name_en": "Esteban Paredes",
+        "age": 32,
+        "squad_no": 22,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CHI_2010_23",
+        "name_cn": "Luis Marín",
+        "name_en": "Luis Marín",
+        "age": 27,
+        "squad_no": 23,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      }
+    ],
+    "2014": [
+      {
+        "id": "CHI_2014_01",
+        "name_cn": "布拉沃",
+        "name_en": "Claudio Bravo",
+        "age": 27,
+        "squad_no": 1,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 87
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CHI_2014_02",
+        "name_cn": "Eugenio Mena",
+        "name_en": "Eugenio Mena",
+        "age": 29,
+        "squad_no": 2,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          },
+          {
+            "pos": "RB",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CHI_2014_03",
+        "name_cn": "Miiko Albornoz",
+        "name_en": "Miiko Albornoz",
+        "age": 29,
+        "squad_no": 3,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          },
+          {
+            "pos": "LB",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CHI_2014_04",
+        "name_cn": "Mauricio Isla",
+        "name_en": "Mauricio Isla",
+        "age": 30,
+        "squad_no": 4,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CHI_2014_05",
+        "name_cn": "Francisco Silva",
+        "name_en": "Francisco Silva",
+        "age": 26,
+        "squad_no": 5,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CHI_2014_06",
+        "name_cn": "Carlos Carmona",
+        "name_en": "Carlos Carmona",
+        "age": 30,
+        "squad_no": 6,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          },
+          {
+            "pos": "DM",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CHI_2014_07",
+        "name_cn": "亚历克西斯·桑切斯",
+        "name_en": "Alexis Sánchez",
+        "age": 29,
+        "squad_no": 7,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 90
+          },
+          {
+            "pos": "RW",
+            "ovr": 87
+          }
+        ],
+        "tags": [
+          "队长"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CHI_2014_08",
+        "name_cn": "比达尔",
+        "name_en": "Arturo Vidal",
+        "age": 24,
+        "squad_no": 8,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 87
+          },
+          {
+            "pos": "DM",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CHI_2014_09",
+        "name_cn": "Mauricio Pinilla",
+        "name_en": "Mauricio Pinilla",
+        "age": 33,
+        "squad_no": 9,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 73
+          },
+          {
+            "pos": "CAM",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CHI_2014_10",
+        "name_cn": "巴尔迪维亚",
+        "name_en": "Jorge Valdivia",
+        "age": 30,
+        "squad_no": 10,
+        "positions": [
+          {
+            "pos": "CAM",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CHI_2014_11",
+        "name_cn": "Eduardo Vargas",
+        "name_en": "Eduardo Vargas",
+        "age": 24,
+        "squad_no": 11,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 73
+          },
+          {
+            "pos": "LW",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CHI_2014_12",
+        "name_cn": "Cristopher Toselli",
+        "name_en": "Cristopher Toselli",
+        "age": 31,
+        "squad_no": 12,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 72
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CHI_2014_13",
+        "name_cn": "José Manuel Rojas",
+        "name_en": "José Manuel Rojas",
+        "age": 31,
+        "squad_no": 13,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CHI_2014_14",
+        "name_cn": "奥拉萨尔",
+        "name_en": "Fabián Orellana",
+        "age": 29,
+        "squad_no": 14,
+        "positions": [
+          {
+            "pos": "RW",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CHI_2014_15",
+        "name_cn": "Jean Beausejour",
+        "name_en": "Jean Beausejour",
+        "age": 32,
+        "squad_no": 15,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CHI_2014_16",
+        "name_cn": "Felipe Gutiérrez",
+        "name_en": "Felipe Gutiérrez",
+        "age": 33,
+        "squad_no": 16,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CHI_2014_17",
+        "name_cn": "梅迪尔",
+        "name_en": "Gary Medel",
+        "age": 32,
+        "squad_no": 17,
+        "positions": [
+          {
+            "pos": "DM",
+            "ovr": 84
+          },
+          {
+            "pos": "CB",
+            "ovr": 82
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CHI_2014_18",
+        "name_cn": "Gonzalo Jara",
+        "name_en": "Gonzalo Jara",
+        "age": 31,
+        "squad_no": 18,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CHI_2014_19",
+        "name_cn": "José Pablo Fuenzalida",
+        "name_en": "José Pablo Fuenzalida",
+        "age": 28,
+        "squad_no": 19,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CHI_2014_20",
+        "name_cn": "阿兰吉斯",
+        "name_en": "Charles Aránguiz",
+        "age": 30,
+        "squad_no": 20,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CHI_2014_21",
+        "name_cn": "Marcelo Díaz",
+        "name_en": "Marcelo Díaz",
+        "age": 32,
+        "squad_no": 21,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CHI_2014_22",
+        "name_cn": "Esteban Paredes",
+        "name_en": "Esteban Paredes",
+        "age": 32,
+        "squad_no": 22,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CHI_2014_23",
+        "name_cn": "Johnny Herrera",
+        "name_en": "Johnny Herrera",
+        "age": 30,
+        "squad_no": 23,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      }
+    ]
+  }
+}

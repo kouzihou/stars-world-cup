@@ -1,0 +1,2203 @@
+{
+  "country_code": "COL",
+  "squads": {
+    "1990": [
+      {
+        "id": "COL_1990_01",
+        "name_cn": "René Higuita",
+        "name_en": "René Higuita",
+        "age": 31,
+        "squad_no": 1,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 77
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "COL_1990_02",
+        "name_cn": "Andrés Escobar",
+        "name_en": "Andrés Escobar",
+        "age": 33,
+        "squad_no": 2,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 76
+          },
+          {
+            "pos": "RB",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "COL_1990_03",
+        "name_cn": "Gildardo Gómez",
+        "name_en": "Gildardo Gómez",
+        "age": 25,
+        "squad_no": 3,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 76
+          },
+          {
+            "pos": "LB",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "COL_1990_04",
+        "name_cn": "Luis Fernando Herrera",
+        "name_en": "Luis Fernando Herrera",
+        "age": 29,
+        "squad_no": 4,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "COL_1990_05",
+        "name_cn": "León Villa",
+        "name_en": "León Villa",
+        "age": 27,
+        "squad_no": 5,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "COL_1990_06",
+        "name_cn": "José Ricardo Pérez",
+        "name_en": "José Ricardo Pérez",
+        "age": 24,
+        "squad_no": 6,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "COL_1990_07",
+        "name_cn": "Carlos Estrada",
+        "name_en": "Carlos Estrada",
+        "age": 28,
+        "squad_no": 7,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 76
+          },
+          {
+            "pos": "LW",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "COL_1990_09",
+        "name_cn": "Miguel Guerrero",
+        "name_en": "Miguel Guerrero",
+        "age": 27,
+        "squad_no": 9,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 76
+          },
+          {
+            "pos": "CAM",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "COL_1990_10",
+        "name_cn": "巴尔德拉马",
+        "name_en": "Carlos Valderrama",
+        "age": 26,
+        "squad_no": 10,
+        "positions": [
+          {
+            "pos": "CAM",
+            "ovr": 90
+          }
+        ],
+        "tags": [
+          "金毛狮王"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "COL_1990_11",
+        "name_cn": "Bernardo Redín",
+        "name_en": "Bernardo Redín",
+        "age": 33,
+        "squad_no": 11,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "COL_1990_12",
+        "name_cn": "Eduardo Niño",
+        "name_en": "Eduardo Niño",
+        "age": 33,
+        "squad_no": 12,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "COL_1990_13",
+        "name_cn": "Carlos Hoyos",
+        "name_en": "Carlos Hoyos",
+        "age": 32,
+        "squad_no": 13,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "COL_1990_14",
+        "name_cn": "Leonel Álvarez",
+        "name_en": "Leonel Álvarez",
+        "age": 29,
+        "squad_no": 14,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "COL_1990_15",
+        "name_cn": "Luis Carlos Perea",
+        "name_en": "Luis Carlos Perea",
+        "age": 31,
+        "squad_no": 15,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "COL_1990_16",
+        "name_cn": "Arnoldo Iguarán",
+        "name_en": "Arnoldo Iguarán",
+        "age": 25,
+        "squad_no": 16,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "COL_1990_17",
+        "name_cn": "Geovanis Cassiani",
+        "name_en": "Geovanis Cassiani",
+        "age": 27,
+        "squad_no": 17,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 72
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "COL_1990_18",
+        "name_cn": "Wílmer Cabrera",
+        "name_en": "Wílmer Cabrera",
+        "age": 28,
+        "squad_no": 18,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 72
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "COL_1990_19",
+        "name_cn": "Freddy Rincón",
+        "name_en": "Freddy Rincón",
+        "age": 26,
+        "squad_no": 19,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 72
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "COL_1990_20",
+        "name_cn": "Luis Fajardo",
+        "name_en": "Luis Fajardo",
+        "age": 28,
+        "squad_no": 20,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 72
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "COL_1990_21",
+        "name_cn": "Alexis Mendoza",
+        "name_en": "Alexis Mendoza",
+        "age": 27,
+        "squad_no": 21,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 72
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "COL_1990_22",
+        "name_cn": "Rubén Darío Hernández",
+        "name_en": "Rubén Darío Hernández",
+        "age": 23,
+        "squad_no": 22,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 72
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      }
+    ],
+    "1994": [
+      {
+        "id": "COL_1994_01",
+        "name_cn": "Óscar Córdoba",
+        "name_en": "Óscar Córdoba",
+        "age": 31,
+        "squad_no": 1,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 78
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "COL_1994_02",
+        "name_cn": "Andrés Escobar",
+        "name_en": "Andrés Escobar",
+        "age": 25,
+        "squad_no": 2,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 77
+          },
+          {
+            "pos": "RB",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "COL_1994_03",
+        "name_cn": "Alexis Mendoza",
+        "name_en": "Alexis Mendoza",
+        "age": 31,
+        "squad_no": 3,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 77
+          },
+          {
+            "pos": "LB",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "COL_1994_04",
+        "name_cn": "Luis Fernando Herrera",
+        "name_en": "Luis Fernando Herrera",
+        "age": 30,
+        "squad_no": 4,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 77
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "COL_1994_05",
+        "name_cn": "Hermán Gaviria",
+        "name_en": "Hermán Gaviria",
+        "age": 24,
+        "squad_no": 5,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 77
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "COL_1994_06",
+        "name_cn": "Gabriel Gómez",
+        "name_en": "Gabriel Gómez",
+        "age": 32,
+        "squad_no": 6,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 77
+          },
+          {
+            "pos": "DM",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "COL_1994_07",
+        "name_cn": "Antony de Ávila",
+        "name_en": "Antony de Ávila",
+        "age": 30,
+        "squad_no": 7,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 77
+          },
+          {
+            "pos": "LW",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "COL_1994_08",
+        "name_cn": "John Harold Lozano",
+        "name_en": "John Harold Lozano",
+        "age": 22,
+        "squad_no": 8,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 77
+          },
+          {
+            "pos": "DM",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "COL_1994_09",
+        "name_cn": "Iván Valenciano",
+        "name_en": "Iván Valenciano",
+        "age": 33,
+        "squad_no": 9,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 77
+          },
+          {
+            "pos": "CAM",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "COL_1994_10",
+        "name_cn": "巴尔德拉马",
+        "name_en": "Carlos Valderrama",
+        "age": 29,
+        "squad_no": 10,
+        "positions": [
+          {
+            "pos": "CAM",
+            "ovr": 90
+          }
+        ],
+        "tags": [
+          "金毛狮王"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "COL_1994_11",
+        "name_cn": "Adolfo Valencia",
+        "name_en": "Adolfo Valencia",
+        "age": 33,
+        "squad_no": 11,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 77
+          },
+          {
+            "pos": "LW",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "COL_1994_12",
+        "name_cn": "Faryd Mondragón",
+        "name_en": "Faryd Mondragón",
+        "age": 25,
+        "squad_no": 12,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "COL_1994_13",
+        "name_cn": "Néstor Ortiz",
+        "name_en": "Néstor Ortiz",
+        "age": 29,
+        "squad_no": 13,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "COL_1994_14",
+        "name_cn": "Leonel Álvarez",
+        "name_en": "Leonel Álvarez",
+        "age": 26,
+        "squad_no": 14,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "COL_1994_15",
+        "name_cn": "Luis Carlos Perea",
+        "name_en": "Luis Carlos Perea",
+        "age": 33,
+        "squad_no": 15,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "COL_1994_16",
+        "name_cn": "Víctor Aristizábal",
+        "name_en": "Víctor Aristizábal",
+        "age": 23,
+        "squad_no": 16,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "COL_1994_17",
+        "name_cn": "Mauricio Serna",
+        "name_en": "Mauricio Serna",
+        "age": 28,
+        "squad_no": 17,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "COL_1994_18",
+        "name_cn": "Óscar Cortés",
+        "name_en": "Óscar Cortés",
+        "age": 32,
+        "squad_no": 18,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "COL_1994_19",
+        "name_cn": "Freddy Rincón",
+        "name_en": "Freddy Rincón",
+        "age": 29,
+        "squad_no": 19,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "COL_1994_20",
+        "name_cn": "Wilson Pérez",
+        "name_en": "Wilson Pérez",
+        "age": 24,
+        "squad_no": 20,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "COL_1994_21",
+        "name_cn": "阿斯普里拉",
+        "name_en": "Faustino Asprilla",
+        "age": 32,
+        "squad_no": 21,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 87
+          },
+          {
+            "pos": "LW",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "COL_1994_22",
+        "name_cn": "José María Pazo",
+        "name_en": "José María Pazo",
+        "age": 26,
+        "squad_no": 22,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      }
+    ],
+    "1998": [
+      {
+        "id": "COL_1998_01",
+        "name_cn": "Óscar Córdoba",
+        "name_en": "Óscar Córdoba",
+        "age": 25,
+        "squad_no": 1,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 78
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "COL_1998_02",
+        "name_cn": "Iván Córdoba",
+        "name_en": "Iván Córdoba",
+        "age": 26,
+        "squad_no": 2,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 77
+          },
+          {
+            "pos": "RB",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "COL_1998_03",
+        "name_cn": "Ever Palacios",
+        "name_en": "Ever Palacios",
+        "age": 32,
+        "squad_no": 3,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 77
+          },
+          {
+            "pos": "LB",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "COL_1998_04",
+        "name_cn": "José Santa",
+        "name_en": "José Santa",
+        "age": 24,
+        "squad_no": 4,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 77
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "COL_1998_05",
+        "name_cn": "Jorge Bermúdez",
+        "name_en": "Jorge Bermúdez",
+        "age": 33,
+        "squad_no": 5,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 77
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "COL_1998_06",
+        "name_cn": "Mauricio Serna",
+        "name_en": "Mauricio Serna",
+        "age": 28,
+        "squad_no": 6,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 77
+          },
+          {
+            "pos": "DM",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "COL_1998_07",
+        "name_cn": "Antony de Ávila",
+        "name_en": "Antony de Ávila",
+        "age": 28,
+        "squad_no": 7,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 77
+          },
+          {
+            "pos": "LW",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "COL_1998_08",
+        "name_cn": "John Harold Lozano",
+        "name_en": "John Harold Lozano",
+        "age": 23,
+        "squad_no": 8,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 77
+          },
+          {
+            "pos": "DM",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "COL_1998_09",
+        "name_cn": "Adolfo Valencia",
+        "name_en": "Adolfo Valencia",
+        "age": 29,
+        "squad_no": 9,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 77
+          },
+          {
+            "pos": "CAM",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "COL_1998_10",
+        "name_cn": "巴尔德拉马",
+        "name_en": "Carlos Valderrama",
+        "age": 31,
+        "squad_no": 10,
+        "positions": [
+          {
+            "pos": "CAM",
+            "ovr": 90
+          }
+        ],
+        "tags": [
+          "金毛狮王"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "COL_1998_11",
+        "name_cn": "阿斯普里拉",
+        "name_en": "Faustino Asprilla",
+        "age": 29,
+        "squad_no": 11,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 87
+          },
+          {
+            "pos": "LW",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "COL_1998_12",
+        "name_cn": "Miguel Calero",
+        "name_en": "Miguel Calero",
+        "age": 31,
+        "squad_no": 12,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "COL_1998_13",
+        "name_cn": "Wílmer Cabrera",
+        "name_en": "Wílmer Cabrera",
+        "age": 28,
+        "squad_no": 13,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "COL_1998_14",
+        "name_cn": "Jorge Bolaño",
+        "name_en": "Jorge Bolaño",
+        "age": 30,
+        "squad_no": 14,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "COL_1998_15",
+        "name_cn": "Víctor Aristizábal",
+        "name_en": "Víctor Aristizábal",
+        "age": 30,
+        "squad_no": 15,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "COL_1998_16",
+        "name_cn": "Luis Antonio Moreno",
+        "name_en": "Luis Antonio Moreno",
+        "age": 33,
+        "squad_no": 16,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "COL_1998_17",
+        "name_cn": "Andrés Estrada",
+        "name_en": "Andrés Estrada",
+        "age": 28,
+        "squad_no": 17,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "COL_1998_18",
+        "name_cn": "John Wilmar Pérez",
+        "name_en": "John Wilmar Pérez",
+        "age": 30,
+        "squad_no": 18,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "COL_1998_19",
+        "name_cn": "Freddy Rincón",
+        "name_en": "Freddy Rincón",
+        "age": 22,
+        "squad_no": 19,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "COL_1998_20",
+        "name_cn": "Hámilton Ricard",
+        "name_en": "Hámilton Ricard",
+        "age": 27,
+        "squad_no": 20,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "COL_1998_21",
+        "name_cn": "Léider Preciado",
+        "name_en": "Léider Preciado",
+        "age": 33,
+        "squad_no": 21,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "COL_1998_22",
+        "name_cn": "Faryd Mondragón",
+        "name_en": "Faryd Mondragón",
+        "age": 30,
+        "squad_no": 22,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      }
+    ],
+    "2014": [
+      {
+        "id": "COL_2014_01",
+        "name_cn": "奥斯皮纳",
+        "name_en": "David Ospina",
+        "age": 31,
+        "squad_no": 1,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 87
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "COL_2014_02",
+        "name_cn": "Cristián Zapata",
+        "name_en": "Cristián Zapata",
+        "age": 32,
+        "squad_no": 2,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 78
+          },
+          {
+            "pos": "RB",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "COL_2014_03",
+        "name_cn": "Mario Yepes",
+        "name_en": "Mario Yepes",
+        "age": 23,
+        "squad_no": 3,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 78
+          },
+          {
+            "pos": "LB",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "COL_2014_04",
+        "name_cn": "Santiago Arias",
+        "name_en": "Santiago Arias",
+        "age": 23,
+        "squad_no": 4,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 78
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "COL_2014_05",
+        "name_cn": "Carlos Carbonero",
+        "name_en": "Carlos Carbonero",
+        "age": 25,
+        "squad_no": 5,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 78
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "COL_2014_06",
+        "name_cn": "Carlos Sánchez",
+        "name_en": "Carlos Sánchez",
+        "age": 32,
+        "squad_no": 6,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 78
+          },
+          {
+            "pos": "DM",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "COL_2014_07",
+        "name_cn": "Pablo Armero",
+        "name_en": "Pablo Armero",
+        "age": 32,
+        "squad_no": 7,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 78
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "COL_2014_08",
+        "name_cn": "Abel Aguilar",
+        "name_en": "Abel Aguilar",
+        "age": 27,
+        "squad_no": 8,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 78
+          },
+          {
+            "pos": "DM",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "COL_2014_09",
+        "name_cn": "Teófilo Gutiérrez",
+        "name_en": "Teófilo Gutiérrez",
+        "age": 24,
+        "squad_no": 9,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 78
+          },
+          {
+            "pos": "CAM",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "COL_2014_10",
+        "name_cn": "J.罗德里格斯",
+        "name_en": "James Rodríguez",
+        "age": 32,
+        "squad_no": 10,
+        "positions": [
+          {
+            "pos": "CAM",
+            "ovr": 90
+          },
+          {
+            "pos": "LM",
+            "ovr": 87
+          }
+        ],
+        "tags": [
+          "金靴2014"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "COL_2014_11",
+        "name_cn": "夸德拉多",
+        "name_en": "Juan Cuadrado",
+        "age": 31,
+        "squad_no": 11,
+        "positions": [
+          {
+            "pos": "RW",
+            "ovr": 85
+          },
+          {
+            "pos": "RM",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "COL_2014_12",
+        "name_cn": "Camilo Vargas",
+        "name_en": "Camilo Vargas",
+        "age": 22,
+        "squad_no": 12,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 77
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "COL_2014_13",
+        "name_cn": "Fredy Guarín",
+        "name_en": "Fredy Guarín",
+        "age": 31,
+        "squad_no": 13,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "COL_2014_14",
+        "name_cn": "Víctor Ibarbo",
+        "name_en": "Víctor Ibarbo",
+        "age": 32,
+        "squad_no": 14,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "COL_2014_15",
+        "name_cn": "Alexander Mejía",
+        "name_en": "Alexander Mejía",
+        "age": 32,
+        "squad_no": 15,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "COL_2014_16",
+        "name_cn": "Éder Álvarez Balanta",
+        "name_en": "Éder Álvarez Balanta",
+        "age": 32,
+        "squad_no": 16,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "COL_2014_17",
+        "name_cn": "Carlos Bacca",
+        "name_en": "Carlos Bacca",
+        "age": 28,
+        "squad_no": 17,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "COL_2014_18",
+        "name_cn": "Juan Camilo Zúñiga",
+        "name_en": "Juan Camilo Zúñiga",
+        "age": 27,
+        "squad_no": 18,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "COL_2014_19",
+        "name_cn": "Adrián Ramos",
+        "name_en": "Adrián Ramos",
+        "age": 28,
+        "squad_no": 19,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "COL_2014_20",
+        "name_cn": "Juan Fernando Quintero",
+        "name_en": "Juan Fernando Quintero",
+        "age": 23,
+        "squad_no": 20,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "COL_2014_21",
+        "name_cn": "Jackson Martínez",
+        "name_en": "Jackson Martínez",
+        "age": 22,
+        "squad_no": 21,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "COL_2014_22",
+        "name_cn": "Faryd Mondragón",
+        "name_en": "Faryd Mondragón",
+        "age": 23,
+        "squad_no": 22,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "COL_2014_23",
+        "name_cn": "Carlos Valdés",
+        "name_en": "Carlos Valdés",
+        "age": 26,
+        "squad_no": 23,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      }
+    ],
+    "2018": [
+      {
+        "id": "COL_2018_01",
+        "name_cn": "奥斯皮纳",
+        "name_en": "David Ospina",
+        "age": 25,
+        "squad_no": 1,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 87
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "COL_2018_02",
+        "name_cn": "Cristián Zapata",
+        "name_en": "Cristián Zapata",
+        "age": 30,
+        "squad_no": 2,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 78
+          },
+          {
+            "pos": "RB",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "COL_2018_03",
+        "name_cn": "Óscar Murillo",
+        "name_en": "Óscar Murillo",
+        "age": 33,
+        "squad_no": 3,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 78
+          },
+          {
+            "pos": "LB",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "COL_2018_04",
+        "name_cn": "Santiago Arias",
+        "name_en": "Santiago Arias",
+        "age": 30,
+        "squad_no": 4,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 78
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "COL_2018_05",
+        "name_cn": "Wilmar Barrios",
+        "name_en": "Wilmar Barrios",
+        "age": 30,
+        "squad_no": 5,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 78
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "COL_2018_06",
+        "name_cn": "Carlos Sánchez",
+        "name_en": "Carlos Sánchez",
+        "age": 31,
+        "squad_no": 6,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 78
+          },
+          {
+            "pos": "DM",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "COL_2018_07",
+        "name_cn": "Carlos Bacca",
+        "name_en": "Carlos Bacca",
+        "age": 33,
+        "squad_no": 7,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 78
+          },
+          {
+            "pos": "LW",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "COL_2018_08",
+        "name_cn": "Abel Aguilar",
+        "name_en": "Abel Aguilar",
+        "age": 31,
+        "squad_no": 8,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 78
+          },
+          {
+            "pos": "DM",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "COL_2018_09",
+        "name_cn": "法尔考",
+        "name_en": "Radamel Falcao",
+        "age": 25,
+        "squad_no": 9,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 78
+          },
+          {
+            "pos": "CAM",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "COL_2018_10",
+        "name_cn": "J.罗德里格斯",
+        "name_en": "James Rodríguez",
+        "age": 29,
+        "squad_no": 10,
+        "positions": [
+          {
+            "pos": "CAM",
+            "ovr": 90
+          },
+          {
+            "pos": "LM",
+            "ovr": 87
+          }
+        ],
+        "tags": [
+          "金靴2014"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "COL_2018_11",
+        "name_cn": "夸德拉多",
+        "name_en": "Juan Cuadrado",
+        "age": 27,
+        "squad_no": 11,
+        "positions": [
+          {
+            "pos": "RW",
+            "ovr": 85
+          },
+          {
+            "pos": "RM",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "COL_2018_12",
+        "name_cn": "Camilo Vargas",
+        "name_en": "Camilo Vargas",
+        "age": 28,
+        "squad_no": 12,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 77
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "COL_2018_13",
+        "name_cn": "Yerry Mina",
+        "name_en": "Yerry Mina",
+        "age": 29,
+        "squad_no": 13,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "COL_2018_14",
+        "name_cn": "Luis Muriel",
+        "name_en": "Luis Muriel",
+        "age": 32,
+        "squad_no": 14,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "COL_2018_15",
+        "name_cn": "Mateus Uribe",
+        "name_en": "Mateus Uribe",
+        "age": 31,
+        "squad_no": 15,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "COL_2018_16",
+        "name_cn": "Jefferson Lerma",
+        "name_en": "Jefferson Lerma",
+        "age": 33,
+        "squad_no": 16,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "COL_2018_17",
+        "name_cn": "Johan Mojica",
+        "name_en": "Johan Mojica",
+        "age": 30,
+        "squad_no": 17,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "COL_2018_18",
+        "name_cn": "Farid Díaz",
+        "name_en": "Farid Díaz",
+        "age": 24,
+        "squad_no": 18,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "COL_2018_19",
+        "name_cn": "Miguel Borja",
+        "name_en": "Miguel Borja",
+        "age": 27,
+        "squad_no": 19,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "COL_2018_20",
+        "name_cn": "Juan Fernando Quintero",
+        "name_en": "Juan Fernando Quintero",
+        "age": 22,
+        "squad_no": 20,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "COL_2018_21",
+        "name_cn": "José Izquierdo",
+        "name_en": "José Izquierdo",
+        "age": 29,
+        "squad_no": 21,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "COL_2018_23",
+        "name_cn": "巴里奥斯",
+        "name_en": "Davinson Sánchez",
+        "age": 23,
+        "squad_no": 23,
+        "positions": [
+          {
+            "pos": "DM",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      }
+    ],
+    "2026": [
+      {
+        "id": "COL_2026_01",
+        "name_cn": "奥斯皮纳",
+        "name_en": "David Ospina",
+        "age": 26,
+        "squad_no": 1,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 81
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "COL_2026_02",
+        "name_cn": "Álvaro Montero",
+        "name_en": "Álvaro Montero",
+        "age": 28,
+        "squad_no": 2,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 81
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "COL_2026_03",
+        "name_cn": "巴尔加斯",
+        "name_en": "Camilo Vargas",
+        "age": 23,
+        "squad_no": 3,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 81
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "COL_2026_04",
+        "name_cn": "穆尼奥斯",
+        "name_en": "Daniel Muñoz",
+        "age": 23,
+        "squad_no": 4,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "COL_2026_05",
+        "name_cn": "卢库米",
+        "name_en": "Jhon Lucumí",
+        "age": 33,
+        "squad_no": 5,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "COL_2026_06",
+        "name_cn": "Santiago Arias",
+        "name_en": "Santiago Arias",
+        "age": 24,
+        "squad_no": 6,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "COL_2026_07",
+        "name_cn": "桑切斯",
+        "name_en": "Davinson Sánchez",
+        "age": 27,
+        "squad_no": 7,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "COL_2026_08",
+        "name_cn": "Johan Mojica",
+        "name_en": "Johan Mojica",
+        "age": 26,
+        "squad_no": 8,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "COL_2026_09",
+        "name_cn": "米纳",
+        "name_en": "Yerry Mina",
+        "age": 27,
+        "squad_no": 9,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "COL_2026_10",
+        "name_cn": "Willer Ditta",
+        "name_en": "Willer Ditta",
+        "age": 29,
+        "squad_no": 10,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "COL_2026_11",
+        "name_cn": "Deiver Machado",
+        "name_en": "Deiver Machado",
+        "age": 25,
+        "squad_no": 11,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "COL_2026_12",
+        "name_cn": "Jorge Carrascal",
+        "name_en": "Jorge Carrascal",
+        "age": 30,
+        "squad_no": 12,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 78
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "COL_2026_13",
+        "name_cn": "Kevin Castaño",
+        "name_en": "Kevin Castaño",
+        "age": 29,
+        "squad_no": 13,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 78
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "COL_2026_14",
+        "name_cn": "Gustavo Puerta",
+        "name_en": "Gustavo Puerta",
+        "age": 27,
+        "squad_no": 14,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 78
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "COL_2026_15",
+        "name_cn": "Juan Fernando Quintero",
+        "name_en": "Juan Fernando Quintero",
+        "age": 29,
+        "squad_no": 15,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 78
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "COL_2026_16",
+        "name_cn": "Juan Portilla",
+        "name_en": "Juan Portilla",
+        "age": 23,
+        "squad_no": 16,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 78
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "COL_2026_17",
+        "name_cn": "莱尔马",
+        "name_en": "Jefferson Lerma",
+        "age": 29,
+        "squad_no": 17,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 78
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "COL_2026_18",
+        "name_cn": "里奥斯",
+        "name_en": "Richard Ríos",
+        "age": 33,
+        "squad_no": 18,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 78
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "COL_2026_19",
+        "name_cn": "阿里亚斯",
+        "name_en": "Jhon Arias",
+        "age": 33,
+        "squad_no": 19,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "COL_2026_20",
+        "name_cn": "J罗",
+        "name_en": "James Rodríguez",
+        "age": 29,
+        "squad_no": 20,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "COL_2026_21",
+        "name_cn": "Jaminton Campaz",
+        "name_en": "Jaminton Campaz",
+        "age": 27,
+        "squad_no": 21,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "COL_2026_22",
+        "name_cn": "迪亚斯",
+        "name_en": "Luis Díaz",
+        "age": 23,
+        "squad_no": 22,
+        "positions": [
+          {
+            "pos": "LW",
+            "ovr": 87
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "COL_2026_23",
+        "name_cn": "科尔多瓦",
+        "name_en": "Jhon Córdoba",
+        "age": 26,
+        "squad_no": 23,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "COL_2026_24",
+        "name_cn": "苏亚雷斯",
+        "name_en": "Luis Suárez",
+        "age": 22,
+        "squad_no": 24,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "COL_2026_25",
+        "name_cn": "Andrés Gómez",
+        "name_en": "Andrés Gómez",
+        "age": 33,
+        "squad_no": 25,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "COL_2026_26",
+        "name_cn": "Cucho Hernández",
+        "name_en": "Cucho Hernández",
+        "age": 23,
+        "squad_no": 26,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      }
+    ]
+  }
+}

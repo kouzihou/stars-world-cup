@@ -1,0 +1,1111 @@
+{
+  "country_code": "AUT",
+  "squads": {
+    "1990": [
+      {
+        "id": "AUT_1990_01",
+        "name_cn": "Klaus Lindenberger",
+        "name_en": "Klaus Lindenberger",
+        "age": 29,
+        "squad_no": 1,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 72
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "AUT_1990_02",
+        "name_cn": "Ernst Aigner",
+        "name_en": "Ernst Aigner",
+        "age": 22,
+        "squad_no": 2,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 71
+          },
+          {
+            "pos": "RB",
+            "ovr": 68
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "AUT_1990_03",
+        "name_cn": "Robert Pecl",
+        "name_en": "Robert Pecl",
+        "age": 26,
+        "squad_no": 3,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 71
+          },
+          {
+            "pos": "LB",
+            "ovr": 68
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "AUT_1990_04",
+        "name_cn": "Anton Pfeffer",
+        "name_en": "Anton Pfeffer",
+        "age": 28,
+        "squad_no": 4,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "AUT_1990_05",
+        "name_cn": "Peter Schöttel",
+        "name_en": "Peter Schöttel",
+        "age": 24,
+        "squad_no": 5,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "AUT_1990_06",
+        "name_cn": "Manfred Zsak",
+        "name_en": "Manfred Zsak",
+        "age": 24,
+        "squad_no": 6,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 71
+          },
+          {
+            "pos": "DM",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "AUT_1990_07",
+        "name_cn": "Kurt Russ",
+        "name_en": "Kurt Russ",
+        "age": 32,
+        "squad_no": 7,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "AUT_1990_08",
+        "name_cn": "Peter Artner",
+        "name_en": "Peter Artner",
+        "age": 33,
+        "squad_no": 8,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "AUT_1990_09",
+        "name_cn": "Toni Polster",
+        "name_en": "Toni Polster",
+        "age": 32,
+        "squad_no": 9,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 71
+          },
+          {
+            "pos": "CAM",
+            "ovr": 68
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "AUT_1990_10",
+        "name_cn": "Manfred Linzmaier",
+        "name_en": "Manfred Linzmaier",
+        "age": 28,
+        "squad_no": 10,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 71
+          },
+          {
+            "pos": "CAM",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "AUT_1990_11",
+        "name_cn": "Alfred Hörtnagl",
+        "name_en": "Alfred Hörtnagl",
+        "age": 27,
+        "squad_no": 11,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "AUT_1990_12",
+        "name_cn": "Michael Baur",
+        "name_en": "Michael Baur",
+        "age": 28,
+        "squad_no": 12,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "AUT_1990_13",
+        "name_cn": "Andreas Ogris",
+        "name_en": "Andreas Ogris",
+        "age": 29,
+        "squad_no": 13,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "AUT_1990_14",
+        "name_cn": "Gerhard Rodax",
+        "name_en": "Gerhard Rodax",
+        "age": 28,
+        "squad_no": 14,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "AUT_1990_15",
+        "name_cn": "Christian Keglevits",
+        "name_en": "Christian Keglevits",
+        "age": 28,
+        "squad_no": 15,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "AUT_1990_16",
+        "name_cn": "Andreas Reisinger",
+        "name_en": "Andreas Reisinger",
+        "age": 23,
+        "squad_no": 16,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "AUT_1990_17",
+        "name_cn": "Heimo Pfeifenberger",
+        "name_en": "Heimo Pfeifenberger",
+        "age": 32,
+        "squad_no": 17,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 67
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "AUT_1990_18",
+        "name_cn": "Michael Streiter",
+        "name_en": "Michael Streiter",
+        "age": 32,
+        "squad_no": 18,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 67
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "AUT_1990_19",
+        "name_cn": "Gerald Glatzmayer",
+        "name_en": "Gerald Glatzmayer",
+        "age": 30,
+        "squad_no": 19,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 67
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "AUT_1990_20",
+        "name_cn": "Andi Herzog",
+        "name_en": "Andi Herzog",
+        "age": 24,
+        "squad_no": 20,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 67
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "AUT_1990_21",
+        "name_cn": "Michael Konsel",
+        "name_en": "Michael Konsel",
+        "age": 32,
+        "squad_no": 21,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 68
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "AUT_1990_22",
+        "name_cn": "Otto Konrad",
+        "name_en": "Otto Konrad",
+        "age": 27,
+        "squad_no": 22,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 68
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      }
+    ],
+    "1998": [
+      {
+        "id": "AUT_1998_01",
+        "name_cn": "Michael Konsel",
+        "name_en": "Michael Konsel",
+        "age": 23,
+        "squad_no": 1,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "AUT_1998_02",
+        "name_cn": "Markus Schopp",
+        "name_en": "Markus Schopp",
+        "age": 24,
+        "squad_no": 2,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 72
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "AUT_1998_03",
+        "name_cn": "Peter Schöttel",
+        "name_en": "Peter Schöttel",
+        "age": 30,
+        "squad_no": 3,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 72
+          },
+          {
+            "pos": "LB",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "AUT_1998_04",
+        "name_cn": "Anton Pfeffer",
+        "name_en": "Anton Pfeffer",
+        "age": 28,
+        "squad_no": 4,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 72
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "AUT_1998_05",
+        "name_cn": "Wolfgang Feiersinger",
+        "name_en": "Wolfgang Feiersinger",
+        "age": 30,
+        "squad_no": 5,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 72
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "AUT_1998_06",
+        "name_cn": "Walter Kogler",
+        "name_en": "Walter Kogler",
+        "age": 24,
+        "squad_no": 6,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 72
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "AUT_1998_07",
+        "name_cn": "Mario Haas",
+        "name_en": "Mario Haas",
+        "age": 33,
+        "squad_no": 7,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 72
+          },
+          {
+            "pos": "LW",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "AUT_1998_08",
+        "name_cn": "Heimo Pfeifenberger",
+        "name_en": "Heimo Pfeifenberger",
+        "age": 25,
+        "squad_no": 8,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 72
+          },
+          {
+            "pos": "DM",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "AUT_1998_09",
+        "name_cn": "Ivica Vastić",
+        "name_en": "Ivica Vastić",
+        "age": 22,
+        "squad_no": 9,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 72
+          },
+          {
+            "pos": "CAM",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "AUT_1998_10",
+        "name_cn": "Andi Herzog",
+        "name_en": "Andi Herzog",
+        "age": 22,
+        "squad_no": 10,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 72
+          },
+          {
+            "pos": "CAM",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "AUT_1998_11",
+        "name_cn": "Martin Amerhauser",
+        "name_en": "Martin Amerhauser",
+        "age": 26,
+        "squad_no": 11,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 72
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "AUT_1998_12",
+        "name_cn": "Martin Hiden",
+        "name_en": "Martin Hiden",
+        "age": 29,
+        "squad_no": 12,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "AUT_1998_13",
+        "name_cn": "Harald Cerny",
+        "name_en": "Harald Cerny",
+        "age": 32,
+        "squad_no": 13,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "AUT_1998_14",
+        "name_cn": "Hannes Reinmayr",
+        "name_en": "Hannes Reinmayr",
+        "age": 33,
+        "squad_no": 14,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "AUT_1998_15",
+        "name_cn": "Arnold Wetl",
+        "name_en": "Arnold Wetl",
+        "age": 30,
+        "squad_no": 15,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "AUT_1998_16",
+        "name_cn": "Franz Wohlfahrt",
+        "name_en": "Franz Wohlfahrt",
+        "age": 28,
+        "squad_no": 16,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "AUT_1998_17",
+        "name_cn": "Roman Mählich",
+        "name_en": "Roman Mählich",
+        "age": 30,
+        "squad_no": 17,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 68
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "AUT_1998_18",
+        "name_cn": "Peter Stöger",
+        "name_en": "Peter Stöger",
+        "age": 28,
+        "squad_no": 18,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 68
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "AUT_1998_19",
+        "name_cn": "Toni Polster",
+        "name_en": "Toni Polster",
+        "age": 25,
+        "squad_no": 19,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 68
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "AUT_1998_20",
+        "name_cn": "Andreas Heraf",
+        "name_en": "Andreas Heraf",
+        "age": 25,
+        "squad_no": 20,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 68
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "AUT_1998_21",
+        "name_cn": "Wolfgang Knaller",
+        "name_en": "Wolfgang Knaller",
+        "age": 29,
+        "squad_no": 21,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "AUT_1998_22",
+        "name_cn": "Dietmar Kühbauer",
+        "name_en": "Dietmar Kühbauer",
+        "age": 27,
+        "squad_no": 22,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 68
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      }
+    ],
+    "2026": [
+      {
+        "id": "AUT_2026_01",
+        "name_cn": "Alexander Schlager",
+        "name_en": "Alexander Schlager",
+        "age": 24,
+        "squad_no": 1,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "AUT_2026_02",
+        "name_cn": "Florian Wiegele",
+        "name_en": "Florian Wiegele",
+        "age": 26,
+        "squad_no": 2,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "AUT_2026_03",
+        "name_cn": "Patrick Pentz",
+        "name_en": "Patrick Pentz",
+        "age": 25,
+        "squad_no": 3,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "AUT_2026_04",
+        "name_cn": "David Affengruber",
+        "name_en": "David Affengruber",
+        "age": 33,
+        "squad_no": 4,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "AUT_2026_05",
+        "name_cn": "Kevin Danso",
+        "name_en": "Kevin Danso",
+        "age": 23,
+        "squad_no": 5,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "AUT_2026_06",
+        "name_cn": "Stefan Posch",
+        "name_en": "Stefan Posch",
+        "age": 22,
+        "squad_no": 6,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "AUT_2026_07",
+        "name_cn": "阿拉巴",
+        "name_en": "David Alaba",
+        "age": 32,
+        "squad_no": 7,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 87
+          },
+          {
+            "pos": "LB",
+            "ovr": 85
+          }
+        ],
+        "tags": [
+          "队长"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "AUT_2026_08",
+        "name_cn": "Philipp Lienhart",
+        "name_en": "Philipp Lienhart",
+        "age": 28,
+        "squad_no": 8,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "AUT_2026_09",
+        "name_cn": "Philipp Mwene",
+        "name_en": "Philipp Mwene",
+        "age": 31,
+        "squad_no": 9,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "AUT_2026_10",
+        "name_cn": "Alexander Prass",
+        "name_en": "Alexander Prass",
+        "age": 22,
+        "squad_no": 10,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "AUT_2026_11",
+        "name_cn": "Marco Friedl",
+        "name_en": "Marco Friedl",
+        "age": 25,
+        "squad_no": 11,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "AUT_2026_12",
+        "name_cn": "Michael Svoboda",
+        "name_en": "Michael Svoboda",
+        "age": 25,
+        "squad_no": 12,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "AUT_2026_13",
+        "name_cn": "Xaver Schlager",
+        "name_en": "Xaver Schlager",
+        "age": 23,
+        "squad_no": 13,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "AUT_2026_14",
+        "name_cn": "Nicolas Seiwald",
+        "name_en": "Nicolas Seiwald",
+        "age": 23,
+        "squad_no": 14,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "AUT_2026_15",
+        "name_cn": "绍博斯洛伊",
+        "name_en": "Marcel Sabitzer",
+        "age": 31,
+        "squad_no": 15,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 84
+          },
+          {
+            "pos": "CAM",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "AUT_2026_16",
+        "name_cn": "Florian Grillitsch",
+        "name_en": "Florian Grillitsch",
+        "age": 22,
+        "squad_no": 16,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "AUT_2026_17",
+        "name_cn": "Carney Chukwuemeka",
+        "name_en": "Carney Chukwuemeka",
+        "age": 29,
+        "squad_no": 17,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "AUT_2026_18",
+        "name_cn": "Romano Schmid",
+        "name_en": "Romano Schmid",
+        "age": 31,
+        "squad_no": 18,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "AUT_2026_19",
+        "name_cn": "拜默",
+        "name_en": "Christoph Baumgartner",
+        "age": 32,
+        "squad_no": 19,
+        "positions": [
+          {
+            "pos": "CAM",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "AUT_2026_20",
+        "name_cn": "Konrad Laimer",
+        "name_en": "Konrad Laimer",
+        "age": 33,
+        "squad_no": 20,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "AUT_2026_21",
+        "name_cn": "Patrick Wimmer",
+        "name_en": "Patrick Wimmer",
+        "age": 22,
+        "squad_no": 21,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "AUT_2026_22",
+        "name_cn": "Paul Wanner",
+        "name_en": "Paul Wanner",
+        "age": 25,
+        "squad_no": 22,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "AUT_2026_23",
+        "name_cn": "Alessandro Schopf",
+        "name_en": "Alessandro Schopf",
+        "age": 33,
+        "squad_no": 23,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "AUT_2026_24",
+        "name_cn": "阿尔纳乌托维奇",
+        "name_en": "Marko Arnautovic",
+        "age": 22,
+        "squad_no": 24,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "AUT_2026_25",
+        "name_cn": "Michael Gregoritsch",
+        "name_en": "Michael Gregoritsch",
+        "age": 28,
+        "squad_no": 25,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "AUT_2026_26",
+        "name_cn": "Sasa Kalajdzic",
+        "name_en": "Sasa Kalajdzic",
+        "age": 29,
+        "squad_no": 26,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      }
+    ]
+  }
+}

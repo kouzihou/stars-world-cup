@@ -1,0 +1,2191 @@
+{
+  "country_code": "SWE",
+  "squads": {
+    "1990": [
+      {
+        "id": "SWE_1990_01",
+        "name_cn": "Sven Andersson",
+        "name_en": "Sven Andersson",
+        "age": 25,
+        "squad_no": 1,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 72
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SWE_1990_02",
+        "name_cn": "Jan Eriksson",
+        "name_en": "Jan Eriksson",
+        "age": 26,
+        "squad_no": 2,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 71
+          },
+          {
+            "pos": "RB",
+            "ovr": 68
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SWE_1990_03",
+        "name_cn": "Glenn Hysén",
+        "name_en": "Glenn Hysén",
+        "age": 28,
+        "squad_no": 3,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 71
+          },
+          {
+            "pos": "LB",
+            "ovr": 68
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SWE_1990_04",
+        "name_cn": "Peter Larsson",
+        "name_en": "Peter Larsson",
+        "age": 22,
+        "squad_no": 4,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SWE_1990_05",
+        "name_cn": "Roger Ljung",
+        "name_en": "Roger Ljung",
+        "age": 23,
+        "squad_no": 5,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SWE_1990_06",
+        "name_cn": "Roland Nilsson",
+        "name_en": "Roland Nilsson",
+        "age": 33,
+        "squad_no": 6,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SWE_1990_07",
+        "name_cn": "Niklas Nyhlén",
+        "name_en": "Niklas Nyhlén",
+        "age": 25,
+        "squad_no": 7,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SWE_1990_08",
+        "name_cn": "Stefan Schwarz",
+        "name_en": "Stefan Schwarz",
+        "age": 28,
+        "squad_no": 8,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 71
+          },
+          {
+            "pos": "DM",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SWE_1990_09",
+        "name_cn": "Leif Engqvist",
+        "name_en": "Leif Engqvist",
+        "age": 29,
+        "squad_no": 9,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SWE_1990_10",
+        "name_cn": "Klas Ingesson",
+        "name_en": "Klas Ingesson",
+        "age": 25,
+        "squad_no": 10,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 71
+          },
+          {
+            "pos": "CAM",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SWE_1990_11",
+        "name_cn": "Ulrik Jansson",
+        "name_en": "Ulrik Jansson",
+        "age": 33,
+        "squad_no": 11,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SWE_1990_12",
+        "name_cn": "Lars Eriksson",
+        "name_en": "Lars Eriksson",
+        "age": 22,
+        "squad_no": 12,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SWE_1990_13",
+        "name_cn": "Anders Limpar",
+        "name_en": "Anders Limpar",
+        "age": 25,
+        "squad_no": 13,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SWE_1990_14",
+        "name_cn": "Joakim Nilsson",
+        "name_en": "Joakim Nilsson",
+        "age": 29,
+        "squad_no": 14,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SWE_1990_15",
+        "name_cn": "Glenn Strömberg",
+        "name_en": "Glenn Strömberg",
+        "age": 33,
+        "squad_no": 15,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SWE_1990_16",
+        "name_cn": "Jonas Thern",
+        "name_en": "Jonas Thern",
+        "age": 23,
+        "squad_no": 16,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SWE_1990_17",
+        "name_cn": "Tomas Brolin",
+        "name_en": "Tomas Brolin",
+        "age": 30,
+        "squad_no": 17,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 67
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SWE_1990_18",
+        "name_cn": "Johnny Ekström",
+        "name_en": "Johnny Ekström",
+        "age": 32,
+        "squad_no": 18,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 67
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SWE_1990_19",
+        "name_cn": "Mats Gren",
+        "name_en": "Mats Gren",
+        "age": 25,
+        "squad_no": 19,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 67
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SWE_1990_20",
+        "name_cn": "Mats Magnusson",
+        "name_en": "Mats Magnusson",
+        "age": 29,
+        "squad_no": 20,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 67
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SWE_1990_21",
+        "name_cn": "Stefan Pettersson",
+        "name_en": "Stefan Pettersson",
+        "age": 28,
+        "squad_no": 21,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 67
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SWE_1990_22",
+        "name_cn": "Thomas Ravelli",
+        "name_en": "Thomas Ravelli",
+        "age": 32,
+        "squad_no": 22,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 68
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      }
+    ],
+    "1994": [
+      {
+        "id": "SWE_1994_01",
+        "name_cn": "哈罗德松",
+        "name_en": "Thomas Ravelli",
+        "age": 26,
+        "squad_no": 1,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 85
+          }
+        ],
+        "tags": [
+          "季军门将"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SWE_1994_02",
+        "name_cn": "Roland Nilsson",
+        "name_en": "Roland Nilsson",
+        "age": 27,
+        "squad_no": 2,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 72
+          },
+          {
+            "pos": "RB",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SWE_1994_03",
+        "name_cn": "Patrik Andersson",
+        "name_en": "Patrik Andersson",
+        "age": 24,
+        "squad_no": 3,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 72
+          },
+          {
+            "pos": "LB",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SWE_1994_04",
+        "name_cn": "Joachim Björklund",
+        "name_en": "Joachim Björklund",
+        "age": 32,
+        "squad_no": 4,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 72
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SWE_1994_05",
+        "name_cn": "Roger Ljung",
+        "name_en": "Roger Ljung",
+        "age": 33,
+        "squad_no": 5,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 72
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SWE_1994_06",
+        "name_cn": "Stefan Schwarz",
+        "name_en": "Stefan Schwarz",
+        "age": 22,
+        "squad_no": 6,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 72
+          },
+          {
+            "pos": "DM",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SWE_1994_07",
+        "name_cn": "拉森",
+        "name_en": "Henrik Larsson",
+        "age": 33,
+        "squad_no": 7,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 90
+          }
+        ],
+        "tags": [
+          "传奇射手"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SWE_1994_08",
+        "name_cn": "Klas Ingesson",
+        "name_en": "Klas Ingesson",
+        "age": 30,
+        "squad_no": 8,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 72
+          },
+          {
+            "pos": "DM",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SWE_1994_09",
+        "name_cn": "Jonas Thern",
+        "name_en": "Jonas Thern",
+        "age": 30,
+        "squad_no": 9,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 72
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SWE_1994_10",
+        "name_cn": "达林",
+        "name_en": "Martin Dahlin",
+        "age": 23,
+        "squad_no": 10,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 85
+          }
+        ],
+        "tags": [
+          "季军"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SWE_1994_11",
+        "name_cn": "布罗林",
+        "name_en": "Tomas Brolin",
+        "age": 26,
+        "squad_no": 11,
+        "positions": [
+          {
+            "pos": "CAM",
+            "ovr": 87
+          }
+        ],
+        "tags": [
+          "季军"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SWE_1994_12",
+        "name_cn": "Lars Eriksson",
+        "name_en": "Lars Eriksson",
+        "age": 29,
+        "squad_no": 12,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SWE_1994_13",
+        "name_cn": "Mikael Nilsson",
+        "name_en": "Mikael Nilsson",
+        "age": 32,
+        "squad_no": 13,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SWE_1994_14",
+        "name_cn": "Pontus Kåmark",
+        "name_en": "Pontus Kåmark",
+        "age": 26,
+        "squad_no": 14,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SWE_1994_15",
+        "name_cn": "Teddy Lučić",
+        "name_en": "Teddy Lučić",
+        "age": 25,
+        "squad_no": 15,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SWE_1994_16",
+        "name_cn": "Anders Limpar",
+        "name_en": "Anders Limpar",
+        "age": 27,
+        "squad_no": 16,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SWE_1994_17",
+        "name_cn": "Stefan Rehn",
+        "name_en": "Stefan Rehn",
+        "age": 22,
+        "squad_no": 17,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 68
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SWE_1994_18",
+        "name_cn": "Håkan Mild",
+        "name_en": "Håkan Mild",
+        "age": 32,
+        "squad_no": 18,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 68
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SWE_1994_19",
+        "name_cn": "Kennet Andersson",
+        "name_en": "Kennet Andersson",
+        "age": 25,
+        "squad_no": 19,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 68
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SWE_1994_20",
+        "name_cn": "Magnus Erlingmark",
+        "name_en": "Magnus Erlingmark",
+        "age": 23,
+        "squad_no": 20,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 68
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SWE_1994_21",
+        "name_cn": "Jesper Blomqvist",
+        "name_en": "Jesper Blomqvist",
+        "age": 25,
+        "squad_no": 21,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 68
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SWE_1994_22",
+        "name_cn": "Magnus Hedman",
+        "name_en": "Magnus Hedman",
+        "age": 32,
+        "squad_no": 22,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      }
+    ],
+    "2002": [
+      {
+        "id": "SWE_2002_01",
+        "name_cn": "Magnus Hedman",
+        "name_en": "Magnus Hedman",
+        "age": 28,
+        "squad_no": 1,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SWE_2002_02",
+        "name_cn": "Olof Mellberg",
+        "name_en": "Olof Mellberg",
+        "age": 27,
+        "squad_no": 2,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          },
+          {
+            "pos": "RB",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SWE_2002_03",
+        "name_cn": "Patrik Andersson",
+        "name_en": "Patrik Andersson",
+        "age": 22,
+        "squad_no": 3,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          },
+          {
+            "pos": "LB",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SWE_2002_04",
+        "name_cn": "Johan Mjällby",
+        "name_en": "Johan Mjällby",
+        "age": 24,
+        "squad_no": 4,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SWE_2002_05",
+        "name_cn": "Michael Svensson",
+        "name_en": "Michael Svensson",
+        "age": 26,
+        "squad_no": 5,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SWE_2002_06",
+        "name_cn": "Tobias Linderoth",
+        "name_en": "Tobias Linderoth",
+        "age": 31,
+        "squad_no": 6,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          },
+          {
+            "pos": "DM",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SWE_2002_07",
+        "name_cn": "Niclas Alexandersson",
+        "name_en": "Niclas Alexandersson",
+        "age": 23,
+        "squad_no": 7,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SWE_2002_08",
+        "name_cn": "Anders Svensson",
+        "name_en": "Anders Svensson",
+        "age": 28,
+        "squad_no": 8,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          },
+          {
+            "pos": "DM",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SWE_2002_09",
+        "name_cn": "Freddie Ljungberg",
+        "name_en": "Freddie Ljungberg",
+        "age": 25,
+        "squad_no": 9,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SWE_2002_10",
+        "name_cn": "Marcus Allbäck",
+        "name_en": "Marcus Allbäck",
+        "age": 22,
+        "squad_no": 10,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SWE_2002_11",
+        "name_cn": "拉森",
+        "name_en": "Henrik Larsson",
+        "age": 22,
+        "squad_no": 11,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 90
+          }
+        ],
+        "tags": [
+          "传奇射手"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SWE_2002_12",
+        "name_cn": "Magnus Kihlstedt",
+        "name_en": "Magnus Kihlstedt",
+        "age": 31,
+        "squad_no": 12,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 72
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SWE_2002_13",
+        "name_cn": "Tomas Antonelius",
+        "name_en": "Tomas Antonelius",
+        "age": 33,
+        "squad_no": 13,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SWE_2002_14",
+        "name_cn": "Erik Edman",
+        "name_en": "Erik Edman",
+        "age": 29,
+        "squad_no": 14,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SWE_2002_15",
+        "name_cn": "Andreas Jakobsson",
+        "name_en": "Andreas Jakobsson",
+        "age": 33,
+        "squad_no": 15,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SWE_2002_16",
+        "name_cn": "Teddy Lučić",
+        "name_en": "Teddy Lučić",
+        "age": 31,
+        "squad_no": 16,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SWE_2002_18",
+        "name_cn": "Mattias Jonson",
+        "name_en": "Mattias Jonson",
+        "age": 24,
+        "squad_no": 18,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SWE_2002_19",
+        "name_cn": "Pontus Farnerud",
+        "name_en": "Pontus Farnerud",
+        "age": 27,
+        "squad_no": 19,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SWE_2002_20",
+        "name_cn": "Daniel Andersson",
+        "name_en": "Daniel Andersson",
+        "age": 23,
+        "squad_no": 20,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SWE_2002_21",
+        "name_cn": "伊布拉希莫维奇",
+        "name_en": "Zlatan Ibrahimović",
+        "age": 25,
+        "squad_no": 21,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 95
+          }
+        ],
+        "tags": [
+          "GOAT",
+          "大佐"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SWE_2002_22",
+        "name_cn": "Andreas Andersson",
+        "name_en": "Andreas Andersson",
+        "age": 24,
+        "squad_no": 22,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SWE_2002_23",
+        "name_cn": "Andreas Isaksson",
+        "name_en": "Andreas Isaksson",
+        "age": 29,
+        "squad_no": 23,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      }
+    ],
+    "2006": [
+      {
+        "id": "SWE_2006_01",
+        "name_cn": "Andreas Isaksson",
+        "name_en": "Andreas Isaksson",
+        "age": 23,
+        "squad_no": 1,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SWE_2006_02",
+        "name_cn": "Mikael Nilsson",
+        "name_en": "Mikael Nilsson",
+        "age": 32,
+        "squad_no": 2,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          },
+          {
+            "pos": "RB",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SWE_2006_03",
+        "name_cn": "Olof Mellberg",
+        "name_en": "Olof Mellberg",
+        "age": 31,
+        "squad_no": 3,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          },
+          {
+            "pos": "LB",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SWE_2006_04",
+        "name_cn": "Teddy Lučić",
+        "name_en": "Teddy Lučić",
+        "age": 27,
+        "squad_no": 4,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SWE_2006_05",
+        "name_cn": "Erik Edman",
+        "name_en": "Erik Edman",
+        "age": 32,
+        "squad_no": 5,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SWE_2006_06",
+        "name_cn": "Tobias Linderoth",
+        "name_en": "Tobias Linderoth",
+        "age": 22,
+        "squad_no": 6,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          },
+          {
+            "pos": "DM",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SWE_2006_07",
+        "name_cn": "Niclas Alexandersson",
+        "name_en": "Niclas Alexandersson",
+        "age": 22,
+        "squad_no": 7,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SWE_2006_08",
+        "name_cn": "Anders Svensson",
+        "name_en": "Anders Svensson",
+        "age": 27,
+        "squad_no": 8,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          },
+          {
+            "pos": "DM",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SWE_2006_09",
+        "name_cn": "Freddie Ljungberg",
+        "name_en": "Freddie Ljungberg",
+        "age": 32,
+        "squad_no": 9,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SWE_2006_10",
+        "name_cn": "伊布拉希莫维奇",
+        "name_en": "Zlatan Ibrahimović",
+        "age": 24,
+        "squad_no": 10,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 95
+          }
+        ],
+        "tags": [
+          "GOAT",
+          "大佐"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SWE_2006_11",
+        "name_cn": "拉森",
+        "name_en": "Henrik Larsson",
+        "age": 33,
+        "squad_no": 11,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 90
+          }
+        ],
+        "tags": [
+          "传奇射手"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SWE_2006_12",
+        "name_cn": "John Alvbåge",
+        "name_en": "John Alvbåge",
+        "age": 30,
+        "squad_no": 12,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 72
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SWE_2006_13",
+        "name_cn": "Petter Hansson",
+        "name_en": "Petter Hansson",
+        "age": 23,
+        "squad_no": 13,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SWE_2006_14",
+        "name_cn": "Fredrik Stenman",
+        "name_en": "Fredrik Stenman",
+        "age": 24,
+        "squad_no": 14,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SWE_2006_15",
+        "name_cn": "Karl Svensson",
+        "name_en": "Karl Svensson",
+        "age": 29,
+        "squad_no": 15,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SWE_2006_16",
+        "name_cn": "奥尔森",
+        "name_en": "Kim Källström",
+        "age": 25,
+        "squad_no": 16,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SWE_2006_17",
+        "name_cn": "Johan Elmander",
+        "name_en": "Johan Elmander",
+        "age": 27,
+        "squad_no": 17,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SWE_2006_18",
+        "name_cn": "Mattias Jonson",
+        "name_en": "Mattias Jonson",
+        "age": 30,
+        "squad_no": 18,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SWE_2006_19",
+        "name_cn": "Daniel Andersson",
+        "name_en": "Daniel Andersson",
+        "age": 32,
+        "squad_no": 19,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SWE_2006_20",
+        "name_cn": "Marcus Allbäck",
+        "name_en": "Marcus Allbäck",
+        "age": 27,
+        "squad_no": 20,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SWE_2006_21",
+        "name_cn": "Christian Wilhelmsson",
+        "name_en": "Christian Wilhelmsson",
+        "age": 29,
+        "squad_no": 21,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SWE_2006_22",
+        "name_cn": "Markus Rosenberg",
+        "name_en": "Markus Rosenberg",
+        "age": 33,
+        "squad_no": 22,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SWE_2006_23",
+        "name_cn": "Rami Shaaban",
+        "name_en": "Rami Shaaban",
+        "age": 25,
+        "squad_no": 23,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      }
+    ],
+    "2018": [
+      {
+        "id": "SWE_2018_01",
+        "name_cn": "奥尔森",
+        "name_en": "Robin Olsen",
+        "age": 22,
+        "squad_no": 1,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SWE_2018_02",
+        "name_cn": "Mikael Lustig",
+        "name_en": "Mikael Lustig",
+        "age": 33,
+        "squad_no": 2,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          },
+          {
+            "pos": "RB",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SWE_2018_03",
+        "name_cn": "里贾贝克",
+        "name_en": "Victor Lindelöf",
+        "age": 28,
+        "squad_no": 3,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 85
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SWE_2018_04",
+        "name_cn": "Andreas Granqvist",
+        "name_en": "Andreas Granqvist",
+        "age": 27,
+        "squad_no": 4,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SWE_2018_05",
+        "name_cn": "Martin Olsson",
+        "name_en": "Martin Olsson",
+        "age": 33,
+        "squad_no": 5,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SWE_2018_06",
+        "name_cn": "Ludwig Augustinsson",
+        "name_en": "Ludwig Augustinsson",
+        "age": 24,
+        "squad_no": 6,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SWE_2018_07",
+        "name_cn": "Sebastian Larsson",
+        "name_en": "Sebastian Larsson",
+        "age": 26,
+        "squad_no": 7,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SWE_2018_08",
+        "name_cn": "Albin Ekdal",
+        "name_en": "Albin Ekdal",
+        "age": 22,
+        "squad_no": 8,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          },
+          {
+            "pos": "DM",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SWE_2018_09",
+        "name_cn": "Marcus Berg",
+        "name_en": "Marcus Berg",
+        "age": 29,
+        "squad_no": 9,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 73
+          },
+          {
+            "pos": "CAM",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SWE_2018_10",
+        "name_cn": "福斯贝里",
+        "name_en": "Emil Forsberg",
+        "age": 33,
+        "squad_no": 10,
+        "positions": [
+          {
+            "pos": "CAM",
+            "ovr": 85
+          },
+          {
+            "pos": "LW",
+            "ovr": 83
+          }
+        ],
+        "tags": [
+          "队长"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SWE_2018_11",
+        "name_cn": "John Guidetti",
+        "name_en": "John Guidetti",
+        "age": 29,
+        "squad_no": 11,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 73
+          },
+          {
+            "pos": "LW",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SWE_2018_12",
+        "name_cn": "Karl-Johan Johnsson",
+        "name_en": "Karl-Johan Johnsson",
+        "age": 30,
+        "squad_no": 12,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 72
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SWE_2018_13",
+        "name_cn": "Gustav Svensson",
+        "name_en": "Gustav Svensson",
+        "age": 26,
+        "squad_no": 13,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SWE_2018_14",
+        "name_cn": "Filip Helander",
+        "name_en": "Filip Helander",
+        "age": 30,
+        "squad_no": 14,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SWE_2018_15",
+        "name_cn": "Oscar Hiljemark",
+        "name_en": "Oscar Hiljemark",
+        "age": 33,
+        "squad_no": 15,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SWE_2018_16",
+        "name_cn": "Emil Krafth",
+        "name_en": "Emil Krafth",
+        "age": 29,
+        "squad_no": 16,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SWE_2018_17",
+        "name_cn": "Viktor Claesson",
+        "name_en": "Viktor Claesson",
+        "age": 25,
+        "squad_no": 17,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SWE_2018_18",
+        "name_cn": "Pontus Jansson",
+        "name_en": "Pontus Jansson",
+        "age": 31,
+        "squad_no": 18,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SWE_2018_19",
+        "name_cn": "Marcus Rohdén",
+        "name_en": "Marcus Rohdén",
+        "age": 24,
+        "squad_no": 19,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SWE_2018_20",
+        "name_cn": "Ola Toivonen",
+        "name_en": "Ola Toivonen",
+        "age": 30,
+        "squad_no": 20,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SWE_2018_21",
+        "name_cn": "Jimmy Durmaz",
+        "name_en": "Jimmy Durmaz",
+        "age": 27,
+        "squad_no": 21,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SWE_2018_22",
+        "name_cn": "Isaac Kiese Thelin",
+        "name_en": "Isaac Kiese Thelin",
+        "age": 27,
+        "squad_no": 22,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SWE_2018_23",
+        "name_cn": "Kristoffer Nordfeldt",
+        "name_en": "Kristoffer Nordfeldt",
+        "age": 33,
+        "squad_no": 23,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      }
+    ],
+    "2026": [
+      {
+        "id": "SWE_2026_01",
+        "name_cn": "Viktor Johansson",
+        "name_en": "Viktor Johansson",
+        "age": 29,
+        "squad_no": 1,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SWE_2026_02",
+        "name_cn": "Kristoffer Nordfeldt",
+        "name_en": "Kristoffer Nordfeldt",
+        "age": 26,
+        "squad_no": 2,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SWE_2026_03",
+        "name_cn": "Jacob Widell Zetterstrom",
+        "name_en": "Jacob Widell Zetterstrom",
+        "age": 31,
+        "squad_no": 3,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SWE_2026_04",
+        "name_cn": "Hjalmar Ekdal",
+        "name_en": "Hjalmar Ekdal",
+        "age": 30,
+        "squad_no": 4,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SWE_2026_05",
+        "name_cn": "Gabriel Gudmundsson",
+        "name_en": "Gabriel Gudmundsson",
+        "age": 24,
+        "squad_no": 5,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SWE_2026_06",
+        "name_cn": "Isak Hien",
+        "name_en": "Isak Hien",
+        "age": 23,
+        "squad_no": 6,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SWE_2026_07",
+        "name_cn": "Emil Holm",
+        "name_en": "Emil Holm",
+        "age": 30,
+        "squad_no": 7,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SWE_2026_08",
+        "name_cn": "Gustaf Lagerbielke",
+        "name_en": "Gustaf Lagerbielke",
+        "age": 24,
+        "squad_no": 8,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SWE_2026_09",
+        "name_cn": "里贾贝克",
+        "name_en": "Victor Lindelöf",
+        "age": 29,
+        "squad_no": 9,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 85
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SWE_2026_10",
+        "name_cn": "Erik Smith",
+        "name_en": "Erik Smith",
+        "age": 26,
+        "squad_no": 10,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SWE_2026_11",
+        "name_cn": "Carl Starfelt",
+        "name_en": "Carl Starfelt",
+        "age": 26,
+        "squad_no": 11,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SWE_2026_12",
+        "name_cn": "Elliot Stroud",
+        "name_en": "Elliot Stroud",
+        "age": 30,
+        "squad_no": 12,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SWE_2026_13",
+        "name_cn": "Daniel Svensson",
+        "name_en": "Daniel Svensson",
+        "age": 27,
+        "squad_no": 13,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SWE_2026_14",
+        "name_cn": "Taha Ali",
+        "name_en": "Taha Ali",
+        "age": 29,
+        "squad_no": 14,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SWE_2026_15",
+        "name_cn": "Yasin Ayari",
+        "name_en": "Yasin Ayari",
+        "age": 22,
+        "squad_no": 15,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SWE_2026_16",
+        "name_cn": "Lucas Bergvall",
+        "name_en": "Lucas Bergvall",
+        "age": 32,
+        "squad_no": 16,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SWE_2026_17",
+        "name_cn": "Jesper Karlström",
+        "name_en": "Jesper Karlström",
+        "age": 30,
+        "squad_no": 17,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SWE_2026_18",
+        "name_cn": "Ken Sema",
+        "name_en": "Ken Sema",
+        "age": 28,
+        "squad_no": 18,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SWE_2026_19",
+        "name_cn": "Mattias Svanberg",
+        "name_en": "Mattias Svanberg",
+        "age": 33,
+        "squad_no": 19,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SWE_2026_20",
+        "name_cn": "Besfort Zeneli",
+        "name_en": "Besfort Zeneli",
+        "age": 24,
+        "squad_no": 20,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SWE_2026_21",
+        "name_cn": "Alexander Bernhardsson",
+        "name_en": "Alexander Bernhardsson",
+        "age": 22,
+        "squad_no": 21,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SWE_2026_22",
+        "name_cn": "Anthony Elanga",
+        "name_en": "Anthony Elanga",
+        "age": 31,
+        "squad_no": 22,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SWE_2026_23",
+        "name_cn": "吉昆德森",
+        "name_en": "Viktor Gyökeres",
+        "age": 27,
+        "squad_no": 23,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 87
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SWE_2026_24",
+        "name_cn": "伊萨克",
+        "name_en": "Alexander Isak",
+        "age": 31,
+        "squad_no": 24,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 87
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SWE_2026_25",
+        "name_cn": "Gustaf Nilsson",
+        "name_en": "Gustaf Nilsson",
+        "age": 25,
+        "squad_no": 25,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SWE_2026_26",
+        "name_cn": "Benjamin Nygren",
+        "name_en": "Benjamin Nygren",
+        "age": 27,
+        "squad_no": 26,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,829 @@
+{
+  "country_code": "CAN",
+  "squads": {
+    "2022": [
+      {
+        "id": "CAN_2022_01",
+        "name_cn": "Dayne St. Clair",
+        "name_en": "Dayne St. Clair",
+        "age": 28,
+        "squad_no": 1,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 79
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CAN_2022_02",
+        "name_cn": "Alistair Johnston",
+        "name_en": "Alistair Johnston",
+        "age": 29,
+        "squad_no": 2,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 78
+          },
+          {
+            "pos": "RB",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CAN_2022_03",
+        "name_cn": "Sam Adekugbe",
+        "name_en": "Sam Adekugbe",
+        "age": 31,
+        "squad_no": 3,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 78
+          },
+          {
+            "pos": "LB",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CAN_2022_04",
+        "name_cn": "Kamal Miller",
+        "name_en": "Kamal Miller",
+        "age": 30,
+        "squad_no": 4,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 78
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CAN_2022_05",
+        "name_cn": "Steven Vitória",
+        "name_en": "Steven Vitória",
+        "age": 33,
+        "squad_no": 5,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 78
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CAN_2022_06",
+        "name_cn": "Samuel Piette",
+        "name_en": "Samuel Piette",
+        "age": 22,
+        "squad_no": 6,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 78
+          },
+          {
+            "pos": "DM",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CAN_2022_07",
+        "name_cn": "Stephen Eustáquio",
+        "name_en": "Stephen Eustáquio",
+        "age": 29,
+        "squad_no": 7,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 78
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CAN_2022_08",
+        "name_cn": "Liam Fraser",
+        "name_en": "Liam Fraser",
+        "age": 31,
+        "squad_no": 8,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 78
+          },
+          {
+            "pos": "DM",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CAN_2022_09",
+        "name_cn": "Lucas Cavallini",
+        "name_en": "Lucas Cavallini",
+        "age": 32,
+        "squad_no": 9,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 78
+          },
+          {
+            "pos": "CAM",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CAN_2022_10",
+        "name_cn": "霍伊莱特",
+        "name_en": "Junior Hoilett",
+        "age": 25,
+        "squad_no": 10,
+        "positions": [
+          {
+            "pos": "LW",
+            "ovr": 82
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CAN_2022_11",
+        "name_cn": "巴肯",
+        "name_en": "Tajon Buchanan",
+        "age": 27,
+        "squad_no": 11,
+        "positions": [
+          {
+            "pos": "RW",
+            "ovr": 83
+          },
+          {
+            "pos": "LW",
+            "ovr": 82
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CAN_2022_12",
+        "name_cn": "Iké Ugbo",
+        "name_en": "Iké Ugbo",
+        "age": 31,
+        "squad_no": 12,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CAN_2022_13",
+        "name_cn": "霍尔德",
+        "name_en": "Atiba Hutchinson",
+        "age": 29,
+        "squad_no": 13,
+        "positions": [
+          {
+            "pos": "DM",
+            "ovr": 82
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CAN_2022_14",
+        "name_cn": "Mark-Anthony Kaye",
+        "name_en": "Mark-Anthony Kaye",
+        "age": 30,
+        "squad_no": 14,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CAN_2022_15",
+        "name_cn": "Ismaël Koné",
+        "name_en": "Ismaël Koné",
+        "age": 24,
+        "squad_no": 15,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CAN_2022_16",
+        "name_cn": "James Pantemis",
+        "name_en": "James Pantemis",
+        "age": 22,
+        "squad_no": 16,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 77
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CAN_2022_17",
+        "name_cn": "拉林",
+        "name_en": "Cyle Larin",
+        "age": 29,
+        "squad_no": 17,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CAN_2022_18",
+        "name_cn": "Milan Borjan",
+        "name_en": "Milan Borjan",
+        "age": 23,
+        "squad_no": 18,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CAN_2022_19",
+        "name_cn": "戴维斯",
+        "name_en": "Alphonso Davies",
+        "age": 27,
+        "squad_no": 19,
+        "positions": [
+          {
+            "pos": "LB",
+            "ovr": 87
+          },
+          {
+            "pos": "LW",
+            "ovr": 85
+          }
+        ],
+        "tags": [
+          "队长"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CAN_2022_20",
+        "name_cn": "乔纳森·戴维",
+        "name_en": "Jonathan David",
+        "age": 33,
+        "squad_no": 20,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 85
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CAN_2022_21",
+        "name_cn": "Jonathan Osorio",
+        "name_en": "Jonathan Osorio",
+        "age": 23,
+        "squad_no": 21,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CAN_2022_22",
+        "name_cn": "Richie Laryea",
+        "name_en": "Richie Laryea",
+        "age": 30,
+        "squad_no": 22,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CAN_2022_23",
+        "name_cn": "Liam Millar",
+        "name_en": "Liam Millar",
+        "age": 32,
+        "squad_no": 23,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CAN_2022_24",
+        "name_cn": "David Wotherspoon",
+        "name_en": "David Wotherspoon",
+        "age": 24,
+        "squad_no": 24,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CAN_2022_25",
+        "name_cn": "Derek Cornelius",
+        "name_en": "Derek Cornelius",
+        "age": 22,
+        "squad_no": 25,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CAN_2022_26",
+        "name_cn": "Joel Waterman",
+        "name_en": "Joel Waterman",
+        "age": 25,
+        "squad_no": 26,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      }
+    ],
+    "2026": [
+      {
+        "id": "CAN_2026_01",
+        "name_cn": "Dayne St. Clair",
+        "name_en": "Dayne St. Clair",
+        "age": 33,
+        "squad_no": 1,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 81
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CAN_2026_02",
+        "name_cn": "Maxime Crépeau",
+        "name_en": "Maxime Crépeau",
+        "age": 29,
+        "squad_no": 2,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 81
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CAN_2026_03",
+        "name_cn": "Owen Goodman",
+        "name_en": "Owen Goodman",
+        "age": 29,
+        "squad_no": 3,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 81
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CAN_2026_04",
+        "name_cn": "Moïse Bombito",
+        "name_en": "Moïse Bombito",
+        "age": 30,
+        "squad_no": 4,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CAN_2026_05",
+        "name_cn": "Derek Cornelius",
+        "name_en": "Derek Cornelius",
+        "age": 30,
+        "squad_no": 5,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CAN_2026_06",
+        "name_cn": "戴维斯",
+        "name_en": "Alphonso Davies",
+        "age": 31,
+        "squad_no": 6,
+        "positions": [
+          {
+            "pos": "LB",
+            "ovr": 87
+          },
+          {
+            "pos": "LW",
+            "ovr": 85
+          }
+        ],
+        "tags": [
+          "队长"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CAN_2026_07",
+        "name_cn": "Luc De Fougerolles",
+        "name_en": "Luc De Fougerolles",
+        "age": 24,
+        "squad_no": 7,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CAN_2026_08",
+        "name_cn": "Alistair Johnston",
+        "name_en": "Alistair Johnston",
+        "age": 27,
+        "squad_no": 8,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CAN_2026_09",
+        "name_cn": "Alfie Jones",
+        "name_en": "Alfie Jones",
+        "age": 27,
+        "squad_no": 9,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CAN_2026_10",
+        "name_cn": "Richie Laryea",
+        "name_en": "Richie Laryea",
+        "age": 26,
+        "squad_no": 10,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CAN_2026_11",
+        "name_cn": "Niko Sigur",
+        "name_en": "Niko Sigur",
+        "age": 28,
+        "squad_no": 11,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CAN_2026_12",
+        "name_cn": "Joel Waterman",
+        "name_en": "Joel Waterman",
+        "age": 28,
+        "squad_no": 12,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 78
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CAN_2026_13",
+        "name_cn": "Ali Ahmed",
+        "name_en": "Ali Ahmed",
+        "age": 27,
+        "squad_no": 13,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 78
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CAN_2026_14",
+        "name_cn": "巴肯",
+        "name_en": "Tajon Buchanan",
+        "age": 32,
+        "squad_no": 14,
+        "positions": [
+          {
+            "pos": "RW",
+            "ovr": 83
+          },
+          {
+            "pos": "LW",
+            "ovr": 82
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CAN_2026_15",
+        "name_cn": "Mathieu Choinière",
+        "name_en": "Mathieu Choinière",
+        "age": 31,
+        "squad_no": 15,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 78
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CAN_2026_16",
+        "name_cn": "尤斯塔基奥",
+        "name_en": "Stephen Eustáquio",
+        "age": 22,
+        "squad_no": 16,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 78
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CAN_2026_17",
+        "name_cn": "Marcelo Flores",
+        "name_en": "Marcelo Flores",
+        "age": 32,
+        "squad_no": 17,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 78
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CAN_2026_18",
+        "name_cn": "Ismaël Koné",
+        "name_en": "Ismaël Koné",
+        "age": 32,
+        "squad_no": 18,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 78
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CAN_2026_19",
+        "name_cn": "Liam Millar",
+        "name_en": "Liam Millar",
+        "age": 27,
+        "squad_no": 19,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CAN_2026_20",
+        "name_cn": "Jonathan Osorio",
+        "name_en": "Jonathan Osorio",
+        "age": 23,
+        "squad_no": 20,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CAN_2026_21",
+        "name_cn": "Nathan Saliba",
+        "name_en": "Nathan Saliba",
+        "age": 27,
+        "squad_no": 21,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CAN_2026_22",
+        "name_cn": "Jacob Shaffelburg",
+        "name_en": "Jacob Shaffelburg",
+        "age": 23,
+        "squad_no": 22,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CAN_2026_23",
+        "name_cn": "乔纳森·戴维",
+        "name_en": "Jonathan David",
+        "age": 30,
+        "squad_no": 23,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 85
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CAN_2026_24",
+        "name_cn": "Promise David",
+        "name_en": "Promise David",
+        "age": 32,
+        "squad_no": 24,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CAN_2026_25",
+        "name_cn": "拉林",
+        "name_en": "Cyle Larin",
+        "age": 28,
+        "squad_no": 25,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CAN_2026_26",
+        "name_cn": "Tani Oluwaseyi",
+        "name_en": "Tani Oluwaseyi",
+        "age": 26,
+        "squad_no": 26,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      }
+    ]
+  }
+}

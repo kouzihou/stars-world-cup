@@ -1,0 +1,709 @@
+{
+  "countries": [
+    {
+      "code": "BRA",
+      "name_cn": "巴西",
+      "name_en": "Brazil",
+      "confederation": "CONMEBOL",
+      "strength_tier": 1,
+      "category": "A",
+      "replaces": null
+    },
+    {
+      "code": "ARG",
+      "name_cn": "阿根廷",
+      "name_en": "Argentina",
+      "confederation": "CONMEBOL",
+      "strength_tier": 1,
+      "category": "A",
+      "replaces": null
+    },
+    {
+      "code": "FRA",
+      "name_cn": "法国",
+      "name_en": "France",
+      "confederation": "UEFA",
+      "strength_tier": 1,
+      "category": "A",
+      "replaces": null
+    },
+    {
+      "code": "GER",
+      "name_cn": "德国",
+      "name_en": "Germany",
+      "confederation": "UEFA",
+      "strength_tier": 1,
+      "category": "A",
+      "replaces": null
+    },
+    {
+      "code": "ENG",
+      "name_cn": "英格兰",
+      "name_en": "England",
+      "confederation": "UEFA",
+      "strength_tier": 1,
+      "category": "A",
+      "replaces": null
+    },
+    {
+      "code": "ESP",
+      "name_cn": "西班牙",
+      "name_en": "Spain",
+      "confederation": "UEFA",
+      "strength_tier": 1,
+      "category": "A",
+      "replaces": null
+    },
+    {
+      "code": "POR",
+      "name_cn": "葡萄牙",
+      "name_en": "Portugal",
+      "confederation": "UEFA",
+      "strength_tier": 1,
+      "category": "A",
+      "replaces": null
+    },
+    {
+      "code": "NED",
+      "name_cn": "荷兰",
+      "name_en": "Netherlands",
+      "confederation": "UEFA",
+      "strength_tier": 1,
+      "category": "A",
+      "replaces": null
+    },
+    {
+      "code": "USA",
+      "name_cn": "美国",
+      "name_en": "United States",
+      "confederation": "CONCACAF",
+      "strength_tier": 2,
+      "category": "A",
+      "replaces": null
+    },
+    {
+      "code": "CAN",
+      "name_cn": "加拿大",
+      "name_en": "Canada",
+      "confederation": "CONCACAF",
+      "strength_tier": 2,
+      "category": "A",
+      "replaces": null
+    },
+    {
+      "code": "MEX",
+      "name_cn": "墨西哥",
+      "name_en": "Mexico",
+      "confederation": "CONCACAF",
+      "strength_tier": 2,
+      "category": "A",
+      "replaces": null
+    },
+    {
+      "code": "BEL",
+      "name_cn": "比利时",
+      "name_en": "Belgium",
+      "confederation": "UEFA",
+      "strength_tier": 2,
+      "category": "A",
+      "replaces": null
+    },
+    {
+      "code": "CRO",
+      "name_cn": "克罗地亚",
+      "name_en": "Croatia",
+      "confederation": "UEFA",
+      "strength_tier": 2,
+      "category": "A",
+      "replaces": null
+    },
+    {
+      "code": "DEN",
+      "name_cn": "丹麦",
+      "name_en": "Denmark",
+      "confederation": "UEFA",
+      "strength_tier": 3,
+      "category": "A",
+      "replaces": null
+    },
+    {
+      "code": "SUI",
+      "name_cn": "瑞士",
+      "name_en": "Switzerland",
+      "confederation": "UEFA",
+      "strength_tier": 3,
+      "category": "A",
+      "replaces": null
+    },
+    {
+      "code": "SRB",
+      "name_cn": "塞尔维亚",
+      "name_en": "Serbia",
+      "confederation": "UEFA",
+      "strength_tier": 3,
+      "category": "A",
+      "replaces": null
+    },
+    {
+      "code": "AUT",
+      "name_cn": "奥地利",
+      "name_en": "Austria",
+      "confederation": "UEFA",
+      "strength_tier": 3,
+      "category": "A",
+      "replaces": null
+    },
+    {
+      "code": "SCO",
+      "name_cn": "苏格兰",
+      "name_en": "Scotland",
+      "confederation": "UEFA",
+      "strength_tier": 4,
+      "category": "A",
+      "replaces": null
+    },
+    {
+      "code": "TUR",
+      "name_cn": "土耳其",
+      "name_en": "Turkey",
+      "confederation": "UEFA",
+      "strength_tier": 4,
+      "category": "A",
+      "replaces": null
+    },
+    {
+      "code": "NOR",
+      "name_cn": "挪威",
+      "name_en": "Norway",
+      "confederation": "UEFA",
+      "strength_tier": 4,
+      "category": "A",
+      "replaces": null
+    },
+    {
+      "code": "CZE",
+      "name_cn": "捷克",
+      "name_en": "Czechia",
+      "confederation": "UEFA",
+      "strength_tier": 3,
+      "category": "A",
+      "replaces": null
+    },
+    {
+      "code": "WAL",
+      "name_cn": "威尔士",
+      "name_en": "Wales",
+      "confederation": "UEFA",
+      "strength_tier": 4,
+      "category": "A",
+      "replaces": null
+    },
+    {
+      "code": "HUN",
+      "name_cn": "匈牙利",
+      "name_en": "Hungary",
+      "confederation": "UEFA",
+      "strength_tier": 4,
+      "category": "A",
+      "replaces": null
+    },
+    {
+      "code": "URU",
+      "name_cn": "乌拉圭",
+      "name_en": "Uruguay",
+      "confederation": "CONMEBOL",
+      "strength_tier": 2,
+      "category": "A",
+      "replaces": null
+    },
+    {
+      "code": "COL",
+      "name_cn": "哥伦比亚",
+      "name_en": "Colombia",
+      "confederation": "CONMEBOL",
+      "strength_tier": 2,
+      "category": "A",
+      "replaces": null
+    },
+    {
+      "code": "ECU",
+      "name_cn": "厄瓜多尔",
+      "name_en": "Ecuador",
+      "confederation": "CONMEBOL",
+      "strength_tier": 3,
+      "category": "A",
+      "replaces": null
+    },
+    {
+      "code": "PAR",
+      "name_cn": "巴拉圭",
+      "name_en": "Paraguay",
+      "confederation": "CONMEBOL",
+      "strength_tier": 3,
+      "category": "A",
+      "replaces": null
+    },
+    {
+      "code": "VEN",
+      "name_cn": "委内瑞拉",
+      "name_en": "Venezuela",
+      "confederation": "CONMEBOL",
+      "strength_tier": 4,
+      "category": "A",
+      "replaces": null
+    },
+    {
+      "code": "JPN",
+      "name_cn": "日本",
+      "name_en": "Japan",
+      "confederation": "AFC",
+      "strength_tier": 2,
+      "category": "A",
+      "replaces": null
+    },
+    {
+      "code": "KOR",
+      "name_cn": "韩国",
+      "name_en": "South Korea",
+      "confederation": "AFC",
+      "strength_tier": 2,
+      "category": "A",
+      "replaces": null
+    },
+    {
+      "code": "IRN",
+      "name_cn": "伊朗",
+      "name_en": "Iran",
+      "confederation": "AFC",
+      "strength_tier": 2,
+      "category": "A",
+      "replaces": null
+    },
+    {
+      "code": "KSA",
+      "name_cn": "沙特阿拉伯",
+      "name_en": "Saudi Arabia",
+      "confederation": "AFC",
+      "strength_tier": 3,
+      "category": "A",
+      "replaces": null
+    },
+    {
+      "code": "AUS",
+      "name_cn": "澳大利亚",
+      "name_en": "Australia",
+      "confederation": "AFC",
+      "strength_tier": 3,
+      "category": "A",
+      "replaces": null
+    },
+    {
+      "code": "QAT",
+      "name_cn": "卡塔尔",
+      "name_en": "Qatar",
+      "confederation": "AFC",
+      "strength_tier": 3,
+      "category": "A",
+      "replaces": null
+    },
+    {
+      "code": "UZB",
+      "name_cn": "乌兹别克斯坦",
+      "name_en": "Uzbekistan",
+      "confederation": "AFC",
+      "strength_tier": 3,
+      "category": "A",
+      "replaces": null
+    },
+    {
+      "code": "JOR",
+      "name_cn": "约旦",
+      "name_en": "Jordan",
+      "confederation": "AFC",
+      "strength_tier": 4,
+      "category": "A",
+      "replaces": null
+    },
+    {
+      "code": "MAR",
+      "name_cn": "摩洛哥",
+      "name_en": "Morocco",
+      "confederation": "CAF",
+      "strength_tier": 2,
+      "category": "A",
+      "replaces": null
+    },
+    {
+      "code": "SEN",
+      "name_cn": "塞内加尔",
+      "name_en": "Senegal",
+      "confederation": "CAF",
+      "strength_tier": 2,
+      "category": "A",
+      "replaces": null
+    },
+    {
+      "code": "TUN",
+      "name_cn": "突尼斯",
+      "name_en": "Tunisia",
+      "confederation": "CAF",
+      "strength_tier": 3,
+      "category": "A",
+      "replaces": null
+    },
+    {
+      "code": "GHA",
+      "name_cn": "加纳",
+      "name_en": "Ghana",
+      "confederation": "CAF",
+      "strength_tier": 3,
+      "category": "A",
+      "replaces": null
+    },
+    {
+      "code": "CMR",
+      "name_cn": "喀麦隆",
+      "name_en": "Cameroon",
+      "confederation": "CAF",
+      "strength_tier": 3,
+      "category": "A",
+      "replaces": null
+    },
+    {
+      "code": "CIV",
+      "name_cn": "科特迪瓦",
+      "name_en": "Ivory Coast",
+      "confederation": "CAF",
+      "strength_tier": 3,
+      "category": "A",
+      "replaces": null
+    },
+    {
+      "code": "ALG",
+      "name_cn": "阿尔及利亚",
+      "name_en": "Algeria",
+      "confederation": "CAF",
+      "strength_tier": 3,
+      "category": "A",
+      "replaces": null
+    },
+    {
+      "code": "EGY",
+      "name_cn": "埃及",
+      "name_en": "Egypt",
+      "confederation": "CAF",
+      "strength_tier": 3,
+      "category": "A",
+      "replaces": null
+    },
+    {
+      "code": "RSA",
+      "name_cn": "南非",
+      "name_en": "South Africa",
+      "confederation": "CAF",
+      "strength_tier": 4,
+      "category": "A",
+      "replaces": null
+    },
+    {
+      "code": "CRC",
+      "name_cn": "哥斯达黎加",
+      "name_en": "Costa Rica",
+      "confederation": "CONCACAF",
+      "strength_tier": 3,
+      "category": "A",
+      "replaces": null
+    },
+    {
+      "code": "PAN",
+      "name_cn": "巴拿马",
+      "name_en": "Panama",
+      "confederation": "CONCACAF",
+      "strength_tier": 3,
+      "category": "A",
+      "replaces": null
+    },
+    {
+      "code": "JAM",
+      "name_cn": "牙买加",
+      "name_en": "Jamaica",
+      "confederation": "CONCACAF",
+      "strength_tier": 3,
+      "category": "A",
+      "replaces": null
+    },
+    {
+      "code": "NZL",
+      "name_cn": "新西兰",
+      "name_en": "New Zealand",
+      "confederation": "OFC",
+      "strength_tier": 5,
+      "category": "A",
+      "replaces": null
+    },
+    {
+      "code": "BOL",
+      "name_cn": "玻利维亚",
+      "name_en": "Bolivia",
+      "confederation": "CONMEBOL",
+      "strength_tier": 5,
+      "category": "A",
+      "replaces": null
+    },
+    {
+      "code": "SUR",
+      "name_cn": "苏里南",
+      "name_en": "Suriname",
+      "confederation": "CONCACAF",
+      "strength_tier": 5,
+      "category": "A",
+      "replaces": null
+    },
+    {
+      "code": "ITA",
+      "name_cn": "意大利",
+      "name_en": "Italy",
+      "confederation": "UEFA",
+      "strength_tier": 2,
+      "category": "B",
+      "replaces": "SCO"
+    },
+    {
+      "code": "CHN",
+      "name_cn": "中国",
+      "name_en": "China",
+      "confederation": "AFC",
+      "strength_tier": 4,
+      "category": "B",
+      "replaces": "JOR"
+    },
+    {
+      "code": "NGA",
+      "name_cn": "尼日利亚",
+      "name_en": "Nigeria",
+      "confederation": "CAF",
+      "strength_tier": 3,
+      "category": "B",
+      "replaces": "RSA"
+    },
+    {
+      "code": "UKR",
+      "name_cn": "乌克兰",
+      "name_en": "Ukraine",
+      "confederation": "UEFA",
+      "strength_tier": 3,
+      "category": "B",
+      "replaces": "HUN"
+    },
+    {
+      "code": "RUS",
+      "name_cn": "俄罗斯",
+      "name_en": "Russia",
+      "confederation": "UEFA",
+      "strength_tier": 3,
+      "category": "B",
+      "replaces": "HUN"
+    },
+    {
+      "code": "CHI",
+      "name_cn": "智利",
+      "name_en": "Chile",
+      "confederation": "CONMEBOL",
+      "strength_tier": 3,
+      "category": "B",
+      "replaces": "BOL"
+    },
+    {
+      "code": "PER",
+      "name_cn": "秘鲁",
+      "name_en": "Peru",
+      "confederation": "CONMEBOL",
+      "strength_tier": 3,
+      "category": "B",
+      "replaces": "VEN"
+    },
+    {
+      "code": "POL",
+      "name_cn": "波兰",
+      "name_en": "Poland",
+      "confederation": "UEFA",
+      "strength_tier": 3,
+      "category": "B",
+      "replaces": "WAL"
+    },
+    {
+      "code": "SWE",
+      "name_cn": "瑞典",
+      "name_en": "Sweden",
+      "confederation": "UEFA",
+      "strength_tier": 3,
+      "category": "B",
+      "replaces": "SCO"
+    },
+    {
+      "code": "CZE_LEGACY",
+      "name_cn": "捷克斯洛伐克(传统)",
+      "name_en": "Czechoslovakia",
+      "confederation": "UEFA",
+      "strength_tier": 3,
+      "category": "B",
+      "replaces": "WAL"
+    },
+    {
+      "code": "GRE",
+      "name_cn": "希腊",
+      "name_en": "Greece",
+      "confederation": "UEFA",
+      "strength_tier": 3,
+      "category": "B",
+      "replaces": "HUN"
+    },
+    {
+      "code": "IRL",
+      "name_cn": "爱尔兰",
+      "name_en": "Ireland",
+      "confederation": "UEFA",
+      "strength_tier": 4,
+      "category": "B",
+      "replaces": "SCO"
+    },
+    {
+      "code": "ROU",
+      "name_cn": "罗马尼亚",
+      "name_en": "Romania",
+      "confederation": "UEFA",
+      "strength_tier": 4,
+      "category": "B",
+      "replaces": "HUN"
+    }
+  ],
+  "years": [
+    {
+      "year": 1990,
+      "host": "意大利",
+      "champion": "西德",
+      "squad_size": 22
+    },
+    {
+      "year": 1994,
+      "host": "美国",
+      "champion": "巴西",
+      "squad_size": 22
+    },
+    {
+      "year": 1998,
+      "host": "法国",
+      "champion": "法国",
+      "squad_size": 22
+    },
+    {
+      "year": 2002,
+      "host": "韩日",
+      "champion": "巴西",
+      "squad_size": 23
+    },
+    {
+      "year": 2006,
+      "host": "德国",
+      "champion": "意大利",
+      "squad_size": 23
+    },
+    {
+      "year": 2010,
+      "host": "南非",
+      "champion": "西班牙",
+      "squad_size": 23
+    },
+    {
+      "year": 2014,
+      "host": "巴西",
+      "champion": "德国",
+      "squad_size": 23
+    },
+    {
+      "year": 2018,
+      "host": "俄罗斯",
+      "champion": "法国",
+      "squad_size": 23
+    },
+    {
+      "year": 2022,
+      "host": "卡塔尔",
+      "champion": "阿根廷",
+      "squad_size": 26
+    },
+    {
+      "year": 2026,
+      "host": "美加墨",
+      "champion": "待定",
+      "squad_size": 26
+    }
+  ],
+  "replacement_rules": [
+    {
+      "b_code": "ITA",
+      "a_code": "SCO",
+      "note": "用户选 意大利 → 替换 苏格兰（同 conf 最弱）"
+    },
+    {
+      "b_code": "CHN",
+      "a_code": "JOR",
+      "note": "用户选 中国 → 替换 约旦（同 conf 最弱）"
+    },
+    {
+      "b_code": "NGA",
+      "a_code": "RSA",
+      "note": "用户选 尼日利亚 → 替换 南非（同 conf 最弱）"
+    },
+    {
+      "b_code": "UKR",
+      "a_code": "HUN",
+      "note": "用户选 乌克兰 → 替换 匈牙利（同 conf 最弱）"
+    },
+    {
+      "b_code": "RUS",
+      "a_code": "HUN",
+      "note": "用户选 俄罗斯 → 替换 匈牙利（同 conf 最弱）"
+    },
+    {
+      "b_code": "CHI",
+      "a_code": "BOL",
+      "note": "用户选 智利 → 替换 玻利维亚（同 conf 最弱）"
+    },
+    {
+      "b_code": "PER",
+      "a_code": "VEN",
+      "note": "用户选 秘鲁 → 替换 委内瑞拉（同 conf 最弱）"
+    },
+    {
+      "b_code": "POL",
+      "a_code": "WAL",
+      "note": "用户选 波兰 → 替换 威尔士（同 conf 最弱）"
+    },
+    {
+      "b_code": "SWE",
+      "a_code": "SCO",
+      "note": "用户选 瑞典 → 替换 苏格兰（同 conf 最弱）"
+    },
+    {
+      "b_code": "CZE_LEGACY",
+      "a_code": "WAL",
+      "note": "用户选 捷克斯洛伐克(传统) → 替换 威尔士（同 conf 最弱）"
+    },
+    {
+      "b_code": "GRE",
+      "a_code": "HUN",
+      "note": "用户选 希腊 → 替换 匈牙利（同 conf 最弱）"
+    },
+    {
+      "b_code": "IRL",
+      "a_code": "SCO",
+      "note": "用户选 爱尔兰 → 替换 苏格兰（同 conf 最弱）"
+    },
+    {
+      "b_code": "ROU",
+      "a_code": "HUN",
+      "note": "用户选 罗马尼亚 → 替换 匈牙利（同 conf 最弱）"
+    }
+  ]
+}

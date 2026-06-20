@@ -1,0 +1,764 @@
+{
+  "country_code": "PAN",
+  "squads": {
+    "2018": [
+      {
+        "id": "PAN_2018_01",
+        "name_cn": "彭德松",
+        "name_en": "Jaime Penedo",
+        "age": 32,
+        "squad_no": 1,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "PAN_2018_02",
+        "name_cn": "Michael Amir Murillo",
+        "name_en": "Michael Amir Murillo",
+        "age": 27,
+        "squad_no": 2,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          },
+          {
+            "pos": "RB",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "PAN_2018_03",
+        "name_cn": "Harold Cummings",
+        "name_en": "Harold Cummings",
+        "age": 23,
+        "squad_no": 3,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          },
+          {
+            "pos": "LB",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "PAN_2018_04",
+        "name_cn": "Fidel Escobar",
+        "name_en": "Fidel Escobar",
+        "age": 33,
+        "squad_no": 4,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "PAN_2018_05",
+        "name_cn": "罗曼·托雷斯",
+        "name_en": "Román Torres",
+        "age": 30,
+        "squad_no": 5,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "PAN_2018_06",
+        "name_cn": "戈麦斯",
+        "name_en": "Gabriel Gómez",
+        "age": 32,
+        "squad_no": 6,
+        "positions": [
+          {
+            "pos": "DM",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "PAN_2018_07",
+        "name_cn": "Blas Pérez",
+        "name_en": "Blas Pérez",
+        "age": 26,
+        "squad_no": 7,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 73
+          },
+          {
+            "pos": "LW",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "PAN_2018_08",
+        "name_cn": "Édgar Bárcenas",
+        "name_en": "Édgar Bárcenas",
+        "age": 33,
+        "squad_no": 8,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          },
+          {
+            "pos": "DM",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "PAN_2018_09",
+        "name_cn": "Gabriel Torres",
+        "name_en": "Gabriel Torres",
+        "age": 26,
+        "squad_no": 9,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 73
+          },
+          {
+            "pos": "CAM",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "PAN_2018_10",
+        "name_cn": "Ismael Díaz",
+        "name_en": "Ismael Díaz",
+        "age": 31,
+        "squad_no": 10,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "PAN_2018_11",
+        "name_cn": "Armando Cooper",
+        "name_en": "Armando Cooper",
+        "age": 30,
+        "squad_no": 11,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "PAN_2018_12",
+        "name_cn": "José Calderón",
+        "name_en": "José Calderón",
+        "age": 31,
+        "squad_no": 12,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 72
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "PAN_2018_13",
+        "name_cn": "Adolfo Machado",
+        "name_en": "Adolfo Machado",
+        "age": 24,
+        "squad_no": 13,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "PAN_2018_14",
+        "name_cn": "Valentín Pimentel",
+        "name_en": "Valentín Pimentel",
+        "age": 28,
+        "squad_no": 14,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "PAN_2018_15",
+        "name_cn": "Erick Davis",
+        "name_en": "Erick Davis",
+        "age": 32,
+        "squad_no": 15,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "PAN_2018_16",
+        "name_cn": "Abdiel Arroyo",
+        "name_en": "Abdiel Arroyo",
+        "age": 28,
+        "squad_no": 16,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "PAN_2018_17",
+        "name_cn": "Luis Ovalle",
+        "name_en": "Luis Ovalle",
+        "age": 27,
+        "squad_no": 17,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "PAN_2018_18",
+        "name_cn": "Luis Tejada",
+        "name_en": "Luis Tejada",
+        "age": 31,
+        "squad_no": 18,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "PAN_2018_19",
+        "name_cn": "Ricardo Ávila",
+        "name_en": "Ricardo Ávila",
+        "age": 32,
+        "squad_no": 19,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "PAN_2018_20",
+        "name_cn": "Aníbal Godoy",
+        "name_en": "Aníbal Godoy",
+        "age": 23,
+        "squad_no": 20,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "PAN_2018_21",
+        "name_cn": "José Luis Rodríguez",
+        "name_en": "José Luis Rodríguez",
+        "age": 30,
+        "squad_no": 21,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "PAN_2018_22",
+        "name_cn": "Álex Rodríguez",
+        "name_en": "Álex Rodríguez",
+        "age": 26,
+        "squad_no": 22,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "PAN_2018_23",
+        "name_cn": "Felipe Baloy",
+        "name_en": "Felipe Baloy",
+        "age": 28,
+        "squad_no": 23,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 68
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      }
+    ],
+    "2026": [
+      {
+        "id": "PAN_2026_01",
+        "name_cn": "Orlando Mosquera",
+        "name_en": "Orlando Mosquera",
+        "age": 25,
+        "squad_no": 1,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "PAN_2026_02",
+        "name_cn": "Luis Mejía",
+        "name_en": "Luis Mejía",
+        "age": 30,
+        "squad_no": 2,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "PAN_2026_03",
+        "name_cn": "César Samudio",
+        "name_en": "César Samudio",
+        "age": 28,
+        "squad_no": 3,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "PAN_2026_04",
+        "name_cn": "César Blackman",
+        "name_en": "César Blackman",
+        "age": 27,
+        "squad_no": 4,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "PAN_2026_05",
+        "name_cn": "Jorge Gutiérrez",
+        "name_en": "Jorge Gutiérrez",
+        "age": 27,
+        "squad_no": 5,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "PAN_2026_06",
+        "name_cn": "Amir Murillo",
+        "name_en": "Amir Murillo",
+        "age": 29,
+        "squad_no": 6,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "PAN_2026_07",
+        "name_cn": "Fidel Escobar",
+        "name_en": "Fidel Escobar",
+        "age": 29,
+        "squad_no": 7,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "PAN_2026_08",
+        "name_cn": "Andrés Andrade",
+        "name_en": "Andrés Andrade",
+        "age": 31,
+        "squad_no": 8,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "PAN_2026_09",
+        "name_cn": "Edgardo Fariña",
+        "name_en": "Edgardo Fariña",
+        "age": 22,
+        "squad_no": 9,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "PAN_2026_10",
+        "name_cn": "José Córdoba",
+        "name_en": "José Córdoba",
+        "age": 30,
+        "squad_no": 10,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "PAN_2026_11",
+        "name_cn": "Éric Davis",
+        "name_en": "Éric Davis",
+        "age": 24,
+        "squad_no": 11,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "PAN_2026_12",
+        "name_cn": "Jiovany Ramos",
+        "name_en": "Jiovany Ramos",
+        "age": 29,
+        "squad_no": 12,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "PAN_2026_13",
+        "name_cn": "Roderick Miller",
+        "name_en": "Roderick Miller",
+        "age": 24,
+        "squad_no": 13,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "PAN_2026_14",
+        "name_cn": "Aníbal Godoy",
+        "name_en": "Aníbal Godoy",
+        "age": 25,
+        "squad_no": 14,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "PAN_2026_15",
+        "name_cn": "Adalberto Carrasquilla",
+        "name_en": "Adalberto Carrasquilla",
+        "age": 23,
+        "squad_no": 15,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "PAN_2026_16",
+        "name_cn": "Carlos Harvey",
+        "name_en": "Carlos Harvey",
+        "age": 30,
+        "squad_no": 16,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "PAN_2026_17",
+        "name_cn": "Cristian Martínez",
+        "name_en": "Cristian Martínez",
+        "age": 32,
+        "squad_no": 17,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "PAN_2026_18",
+        "name_cn": "José Luis Rodríguez",
+        "name_en": "José Luis Rodríguez",
+        "age": 26,
+        "squad_no": 18,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "PAN_2026_19",
+        "name_cn": "César Yanis",
+        "name_en": "César Yanis",
+        "age": 25,
+        "squad_no": 19,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "PAN_2026_20",
+        "name_cn": "巴塞内斯",
+        "name_en": "Yoel Bárcenas",
+        "age": 24,
+        "squad_no": 20,
+        "positions": [
+          {
+            "pos": "LW",
+            "ovr": 78
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "PAN_2026_21",
+        "name_cn": "Alberto Quintero",
+        "name_en": "Alberto Quintero",
+        "age": 24,
+        "squad_no": 21,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "PAN_2026_22",
+        "name_cn": "Azarias Londoño",
+        "name_en": "Azarias Londoño",
+        "age": 24,
+        "squad_no": 22,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "PAN_2026_23",
+        "name_cn": "Ismael Díaz",
+        "name_en": "Ismael Díaz",
+        "age": 27,
+        "squad_no": 23,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "PAN_2026_24",
+        "name_cn": "Cecilio Waterman",
+        "name_en": "Cecilio Waterman",
+        "age": 31,
+        "squad_no": 24,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "PAN_2026_25",
+        "name_cn": "José Fajardo",
+        "name_en": "José Fajardo",
+        "age": 33,
+        "squad_no": 25,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "PAN_2026_26",
+        "name_cn": "Tomás Rodríguez",
+        "name_en": "Tomás Rodríguez",
+        "age": 23,
+        "squad_no": 26,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      }
+    ]
+  }
+}

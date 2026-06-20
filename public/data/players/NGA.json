@@ -1,0 +1,2179 @@
+{
+  "country_code": "NGA",
+  "squads": {
+    "1994": [
+      {
+        "id": "NGA_1994_01",
+        "name_cn": "Peter Rufai",
+        "name_en": "Peter Rufai",
+        "age": 31,
+        "squad_no": 1,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NGA_1994_02",
+        "name_cn": "Augustine Eguavoen",
+        "name_en": "Augustine Eguavoen",
+        "age": 22,
+        "squad_no": 2,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 72
+          },
+          {
+            "pos": "RB",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NGA_1994_03",
+        "name_cn": "Benedict Iroha",
+        "name_en": "Benedict Iroha",
+        "age": 26,
+        "squad_no": 3,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 72
+          },
+          {
+            "pos": "LB",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NGA_1994_04",
+        "name_cn": "Stephen Keshi",
+        "name_en": "Stephen Keshi",
+        "age": 24,
+        "squad_no": 4,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 72
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NGA_1994_05",
+        "name_cn": "Uche Okechukwu",
+        "name_en": "Uche Okechukwu",
+        "age": 28,
+        "squad_no": 5,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 72
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NGA_1994_06",
+        "name_cn": "Chidi Nwanu",
+        "name_en": "Chidi Nwanu",
+        "age": 30,
+        "squad_no": 6,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 72
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NGA_1994_07",
+        "name_cn": "Finidi George",
+        "name_en": "Finidi George",
+        "age": 23,
+        "squad_no": 7,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 72
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NGA_1994_08",
+        "name_cn": "Thompson Oliha",
+        "name_en": "Thompson Oliha",
+        "age": 30,
+        "squad_no": 8,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 72
+          },
+          {
+            "pos": "DM",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NGA_1994_09",
+        "name_cn": "耶基尼",
+        "name_en": "Rashidi Yekini",
+        "age": 23,
+        "squad_no": 9,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 87
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NGA_1994_10",
+        "name_cn": "奥科查",
+        "name_en": "Jay-Jay Okocha",
+        "age": 30,
+        "squad_no": 10,
+        "positions": [
+          {
+            "pos": "CAM",
+            "ovr": 90
+          },
+          {
+            "pos": "CM",
+            "ovr": 87
+          }
+        ],
+        "tags": [
+          "巫师"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NGA_1994_11",
+        "name_cn": "Emmanuel Amunike",
+        "name_en": "Emmanuel Amunike",
+        "age": 26,
+        "squad_no": 11,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 72
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NGA_1994_12",
+        "name_cn": "Samson Siasia",
+        "name_en": "Samson Siasia",
+        "age": 27,
+        "squad_no": 12,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NGA_1994_13",
+        "name_cn": "Emeka Ezeugo",
+        "name_en": "Emeka Ezeugo",
+        "age": 23,
+        "squad_no": 13,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NGA_1994_14",
+        "name_cn": "Daniel Amokachi",
+        "name_en": "Daniel Amokachi",
+        "age": 30,
+        "squad_no": 14,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NGA_1994_15",
+        "name_cn": "Sunday Oliseh",
+        "name_en": "Sunday Oliseh",
+        "age": 26,
+        "squad_no": 15,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NGA_1994_16",
+        "name_cn": "Alloysius Agu",
+        "name_en": "Alloysius Agu",
+        "age": 30,
+        "squad_no": 16,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NGA_1994_17",
+        "name_cn": "Victor Ikpeba",
+        "name_en": "Victor Ikpeba",
+        "age": 31,
+        "squad_no": 17,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 68
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NGA_1994_18",
+        "name_cn": "Efan Ekoku",
+        "name_en": "Efan Ekoku",
+        "age": 26,
+        "squad_no": 18,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 68
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NGA_1994_19",
+        "name_cn": "Michael Emenalo",
+        "name_en": "Michael Emenalo",
+        "age": 33,
+        "squad_no": 19,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 68
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NGA_1994_20",
+        "name_cn": "Uche Okafor",
+        "name_en": "Uche Okafor",
+        "age": 29,
+        "squad_no": 20,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 68
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NGA_1994_21",
+        "name_cn": "Mutiu Adepoju",
+        "name_en": "Mutiu Adepoju",
+        "age": 28,
+        "squad_no": 21,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 68
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NGA_1994_22",
+        "name_cn": "Wilfred Agbonavbare",
+        "name_en": "Wilfred Agbonavbare",
+        "age": 31,
+        "squad_no": 22,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      }
+    ],
+    "1998": [
+      {
+        "id": "NGA_1998_01",
+        "name_cn": "Peter Rufai",
+        "name_en": "Peter Rufai",
+        "age": 29,
+        "squad_no": 1,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NGA_1998_02",
+        "name_cn": "Mobi Oparaku",
+        "name_en": "Mobi Oparaku",
+        "age": 25,
+        "squad_no": 2,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 72
+          },
+          {
+            "pos": "RB",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NGA_1998_03",
+        "name_cn": "Celestine Babayaro",
+        "name_en": "Celestine Babayaro",
+        "age": 27,
+        "squad_no": 3,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 72
+          },
+          {
+            "pos": "LB",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NGA_1998_04",
+        "name_cn": "尼旺科沃·卡努",
+        "name_en": "Nwankwo Kanu",
+        "age": 29,
+        "squad_no": 4,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 90
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NGA_1998_05",
+        "name_cn": "Uche Okechukwu",
+        "name_en": "Uche Okechukwu",
+        "age": 32,
+        "squad_no": 5,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 72
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NGA_1998_06",
+        "name_cn": "Taribo West",
+        "name_en": "Taribo West",
+        "age": 29,
+        "squad_no": 6,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 72
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NGA_1998_07",
+        "name_cn": "Finidi George",
+        "name_en": "Finidi George",
+        "age": 31,
+        "squad_no": 7,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 72
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NGA_1998_08",
+        "name_cn": "Mutiu Adepoju",
+        "name_en": "Mutiu Adepoju",
+        "age": 22,
+        "squad_no": 8,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 72
+          },
+          {
+            "pos": "DM",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NGA_1998_09",
+        "name_cn": "耶基尼",
+        "name_en": "Rashidi Yekini",
+        "age": 29,
+        "squad_no": 9,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 87
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NGA_1998_10",
+        "name_cn": "奥科查",
+        "name_en": "Jay-Jay Okocha",
+        "age": 23,
+        "squad_no": 10,
+        "positions": [
+          {
+            "pos": "CAM",
+            "ovr": 90
+          },
+          {
+            "pos": "CM",
+            "ovr": 87
+          }
+        ],
+        "tags": [
+          "巫师"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NGA_1998_11",
+        "name_cn": "Garba Lawal",
+        "name_en": "Garba Lawal",
+        "age": 26,
+        "squad_no": 11,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 72
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NGA_1998_12",
+        "name_cn": "Willy Okpara",
+        "name_en": "Willy Okpara",
+        "age": 23,
+        "squad_no": 12,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NGA_1998_13",
+        "name_cn": "Tijani Babangida",
+        "name_en": "Tijani Babangida",
+        "age": 28,
+        "squad_no": 13,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NGA_1998_14",
+        "name_cn": "Daniel Amokachi",
+        "name_en": "Daniel Amokachi",
+        "age": 32,
+        "squad_no": 14,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NGA_1998_15",
+        "name_cn": "Sunday Oliseh",
+        "name_en": "Sunday Oliseh",
+        "age": 25,
+        "squad_no": 15,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NGA_1998_16",
+        "name_cn": "Uche Okafor",
+        "name_en": "Uche Okafor",
+        "age": 32,
+        "squad_no": 16,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NGA_1998_17",
+        "name_cn": "Augustine Eguavoen",
+        "name_en": "Augustine Eguavoen",
+        "age": 33,
+        "squad_no": 17,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 68
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NGA_1998_18",
+        "name_cn": "Wilson Oruma",
+        "name_en": "Wilson Oruma",
+        "age": 25,
+        "squad_no": 18,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 68
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NGA_1998_19",
+        "name_cn": "Benedict Iroha",
+        "name_en": "Benedict Iroha",
+        "age": 27,
+        "squad_no": 19,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 68
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NGA_1998_20",
+        "name_cn": "Victor Ikpeba",
+        "name_en": "Victor Ikpeba",
+        "age": 28,
+        "squad_no": 20,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 68
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NGA_1998_21",
+        "name_cn": "Godwin Okpara",
+        "name_en": "Godwin Okpara",
+        "age": 27,
+        "squad_no": 21,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 68
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NGA_1998_22",
+        "name_cn": "Abiodun Baruwa",
+        "name_en": "Abiodun Baruwa",
+        "age": 30,
+        "squad_no": 22,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      }
+    ],
+    "2002": [
+      {
+        "id": "NGA_2002_01",
+        "name_cn": "Ike Shorunmu",
+        "name_en": "Ike Shorunmu",
+        "age": 30,
+        "squad_no": 1,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NGA_2002_02",
+        "name_cn": "Joseph Yobo",
+        "name_en": "Joseph Yobo",
+        "age": 22,
+        "squad_no": 2,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          },
+          {
+            "pos": "RB",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NGA_2002_03",
+        "name_cn": "Celestine Babayaro",
+        "name_en": "Celestine Babayaro",
+        "age": 33,
+        "squad_no": 3,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          },
+          {
+            "pos": "LB",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NGA_2002_04",
+        "name_cn": "尼旺科沃·卡努",
+        "name_en": "Nwankwo Kanu",
+        "age": 26,
+        "squad_no": 4,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 90
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NGA_2002_05",
+        "name_cn": "Isaac Okoronkwo",
+        "name_en": "Isaac Okoronkwo",
+        "age": 25,
+        "squad_no": 5,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NGA_2002_06",
+        "name_cn": "Taribo West",
+        "name_en": "Taribo West",
+        "age": 26,
+        "squad_no": 6,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NGA_2002_07",
+        "name_cn": "Pius Ikedia",
+        "name_en": "Pius Ikedia",
+        "age": 23,
+        "squad_no": 7,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NGA_2002_08",
+        "name_cn": "Mutiu Adepoju",
+        "name_en": "Mutiu Adepoju",
+        "age": 28,
+        "squad_no": 8,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          },
+          {
+            "pos": "DM",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NGA_2002_09",
+        "name_cn": "Bartholomew Ogbeche",
+        "name_en": "Bartholomew Ogbeche",
+        "age": 32,
+        "squad_no": 9,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 73
+          },
+          {
+            "pos": "CAM",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NGA_2002_10",
+        "name_cn": "奥科查",
+        "name_en": "Jay-Jay Okocha",
+        "age": 33,
+        "squad_no": 10,
+        "positions": [
+          {
+            "pos": "CAM",
+            "ovr": 90
+          },
+          {
+            "pos": "CM",
+            "ovr": 87
+          }
+        ],
+        "tags": [
+          "巫师"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NGA_2002_11",
+        "name_cn": "Garba Lawal",
+        "name_en": "Garba Lawal",
+        "age": 27,
+        "squad_no": 11,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NGA_2002_12",
+        "name_cn": "Austin Ejide",
+        "name_en": "Austin Ejide",
+        "age": 23,
+        "squad_no": 12,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 72
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NGA_2002_13",
+        "name_cn": "Rabiu Afolabi",
+        "name_en": "Rabiu Afolabi",
+        "age": 30,
+        "squad_no": 13,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NGA_2002_14",
+        "name_cn": "Ifeanyi Udeze",
+        "name_en": "Ifeanyi Udeze",
+        "age": 24,
+        "squad_no": 14,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NGA_2002_15",
+        "name_cn": "Justice Christopher",
+        "name_en": "Justice Christopher",
+        "age": 29,
+        "squad_no": 15,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NGA_2002_16",
+        "name_cn": "Efe Sodje",
+        "name_en": "Efe Sodje",
+        "age": 27,
+        "squad_no": 16,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NGA_2002_17",
+        "name_cn": "Julius Aghahowa",
+        "name_en": "Julius Aghahowa",
+        "age": 27,
+        "squad_no": 17,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NGA_2002_18",
+        "name_cn": "Benedict Akwuegbu",
+        "name_en": "Benedict Akwuegbu",
+        "age": 25,
+        "squad_no": 18,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NGA_2002_19",
+        "name_cn": "Eric Ejiofor",
+        "name_en": "Eric Ejiofor",
+        "age": 31,
+        "squad_no": 19,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NGA_2002_20",
+        "name_cn": "James Obiorah",
+        "name_en": "James Obiorah",
+        "age": 26,
+        "squad_no": 20,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NGA_2002_21",
+        "name_cn": "John Utaka",
+        "name_en": "John Utaka",
+        "age": 24,
+        "squad_no": 21,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NGA_2002_22",
+        "name_cn": "恩耶亚马",
+        "name_en": "Vincent Enyeama",
+        "age": 33,
+        "squad_no": 22,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NGA_2002_23",
+        "name_cn": "Femi Opabunmi",
+        "name_en": "Femi Opabunmi",
+        "age": 32,
+        "squad_no": 23,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 68
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      }
+    ],
+    "2010": [
+      {
+        "id": "NGA_2010_01",
+        "name_cn": "恩耶亚马",
+        "name_en": "Vincent Enyeama",
+        "age": 25,
+        "squad_no": 1,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NGA_2010_02",
+        "name_cn": "Joseph Yobo",
+        "name_en": "Joseph Yobo",
+        "age": 29,
+        "squad_no": 2,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          },
+          {
+            "pos": "RB",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NGA_2010_03",
+        "name_cn": "Taye Taiwo",
+        "name_en": "Taye Taiwo",
+        "age": 33,
+        "squad_no": 3,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          },
+          {
+            "pos": "LB",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NGA_2010_04",
+        "name_cn": "卡努",
+        "name_en": "Nwankwo Kanu",
+        "age": 25,
+        "squad_no": 4,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NGA_2010_05",
+        "name_cn": "Rabiu Afolabi",
+        "name_en": "Rabiu Afolabi",
+        "age": 25,
+        "squad_no": 5,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NGA_2010_06",
+        "name_cn": "Danny Shittu",
+        "name_en": "Danny Shittu",
+        "age": 33,
+        "squad_no": 6,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NGA_2010_07",
+        "name_cn": "John Utaka",
+        "name_en": "John Utaka",
+        "age": 25,
+        "squad_no": 7,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 73
+          },
+          {
+            "pos": "LW",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NGA_2010_08",
+        "name_cn": "Yakubu",
+        "name_en": "Yakubu",
+        "age": 26,
+        "squad_no": 8,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NGA_2010_09",
+        "name_cn": "Obafemi Martins",
+        "name_en": "Obafemi Martins",
+        "age": 25,
+        "squad_no": 9,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 73
+          },
+          {
+            "pos": "CAM",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NGA_2010_10",
+        "name_cn": "Brown Ideye",
+        "name_en": "Brown Ideye",
+        "age": 25,
+        "squad_no": 10,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NGA_2010_11",
+        "name_cn": "Peter Odemwingie",
+        "name_en": "Peter Odemwingie",
+        "age": 25,
+        "squad_no": 11,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 73
+          },
+          {
+            "pos": "LW",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NGA_2010_12",
+        "name_cn": "Kalu Uche",
+        "name_en": "Kalu Uche",
+        "age": 25,
+        "squad_no": 12,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NGA_2010_13",
+        "name_cn": "Ayila Yussuf",
+        "name_en": "Ayila Yussuf",
+        "age": 31,
+        "squad_no": 13,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NGA_2010_14",
+        "name_cn": "Sani Kaita",
+        "name_en": "Sani Kaita",
+        "age": 27,
+        "squad_no": 14,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NGA_2010_15",
+        "name_cn": "Lukman Haruna",
+        "name_en": "Lukman Haruna",
+        "age": 24,
+        "squad_no": 15,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NGA_2010_16",
+        "name_cn": "Austin Ejide",
+        "name_en": "Austin Ejide",
+        "age": 23,
+        "squad_no": 16,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 72
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NGA_2010_17",
+        "name_cn": "Chidi Odiah",
+        "name_en": "Chidi Odiah",
+        "age": 23,
+        "squad_no": 17,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NGA_2010_18",
+        "name_cn": "Victor Obinna",
+        "name_en": "Victor Obinna",
+        "age": 23,
+        "squad_no": 18,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NGA_2010_19",
+        "name_cn": "Chinedu Obasi",
+        "name_en": "Chinedu Obasi",
+        "age": 32,
+        "squad_no": 19,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NGA_2010_20",
+        "name_cn": "Dickson Etuhu",
+        "name_en": "Dickson Etuhu",
+        "age": 32,
+        "squad_no": 20,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NGA_2010_21",
+        "name_cn": "Elderson Echiéjilé",
+        "name_en": "Elderson Echiéjilé",
+        "age": 29,
+        "squad_no": 21,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NGA_2010_22",
+        "name_cn": "Dele Adeleye",
+        "name_en": "Dele Adeleye",
+        "age": 31,
+        "squad_no": 22,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NGA_2010_23",
+        "name_cn": "Dele Aiyenugba",
+        "name_en": "Dele Aiyenugba",
+        "age": 22,
+        "squad_no": 23,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      }
+    ],
+    "2014": [
+      {
+        "id": "NGA_2014_01",
+        "name_cn": "恩耶亚马",
+        "name_en": "Vincent Enyeama",
+        "age": 30,
+        "squad_no": 1,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NGA_2014_02",
+        "name_cn": "Joseph Yobo",
+        "name_en": "Joseph Yobo",
+        "age": 22,
+        "squad_no": 2,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          },
+          {
+            "pos": "RB",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NGA_2014_03",
+        "name_cn": "Ejike Uzoenyi",
+        "name_en": "Ejike Uzoenyi",
+        "age": 29,
+        "squad_no": 3,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NGA_2014_04",
+        "name_cn": "Reuben Gabriel",
+        "name_en": "Reuben Gabriel",
+        "age": 27,
+        "squad_no": 4,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NGA_2014_05",
+        "name_cn": "Efe Ambrose",
+        "name_en": "Efe Ambrose",
+        "age": 31,
+        "squad_no": 5,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NGA_2014_06",
+        "name_cn": "Azubuike Egwuekwe",
+        "name_en": "Azubuike Egwuekwe",
+        "age": 27,
+        "squad_no": 6,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NGA_2014_07",
+        "name_cn": "Ahmed Musa",
+        "name_en": "Ahmed Musa",
+        "age": 29,
+        "squad_no": 7,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 73
+          },
+          {
+            "pos": "LW",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NGA_2014_08",
+        "name_cn": "Peter Odemwingie",
+        "name_en": "Peter Odemwingie",
+        "age": 31,
+        "squad_no": 8,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NGA_2014_09",
+        "name_cn": "Emmanuel Emenike",
+        "name_en": "Emmanuel Emenike",
+        "age": 26,
+        "squad_no": 9,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 73
+          },
+          {
+            "pos": "CAM",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NGA_2014_10",
+        "name_cn": "John Obi Mikel",
+        "name_en": "John Obi Mikel",
+        "age": 29,
+        "squad_no": 10,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          },
+          {
+            "pos": "CAM",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NGA_2014_11",
+        "name_cn": "Victor Moses",
+        "name_en": "Victor Moses",
+        "age": 24,
+        "squad_no": 11,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NGA_2014_12",
+        "name_cn": "Kunle Odunlami",
+        "name_en": "Kunle Odunlami",
+        "age": 30,
+        "squad_no": 12,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NGA_2014_13",
+        "name_cn": "Juwon Oshaniwa",
+        "name_en": "Juwon Oshaniwa",
+        "age": 26,
+        "squad_no": 13,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NGA_2014_14",
+        "name_cn": "Godfrey Oboabona",
+        "name_en": "Godfrey Oboabona",
+        "age": 28,
+        "squad_no": 14,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NGA_2014_15",
+        "name_cn": "Ramon Azeez",
+        "name_en": "Ramon Azeez",
+        "age": 25,
+        "squad_no": 15,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NGA_2014_16",
+        "name_cn": "Austin Ejide",
+        "name_en": "Austin Ejide",
+        "age": 31,
+        "squad_no": 16,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 72
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NGA_2014_17",
+        "name_cn": "Ogenyi Onazi",
+        "name_en": "Ogenyi Onazi",
+        "age": 24,
+        "squad_no": 17,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NGA_2014_18",
+        "name_cn": "Michael Babatunde",
+        "name_en": "Michael Babatunde",
+        "age": 22,
+        "squad_no": 18,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NGA_2014_19",
+        "name_cn": "Uche Nwofor",
+        "name_en": "Uche Nwofor",
+        "age": 30,
+        "squad_no": 19,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NGA_2014_20",
+        "name_cn": "Michael Uchebo",
+        "name_en": "Michael Uchebo",
+        "age": 28,
+        "squad_no": 20,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NGA_2014_21",
+        "name_cn": "Chigozie Agbim",
+        "name_en": "Chigozie Agbim",
+        "age": 29,
+        "squad_no": 21,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NGA_2014_22",
+        "name_cn": "Kenneth Omeruo",
+        "name_en": "Kenneth Omeruo",
+        "age": 30,
+        "squad_no": 22,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NGA_2014_23",
+        "name_cn": "Shola Ameobi",
+        "name_en": "Shola Ameobi",
+        "age": 22,
+        "squad_no": 23,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 68
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      }
+    ],
+    "2018": [
+      {
+        "id": "NGA_2018_01",
+        "name_cn": "Ikechukwu Ezenwa",
+        "name_en": "Ikechukwu Ezenwa",
+        "age": 30,
+        "squad_no": 1,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NGA_2018_02",
+        "name_cn": "Brian Idowu",
+        "name_en": "Brian Idowu",
+        "age": 27,
+        "squad_no": 2,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          },
+          {
+            "pos": "RB",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NGA_2018_03",
+        "name_cn": "Elderson Echiéjilé",
+        "name_en": "Elderson Echiéjilé",
+        "age": 28,
+        "squad_no": 3,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          },
+          {
+            "pos": "LB",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NGA_2018_04",
+        "name_cn": "Wilfred Ndidi",
+        "name_en": "Wilfred Ndidi",
+        "age": 32,
+        "squad_no": 4,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NGA_2018_05",
+        "name_cn": "William Troost-Ekong",
+        "name_en": "William Troost-Ekong",
+        "age": 24,
+        "squad_no": 5,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NGA_2018_06",
+        "name_cn": "Leon Balogun",
+        "name_en": "Leon Balogun",
+        "age": 29,
+        "squad_no": 6,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NGA_2018_07",
+        "name_cn": "Ahmed Musa",
+        "name_en": "Ahmed Musa",
+        "age": 23,
+        "squad_no": 7,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 73
+          },
+          {
+            "pos": "LW",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NGA_2018_08",
+        "name_cn": "Peter Etebo",
+        "name_en": "Peter Etebo",
+        "age": 33,
+        "squad_no": 8,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          },
+          {
+            "pos": "DM",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NGA_2018_09",
+        "name_cn": "Odion Ighalo",
+        "name_en": "Odion Ighalo",
+        "age": 30,
+        "squad_no": 9,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 73
+          },
+          {
+            "pos": "CAM",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NGA_2018_10",
+        "name_cn": "John Obi Mikel",
+        "name_en": "John Obi Mikel",
+        "age": 29,
+        "squad_no": 10,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          },
+          {
+            "pos": "CAM",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NGA_2018_11",
+        "name_cn": "Victor Moses",
+        "name_en": "Victor Moses",
+        "age": 27,
+        "squad_no": 11,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 73
+          },
+          {
+            "pos": "LW",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NGA_2018_12",
+        "name_cn": "Shehu Abdullahi",
+        "name_en": "Shehu Abdullahi",
+        "age": 33,
+        "squad_no": 12,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NGA_2018_13",
+        "name_cn": "Simeon Nwankwo",
+        "name_en": "Simeon Nwankwo",
+        "age": 22,
+        "squad_no": 13,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NGA_2018_14",
+        "name_cn": "Kelechi Iheanacho",
+        "name_en": "Kelechi Iheanacho",
+        "age": 22,
+        "squad_no": 14,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NGA_2018_15",
+        "name_cn": "Joel Obi",
+        "name_en": "Joel Obi",
+        "age": 32,
+        "squad_no": 15,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NGA_2018_16",
+        "name_cn": "Daniel Akpeyi",
+        "name_en": "Daniel Akpeyi",
+        "age": 25,
+        "squad_no": 16,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 72
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NGA_2018_17",
+        "name_cn": "Ogenyi Onazi",
+        "name_en": "Ogenyi Onazi",
+        "age": 28,
+        "squad_no": 17,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NGA_2018_18",
+        "name_cn": "Alex Iwobi",
+        "name_en": "Alex Iwobi",
+        "age": 31,
+        "squad_no": 18,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NGA_2018_19",
+        "name_cn": "John Ogu",
+        "name_en": "John Ogu",
+        "age": 23,
+        "squad_no": 19,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NGA_2018_20",
+        "name_cn": "Chidozie Awaziem",
+        "name_en": "Chidozie Awaziem",
+        "age": 27,
+        "squad_no": 20,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NGA_2018_21",
+        "name_cn": "Tyronne Ebuehi",
+        "name_en": "Tyronne Ebuehi",
+        "age": 27,
+        "squad_no": 21,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NGA_2018_22",
+        "name_cn": "Kenneth Omeruo",
+        "name_en": "Kenneth Omeruo",
+        "age": 31,
+        "squad_no": 22,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NGA_2018_23",
+        "name_cn": "Francis Uzoho",
+        "name_en": "Francis Uzoho",
+        "age": 26,
+        "squad_no": 23,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,4007 @@
+{
+  "country_code": "BRA",
+  "squads": {
+    "1990": [
+      {
+        "id": "BRA_1990_01",
+        "name_cn": "塔法雷尔",
+        "name_en": "Taffarel",
+        "age": 32,
+        "squad_no": 1,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 87
+          }
+        ],
+        "tags": [
+          "名宿门将"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BRA_1990_02",
+        "name_cn": "若热曼·若热",
+        "name_en": "Jorginho",
+        "age": 23,
+        "squad_no": 2,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 82
+          },
+          {
+            "pos": "RB",
+            "ovr": 79
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BRA_1990_03",
+        "name_cn": "里卡多·戈麦斯",
+        "name_en": "Ricardo Gomes",
+        "age": 22,
+        "squad_no": 3,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BRA_1990_04",
+        "name_cn": "Bismarck",
+        "name_en": "Bismarck",
+        "age": 33,
+        "squad_no": 4,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 82
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BRA_1990_05",
+        "name_cn": "阿莱芒",
+        "name_en": "Alemão",
+        "age": 26,
+        "squad_no": 5,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 84
+          },
+          {
+            "pos": "DM",
+            "ovr": 82
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BRA_1990_06",
+        "name_cn": "布兰科",
+        "name_en": "Branco",
+        "age": 25,
+        "squad_no": 6,
+        "positions": [
+          {
+            "pos": "LB",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BRA_1990_07",
+        "name_cn": "米勒",
+        "name_en": "Müller",
+        "age": 25,
+        "squad_no": 7,
+        "positions": [
+          {
+            "pos": "RW",
+            "ovr": 82
+          },
+          {
+            "pos": "ST",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BRA_1990_08",
+        "name_cn": "邓加",
+        "name_en": "Dunga",
+        "age": 24,
+        "squad_no": 8,
+        "positions": [
+          {
+            "pos": "DM",
+            "ovr": 87
+          },
+          {
+            "pos": "CM",
+            "ovr": 84
+          }
+        ],
+        "tags": [
+          "队长"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BRA_1990_09",
+        "name_cn": "卡雷卡",
+        "name_en": "Careca",
+        "age": 33,
+        "squad_no": 9,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 89
+          }
+        ],
+        "tags": [
+          "那不勒斯三剑客"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BRA_1990_10",
+        "name_cn": "西拉斯",
+        "name_en": "Silas",
+        "age": 23,
+        "squad_no": 10,
+        "positions": [
+          {
+            "pos": "CAM",
+            "ovr": 81
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BRA_1990_11",
+        "name_cn": "罗马里奥",
+        "name_en": "Romário",
+        "age": 32,
+        "squad_no": 11,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 90
+          }
+        ],
+        "tags": [
+          "巴西国王"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BRA_1990_12",
+        "name_cn": "Valdo",
+        "name_en": "Valdo",
+        "age": 33,
+        "squad_no": 12,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 82
+          },
+          {
+            "pos": "DM",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BRA_1990_13",
+        "name_cn": "Acácio",
+        "name_en": "Acácio",
+        "age": 30,
+        "squad_no": 13,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 81
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BRA_1990_14",
+        "name_cn": "Carlos Mozer",
+        "name_en": "Carlos Mozer",
+        "age": 23,
+        "squad_no": 14,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BRA_1990_15",
+        "name_cn": "阿尔代尔",
+        "name_en": "Aldair",
+        "age": 31,
+        "squad_no": 15,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BRA_1990_16",
+        "name_cn": "贝贝托",
+        "name_en": "Bebeto",
+        "age": 28,
+        "squad_no": 16,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BRA_1990_17",
+        "name_cn": "Renato Gaúcho",
+        "name_en": "Renato Gaúcho",
+        "age": 22,
+        "squad_no": 17,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 78
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BRA_1990_18",
+        "name_cn": "马奇尼奥",
+        "name_en": "Mazinho",
+        "age": 22,
+        "squad_no": 18,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 78
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BRA_1990_19",
+        "name_cn": "Ricardo Rocha",
+        "name_en": "Ricardo Rocha",
+        "age": 23,
+        "squad_no": 19,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 78
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BRA_1990_20",
+        "name_cn": "Tita",
+        "name_en": "Tita",
+        "age": 25,
+        "squad_no": 20,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 78
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BRA_1990_21",
+        "name_cn": "Mauro Galvão",
+        "name_en": "Mauro Galvão",
+        "age": 25,
+        "squad_no": 21,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 78
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BRA_1990_22",
+        "name_cn": "Zé Carlos",
+        "name_en": "Zé Carlos",
+        "age": 30,
+        "squad_no": 22,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 79
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      }
+    ],
+    "1994": [
+      {
+        "id": "BRA_1994_01",
+        "name_cn": "塔法雷尔",
+        "name_en": "Taffarel",
+        "age": 31,
+        "squad_no": 1,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 88
+          }
+        ],
+        "tags": [
+          "世界杯冠军"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BRA_1994_02",
+        "name_cn": "若热曼·若热",
+        "name_en": "Jorginho",
+        "age": 22,
+        "squad_no": 2,
+        "positions": [
+          {
+            "pos": "RB",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BRA_1994_03",
+        "name_cn": "阿尔代尔",
+        "name_en": "Aldair",
+        "age": 30,
+        "squad_no": 3,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 87
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BRA_1994_04",
+        "name_cn": "马尔西奥·桑托斯",
+        "name_en": "Márcio Santos",
+        "age": 25,
+        "squad_no": 4,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BRA_1994_05",
+        "name_cn": "毛罗·席尔瓦",
+        "name_en": "Mauro Silva",
+        "age": 33,
+        "squad_no": 5,
+        "positions": [
+          {
+            "pos": "DM",
+            "ovr": 84
+          }
+        ],
+        "tags": [
+          "世界杯冠军"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BRA_1994_06",
+        "name_cn": "布兰科",
+        "name_en": "Branco",
+        "age": 32,
+        "squad_no": 6,
+        "positions": [
+          {
+            "pos": "LB",
+            "ovr": 84
+          }
+        ],
+        "tags": [
+          "决赛任意球"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BRA_1994_07",
+        "name_cn": "Ricardo Rocha",
+        "name_en": "Ricardo Rocha",
+        "age": 33,
+        "squad_no": 7,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 83
+          },
+          {
+            "pos": "LB",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BRA_1994_08",
+        "name_cn": "邓加",
+        "name_en": "Dunga",
+        "age": 30,
+        "squad_no": 8,
+        "positions": [
+          {
+            "pos": "DM",
+            "ovr": 88
+          },
+          {
+            "pos": "CM",
+            "ovr": 85
+          }
+        ],
+        "tags": [
+          "队长",
+          "世界杯冠军"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BRA_1994_09",
+        "name_cn": "贝贝托",
+        "name_en": "Bebeto",
+        "age": 28,
+        "squad_no": 9,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 91
+          },
+          {
+            "pos": "CAM",
+            "ovr": 87
+          }
+        ],
+        "tags": [
+          "世界杯冠军",
+          "摇篮庆祝"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BRA_1994_10",
+        "name_cn": "莱昂纳多",
+        "name_en": "Leonardo",
+        "age": 25,
+        "squad_no": 10,
+        "positions": [
+          {
+            "pos": "CAM",
+            "ovr": 83
+          },
+          {
+            "pos": "LM",
+            "ovr": 82
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BRA_1994_11",
+        "name_cn": "罗马里奥",
+        "name_en": "Romário",
+        "age": 29,
+        "squad_no": 11,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 94
+          }
+        ],
+        "tags": [
+          "金球奖",
+          "世界杯冠军",
+          "金靴"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BRA_1994_12",
+        "name_cn": "Ronaldão",
+        "name_en": "Ronaldão",
+        "age": 31,
+        "squad_no": 12,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BRA_1994_13",
+        "name_cn": "Zinho",
+        "name_en": "Zinho",
+        "age": 26,
+        "squad_no": 13,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BRA_1994_14",
+        "name_cn": "Raí",
+        "name_en": "Raí",
+        "age": 22,
+        "squad_no": 14,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 83
+          },
+          {
+            "pos": "CAM",
+            "ovr": 81
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BRA_1994_15",
+        "name_cn": "马奇尼奥",
+        "name_en": "Mazinho",
+        "age": 24,
+        "squad_no": 15,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 81
+          }
+        ],
+        "tags": [
+          "世界杯冠军"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BRA_1994_16",
+        "name_cn": "Zetti",
+        "name_en": "Zetti",
+        "age": 33,
+        "squad_no": 16,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 82
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BRA_1994_17",
+        "name_cn": "卡福",
+        "name_en": "Cafu",
+        "age": 28,
+        "squad_no": 17,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 81
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BRA_1994_18",
+        "name_cn": "Paulo Sérgio",
+        "name_en": "Paulo Sérgio",
+        "age": 27,
+        "squad_no": 18,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 79
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BRA_1994_19",
+        "name_cn": "米勒",
+        "name_en": "Müller",
+        "age": 26,
+        "squad_no": 19,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 79
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BRA_1994_20",
+        "name_cn": "罗纳尔多",
+        "name_en": "Ronaldo",
+        "age": 24,
+        "squad_no": 20,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 79
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BRA_1994_21",
+        "name_cn": "Viola",
+        "name_en": "Viola",
+        "age": 25,
+        "squad_no": 21,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 79
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BRA_1994_22",
+        "name_cn": "Gilmar Rinaldi",
+        "name_en": "Gilmar Rinaldi",
+        "age": 27,
+        "squad_no": 22,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      }
+    ],
+    "1998": [
+      {
+        "id": "BRA_1998_01",
+        "name_cn": "塔法雷尔",
+        "name_en": "Taffarel",
+        "age": 23,
+        "squad_no": 1,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 87
+          }
+        ],
+        "tags": [
+          "亚军"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BRA_1998_02",
+        "name_cn": "卡福",
+        "name_en": "Cafu",
+        "age": 23,
+        "squad_no": 2,
+        "positions": [
+          {
+            "pos": "RB",
+            "ovr": 90
+          },
+          {
+            "pos": "RM",
+            "ovr": 85
+          }
+        ],
+        "tags": [
+          "亚军"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BRA_1998_03",
+        "name_cn": "阿尔代尔",
+        "name_en": "Aldair",
+        "age": 28,
+        "squad_no": 3,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 87
+          }
+        ],
+        "tags": [
+          "亚军"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BRA_1998_04",
+        "name_cn": "儒尼奥尔·拜亚诺",
+        "name_en": "Júnior Baiano",
+        "age": 23,
+        "squad_no": 4,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 83
+          }
+        ],
+        "tags": [
+          "亚军"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BRA_1998_05",
+        "name_cn": "塞萨尔·桑帕约",
+        "name_en": "César Sampaio",
+        "age": 27,
+        "squad_no": 5,
+        "positions": [
+          {
+            "pos": "DM",
+            "ovr": 82
+          }
+        ],
+        "tags": [
+          "亚军"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BRA_1998_06",
+        "name_cn": "罗伯托·卡洛斯",
+        "name_en": "Roberto Carlos",
+        "age": 27,
+        "squad_no": 6,
+        "positions": [
+          {
+            "pos": "LB",
+            "ovr": 91
+          },
+          {
+            "pos": "LM",
+            "ovr": 87
+          }
+        ],
+        "tags": [
+          "任意球大师",
+          "亚军"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BRA_1998_07",
+        "name_cn": "贝贝托",
+        "name_en": "Bebeto",
+        "age": 31,
+        "squad_no": 7,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 84
+          },
+          {
+            "pos": "CAM",
+            "ovr": 82
+          }
+        ],
+        "tags": [
+          "亚军"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BRA_1998_08",
+        "name_cn": "邓加",
+        "name_en": "Dunga",
+        "age": 26,
+        "squad_no": 8,
+        "positions": [
+          {
+            "pos": "DM",
+            "ovr": 87
+          },
+          {
+            "pos": "CM",
+            "ovr": 84
+          }
+        ],
+        "tags": [
+          "队长",
+          "亚军"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BRA_1998_09",
+        "name_cn": "罗纳尔多",
+        "name_en": "Ronaldo",
+        "age": 22,
+        "squad_no": 9,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 95
+          }
+        ],
+        "tags": [
+          "外星人",
+          "金球奖",
+          "亚军"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BRA_1998_10",
+        "name_cn": "里瓦尔多",
+        "name_en": "Rivaldo",
+        "age": 33,
+        "squad_no": 10,
+        "positions": [
+          {
+            "pos": "CAM",
+            "ovr": 91
+          },
+          {
+            "pos": "LW",
+            "ovr": 89
+          },
+          {
+            "pos": "ST",
+            "ovr": 87
+          }
+        ],
+        "tags": [
+          "亚军"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BRA_1998_11",
+        "name_cn": "Giovanni",
+        "name_en": "Giovanni",
+        "age": 29,
+        "squad_no": 11,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BRA_1998_12",
+        "name_cn": "Carlos Germano",
+        "name_en": "Carlos Germano",
+        "age": 30,
+        "squad_no": 12,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 82
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BRA_1998_13",
+        "name_cn": "Zé Carlos",
+        "name_en": "Zé Carlos",
+        "age": 23,
+        "squad_no": 13,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 81
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BRA_1998_14",
+        "name_cn": "Gonçalves",
+        "name_en": "Gonçalves",
+        "age": 28,
+        "squad_no": 14,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 81
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BRA_1998_15",
+        "name_cn": "埃莫森",
+        "name_en": "Emerson",
+        "age": 23,
+        "squad_no": 15,
+        "positions": [
+          {
+            "pos": "DM",
+            "ovr": 82
+          },
+          {
+            "pos": "CM",
+            "ovr": 80
+          }
+        ],
+        "tags": [
+          "亚军"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BRA_1998_16",
+        "name_cn": "André Cruz",
+        "name_en": "André Cruz",
+        "age": 30,
+        "squad_no": 16,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 81
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BRA_1998_17",
+        "name_cn": "泽·罗伯托",
+        "name_en": "Zé Roberto",
+        "age": 26,
+        "squad_no": 17,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 81
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BRA_1998_18",
+        "name_cn": "莱昂纳多",
+        "name_en": "Leonardo",
+        "age": 32,
+        "squad_no": 18,
+        "positions": [
+          {
+            "pos": "CAM",
+            "ovr": 84
+          },
+          {
+            "pos": "LM",
+            "ovr": 83
+          }
+        ],
+        "tags": [
+          "亚军"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BRA_1998_19",
+        "name_cn": "Doriva",
+        "name_en": "Doriva",
+        "age": 31,
+        "squad_no": 19,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 79
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BRA_1998_20",
+        "name_cn": "Edmundo",
+        "name_en": "Edmundo",
+        "age": 27,
+        "squad_no": 20,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 79
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BRA_1998_21",
+        "name_cn": "丹尼斯",
+        "name_en": "Denílson",
+        "age": 31,
+        "squad_no": 21,
+        "positions": [
+          {
+            "pos": "LW",
+            "ovr": 83
+          },
+          {
+            "pos": "LM",
+            "ovr": 82
+          }
+        ],
+        "tags": [
+          "亚军",
+          "世界标王"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BRA_1998_22",
+        "name_cn": "迪达",
+        "name_en": "Dida",
+        "age": 25,
+        "squad_no": 22,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      }
+    ],
+    "2002": [
+      {
+        "id": "BRA_2002_01",
+        "name_cn": "马科斯",
+        "name_en": "Marcos",
+        "age": 33,
+        "squad_no": 1,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 87
+          }
+        ],
+        "tags": [
+          "世界杯冠军"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BRA_2002_02",
+        "name_cn": "卡福",
+        "name_en": "Cafu",
+        "age": 23,
+        "squad_no": 2,
+        "positions": [
+          {
+            "pos": "RB",
+            "ovr": 90
+          },
+          {
+            "pos": "RM",
+            "ovr": 85
+          }
+        ],
+        "tags": [
+          "队长",
+          "世界杯冠军"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BRA_2002_03",
+        "name_cn": "卢西奥",
+        "name_en": "Lúcio",
+        "age": 22,
+        "squad_no": 3,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 87
+          }
+        ],
+        "tags": [
+          "世界杯冠军"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BRA_2002_04",
+        "name_cn": "罗克·儒尼奥尔",
+        "name_en": "Roque Júnior",
+        "age": 32,
+        "squad_no": 4,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 83
+          }
+        ],
+        "tags": [
+          "世界杯冠军"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BRA_2002_05",
+        "name_cn": "埃迪尔森",
+        "name_en": "Edmilson",
+        "age": 25,
+        "squad_no": 5,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 85
+          },
+          {
+            "pos": "DM",
+            "ovr": 83
+          }
+        ],
+        "tags": [
+          "世界杯冠军"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BRA_2002_06",
+        "name_cn": "罗伯托·卡洛斯",
+        "name_en": "Roberto Carlos",
+        "age": 26,
+        "squad_no": 6,
+        "positions": [
+          {
+            "pos": "LB",
+            "ovr": 92
+          },
+          {
+            "pos": "LM",
+            "ovr": 87
+          }
+        ],
+        "tags": [
+          "世界杯冠军"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BRA_2002_07",
+        "name_cn": "里卡迪尼奥",
+        "name_en": "Ricardinho",
+        "age": 23,
+        "squad_no": 7,
+        "positions": [
+          {
+            "pos": "CAM",
+            "ovr": 83
+          }
+        ],
+        "tags": [
+          "世界杯冠军"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BRA_2002_08",
+        "name_cn": "吉尔伯托·席尔瓦",
+        "name_en": "Gilberto Silva",
+        "age": 25,
+        "squad_no": 8,
+        "positions": [
+          {
+            "pos": "DM",
+            "ovr": 86
+          },
+          {
+            "pos": "CM",
+            "ovr": 83
+          }
+        ],
+        "tags": [
+          "世界杯冠军"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BRA_2002_09",
+        "name_cn": "罗纳尔多",
+        "name_en": "Ronaldo",
+        "age": 23,
+        "squad_no": 9,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 94
+          }
+        ],
+        "tags": [
+          "外星人",
+          "世界杯冠军",
+          "金靴"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BRA_2002_10",
+        "name_cn": "里瓦尔多",
+        "name_en": "Rivaldo",
+        "age": 28,
+        "squad_no": 10,
+        "positions": [
+          {
+            "pos": "CAM",
+            "ovr": 92
+          },
+          {
+            "pos": "LW",
+            "ovr": 90
+          },
+          {
+            "pos": "ST",
+            "ovr": 88
+          }
+        ],
+        "tags": [
+          "金球奖",
+          "世界杯冠军"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BRA_2002_11",
+        "name_cn": "小罗",
+        "name_en": "Ronaldinho",
+        "age": 26,
+        "squad_no": 11,
+        "positions": [
+          {
+            "pos": "CAM",
+            "ovr": 92
+          },
+          {
+            "pos": "LW",
+            "ovr": 91
+          },
+          {
+            "pos": "RW",
+            "ovr": 89
+          }
+        ],
+        "tags": [
+          "魔术师",
+          "世界杯冠军"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BRA_2002_12",
+        "name_cn": "迪达",
+        "name_en": "Dida",
+        "age": 29,
+        "squad_no": 12,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BRA_2002_13",
+        "name_cn": "Juliano Belletti",
+        "name_en": "Juliano Belletti",
+        "age": 32,
+        "squad_no": 13,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 82
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BRA_2002_14",
+        "name_cn": "Ânderson Polga",
+        "name_en": "Ânderson Polga",
+        "age": 27,
+        "squad_no": 14,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 82
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BRA_2002_15",
+        "name_cn": "克莱伯森",
+        "name_en": "Kléberson",
+        "age": 24,
+        "squad_no": 15,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 81
+          }
+        ],
+        "tags": [
+          "世界杯冠军"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BRA_2002_17",
+        "name_cn": "德尼尔森",
+        "name_en": "Denílson",
+        "age": 27,
+        "squad_no": 17,
+        "positions": [
+          {
+            "pos": "LW",
+            "ovr": 82
+          },
+          {
+            "pos": "LM",
+            "ovr": 81
+          }
+        ],
+        "tags": [
+          "世界杯冠军"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BRA_2002_18",
+        "name_cn": "瓦格纳·洛佩斯",
+        "name_en": "Vampeta",
+        "age": 27,
+        "squad_no": 18,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 80
+          },
+          {
+            "pos": "DM",
+            "ovr": 78
+          }
+        ],
+        "tags": [
+          "世界杯冠军"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BRA_2002_19",
+        "name_cn": "儒尼尼奥",
+        "name_en": "Juninho Paulista",
+        "age": 25,
+        "squad_no": 19,
+        "positions": [
+          {
+            "pos": "CAM",
+            "ovr": 84
+          },
+          {
+            "pos": "CM",
+            "ovr": 81
+          }
+        ],
+        "tags": [
+          "世界杯冠军"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BRA_2002_20",
+        "name_cn": "Edílson",
+        "name_en": "Edílson",
+        "age": 32,
+        "squad_no": 20,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BRA_2002_21",
+        "name_cn": "Luizão",
+        "name_en": "Luizão",
+        "age": 26,
+        "squad_no": 21,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BRA_2002_22",
+        "name_cn": "Rogério Ceni",
+        "name_en": "Rogério Ceni",
+        "age": 33,
+        "squad_no": 22,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 81
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BRA_2002_23",
+        "name_cn": "卡卡",
+        "name_en": "Kaká",
+        "age": 32,
+        "squad_no": 23,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 79
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      }
+    ],
+    "2006": [
+      {
+        "id": "BRA_2006_01",
+        "name_cn": "迪达",
+        "name_en": "Dida",
+        "age": 32,
+        "squad_no": 1,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 86
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BRA_2006_02",
+        "name_cn": "卡福",
+        "name_en": "Cafu",
+        "age": 23,
+        "squad_no": 2,
+        "positions": [
+          {
+            "pos": "RB",
+            "ovr": 87
+          }
+        ],
+        "tags": [
+          "队长"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BRA_2006_03",
+        "name_cn": "卢西奥",
+        "name_en": "Lúcio",
+        "age": 31,
+        "squad_no": 3,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 89
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BRA_2006_04",
+        "name_cn": "胡安",
+        "name_en": "Juan",
+        "age": 32,
+        "squad_no": 4,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BRA_2006_05",
+        "name_cn": "埃莫森",
+        "name_en": "Emerson",
+        "age": 24,
+        "squad_no": 5,
+        "positions": [
+          {
+            "pos": "DM",
+            "ovr": 84
+          },
+          {
+            "pos": "CM",
+            "ovr": 82
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BRA_2006_06",
+        "name_cn": "罗伯托·卡洛斯",
+        "name_en": "Roberto Carlos",
+        "age": 30,
+        "squad_no": 6,
+        "positions": [
+          {
+            "pos": "LB",
+            "ovr": 90
+          },
+          {
+            "pos": "LM",
+            "ovr": 86
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BRA_2006_07",
+        "name_cn": "阿德里亚诺",
+        "name_en": "Adriano",
+        "age": 33,
+        "squad_no": 7,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 88
+          }
+        ],
+        "tags": [
+          "皇帝"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BRA_2006_08",
+        "name_cn": "卡卡",
+        "name_en": "Kaká",
+        "age": 25,
+        "squad_no": 8,
+        "positions": [
+          {
+            "pos": "CAM",
+            "ovr": 92
+          },
+          {
+            "pos": "CM",
+            "ovr": 89
+          }
+        ],
+        "tags": [
+          "未来金球奖"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BRA_2006_09",
+        "name_cn": "罗纳尔多",
+        "name_en": "Ronaldo",
+        "age": 24,
+        "squad_no": 9,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 91
+          }
+        ],
+        "tags": [
+          "外星人",
+          "世界杯历史最佳射手(当时)"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BRA_2006_10",
+        "name_cn": "小罗",
+        "name_en": "Ronaldinho",
+        "age": 29,
+        "squad_no": 10,
+        "positions": [
+          {
+            "pos": "CAM",
+            "ovr": 94
+          },
+          {
+            "pos": "LW",
+            "ovr": 93
+          },
+          {
+            "pos": "RW",
+            "ovr": 91
+          }
+        ],
+        "tags": [
+          "金球奖x2",
+          "魔术师"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BRA_2006_11",
+        "name_cn": "罗比尼奥",
+        "name_en": "Robinho",
+        "age": 28,
+        "squad_no": 11,
+        "positions": [
+          {
+            "pos": "LW",
+            "ovr": 85
+          },
+          {
+            "pos": "ST",
+            "ovr": 83
+          },
+          {
+            "pos": "RW",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BRA_2006_12",
+        "name_cn": "Rogério Ceni",
+        "name_en": "Rogério Ceni",
+        "age": 26,
+        "squad_no": 12,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BRA_2006_13",
+        "name_cn": "Cicinho",
+        "name_en": "Cicinho",
+        "age": 32,
+        "squad_no": 13,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 82
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BRA_2006_14",
+        "name_cn": "Luisão",
+        "name_en": "Luisão",
+        "age": 33,
+        "squad_no": 14,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 82
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BRA_2006_15",
+        "name_cn": "泽·罗伯托",
+        "name_en": "Zé Roberto",
+        "age": 30,
+        "squad_no": 15,
+        "positions": [
+          {
+            "pos": "LM",
+            "ovr": 84
+          },
+          {
+            "pos": "CM",
+            "ovr": 82
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BRA_2006_16",
+        "name_cn": "Cris",
+        "name_en": "Cris",
+        "age": 25,
+        "squad_no": 16,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 82
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BRA_2006_17",
+        "name_cn": "Gilberto",
+        "name_en": "Gilberto",
+        "age": 32,
+        "squad_no": 17,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 82
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BRA_2006_18",
+        "name_cn": "吉尔伯托·席尔瓦",
+        "name_en": "Gilberto Silva",
+        "age": 27,
+        "squad_no": 18,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BRA_2006_19",
+        "name_cn": "Mineiro",
+        "name_en": "Mineiro",
+        "age": 22,
+        "squad_no": 19,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BRA_2006_20",
+        "name_cn": "Juninho Pernambucano",
+        "name_en": "Juninho Pernambucano",
+        "age": 25,
+        "squad_no": 20,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BRA_2006_21",
+        "name_cn": "里卡迪尼奥",
+        "name_en": "Ricardinho",
+        "age": 22,
+        "squad_no": 21,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BRA_2006_22",
+        "name_cn": "弗雷德",
+        "name_en": "Fred",
+        "age": 27,
+        "squad_no": 22,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BRA_2006_23",
+        "name_cn": "塞萨尔",
+        "name_en": "Júlio César",
+        "age": 28,
+        "squad_no": 23,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 81
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      }
+    ],
+    "2010": [
+      {
+        "id": "BRA_2010_01",
+        "name_cn": "塞萨尔",
+        "name_en": "Júlio César",
+        "age": 26,
+        "squad_no": 1,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 90
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BRA_2010_02",
+        "name_cn": "麦孔",
+        "name_en": "Maicon",
+        "age": 23,
+        "squad_no": 2,
+        "positions": [
+          {
+            "pos": "RB",
+            "ovr": 88
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BRA_2010_03",
+        "name_cn": "卢西奥",
+        "name_en": "Lúcio",
+        "age": 25,
+        "squad_no": 3,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 88
+          }
+        ],
+        "tags": [
+          "队长"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BRA_2010_04",
+        "name_cn": "胡安",
+        "name_en": "Juan",
+        "age": 31,
+        "squad_no": 4,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 85
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BRA_2010_05",
+        "name_cn": "费利佩·梅洛",
+        "name_en": "Felipe Melo",
+        "age": 33,
+        "squad_no": 5,
+        "positions": [
+          {
+            "pos": "DM",
+            "ovr": 83
+          },
+          {
+            "pos": "CM",
+            "ovr": 81
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BRA_2010_06",
+        "name_cn": "巴斯托斯",
+        "name_en": "Michel Bastos",
+        "age": 27,
+        "squad_no": 6,
+        "positions": [
+          {
+            "pos": "LB",
+            "ovr": 82
+          },
+          {
+            "pos": "LM",
+            "ovr": 81
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BRA_2010_07",
+        "name_cn": "埃拉诺",
+        "name_en": "Elano",
+        "age": 25,
+        "squad_no": 7,
+        "positions": [
+          {
+            "pos": "CAM",
+            "ovr": 82
+          },
+          {
+            "pos": "CM",
+            "ovr": 81
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BRA_2010_08",
+        "name_cn": "吉尔伯托·席尔瓦",
+        "name_en": "Gilberto Silva",
+        "age": 32,
+        "squad_no": 8,
+        "positions": [
+          {
+            "pos": "DM",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BRA_2010_09",
+        "name_cn": "路易斯·法比亚诺",
+        "name_en": "Luís Fabiano",
+        "age": 29,
+        "squad_no": 9,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 87
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BRA_2010_10",
+        "name_cn": "卡卡",
+        "name_en": "Kaká",
+        "age": 28,
+        "squad_no": 10,
+        "positions": [
+          {
+            "pos": "CAM",
+            "ovr": 90
+          },
+          {
+            "pos": "CM",
+            "ovr": 87
+          }
+        ],
+        "tags": [
+          "金球奖"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BRA_2010_11",
+        "name_cn": "罗比尼奥",
+        "name_en": "Robinho",
+        "age": 32,
+        "squad_no": 11,
+        "positions": [
+          {
+            "pos": "LW",
+            "ovr": 84
+          },
+          {
+            "pos": "ST",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BRA_2010_12",
+        "name_cn": "Heurelho Gomes",
+        "name_en": "Heurelho Gomes",
+        "age": 29,
+        "squad_no": 12,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BRA_2010_13",
+        "name_cn": "丹尼·阿尔维斯",
+        "name_en": "Dani Alves",
+        "age": 24,
+        "squad_no": 13,
+        "positions": [
+          {
+            "pos": "RB",
+            "ovr": 87
+          },
+          {
+            "pos": "RM",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BRA_2010_14",
+        "name_cn": "Luisão",
+        "name_en": "Luisão",
+        "age": 26,
+        "squad_no": 14,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 82
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BRA_2010_15",
+        "name_cn": "蒂亚戈·席尔瓦",
+        "name_en": "Thiago Silva",
+        "age": 24,
+        "squad_no": 15,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 82
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BRA_2010_16",
+        "name_cn": "Gilberto",
+        "name_en": "Gilberto",
+        "age": 25,
+        "squad_no": 16,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 82
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BRA_2010_17",
+        "name_cn": "若苏埃",
+        "name_en": "Josué",
+        "age": 33,
+        "squad_no": 17,
+        "positions": [
+          {
+            "pos": "DM",
+            "ovr": 82
+          },
+          {
+            "pos": "CM",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BRA_2010_18",
+        "name_cn": "拉米雷斯",
+        "name_en": "Ramires",
+        "age": 30,
+        "squad_no": 18,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BRA_2010_19",
+        "name_cn": "Júlio Baptista",
+        "name_en": "Júlio Baptista",
+        "age": 30,
+        "squad_no": 19,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BRA_2010_20",
+        "name_cn": "格拉菲特",
+        "name_en": "Grafite",
+        "age": 26,
+        "squad_no": 20,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BRA_2010_21",
+        "name_cn": "克莱伯森",
+        "name_en": "Kléberson",
+        "age": 33,
+        "squad_no": 21,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BRA_2010_22",
+        "name_cn": "Nilmar",
+        "name_en": "Nilmar",
+        "age": 31,
+        "squad_no": 22,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BRA_2010_23",
+        "name_cn": "Doni",
+        "name_en": "Doni",
+        "age": 28,
+        "squad_no": 23,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 81
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      }
+    ],
+    "2014": [
+      {
+        "id": "BRA_2014_01",
+        "name_cn": "塞萨尔",
+        "name_en": "Júlio César",
+        "age": 31,
+        "squad_no": 1,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 87
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BRA_2014_02",
+        "name_cn": "丹尼·阿尔维斯",
+        "name_en": "Dani Alves",
+        "age": 28,
+        "squad_no": 2,
+        "positions": [
+          {
+            "pos": "RB",
+            "ovr": 86
+          },
+          {
+            "pos": "RM",
+            "ovr": 82
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BRA_2014_03",
+        "name_cn": "蒂亚戈·席尔瓦",
+        "name_en": "Thiago Silva",
+        "age": 27,
+        "squad_no": 3,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 89
+          }
+        ],
+        "tags": [
+          "队长"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BRA_2014_04",
+        "name_cn": "大卫·路易斯",
+        "name_en": "David Luiz",
+        "age": 25,
+        "squad_no": 4,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 84
+          },
+          {
+            "pos": "DM",
+            "ovr": 82
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BRA_2014_05",
+        "name_cn": "费尔南迪尼奥",
+        "name_en": "Fernandinho",
+        "age": 24,
+        "squad_no": 5,
+        "positions": [
+          {
+            "pos": "DM",
+            "ovr": 83
+          },
+          {
+            "pos": "CM",
+            "ovr": 82
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BRA_2014_06",
+        "name_cn": "马塞洛",
+        "name_en": "Marcelo",
+        "age": 30,
+        "squad_no": 6,
+        "positions": [
+          {
+            "pos": "LB",
+            "ovr": 87
+          },
+          {
+            "pos": "LM",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BRA_2014_07",
+        "name_cn": "赫尔南内斯",
+        "name_en": "Hernanes",
+        "age": 29,
+        "squad_no": 7,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 83
+          },
+          {
+            "pos": "CAM",
+            "ovr": 82
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BRA_2014_08",
+        "name_cn": "保利尼奥",
+        "name_en": "Paulinho",
+        "age": 23,
+        "squad_no": 8,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 83
+          },
+          {
+            "pos": "DM",
+            "ovr": 81
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BRA_2014_09",
+        "name_cn": "弗雷德",
+        "name_en": "Fred",
+        "age": 22,
+        "squad_no": 9,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BRA_2014_10",
+        "name_cn": "内马尔",
+        "name_en": "Neymar",
+        "age": 23,
+        "squad_no": 10,
+        "positions": [
+          {
+            "pos": "LW",
+            "ovr": 90
+          },
+          {
+            "pos": "CAM",
+            "ovr": 89
+          },
+          {
+            "pos": "ST",
+            "ovr": 86
+          }
+        ],
+        "tags": [
+          "东道主希望"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BRA_2014_11",
+        "name_cn": "奥斯卡",
+        "name_en": "Oscar",
+        "age": 24,
+        "squad_no": 11,
+        "positions": [
+          {
+            "pos": "CAM",
+            "ovr": 85
+          },
+          {
+            "pos": "CM",
+            "ovr": 82
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BRA_2014_12",
+        "name_cn": "Jefferson",
+        "name_en": "Jefferson",
+        "age": 32,
+        "squad_no": 12,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BRA_2014_13",
+        "name_cn": "达尼·阿尔维斯·卢戈",
+        "name_en": "Dante",
+        "age": 24,
+        "squad_no": 13,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BRA_2014_14",
+        "name_cn": "Hulk",
+        "name_en": "Hulk",
+        "age": 32,
+        "squad_no": 14,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 84
+          },
+          {
+            "pos": "LW",
+            "ovr": 82
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BRA_2014_15",
+        "name_cn": "马克斯·萨默",
+        "name_en": "Maxwell",
+        "age": 28,
+        "squad_no": 15,
+        "positions": [
+          {
+            "pos": "LB",
+            "ovr": 82
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BRA_2014_16",
+        "name_cn": "拉米雷斯",
+        "name_en": "Ramires",
+        "age": 31,
+        "squad_no": 16,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 83
+          },
+          {
+            "pos": "DM",
+            "ovr": 82
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BRA_2014_17",
+        "name_cn": "路易斯·古斯塔沃",
+        "name_en": "Luiz Gustavo",
+        "age": 23,
+        "squad_no": 17,
+        "positions": [
+          {
+            "pos": "DM",
+            "ovr": 83
+          },
+          {
+            "pos": "CM",
+            "ovr": 81
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BRA_2014_18",
+        "name_cn": "Henrique",
+        "name_en": "Henrique",
+        "age": 28,
+        "squad_no": 18,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 82
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BRA_2014_19",
+        "name_cn": "威廉",
+        "name_en": "Willian",
+        "age": 28,
+        "squad_no": 19,
+        "positions": [
+          {
+            "pos": "RW",
+            "ovr": 83
+          },
+          {
+            "pos": "LW",
+            "ovr": 82
+          },
+          {
+            "pos": "CAM",
+            "ovr": 81
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BRA_2014_20",
+        "name_cn": "Bernard",
+        "name_en": "Bernard",
+        "age": 31,
+        "squad_no": 20,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BRA_2014_21",
+        "name_cn": "若",
+        "name_en": "Jô",
+        "age": 29,
+        "squad_no": 21,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 78
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BRA_2014_22",
+        "name_cn": "Victor",
+        "name_en": "Victor",
+        "age": 30,
+        "squad_no": 22,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 81
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BRA_2014_23",
+        "name_cn": "麦孔",
+        "name_en": "Maicon",
+        "age": 26,
+        "squad_no": 23,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 79
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      }
+    ],
+    "2018": [
+      {
+        "id": "BRA_2018_01",
+        "name_cn": "阿利松",
+        "name_en": "Alisson",
+        "age": 30,
+        "squad_no": 1,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 88
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BRA_2018_02",
+        "name_cn": "达尼洛",
+        "name_en": "Danilo",
+        "age": 22,
+        "squad_no": 2,
+        "positions": [
+          {
+            "pos": "RB",
+            "ovr": 81
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BRA_2018_03",
+        "name_cn": "蒂亚戈·席尔瓦",
+        "name_en": "Thiago Silva",
+        "age": 32,
+        "squad_no": 3,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 89
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BRA_2018_04",
+        "name_cn": "米兰达",
+        "name_en": "Miranda",
+        "age": 33,
+        "squad_no": 4,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 85
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BRA_2018_05",
+        "name_cn": "卡塞米罗",
+        "name_en": "Casemiro",
+        "age": 23,
+        "squad_no": 5,
+        "positions": [
+          {
+            "pos": "DM",
+            "ovr": 87
+          },
+          {
+            "pos": "CM",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BRA_2018_06",
+        "name_cn": "Pedro Geromel",
+        "name_en": "Pedro Geromel",
+        "age": 32,
+        "squad_no": 6,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BRA_2018_07",
+        "name_cn": "道格拉斯·科斯塔",
+        "name_en": "Douglas Costa",
+        "age": 30,
+        "squad_no": 7,
+        "positions": [
+          {
+            "pos": "RW",
+            "ovr": 83
+          },
+          {
+            "pos": "LW",
+            "ovr": 82
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BRA_2018_08",
+        "name_cn": "雷纳托·奥古斯托",
+        "name_en": "Renato Augusto",
+        "age": 26,
+        "squad_no": 8,
+        "positions": [
+          {
+            "pos": "CAM",
+            "ovr": 83
+          },
+          {
+            "pos": "CM",
+            "ovr": 82
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BRA_2018_09",
+        "name_cn": "热苏斯",
+        "name_en": "Gabriel Jesus",
+        "age": 32,
+        "squad_no": 9,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BRA_2018_10",
+        "name_cn": "内马尔",
+        "name_en": "Neymar",
+        "age": 27,
+        "squad_no": 10,
+        "positions": [
+          {
+            "pos": "LW",
+            "ovr": 92
+          },
+          {
+            "pos": "CAM",
+            "ovr": 90
+          },
+          {
+            "pos": "ST",
+            "ovr": 87
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BRA_2018_11",
+        "name_cn": "库蒂尼奥",
+        "name_en": "Coutinho",
+        "age": 23,
+        "squad_no": 11,
+        "positions": [
+          {
+            "pos": "CAM",
+            "ovr": 87
+          },
+          {
+            "pos": "LW",
+            "ovr": 85
+          },
+          {
+            "pos": "CM",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BRA_2018_12",
+        "name_cn": "马塞洛",
+        "name_en": "Marcelo",
+        "age": 26,
+        "squad_no": 12,
+        "positions": [
+          {
+            "pos": "LB",
+            "ovr": 87
+          },
+          {
+            "pos": "LM",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BRA_2018_13",
+        "name_cn": "Filipe Luís",
+        "name_en": "Filipe Luís",
+        "age": 28,
+        "squad_no": 13,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BRA_2018_14",
+        "name_cn": "马尔基尼奥斯",
+        "name_en": "Marquinhos",
+        "age": 24,
+        "squad_no": 14,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 82
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BRA_2018_15",
+        "name_cn": "保利尼奥",
+        "name_en": "Paulinho",
+        "age": 29,
+        "squad_no": 15,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 84
+          },
+          {
+            "pos": "DM",
+            "ovr": 82
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BRA_2018_16",
+        "name_cn": "Cássio",
+        "name_en": "Cássio",
+        "age": 22,
+        "squad_no": 16,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BRA_2018_17",
+        "name_cn": "费尔南迪尼奥",
+        "name_en": "Fernandinho",
+        "age": 33,
+        "squad_no": 17,
+        "positions": [
+          {
+            "pos": "DM",
+            "ovr": 84
+          },
+          {
+            "pos": "CM",
+            "ovr": 82
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BRA_2018_18",
+        "name_cn": "弗雷德",
+        "name_en": "Fred",
+        "age": 33,
+        "squad_no": 18,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BRA_2018_19",
+        "name_cn": "威廉",
+        "name_en": "Willian",
+        "age": 26,
+        "squad_no": 19,
+        "positions": [
+          {
+            "pos": "RW",
+            "ovr": 84
+          },
+          {
+            "pos": "LW",
+            "ovr": 82
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BRA_2018_20",
+        "name_cn": "菲尔米诺",
+        "name_en": "Firmino",
+        "age": 30,
+        "squad_no": 20,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 85
+          },
+          {
+            "pos": "CAM",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BRA_2018_21",
+        "name_cn": "Taison",
+        "name_en": "Taison",
+        "age": 24,
+        "squad_no": 21,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BRA_2018_22",
+        "name_cn": "Fagner",
+        "name_en": "Fagner",
+        "age": 30,
+        "squad_no": 22,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BRA_2018_23",
+        "name_cn": "埃德森",
+        "name_en": "Ederson",
+        "age": 23,
+        "squad_no": 23,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      }
+    ],
+    "2022": [
+      {
+        "id": "BRA_2022_01",
+        "name_cn": "阿利松",
+        "name_en": "Alisson",
+        "age": 32,
+        "squad_no": 1,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 90
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BRA_2022_02",
+        "name_cn": "达尼洛",
+        "name_en": "Danilo",
+        "age": 26,
+        "squad_no": 2,
+        "positions": [
+          {
+            "pos": "RB",
+            "ovr": 83
+          },
+          {
+            "pos": "CB",
+            "ovr": 81
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BRA_2022_03",
+        "name_cn": "蒂亚戈·席尔瓦",
+        "name_en": "Thiago Silva",
+        "age": 32,
+        "squad_no": 3,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 87
+          }
+        ],
+        "tags": [
+          "队长"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BRA_2022_04",
+        "name_cn": "马尔基尼奥斯",
+        "name_en": "Marquinhos",
+        "age": 30,
+        "squad_no": 4,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 87
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BRA_2022_05",
+        "name_cn": "卡塞米罗",
+        "name_en": "Casemiro",
+        "age": 31,
+        "squad_no": 5,
+        "positions": [
+          {
+            "pos": "DM",
+            "ovr": 89
+          },
+          {
+            "pos": "CM",
+            "ovr": 85
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BRA_2022_06",
+        "name_cn": "Fabinho",
+        "name_en": "Fabinho",
+        "age": 25,
+        "squad_no": 6,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 82
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BRA_2022_07",
+        "name_cn": "Alex Telles",
+        "name_en": "Alex Telles",
+        "age": 24,
+        "squad_no": 7,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 82
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BRA_2022_08",
+        "name_cn": "卢卡斯·帕奎塔",
+        "name_en": "Lucas Paquetá",
+        "age": 27,
+        "squad_no": 8,
+        "positions": [
+          {
+            "pos": "CAM",
+            "ovr": 84
+          },
+          {
+            "pos": "CM",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BRA_2022_09",
+        "name_cn": "理查利森",
+        "name_en": "Richarlison",
+        "age": 24,
+        "squad_no": 9,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 84
+          },
+          {
+            "pos": "LW",
+            "ovr": 82
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BRA_2022_10",
+        "name_cn": "内马尔",
+        "name_en": "Neymar",
+        "age": 30,
+        "squad_no": 10,
+        "positions": [
+          {
+            "pos": "CAM",
+            "ovr": 91
+          },
+          {
+            "pos": "LW",
+            "ovr": 90
+          },
+          {
+            "pos": "ST",
+            "ovr": 87
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BRA_2022_11",
+        "name_cn": "拉斐尔·维加",
+        "name_en": "Raphinha",
+        "age": 30,
+        "squad_no": 11,
+        "positions": [
+          {
+            "pos": "RW",
+            "ovr": 83
+          },
+          {
+            "pos": "LW",
+            "ovr": 82
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BRA_2022_12",
+        "name_cn": "Weverton",
+        "name_en": "Weverton",
+        "age": 22,
+        "squad_no": 12,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BRA_2022_13",
+        "name_cn": "阿尔维斯",
+        "name_en": "Dani Alves",
+        "age": 31,
+        "squad_no": 13,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 82
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BRA_2022_14",
+        "name_cn": "Éder Militão",
+        "name_en": "Éder Militão",
+        "age": 27,
+        "squad_no": 14,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 82
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BRA_2022_15",
+        "name_cn": "弗雷德",
+        "name_en": "Fred",
+        "age": 29,
+        "squad_no": 15,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 81
+          },
+          {
+            "pos": "DM",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BRA_2022_16",
+        "name_cn": "亚历克斯·桑德罗",
+        "name_en": "Alex Sandro",
+        "age": 22,
+        "squad_no": 16,
+        "positions": [
+          {
+            "pos": "LB",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BRA_2022_17",
+        "name_cn": "布鲁诺·吉马良斯",
+        "name_en": "Bruno Guimarães",
+        "age": 23,
+        "squad_no": 17,
+        "positions": [
+          {
+            "pos": "DM",
+            "ovr": 84
+          },
+          {
+            "pos": "CM",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BRA_2022_18",
+        "name_cn": "加布里埃尔·热苏斯",
+        "name_en": "Gabriel Jesus",
+        "age": 27,
+        "squad_no": 18,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BRA_2022_19",
+        "name_cn": "安东尼",
+        "name_en": "Antony",
+        "age": 26,
+        "squad_no": 19,
+        "positions": [
+          {
+            "pos": "RW",
+            "ovr": 83
+          },
+          {
+            "pos": "LW",
+            "ovr": 81
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BRA_2022_20",
+        "name_cn": "维尼修斯",
+        "name_en": "Vinícius Jr.",
+        "age": 25,
+        "squad_no": 20,
+        "positions": [
+          {
+            "pos": "LW",
+            "ovr": 87
+          },
+          {
+            "pos": "ST",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BRA_2022_21",
+        "name_cn": "罗德里戈",
+        "name_en": "Rodrygo",
+        "age": 22,
+        "squad_no": 21,
+        "positions": [
+          {
+            "pos": "RW",
+            "ovr": 83
+          },
+          {
+            "pos": "LW",
+            "ovr": 82
+          },
+          {
+            "pos": "ST",
+            "ovr": 81
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BRA_2022_22",
+        "name_cn": "Vinícius Júnior",
+        "name_en": "Vinícius Júnior",
+        "age": 25,
+        "squad_no": 22,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BRA_2022_23",
+        "name_cn": "埃德松",
+        "name_en": "Ederson",
+        "age": 31,
+        "squad_no": 23,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 87
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BRA_2022_24",
+        "name_cn": "Éverton Ribeiro",
+        "name_en": "Éverton Ribeiro",
+        "age": 23,
+        "squad_no": 24,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BRA_2022_25",
+        "name_cn": "Bremer",
+        "name_en": "Bremer",
+        "age": 23,
+        "squad_no": 25,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 79
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BRA_2022_26",
+        "name_cn": "佩德罗",
+        "name_en": "Pedro",
+        "age": 33,
+        "squad_no": 26,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 79
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      }
+    ],
+    "2026": [
+      {
+        "id": "BRA_2026_01",
+        "name_cn": "阿利松",
+        "name_en": "Alisson",
+        "age": 29,
+        "squad_no": 1,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 89
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BRA_2026_02",
+        "name_cn": "埃米尔松·儒尼奥尔",
+        "name_en": "Emerson Royal",
+        "age": 23,
+        "squad_no": 2,
+        "positions": [
+          {
+            "pos": "RB",
+            "ovr": 82
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BRA_2026_03",
+        "name_cn": "加布里埃尔·马加良斯",
+        "name_en": "Gabriel Magalhães",
+        "age": 30,
+        "squad_no": 3,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 85
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BRA_2026_04",
+        "name_cn": "马尔基尼奥斯",
+        "name_en": "Marquinhos",
+        "age": 24,
+        "squad_no": 4,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 87
+          }
+        ],
+        "tags": [
+          "队长"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BRA_2026_05",
+        "name_cn": "卡塞米罗",
+        "name_en": "Casemiro",
+        "age": 24,
+        "squad_no": 5,
+        "positions": [
+          {
+            "pos": "DM",
+            "ovr": 86
+          },
+          {
+            "pos": "CM",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BRA_2026_06",
+        "name_cn": "亚历克斯·桑德罗",
+        "name_en": "Alex Sandro",
+        "age": 32,
+        "squad_no": 6,
+        "positions": [
+          {
+            "pos": "LB",
+            "ovr": 81
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BRA_2026_07",
+        "name_cn": "卢卡斯·帕奎塔",
+        "name_en": "Lucas Paquetá",
+        "age": 29,
+        "squad_no": 7,
+        "positions": [
+          {
+            "pos": "CAM",
+            "ovr": 84
+          },
+          {
+            "pos": "CM",
+            "ovr": 82
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BRA_2026_08",
+        "name_cn": "布鲁诺·吉马良斯",
+        "name_en": "Bruno Guimarães",
+        "age": 30,
+        "squad_no": 8,
+        "positions": [
+          {
+            "pos": "DM",
+            "ovr": 87
+          },
+          {
+            "pos": "CM",
+            "ovr": 85
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BRA_2026_09",
+        "name_cn": "恩德里克",
+        "name_en": "Endrick",
+        "age": 24,
+        "squad_no": 9,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 85
+          }
+        ],
+        "tags": [
+          "皇马新星"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BRA_2026_10",
+        "name_cn": "维尼修斯",
+        "name_en": "Vinícius Jr.",
+        "age": 26,
+        "squad_no": 10,
+        "positions": [
+          {
+            "pos": "LW",
+            "ovr": 91
+          },
+          {
+            "pos": "ST",
+            "ovr": 86
+          }
+        ],
+        "tags": [
+          "金球级"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BRA_2026_11",
+        "name_cn": "拉斐尔·维加",
+        "name_en": "Raphinha",
+        "age": 30,
+        "squad_no": 11,
+        "positions": [
+          {
+            "pos": "RW",
+            "ovr": 86
+          },
+          {
+            "pos": "LW",
+            "ovr": 85
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BRA_2026_12",
+        "name_cn": "埃德森",
+        "name_en": "Éderson",
+        "age": 31,
+        "squad_no": 12,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BRA_2026_13",
+        "name_cn": "韦韦尔通",
+        "name_en": "Weverton",
+        "age": 28,
+        "squad_no": 13,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BRA_2026_14",
+        "name_cn": "Bremer",
+        "name_en": "Bremer",
+        "age": 25,
+        "squad_no": 14,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BRA_2026_15",
+        "name_cn": "若昂·戈麦斯",
+        "name_en": "João Gomes",
+        "age": 30,
+        "squad_no": 15,
+        "positions": [
+          {
+            "pos": "DM",
+            "ovr": 83
+          },
+          {
+            "pos": "CM",
+            "ovr": 81
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BRA_2026_16",
+        "name_cn": "达尼洛",
+        "name_en": "Danilo",
+        "age": 33,
+        "squad_no": 16,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BRA_2026_17",
+        "name_cn": "埃斯特旺",
+        "name_en": "Estêvão",
+        "age": 33,
+        "squad_no": 17,
+        "positions": [
+          {
+            "pos": "RW",
+            "ovr": 83
+          },
+          {
+            "pos": "LW",
+            "ovr": 82
+          },
+          {
+            "pos": "CAM",
+            "ovr": 81
+          }
+        ],
+        "tags": [
+          "切尔西新星"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BRA_2026_18",
+        "name_cn": "Douglas Santos",
+        "name_en": "Douglas Santos",
+        "age": 25,
+        "squad_no": 18,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BRA_2026_19",
+        "name_cn": "萨维奥",
+        "name_en": "Sávio",
+        "age": 33,
+        "squad_no": 19,
+        "positions": [
+          {
+            "pos": "RW",
+            "ovr": 83
+          },
+          {
+            "pos": "LW",
+            "ovr": 82
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BRA_2026_20",
+        "name_cn": "罗德里戈",
+        "name_en": "Rodrygo",
+        "age": 26,
+        "squad_no": 20,
+        "positions": [
+          {
+            "pos": "RW",
+            "ovr": 87
+          },
+          {
+            "pos": "LW",
+            "ovr": 85
+          },
+          {
+            "pos": "ST",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BRA_2026_21",
+        "name_cn": "Léo Pereira",
+        "name_en": "Léo Pereira",
+        "age": 28,
+        "squad_no": 21,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BRA_2026_22",
+        "name_cn": "Roger Ibañez",
+        "name_en": "Roger Ibañez",
+        "age": 32,
+        "squad_no": 22,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BRA_2026_23",
+        "name_cn": "Wesley",
+        "name_en": "Wesley",
+        "age": 32,
+        "squad_no": 23,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BRA_2026_24",
+        "name_cn": "Fabinho",
+        "name_en": "Fabinho",
+        "age": 27,
+        "squad_no": 24,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BRA_2026_25",
+        "name_cn": "马丁内利",
+        "name_en": "Gabriel Martinelli",
+        "age": 29,
+        "squad_no": 25,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 81
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BRA_2026_26",
+        "name_cn": "Igor Thiago",
+        "name_en": "Igor Thiago",
+        "age": 30,
+        "squad_no": 26,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 81
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      }
+    ]
+  }
+}

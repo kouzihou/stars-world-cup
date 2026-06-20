@@ -1,0 +1,1882 @@
+{
+  "country_code": "DEN",
+  "squads": {
+    "1998": [
+      {
+        "id": "DEN_1998_01",
+        "name_cn": "舒梅切尔",
+        "name_en": "Peter Schmeichel",
+        "age": 25,
+        "squad_no": 1,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 92
+          }
+        ],
+        "tags": [
+          "传奇"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "DEN_1998_02",
+        "name_cn": "Michael Schjønberg",
+        "name_en": "Michael Schjønberg",
+        "age": 31,
+        "squad_no": 2,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 72
+          },
+          {
+            "pos": "RB",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "DEN_1998_03",
+        "name_cn": "Marc Rieper",
+        "name_en": "Marc Rieper",
+        "age": 27,
+        "squad_no": 3,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 72
+          },
+          {
+            "pos": "LB",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "DEN_1998_04",
+        "name_cn": "Jes Høgh",
+        "name_en": "Jes Høgh",
+        "age": 22,
+        "squad_no": 4,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 72
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "DEN_1998_05",
+        "name_cn": "Jan Heintze",
+        "name_en": "Jan Heintze",
+        "age": 22,
+        "squad_no": 5,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 72
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "DEN_1998_06",
+        "name_cn": "Thomas Helveg",
+        "name_en": "Thomas Helveg",
+        "age": 26,
+        "squad_no": 6,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 72
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "DEN_1998_07",
+        "name_cn": "Allan Nielsen",
+        "name_en": "Allan Nielsen",
+        "age": 29,
+        "squad_no": 7,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 72
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "DEN_1998_08",
+        "name_cn": "Per Frandsen",
+        "name_en": "Per Frandsen",
+        "age": 31,
+        "squad_no": 8,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 72
+          },
+          {
+            "pos": "DM",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "DEN_1998_09",
+        "name_cn": "Miklos Molnar",
+        "name_en": "Miklos Molnar",
+        "age": 32,
+        "squad_no": 9,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 72
+          },
+          {
+            "pos": "CAM",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "DEN_1998_10",
+        "name_cn": "迈克尔·劳德鲁普",
+        "name_en": "Michael Laudrup",
+        "age": 32,
+        "squad_no": 10,
+        "positions": [
+          {
+            "pos": "CAM",
+            "ovr": 92
+          }
+        ],
+        "tags": [
+          "传奇"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "DEN_1998_11",
+        "name_cn": "劳德鲁普",
+        "name_en": "Brian Laudrup",
+        "age": 29,
+        "squad_no": 11,
+        "positions": [
+          {
+            "pos": "CAM",
+            "ovr": 92
+          }
+        ],
+        "tags": [
+          "丹麦双星"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "DEN_1998_12",
+        "name_cn": "Søren Colding",
+        "name_en": "Søren Colding",
+        "age": 26,
+        "squad_no": 12,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "DEN_1998_13",
+        "name_cn": "Jacob Laursen",
+        "name_en": "Jacob Laursen",
+        "age": 30,
+        "squad_no": 13,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "DEN_1998_14",
+        "name_cn": "Morten Wieghorst",
+        "name_en": "Morten Wieghorst",
+        "age": 22,
+        "squad_no": 14,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "DEN_1998_15",
+        "name_cn": "Stig Tøfting",
+        "name_en": "Stig Tøfting",
+        "age": 23,
+        "squad_no": 15,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "DEN_1998_16",
+        "name_cn": "Mogens Krogh",
+        "name_en": "Mogens Krogh",
+        "age": 28,
+        "squad_no": 16,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "DEN_1998_17",
+        "name_cn": "Bjarne Goldbæk",
+        "name_en": "Bjarne Goldbæk",
+        "age": 24,
+        "squad_no": 17,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 68
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "DEN_1998_18",
+        "name_cn": "Peter Møller",
+        "name_en": "Peter Møller",
+        "age": 26,
+        "squad_no": 18,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 68
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "DEN_1998_19",
+        "name_cn": "Ebbe Sand",
+        "name_en": "Ebbe Sand",
+        "age": 33,
+        "squad_no": 19,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 68
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "DEN_1998_20",
+        "name_cn": "René Henriksen",
+        "name_en": "René Henriksen",
+        "age": 27,
+        "squad_no": 20,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 68
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "DEN_1998_21",
+        "name_cn": "Martin Jørgensen",
+        "name_en": "Martin Jørgensen",
+        "age": 28,
+        "squad_no": 21,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 68
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "DEN_1998_22",
+        "name_cn": "Peter Kjær",
+        "name_en": "Peter Kjær",
+        "age": 27,
+        "squad_no": 22,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      }
+    ],
+    "2002": [
+      {
+        "id": "DEN_2002_01",
+        "name_cn": "Thomas Sørensen",
+        "name_en": "Thomas Sørensen",
+        "age": 22,
+        "squad_no": 1,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "DEN_2002_02",
+        "name_cn": "Stig Tøfting",
+        "name_en": "Stig Tøfting",
+        "age": 28,
+        "squad_no": 2,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "DEN_2002_03",
+        "name_cn": "René Henriksen",
+        "name_en": "René Henriksen",
+        "age": 22,
+        "squad_no": 3,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          },
+          {
+            "pos": "LB",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "DEN_2002_04",
+        "name_cn": "Martin Laursen",
+        "name_en": "Martin Laursen",
+        "age": 31,
+        "squad_no": 4,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "DEN_2002_05",
+        "name_cn": "Jan Heintze",
+        "name_en": "Jan Heintze",
+        "age": 30,
+        "squad_no": 5,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "DEN_2002_06",
+        "name_cn": "Thomas Helveg",
+        "name_en": "Thomas Helveg",
+        "age": 25,
+        "squad_no": 6,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "DEN_2002_07",
+        "name_cn": "Thomas Gravesen",
+        "name_en": "Thomas Gravesen",
+        "age": 27,
+        "squad_no": 7,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "DEN_2002_08",
+        "name_cn": "Jesper Grønkjær",
+        "name_en": "Jesper Grønkjær",
+        "age": 30,
+        "squad_no": 8,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          },
+          {
+            "pos": "DM",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "DEN_2002_09",
+        "name_cn": "Jon Dahl Tomasson",
+        "name_en": "Jon Dahl Tomasson",
+        "age": 26,
+        "squad_no": 9,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 73
+          },
+          {
+            "pos": "CAM",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "DEN_2002_10",
+        "name_cn": "Martin Jørgensen",
+        "name_en": "Martin Jørgensen",
+        "age": 23,
+        "squad_no": 10,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          },
+          {
+            "pos": "CAM",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "DEN_2002_11",
+        "name_cn": "Ebbe Sand",
+        "name_en": "Ebbe Sand",
+        "age": 28,
+        "squad_no": 11,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 73
+          },
+          {
+            "pos": "LW",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "DEN_2002_12",
+        "name_cn": "Niclas Jensen",
+        "name_en": "Niclas Jensen",
+        "age": 30,
+        "squad_no": 12,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "DEN_2002_13",
+        "name_cn": "Steven Lustü",
+        "name_en": "Steven Lustü",
+        "age": 29,
+        "squad_no": 13,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "DEN_2002_14",
+        "name_cn": "Claus Jensen",
+        "name_en": "Claus Jensen",
+        "age": 30,
+        "squad_no": 14,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "DEN_2002_15",
+        "name_cn": "Jan Michaelsen",
+        "name_en": "Jan Michaelsen",
+        "age": 26,
+        "squad_no": 15,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "DEN_2002_16",
+        "name_cn": "Peter Kjær",
+        "name_en": "Peter Kjær",
+        "age": 31,
+        "squad_no": 16,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 72
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "DEN_2002_17",
+        "name_cn": "Christian Poulsen",
+        "name_en": "Christian Poulsen",
+        "age": 32,
+        "squad_no": 17,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "DEN_2002_18",
+        "name_cn": "Peter Løvenkrands",
+        "name_en": "Peter Løvenkrands",
+        "age": 31,
+        "squad_no": 18,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "DEN_2002_19",
+        "name_cn": "罗梅达尔",
+        "name_en": "Dennis Rommedahl",
+        "age": 23,
+        "squad_no": 19,
+        "positions": [
+          {
+            "pos": "RW",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "DEN_2002_20",
+        "name_cn": "Kasper Bøgelund",
+        "name_en": "Kasper Bøgelund",
+        "age": 24,
+        "squad_no": 20,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "DEN_2002_21",
+        "name_cn": "Peter Madsen",
+        "name_en": "Peter Madsen",
+        "age": 23,
+        "squad_no": 21,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "DEN_2002_22",
+        "name_cn": "Jesper Christiansen",
+        "name_en": "Jesper Christiansen",
+        "age": 28,
+        "squad_no": 22,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "DEN_2002_23",
+        "name_cn": "Brian Steen Nielsen",
+        "name_en": "Brian Steen Nielsen",
+        "age": 27,
+        "squad_no": 23,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 68
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      }
+    ],
+    "2010": [
+      {
+        "id": "DEN_2010_01",
+        "name_cn": "Thomas Sørensen",
+        "name_en": "Thomas Sørensen",
+        "age": 27,
+        "squad_no": 1,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "DEN_2010_02",
+        "name_cn": "Christian Poulsen",
+        "name_en": "Christian Poulsen",
+        "age": 30,
+        "squad_no": 2,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "DEN_2010_03",
+        "name_cn": "克亚尔",
+        "name_en": "Simon Kjær",
+        "age": 27,
+        "squad_no": 3,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 84
+          }
+        ],
+        "tags": [
+          "队长"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "DEN_2010_04",
+        "name_cn": "Daniel Agger",
+        "name_en": "Daniel Agger",
+        "age": 24,
+        "squad_no": 4,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "DEN_2010_05",
+        "name_cn": "William Kvist",
+        "name_en": "William Kvist",
+        "age": 25,
+        "squad_no": 5,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "DEN_2010_06",
+        "name_cn": "Lars Jacobsen",
+        "name_en": "Lars Jacobsen",
+        "age": 31,
+        "squad_no": 6,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "DEN_2010_07",
+        "name_cn": "Daniel Jensen",
+        "name_en": "Daniel Jensen",
+        "age": 30,
+        "squad_no": 7,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "DEN_2010_08",
+        "name_cn": "Jesper Grønkjær",
+        "name_en": "Jesper Grønkjær",
+        "age": 28,
+        "squad_no": 8,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          },
+          {
+            "pos": "DM",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "DEN_2010_09",
+        "name_cn": "Jon Dahl Tomasson",
+        "name_en": "Jon Dahl Tomasson",
+        "age": 30,
+        "squad_no": 9,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 73
+          },
+          {
+            "pos": "CAM",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "DEN_2010_10",
+        "name_cn": "Martin Jørgensen",
+        "name_en": "Martin Jørgensen",
+        "age": 22,
+        "squad_no": 10,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          },
+          {
+            "pos": "CAM",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "DEN_2010_11",
+        "name_cn": "Nicklas Bendtner",
+        "name_en": "Nicklas Bendtner",
+        "age": 22,
+        "squad_no": 11,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 73
+          },
+          {
+            "pos": "LW",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "DEN_2010_12",
+        "name_cn": "Thomas Kahlenberg",
+        "name_en": "Thomas Kahlenberg",
+        "age": 22,
+        "squad_no": 12,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "DEN_2010_13",
+        "name_cn": "Per Krøldrup",
+        "name_en": "Per Krøldrup",
+        "age": 24,
+        "squad_no": 13,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "DEN_2010_14",
+        "name_cn": "Jakob Poulsen",
+        "name_en": "Jakob Poulsen",
+        "age": 33,
+        "squad_no": 14,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "DEN_2010_15",
+        "name_cn": "Simon Poulsen",
+        "name_en": "Simon Poulsen",
+        "age": 27,
+        "squad_no": 15,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "DEN_2010_16",
+        "name_cn": "Stephan Andersen",
+        "name_en": "Stephan Andersen",
+        "age": 29,
+        "squad_no": 16,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 72
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "DEN_2010_17",
+        "name_cn": "Mikkel Beckmann",
+        "name_en": "Mikkel Beckmann",
+        "age": 30,
+        "squad_no": 17,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "DEN_2010_18",
+        "name_cn": "Søren Larsen",
+        "name_en": "Søren Larsen",
+        "age": 29,
+        "squad_no": 18,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "DEN_2010_19",
+        "name_cn": "Dennis Rommedahl",
+        "name_en": "Dennis Rommedahl",
+        "age": 24,
+        "squad_no": 19,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "DEN_2010_20",
+        "name_cn": "Thomas Enevoldsen",
+        "name_en": "Thomas Enevoldsen",
+        "age": 31,
+        "squad_no": 20,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "DEN_2010_21",
+        "name_cn": "埃里克森",
+        "name_en": "Christian Eriksen",
+        "age": 30,
+        "squad_no": 21,
+        "positions": [
+          {
+            "pos": "CAM",
+            "ovr": 90
+          },
+          {
+            "pos": "CM",
+            "ovr": 87
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "DEN_2010_22",
+        "name_cn": "Jesper Christiansen",
+        "name_en": "Jesper Christiansen",
+        "age": 24,
+        "squad_no": 22,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "DEN_2010_23",
+        "name_cn": "Patrick Mtiliga",
+        "name_en": "Patrick Mtiliga",
+        "age": 27,
+        "squad_no": 23,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 68
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      }
+    ],
+    "2018": [
+      {
+        "id": "DEN_2018_01",
+        "name_cn": "舒梅切尔",
+        "name_en": "Kasper Schmeichel",
+        "age": 31,
+        "squad_no": 1,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 87
+          }
+        ],
+        "tags": [
+          "老舒之子"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "DEN_2018_02",
+        "name_cn": "Michael Krohn-Dehli",
+        "name_en": "Michael Krohn-Dehli",
+        "age": 27,
+        "squad_no": 2,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "DEN_2018_03",
+        "name_cn": "Jannik Vestergaard",
+        "name_en": "Jannik Vestergaard",
+        "age": 24,
+        "squad_no": 3,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          },
+          {
+            "pos": "LB",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "DEN_2018_04",
+        "name_cn": "克亚尔",
+        "name_en": "Simon Kjær",
+        "age": 28,
+        "squad_no": 4,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 84
+          }
+        ],
+        "tags": [
+          "队长"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "DEN_2018_05",
+        "name_cn": "Jonas Knudsen",
+        "name_en": "Jonas Knudsen",
+        "age": 31,
+        "squad_no": 5,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "DEN_2018_06",
+        "name_cn": "Andreas Christensen",
+        "name_en": "Andreas Christensen",
+        "age": 33,
+        "squad_no": 6,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "DEN_2018_07",
+        "name_cn": "William Kvist",
+        "name_en": "William Kvist",
+        "age": 26,
+        "squad_no": 7,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "DEN_2018_08",
+        "name_cn": "德莱尼",
+        "name_en": "Thomas Delaney",
+        "age": 31,
+        "squad_no": 8,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 83
+          },
+          {
+            "pos": "DM",
+            "ovr": 82
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "DEN_2018_09",
+        "name_cn": "Nicolai Jørgensen",
+        "name_en": "Nicolai Jørgensen",
+        "age": 27,
+        "squad_no": 9,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 73
+          },
+          {
+            "pos": "CAM",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "DEN_2018_10",
+        "name_cn": "埃里克森",
+        "name_en": "Christian Eriksen",
+        "age": 30,
+        "squad_no": 10,
+        "positions": [
+          {
+            "pos": "CAM",
+            "ovr": 90
+          },
+          {
+            "pos": "CM",
+            "ovr": 87
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "DEN_2018_11",
+        "name_cn": "勃拉特怀特",
+        "name_en": "Martin Braithwaite",
+        "age": 30,
+        "squad_no": 11,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "DEN_2018_12",
+        "name_cn": "Kasper Dolberg",
+        "name_en": "Kasper Dolberg",
+        "age": 30,
+        "squad_no": 12,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "DEN_2018_13",
+        "name_cn": "Mathias Jørgensen",
+        "name_en": "Mathias Jørgensen",
+        "age": 29,
+        "squad_no": 13,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "DEN_2018_14",
+        "name_cn": "Henrik Dalsgaard",
+        "name_en": "Henrik Dalsgaard",
+        "age": 33,
+        "squad_no": 14,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "DEN_2018_15",
+        "name_cn": "Viktor Fischer",
+        "name_en": "Viktor Fischer",
+        "age": 31,
+        "squad_no": 15,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "DEN_2018_16",
+        "name_cn": "Jonas Lössl",
+        "name_en": "Jonas Lössl",
+        "age": 26,
+        "squad_no": 16,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 72
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "DEN_2018_17",
+        "name_cn": "Jens Stryger Larsen",
+        "name_en": "Jens Stryger Larsen",
+        "age": 29,
+        "squad_no": 17,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "DEN_2018_18",
+        "name_cn": "Lukas Lerager",
+        "name_en": "Lukas Lerager",
+        "age": 22,
+        "squad_no": 18,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "DEN_2018_19",
+        "name_cn": "Lasse Schöne",
+        "name_en": "Lasse Schöne",
+        "age": 27,
+        "squad_no": 19,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "DEN_2018_20",
+        "name_cn": "Yussuf Poulsen",
+        "name_en": "Yussuf Poulsen",
+        "age": 27,
+        "squad_no": 20,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "DEN_2018_21",
+        "name_cn": "Andreas Cornelius",
+        "name_en": "Andreas Cornelius",
+        "age": 32,
+        "squad_no": 21,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "DEN_2018_22",
+        "name_cn": "Frederik Rønnow",
+        "name_en": "Frederik Rønnow",
+        "age": 23,
+        "squad_no": 22,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "DEN_2018_23",
+        "name_cn": "Pione Sisto",
+        "name_en": "Pione Sisto",
+        "age": 28,
+        "squad_no": 23,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 68
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      }
+    ],
+    "2022": [
+      {
+        "id": "DEN_2022_01",
+        "name_cn": "舒梅切尔",
+        "name_en": "Kasper Schmeichel",
+        "age": 31,
+        "squad_no": 1,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 87
+          }
+        ],
+        "tags": [
+          "老舒之子"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "DEN_2022_02",
+        "name_cn": "Joachim Andersen",
+        "name_en": "Joachim Andersen",
+        "age": 26,
+        "squad_no": 2,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          },
+          {
+            "pos": "RB",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "DEN_2022_03",
+        "name_cn": "Victor Nelsson",
+        "name_en": "Victor Nelsson",
+        "age": 33,
+        "squad_no": 3,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          },
+          {
+            "pos": "LB",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "DEN_2022_04",
+        "name_cn": "克亚尔",
+        "name_en": "Simon Kjær",
+        "age": 33,
+        "squad_no": 4,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 84
+          }
+        ],
+        "tags": [
+          "队长"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "DEN_2022_05",
+        "name_cn": "Joakim Mæhle",
+        "name_en": "Joakim Mæhle",
+        "age": 32,
+        "squad_no": 5,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "DEN_2022_06",
+        "name_cn": "Andreas Christensen",
+        "name_en": "Andreas Christensen",
+        "age": 22,
+        "squad_no": 6,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "DEN_2022_07",
+        "name_cn": "Mathias Jensen",
+        "name_en": "Mathias Jensen",
+        "age": 31,
+        "squad_no": 7,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "DEN_2022_08",
+        "name_cn": "德莱尼",
+        "name_en": "Thomas Delaney",
+        "age": 29,
+        "squad_no": 8,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 83
+          },
+          {
+            "pos": "DM",
+            "ovr": 82
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "DEN_2022_09",
+        "name_cn": "勃拉特怀特",
+        "name_en": "Martin Braithwaite",
+        "age": 26,
+        "squad_no": 9,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "DEN_2022_10",
+        "name_cn": "埃里克森",
+        "name_en": "Christian Eriksen",
+        "age": 32,
+        "squad_no": 10,
+        "positions": [
+          {
+            "pos": "CAM",
+            "ovr": 90
+          },
+          {
+            "pos": "CM",
+            "ovr": 87
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "DEN_2022_11",
+        "name_cn": "Andreas Skov Olsen",
+        "name_en": "Andreas Skov Olsen",
+        "age": 31,
+        "squad_no": 11,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "DEN_2022_12",
+        "name_cn": "Kasper Dolberg",
+        "name_en": "Kasper Dolberg",
+        "age": 31,
+        "squad_no": 12,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "DEN_2022_13",
+        "name_cn": "Rasmus Kristensen",
+        "name_en": "Rasmus Kristensen",
+        "age": 25,
+        "squad_no": 13,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "DEN_2022_14",
+        "name_cn": "达姆斯加德",
+        "name_en": "Mikkel Damsgaard",
+        "age": 33,
+        "squad_no": 14,
+        "positions": [
+          {
+            "pos": "LW",
+            "ovr": 83
+          },
+          {
+            "pos": "CAM",
+            "ovr": 82
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "DEN_2022_15",
+        "name_cn": "Christian Nørgaard",
+        "name_en": "Christian Nørgaard",
+        "age": 22,
+        "squad_no": 15,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "DEN_2022_16",
+        "name_cn": "Oliver Christensen",
+        "name_en": "Oliver Christensen",
+        "age": 31,
+        "squad_no": 16,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 72
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "DEN_2022_17",
+        "name_cn": "Jens Stryger Larsen",
+        "name_en": "Jens Stryger Larsen",
+        "age": 29,
+        "squad_no": 17,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "DEN_2022_18",
+        "name_cn": "Daniel Wass",
+        "name_en": "Daniel Wass",
+        "age": 24,
+        "squad_no": 18,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "DEN_2022_19",
+        "name_cn": "Jonas Wind",
+        "name_en": "Jonas Wind",
+        "age": 30,
+        "squad_no": 19,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "DEN_2022_20",
+        "name_cn": "Yussuf Poulsen",
+        "name_en": "Yussuf Poulsen",
+        "age": 32,
+        "squad_no": 20,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "DEN_2022_21",
+        "name_cn": "Andreas Cornelius",
+        "name_en": "Andreas Cornelius",
+        "age": 33,
+        "squad_no": 21,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "DEN_2022_22",
+        "name_cn": "Frederik Rønnow",
+        "name_en": "Frederik Rønnow",
+        "age": 31,
+        "squad_no": 22,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "DEN_2022_23",
+        "name_cn": "赫伊别尔",
+        "name_en": "Pierre-Emile Højbjerg",
+        "age": 28,
+        "squad_no": 23,
+        "positions": [
+          {
+            "pos": "DM",
+            "ovr": 85
+          },
+          {
+            "pos": "CM",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "DEN_2022_24",
+        "name_cn": "Robert Skov",
+        "name_en": "Robert Skov",
+        "age": 24,
+        "squad_no": 24,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 68
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "DEN_2022_25",
+        "name_cn": "Jesper Lindstrøm",
+        "name_en": "Jesper Lindstrøm",
+        "age": 32,
+        "squad_no": 25,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 68
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "DEN_2022_26",
+        "name_cn": "Alexander Bah",
+        "name_en": "Alexander Bah",
+        "age": 25,
+        "squad_no": 26,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 68
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      }
+    ]
+  }
+}

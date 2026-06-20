@@ -1,0 +1,821 @@
+{
+  "country_code": "QAT",
+  "squads": {
+    "2022": [
+      {
+        "id": "QAT_2022_01",
+        "name_cn": "Saad Al-Sheeb",
+        "name_en": "Saad Al-Sheeb",
+        "age": 28,
+        "squad_no": 1,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "QAT_2022_02",
+        "name_cn": "Ró-Ró",
+        "name_en": "Ró-Ró",
+        "age": 30,
+        "squad_no": 2,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          },
+          {
+            "pos": "RB",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "QAT_2022_03",
+        "name_cn": "Abdelkarim Hassan",
+        "name_en": "Abdelkarim Hassan",
+        "age": 28,
+        "squad_no": 3,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "QAT_2022_04",
+        "name_cn": "Mohammed Waad",
+        "name_en": "Mohammed Waad",
+        "age": 30,
+        "squad_no": 4,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "QAT_2022_05",
+        "name_cn": "Tarek Salman",
+        "name_en": "Tarek Salman",
+        "age": 27,
+        "squad_no": 5,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "QAT_2022_06",
+        "name_cn": "Abdulaziz Hatem",
+        "name_en": "Abdulaziz Hatem",
+        "age": 26,
+        "squad_no": 6,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          },
+          {
+            "pos": "DM",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "QAT_2022_07",
+        "name_cn": "Ahmed Alaaeldin",
+        "name_en": "Ahmed Alaaeldin",
+        "age": 30,
+        "squad_no": 7,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 73
+          },
+          {
+            "pos": "LW",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "QAT_2022_08",
+        "name_cn": "Ali Assadalla",
+        "name_en": "Ali Assadalla",
+        "age": 29,
+        "squad_no": 8,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          },
+          {
+            "pos": "DM",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "QAT_2022_09",
+        "name_cn": "Mohammed Muntari",
+        "name_en": "Mohammed Muntari",
+        "age": 22,
+        "squad_no": 9,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 73
+          },
+          {
+            "pos": "CAM",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "QAT_2022_10",
+        "name_cn": "Hassan Al-Haydos",
+        "name_en": "Hassan Al-Haydos",
+        "age": 33,
+        "squad_no": 10,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          },
+          {
+            "pos": "CAM",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "QAT_2022_11",
+        "name_cn": "阿菲夫",
+        "name_en": "Akram Afif",
+        "age": 31,
+        "squad_no": 11,
+        "positions": [
+          {
+            "pos": "CAM",
+            "ovr": 84
+          },
+          {
+            "pos": "LW",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "QAT_2022_12",
+        "name_cn": "Karim Boudiaf",
+        "name_en": "Karim Boudiaf",
+        "age": 31,
+        "squad_no": 12,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "QAT_2022_13",
+        "name_cn": "Musab Kheder",
+        "name_en": "Musab Kheder",
+        "age": 30,
+        "squad_no": 13,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "QAT_2022_14",
+        "name_cn": "Homam Ahmed",
+        "name_en": "Homam Ahmed",
+        "age": 28,
+        "squad_no": 14,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "QAT_2022_15",
+        "name_cn": "Bassam Al-Rawi",
+        "name_en": "Bassam Al-Rawi",
+        "age": 23,
+        "squad_no": 15,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "QAT_2022_16",
+        "name_cn": "Boualem Khoukhi",
+        "name_en": "Boualem Khoukhi",
+        "age": 28,
+        "squad_no": 16,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "QAT_2022_17",
+        "name_cn": "Ismaeel Mohammad",
+        "name_en": "Ismaeel Mohammad",
+        "age": 24,
+        "squad_no": 17,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "QAT_2022_18",
+        "name_cn": "Khalid Muneer",
+        "name_en": "Khalid Muneer",
+        "age": 24,
+        "squad_no": 18,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "QAT_2022_19",
+        "name_cn": "阿尔莫埃兹·阿里",
+        "name_en": "Almoez Ali",
+        "age": 31,
+        "squad_no": 19,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "QAT_2022_20",
+        "name_cn": "Salem Al-Hajri",
+        "name_en": "Salem Al-Hajri",
+        "age": 31,
+        "squad_no": 20,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "QAT_2022_21",
+        "name_cn": "Yousef Hassan",
+        "name_en": "Yousef Hassan",
+        "age": 31,
+        "squad_no": 21,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "QAT_2022_22",
+        "name_cn": "Meshaal Barsham",
+        "name_en": "Meshaal Barsham",
+        "age": 23,
+        "squad_no": 22,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "QAT_2022_23",
+        "name_cn": "Assim Madibo",
+        "name_en": "Assim Madibo",
+        "age": 23,
+        "squad_no": 23,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 68
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "QAT_2022_24",
+        "name_cn": "Naif Al-Hadhrami",
+        "name_en": "Naif Al-Hadhrami",
+        "age": 31,
+        "squad_no": 24,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 68
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "QAT_2022_25",
+        "name_cn": "Jassem Gaber",
+        "name_en": "Jassem Gaber",
+        "age": 23,
+        "squad_no": 25,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 68
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "QAT_2022_26",
+        "name_cn": "Mostafa Meshaal",
+        "name_en": "Mostafa Meshaal",
+        "age": 26,
+        "squad_no": 26,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 68
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      }
+    ],
+    "2026": [
+      {
+        "id": "QAT_2026_01",
+        "name_cn": "Salah Zakaria",
+        "name_en": "Salah Zakaria",
+        "age": 30,
+        "squad_no": 1,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "QAT_2026_02",
+        "name_cn": "Meshaal Barsham",
+        "name_en": "Meshaal Barsham",
+        "age": 27,
+        "squad_no": 2,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "QAT_2026_03",
+        "name_cn": "Mahmoud Abunada",
+        "name_en": "Mahmoud Abunada",
+        "age": 28,
+        "squad_no": 3,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "QAT_2026_04",
+        "name_cn": "Boualem Khoukhi",
+        "name_en": "Boualem Khoukhi",
+        "age": 26,
+        "squad_no": 4,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "QAT_2026_05",
+        "name_cn": "Pedro Miguel",
+        "name_en": "Pedro Miguel",
+        "age": 28,
+        "squad_no": 5,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "QAT_2026_06",
+        "name_cn": "Sultan Al Brake",
+        "name_en": "Sultan Al Brake",
+        "age": 32,
+        "squad_no": 6,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "QAT_2026_07",
+        "name_cn": "Al-Hashmi Al-Hussain",
+        "name_en": "Al-Hashmi Al-Hussain",
+        "age": 29,
+        "squad_no": 7,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "QAT_2026_08",
+        "name_cn": "Ayoub Al-Alawi",
+        "name_en": "Ayoub Al-Alawi",
+        "age": 31,
+        "squad_no": 8,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "QAT_2026_09",
+        "name_cn": "Issa Laye",
+        "name_en": "Issa Laye",
+        "age": 31,
+        "squad_no": 9,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "QAT_2026_10",
+        "name_cn": "Lucas Mendes",
+        "name_en": "Lucas Mendes",
+        "age": 29,
+        "squad_no": 10,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "QAT_2026_11",
+        "name_cn": "Homam Al-Amin",
+        "name_en": "Homam Al-Amin",
+        "age": 22,
+        "squad_no": 11,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "QAT_2026_12",
+        "name_cn": "Ahmed Fathi",
+        "name_en": "Ahmed Fathi",
+        "age": 24,
+        "squad_no": 12,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "QAT_2026_13",
+        "name_cn": "Jassim Gaber",
+        "name_en": "Jassim Gaber",
+        "age": 26,
+        "squad_no": 13,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "QAT_2026_14",
+        "name_cn": "Assim Madibo",
+        "name_en": "Assim Madibo",
+        "age": 28,
+        "squad_no": 14,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "QAT_2026_15",
+        "name_cn": "Abdulaziz Hatem",
+        "name_en": "Abdulaziz Hatem",
+        "age": 24,
+        "squad_no": 15,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "QAT_2026_16",
+        "name_cn": "Karim Boudiaf",
+        "name_en": "Karim Boudiaf",
+        "age": 31,
+        "squad_no": 16,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "QAT_2026_17",
+        "name_cn": "Mohammed Mannai",
+        "name_en": "Mohammed Mannai",
+        "age": 31,
+        "squad_no": 17,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "QAT_2026_18",
+        "name_cn": "Almoez Ali",
+        "name_en": "Almoez Ali",
+        "age": 32,
+        "squad_no": 18,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "QAT_2026_19",
+        "name_cn": "阿菲夫",
+        "name_en": "Akram Afif",
+        "age": 33,
+        "squad_no": 19,
+        "positions": [
+          {
+            "pos": "CAM",
+            "ovr": 84
+          },
+          {
+            "pos": "LW",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "QAT_2026_20",
+        "name_cn": "Tahsin Mohammed",
+        "name_en": "Tahsin Mohammed",
+        "age": 28,
+        "squad_no": 20,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "QAT_2026_21",
+        "name_cn": "Edmílson Junior",
+        "name_en": "Edmílson Junior",
+        "age": 22,
+        "squad_no": 21,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "QAT_2026_22",
+        "name_cn": "Ahmed Al-Ganehi",
+        "name_en": "Ahmed Al-Ganehi",
+        "age": 28,
+        "squad_no": 22,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "QAT_2026_23",
+        "name_cn": "Ahmed Alaa",
+        "name_en": "Ahmed Alaa",
+        "age": 27,
+        "squad_no": 23,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "QAT_2026_24",
+        "name_cn": "Hassan Al-Haydos",
+        "name_en": "Hassan Al-Haydos",
+        "age": 33,
+        "squad_no": 24,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "QAT_2026_25",
+        "name_cn": "Mohammed Muntari",
+        "name_en": "Mohammed Muntari",
+        "age": 25,
+        "squad_no": 25,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "QAT_2026_26",
+        "name_cn": "Yusuf Abdurisag",
+        "name_en": "Yusuf Abdurisag",
+        "age": 22,
+        "squad_no": 26,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      }
+    ]
+  }
+}

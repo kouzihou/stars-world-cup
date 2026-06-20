@@ -1,0 +1,2626 @@
+{
+  "country_code": "KSA",
+  "squads": {
+    "1994": [
+      {
+        "id": "KSA_1994_01",
+        "name_cn": "Mohamed Al-Deayea",
+        "name_en": "Mohamed Al-Deayea",
+        "age": 32,
+        "squad_no": 1,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KSA_1994_02",
+        "name_cn": "Abdullah Al-Dosari",
+        "name_en": "Abdullah Al-Dosari",
+        "age": 25,
+        "squad_no": 2,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 72
+          },
+          {
+            "pos": "RB",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KSA_1994_03",
+        "name_cn": "Mohammed Al-Khilaiwi",
+        "name_en": "Mohammed Al-Khilaiwi",
+        "age": 26,
+        "squad_no": 3,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 72
+          },
+          {
+            "pos": "LB",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KSA_1994_04",
+        "name_cn": "Abdullah Sulaiman Zubromawi",
+        "name_en": "Abdullah Sulaiman Zubromawi",
+        "age": 30,
+        "squad_no": 4,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 72
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KSA_1994_05",
+        "name_cn": "Ahmed Jamil Madani",
+        "name_en": "Ahmed Jamil Madani",
+        "age": 33,
+        "squad_no": 5,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 72
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KSA_1994_06",
+        "name_cn": "Fuad Anwar",
+        "name_en": "Fuad Anwar",
+        "age": 22,
+        "squad_no": 6,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 72
+          },
+          {
+            "pos": "DM",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KSA_1994_07",
+        "name_cn": "Fahad Al-Ghesheyan",
+        "name_en": "Fahad Al-Ghesheyan",
+        "age": 25,
+        "squad_no": 7,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 72
+          },
+          {
+            "pos": "LW",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KSA_1994_08",
+        "name_cn": "Fahad Al-Bishi",
+        "name_en": "Fahad Al-Bishi",
+        "age": 31,
+        "squad_no": 8,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 72
+          },
+          {
+            "pos": "DM",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KSA_1994_09",
+        "name_cn": "Majed Abdullah",
+        "name_en": "Majed Abdullah",
+        "age": 28,
+        "squad_no": 9,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 72
+          },
+          {
+            "pos": "CAM",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KSA_1994_10",
+        "name_cn": "欧瓦兰",
+        "name_en": "Saeed Al-Owairan",
+        "age": 27,
+        "squad_no": 10,
+        "positions": [
+          {
+            "pos": "CAM",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KSA_1994_11",
+        "name_cn": "Fahad Al-Mehallel",
+        "name_en": "Fahad Al-Mehallel",
+        "age": 24,
+        "squad_no": 11,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 72
+          },
+          {
+            "pos": "LW",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KSA_1994_12",
+        "name_cn": "Sami Al-Jaber",
+        "name_en": "Sami Al-Jaber",
+        "age": 24,
+        "squad_no": 12,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KSA_1994_13",
+        "name_cn": "Mohamed Abd Al-Jawad",
+        "name_en": "Mohamed Abd Al-Jawad",
+        "age": 25,
+        "squad_no": 13,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KSA_1994_14",
+        "name_cn": "Khalid Al-Muwallid",
+        "name_en": "Khalid Al-Muwallid",
+        "age": 31,
+        "squad_no": 14,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KSA_1994_15",
+        "name_cn": "Saleh Al-Dawod",
+        "name_en": "Saleh Al-Dawod",
+        "age": 27,
+        "squad_no": 15,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KSA_1994_16",
+        "name_cn": "Talal Jebreen",
+        "name_en": "Talal Jebreen",
+        "age": 33,
+        "squad_no": 16,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KSA_1994_17",
+        "name_cn": "Yassir Al-Taifi",
+        "name_en": "Yassir Al-Taifi",
+        "age": 33,
+        "squad_no": 17,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 68
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KSA_1994_18",
+        "name_cn": "Awad Al-Anazi",
+        "name_en": "Awad Al-Anazi",
+        "age": 27,
+        "squad_no": 18,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 68
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KSA_1994_19",
+        "name_cn": "Hamzah Saleh",
+        "name_en": "Hamzah Saleh",
+        "age": 31,
+        "squad_no": 19,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 68
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KSA_1994_20",
+        "name_cn": "Hamzah Idris",
+        "name_en": "Hamzah Idris",
+        "age": 22,
+        "squad_no": 20,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 68
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KSA_1994_21",
+        "name_cn": "Hussein Al-Sadiq",
+        "name_en": "Hussein Al-Sadiq",
+        "age": 33,
+        "squad_no": 21,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KSA_1994_22",
+        "name_cn": "Ibrahim Al-Helwah",
+        "name_en": "Ibrahim Al-Helwah",
+        "age": 33,
+        "squad_no": 22,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      }
+    ],
+    "1998": [
+      {
+        "id": "KSA_1998_01",
+        "name_cn": "Mohamed Al-Deayea",
+        "name_en": "Mohamed Al-Deayea",
+        "age": 27,
+        "squad_no": 1,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KSA_1998_02",
+        "name_cn": "Mohammed Al-Jahani",
+        "name_en": "Mohammed Al-Jahani",
+        "age": 31,
+        "squad_no": 2,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 72
+          },
+          {
+            "pos": "RB",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KSA_1998_03",
+        "name_cn": "Mohammed Al-Khilaiwi",
+        "name_en": "Mohammed Al-Khilaiwi",
+        "age": 31,
+        "squad_no": 3,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 72
+          },
+          {
+            "pos": "LB",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KSA_1998_04",
+        "name_cn": "Abdullah Sulaiman Zubromawi",
+        "name_en": "Abdullah Sulaiman Zubromawi",
+        "age": 24,
+        "squad_no": 4,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 72
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KSA_1998_05",
+        "name_cn": "Ahmed Jamil Madani",
+        "name_en": "Ahmed Jamil Madani",
+        "age": 31,
+        "squad_no": 5,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 72
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KSA_1998_06",
+        "name_cn": "Fuad Anwar",
+        "name_en": "Fuad Anwar",
+        "age": 25,
+        "squad_no": 6,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 72
+          },
+          {
+            "pos": "DM",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KSA_1998_07",
+        "name_cn": "Ibrahim Al-Shahrani",
+        "name_en": "Ibrahim Al-Shahrani",
+        "age": 29,
+        "squad_no": 7,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 72
+          },
+          {
+            "pos": "LW",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KSA_1998_08",
+        "name_cn": "Obeid Al-Dosari",
+        "name_en": "Obeid Al-Dosari",
+        "age": 30,
+        "squad_no": 8,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 72
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KSA_1998_09",
+        "name_cn": "Sami Al-Jaber",
+        "name_en": "Sami Al-Jaber",
+        "age": 26,
+        "squad_no": 9,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 72
+          },
+          {
+            "pos": "CAM",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KSA_1998_10",
+        "name_cn": "Saeed Al-Owairan",
+        "name_en": "Saeed Al-Owairan",
+        "age": 24,
+        "squad_no": 10,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 72
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KSA_1998_11",
+        "name_cn": "Fahad Al-Mehallel",
+        "name_en": "Fahad Al-Mehallel",
+        "age": 29,
+        "squad_no": 11,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 72
+          },
+          {
+            "pos": "LW",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KSA_1998_12",
+        "name_cn": "Ibrahim Al-Harbi",
+        "name_en": "Ibrahim Al-Harbi",
+        "age": 22,
+        "squad_no": 12,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KSA_1998_13",
+        "name_cn": "Hussein Abdulghani",
+        "name_en": "Hussein Abdulghani",
+        "age": 23,
+        "squad_no": 13,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KSA_1998_14",
+        "name_cn": "Khalid Al-Muwallid",
+        "name_en": "Khalid Al-Muwallid",
+        "age": 22,
+        "squad_no": 14,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KSA_1998_15",
+        "name_cn": "Yousuf Al-Thunayan",
+        "name_en": "Yousuf Al-Thunayan",
+        "age": 25,
+        "squad_no": 15,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KSA_1998_16",
+        "name_cn": "Khamis Al-Dosari",
+        "name_en": "Khamis Al-Dosari",
+        "age": 31,
+        "squad_no": 16,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KSA_1998_17",
+        "name_cn": "Ahmed Al-Dokhi",
+        "name_en": "Ahmed Al-Dokhi",
+        "age": 25,
+        "squad_no": 17,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 68
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KSA_1998_18",
+        "name_cn": "Nawaf Al-Temyat",
+        "name_en": "Nawaf Al-Temyat",
+        "age": 22,
+        "squad_no": 18,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 68
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KSA_1998_19",
+        "name_cn": "Abdulaziz Al-Janoubi",
+        "name_en": "Abdulaziz Al-Janoubi",
+        "age": 30,
+        "squad_no": 19,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 68
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KSA_1998_20",
+        "name_cn": "Hamzah Saleh",
+        "name_en": "Hamzah Saleh",
+        "age": 29,
+        "squad_no": 20,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 68
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KSA_1998_21",
+        "name_cn": "Hussein Al-Sadiq",
+        "name_en": "Hussein Al-Sadiq",
+        "age": 22,
+        "squad_no": 21,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KSA_1998_22",
+        "name_cn": "Tisir Al-Antaif",
+        "name_en": "Tisir Al-Antaif",
+        "age": 27,
+        "squad_no": 22,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      }
+    ],
+    "2002": [
+      {
+        "id": "KSA_2002_01",
+        "name_cn": "Mohamed Al-Deayea",
+        "name_en": "Mohamed Al-Deayea",
+        "age": 31,
+        "squad_no": 1,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KSA_2002_02",
+        "name_cn": "Mohammed Al-Jahani",
+        "name_en": "Mohammed Al-Jahani",
+        "age": 25,
+        "squad_no": 2,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          },
+          {
+            "pos": "RB",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KSA_2002_03",
+        "name_cn": "Redha Tukar",
+        "name_en": "Redha Tukar",
+        "age": 24,
+        "squad_no": 3,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          },
+          {
+            "pos": "LB",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KSA_2002_04",
+        "name_cn": "Abdullah Sulaiman Zubromawi",
+        "name_en": "Abdullah Sulaiman Zubromawi",
+        "age": 27,
+        "squad_no": 4,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KSA_2002_05",
+        "name_cn": "Mohsin Al-Harthi",
+        "name_en": "Mohsin Al-Harthi",
+        "age": 33,
+        "squad_no": 5,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KSA_2002_06",
+        "name_cn": "Fouzi Al-Shehri",
+        "name_en": "Fouzi Al-Shehri",
+        "age": 24,
+        "squad_no": 6,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KSA_2002_07",
+        "name_cn": "Ibrahim Al-Shahrani",
+        "name_en": "Ibrahim Al-Shahrani",
+        "age": 27,
+        "squad_no": 7,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KSA_2002_08",
+        "name_cn": "Mohammed Noor",
+        "name_en": "Mohammed Noor",
+        "age": 22,
+        "squad_no": 8,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          },
+          {
+            "pos": "DM",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KSA_2002_09",
+        "name_cn": "Sami Al-Jaber",
+        "name_en": "Sami Al-Jaber",
+        "age": 22,
+        "squad_no": 9,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 73
+          },
+          {
+            "pos": "CAM",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KSA_2002_10",
+        "name_cn": "Mohammad Al-Shalhoub",
+        "name_en": "Mohammad Al-Shalhoub",
+        "age": 24,
+        "squad_no": 10,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          },
+          {
+            "pos": "CAM",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KSA_2002_11",
+        "name_cn": "Obeid Al-Dosari",
+        "name_en": "Obeid Al-Dosari",
+        "age": 31,
+        "squad_no": 11,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 73
+          },
+          {
+            "pos": "LW",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KSA_2002_12",
+        "name_cn": "Ahmed Al-Dokhi",
+        "name_en": "Ahmed Al-Dokhi",
+        "age": 33,
+        "squad_no": 12,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KSA_2002_13",
+        "name_cn": "Hussein Abdulghani",
+        "name_en": "Hussein Abdulghani",
+        "age": 24,
+        "squad_no": 13,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KSA_2002_14",
+        "name_cn": "Abdulaziz Al-Khathran",
+        "name_en": "Abdulaziz Al-Khathran",
+        "age": 23,
+        "squad_no": 14,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KSA_2002_15",
+        "name_cn": "Abdullah Al-Jumaan",
+        "name_en": "Abdullah Al-Jumaan",
+        "age": 30,
+        "squad_no": 15,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KSA_2002_16",
+        "name_cn": "Khamis Al-Dosari",
+        "name_en": "Khamis Al-Dosari",
+        "age": 27,
+        "squad_no": 16,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KSA_2002_17",
+        "name_cn": "Abdullah Al-Waked",
+        "name_en": "Abdullah Al-Waked",
+        "age": 23,
+        "squad_no": 17,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KSA_2002_18",
+        "name_cn": "Nawaf Al-Temyat",
+        "name_en": "Nawaf Al-Temyat",
+        "age": 27,
+        "squad_no": 18,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KSA_2002_19",
+        "name_cn": "Omar Al-Ghamdi",
+        "name_en": "Omar Al-Ghamdi",
+        "age": 33,
+        "squad_no": 19,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KSA_2002_20",
+        "name_cn": "Al Hasan Al-Yami",
+        "name_en": "Al Hasan Al-Yami",
+        "age": 32,
+        "squad_no": 20,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KSA_2002_21",
+        "name_cn": "Mabrouk Zaid",
+        "name_en": "Mabrouk Zaid",
+        "age": 28,
+        "squad_no": 21,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KSA_2002_22",
+        "name_cn": "Mohammed Al-Khojali",
+        "name_en": "Mohammed Al-Khojali",
+        "age": 31,
+        "squad_no": 22,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KSA_2002_23",
+        "name_cn": "Mansour Al-Thagafi",
+        "name_en": "Mansour Al-Thagafi",
+        "age": 23,
+        "squad_no": 23,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 68
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      }
+    ],
+    "2006": [
+      {
+        "id": "KSA_2006_01",
+        "name_cn": "Mohamed Al-Deayea",
+        "name_en": "Mohamed Al-Deayea",
+        "age": 27,
+        "squad_no": 1,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KSA_2006_02",
+        "name_cn": "Ahmed Al-Dokhi",
+        "name_en": "Ahmed Al-Dokhi",
+        "age": 26,
+        "squad_no": 2,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          },
+          {
+            "pos": "RB",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KSA_2006_03",
+        "name_cn": "Redha Tukar",
+        "name_en": "Redha Tukar",
+        "age": 27,
+        "squad_no": 3,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          },
+          {
+            "pos": "LB",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KSA_2006_04",
+        "name_cn": "Hamad Al-Montashari",
+        "name_en": "Hamad Al-Montashari",
+        "age": 24,
+        "squad_no": 4,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KSA_2006_05",
+        "name_cn": "Naif Al-Qadi",
+        "name_en": "Naif Al-Qadi",
+        "age": 24,
+        "squad_no": 5,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KSA_2006_06",
+        "name_cn": "Omar Al-Ghamdi",
+        "name_en": "Omar Al-Ghamdi",
+        "age": 33,
+        "squad_no": 6,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          },
+          {
+            "pos": "DM",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KSA_2006_07",
+        "name_cn": "Mohammed Ameen",
+        "name_en": "Mohammed Ameen",
+        "age": 28,
+        "squad_no": 7,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KSA_2006_08",
+        "name_cn": "Mohammed Noor",
+        "name_en": "Mohammed Noor",
+        "age": 32,
+        "squad_no": 8,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          },
+          {
+            "pos": "DM",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KSA_2006_09",
+        "name_cn": "Sami Al-Jaber",
+        "name_en": "Sami Al-Jaber",
+        "age": 29,
+        "squad_no": 9,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 73
+          },
+          {
+            "pos": "CAM",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KSA_2006_10",
+        "name_cn": "Mohammad Al-Shalhoub",
+        "name_en": "Mohammad Al-Shalhoub",
+        "age": 32,
+        "squad_no": 10,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          },
+          {
+            "pos": "CAM",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KSA_2006_11",
+        "name_cn": "Saad Al-Harthi",
+        "name_en": "Saad Al-Harthi",
+        "age": 27,
+        "squad_no": 11,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 73
+          },
+          {
+            "pos": "LW",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KSA_2006_12",
+        "name_cn": "Abdulaziz Al-Khathran",
+        "name_en": "Abdulaziz Al-Khathran",
+        "age": 24,
+        "squad_no": 12,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KSA_2006_13",
+        "name_cn": "Hussein Abdulghani",
+        "name_en": "Hussein Abdulghani",
+        "age": 33,
+        "squad_no": 13,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KSA_2006_14",
+        "name_cn": "Saud Kariri",
+        "name_en": "Saud Kariri",
+        "age": 30,
+        "squad_no": 14,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KSA_2006_15",
+        "name_cn": "Ahmed Al-Bahri",
+        "name_en": "Ahmed Al-Bahri",
+        "age": 33,
+        "squad_no": 15,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KSA_2006_16",
+        "name_cn": "Khaled Aziz",
+        "name_en": "Khaled Aziz",
+        "age": 31,
+        "squad_no": 16,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KSA_2006_17",
+        "name_cn": "Mohamed Al-Bishi",
+        "name_en": "Mohamed Al-Bishi",
+        "age": 27,
+        "squad_no": 17,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KSA_2006_18",
+        "name_cn": "Nawaf Al-Temyat",
+        "name_en": "Nawaf Al-Temyat",
+        "age": 25,
+        "squad_no": 18,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KSA_2006_19",
+        "name_cn": "Mohammad Massad",
+        "name_en": "Mohammad Massad",
+        "age": 32,
+        "squad_no": 19,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KSA_2006_20",
+        "name_cn": "Yasser Al-Qahtani",
+        "name_en": "Yasser Al-Qahtani",
+        "age": 31,
+        "squad_no": 20,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KSA_2006_21",
+        "name_cn": "Mabrouk Zaid",
+        "name_en": "Mabrouk Zaid",
+        "age": 24,
+        "squad_no": 21,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KSA_2006_22",
+        "name_cn": "Mohammad Khouja",
+        "name_en": "Mohammad Khouja",
+        "age": 28,
+        "squad_no": 22,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KSA_2006_23",
+        "name_cn": "Malek Mouath",
+        "name_en": "Malek Mouath",
+        "age": 26,
+        "squad_no": 23,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 68
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      }
+    ],
+    "2018": [
+      {
+        "id": "KSA_2018_01",
+        "name_cn": "Abdullah Al-Mayouf",
+        "name_en": "Abdullah Al-Mayouf",
+        "age": 33,
+        "squad_no": 1,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KSA_2018_02",
+        "name_cn": "Mansoor Al-Harbi",
+        "name_en": "Mansoor Al-Harbi",
+        "age": 33,
+        "squad_no": 2,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          },
+          {
+            "pos": "RB",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KSA_2018_03",
+        "name_cn": "Osama Hawsawi",
+        "name_en": "Osama Hawsawi",
+        "age": 26,
+        "squad_no": 3,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          },
+          {
+            "pos": "LB",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KSA_2018_04",
+        "name_cn": "Ali Al-Bulaihi",
+        "name_en": "Ali Al-Bulaihi",
+        "age": 24,
+        "squad_no": 4,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KSA_2018_05",
+        "name_cn": "纳吉",
+        "name_en": "Najeh",
+        "age": 24,
+        "squad_no": 5,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KSA_2018_06",
+        "name_cn": "Mohammed Al-Breik",
+        "name_en": "Mohammed Al-Breik",
+        "age": 33,
+        "squad_no": 6,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KSA_2018_07",
+        "name_cn": "Salman Al-Faraj",
+        "name_en": "Salman Al-Faraj",
+        "age": 22,
+        "squad_no": 7,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KSA_2018_08",
+        "name_cn": "Yahya Al-Shehri",
+        "name_en": "Yahya Al-Shehri",
+        "age": 33,
+        "squad_no": 8,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          },
+          {
+            "pos": "DM",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KSA_2018_09",
+        "name_cn": "Hattan Bahebri",
+        "name_en": "Hattan Bahebri",
+        "age": 31,
+        "squad_no": 9,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KSA_2018_10",
+        "name_cn": "Mohammad Al-Sahlawi",
+        "name_en": "Mohammad Al-Sahlawi",
+        "age": 28,
+        "squad_no": 10,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KSA_2018_11",
+        "name_cn": "Abdulmalek Al-Khaibri",
+        "name_en": "Abdulmalek Al-Khaibri",
+        "age": 31,
+        "squad_no": 11,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KSA_2018_12",
+        "name_cn": "Mohamed Kanno",
+        "name_en": "Mohamed Kanno",
+        "age": 22,
+        "squad_no": 12,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KSA_2018_13",
+        "name_cn": "Yasser Al-Shahrani",
+        "name_en": "Yasser Al-Shahrani",
+        "age": 24,
+        "squad_no": 13,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KSA_2018_14",
+        "name_cn": "Abdullah Otayf",
+        "name_en": "Abdullah Otayf",
+        "age": 31,
+        "squad_no": 14,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KSA_2018_15",
+        "name_cn": "Abdullah Al-Khaibari",
+        "name_en": "Abdullah Al-Khaibari",
+        "age": 27,
+        "squad_no": 15,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KSA_2018_16",
+        "name_cn": "Housain Al-Mogahwi",
+        "name_en": "Housain Al-Mogahwi",
+        "age": 31,
+        "squad_no": 16,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KSA_2018_17",
+        "name_cn": "Taisir Al-Jassim",
+        "name_en": "Taisir Al-Jassim",
+        "age": 25,
+        "squad_no": 17,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KSA_2018_18",
+        "name_cn": "Salem Al-Dawsari",
+        "name_en": "Salem Al-Dawsari",
+        "age": 32,
+        "squad_no": 18,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KSA_2018_19",
+        "name_cn": "Fahad Al-Muwallad",
+        "name_en": "Fahad Al-Muwallad",
+        "age": 31,
+        "squad_no": 19,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KSA_2018_20",
+        "name_cn": "Muhannad Assiri",
+        "name_en": "Muhannad Assiri",
+        "age": 23,
+        "squad_no": 20,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KSA_2018_21",
+        "name_cn": "Yasser Al-Mosailem",
+        "name_en": "Yasser Al-Mosailem",
+        "age": 29,
+        "squad_no": 21,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KSA_2018_22",
+        "name_cn": "Mohammed Al-Owais",
+        "name_en": "Mohammed Al-Owais",
+        "age": 24,
+        "squad_no": 22,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KSA_2018_23",
+        "name_cn": "Motaz Hawsawi",
+        "name_en": "Motaz Hawsawi",
+        "age": 27,
+        "squad_no": 23,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 68
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      }
+    ],
+    "2022": [
+      {
+        "id": "KSA_2022_01",
+        "name_cn": "Mohammed Al-Rubaie",
+        "name_en": "Mohammed Al-Rubaie",
+        "age": 33,
+        "squad_no": 1,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KSA_2022_02",
+        "name_cn": "Sultan Al-Ghannam",
+        "name_en": "Sultan Al-Ghannam",
+        "age": 23,
+        "squad_no": 2,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          },
+          {
+            "pos": "RB",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KSA_2022_03",
+        "name_cn": "Abdullah Madu",
+        "name_en": "Abdullah Madu",
+        "age": 25,
+        "squad_no": 3,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          },
+          {
+            "pos": "LB",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KSA_2022_04",
+        "name_cn": "Abdulelah Al-Amri",
+        "name_en": "Abdulelah Al-Amri",
+        "age": 27,
+        "squad_no": 4,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KSA_2022_05",
+        "name_cn": "Ali Al-Bulaihi",
+        "name_en": "Ali Al-Bulaihi",
+        "age": 27,
+        "squad_no": 5,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KSA_2022_06",
+        "name_cn": "Mohammed Al-Breik",
+        "name_en": "Mohammed Al-Breik",
+        "age": 24,
+        "squad_no": 6,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KSA_2022_07",
+        "name_cn": "Salman Al-Faraj",
+        "name_en": "Salman Al-Faraj",
+        "age": 32,
+        "squad_no": 7,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KSA_2022_08",
+        "name_cn": "Abdulellah Al-Malki",
+        "name_en": "Abdulellah Al-Malki",
+        "age": 23,
+        "squad_no": 8,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          },
+          {
+            "pos": "DM",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KSA_2022_09",
+        "name_cn": "Firas Al-Buraikan",
+        "name_en": "Firas Al-Buraikan",
+        "age": 33,
+        "squad_no": 9,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 73
+          },
+          {
+            "pos": "CAM",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KSA_2022_10",
+        "name_cn": "Salem Al-Dawsari",
+        "name_en": "Salem Al-Dawsari",
+        "age": 32,
+        "squad_no": 10,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KSA_2022_11",
+        "name_cn": "萨利赫·谢赫里",
+        "name_en": "Saleh Al-Shehri",
+        "age": 32,
+        "squad_no": 11,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 82
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KSA_2022_12",
+        "name_cn": "Saud Abdulhamid",
+        "name_en": "Saud Abdulhamid",
+        "age": 33,
+        "squad_no": 12,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KSA_2022_13",
+        "name_cn": "Yasser Al-Shahrani",
+        "name_en": "Yasser Al-Shahrani",
+        "age": 27,
+        "squad_no": 13,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KSA_2022_14",
+        "name_cn": "Abdullah Otayf",
+        "name_en": "Abdullah Otayf",
+        "age": 29,
+        "squad_no": 14,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KSA_2022_15",
+        "name_cn": "Ali Al-Hassan",
+        "name_en": "Ali Al-Hassan",
+        "age": 22,
+        "squad_no": 15,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KSA_2022_16",
+        "name_cn": "Sami Al-Najei",
+        "name_en": "Sami Al-Najei",
+        "age": 26,
+        "squad_no": 16,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KSA_2022_17",
+        "name_cn": "Hassan Al-Tambakti",
+        "name_en": "Hassan Al-Tambakti",
+        "age": 25,
+        "squad_no": 17,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KSA_2022_18",
+        "name_cn": "Nawaf Al-Abed",
+        "name_en": "Nawaf Al-Abed",
+        "age": 25,
+        "squad_no": 18,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KSA_2022_19",
+        "name_cn": "Hattan Bahebri",
+        "name_en": "Hattan Bahebri",
+        "age": 33,
+        "squad_no": 19,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KSA_2022_20",
+        "name_cn": "Abdulrahman Al-Aboud",
+        "name_en": "Abdulrahman Al-Aboud",
+        "age": 23,
+        "squad_no": 20,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KSA_2022_21",
+        "name_cn": "Mohammed Al-Owais",
+        "name_en": "Mohammed Al-Owais",
+        "age": 27,
+        "squad_no": 21,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KSA_2022_22",
+        "name_cn": "Nawaf Al-Aqidi",
+        "name_en": "Nawaf Al-Aqidi",
+        "age": 26,
+        "squad_no": 22,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KSA_2022_23",
+        "name_cn": "Mohamed Kanno",
+        "name_en": "Mohamed Kanno",
+        "age": 23,
+        "squad_no": 23,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 68
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KSA_2022_24",
+        "name_cn": "Nasser Al-Dawsari",
+        "name_en": "Nasser Al-Dawsari",
+        "age": 33,
+        "squad_no": 24,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 68
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KSA_2022_25",
+        "name_cn": "Haitham Asiri",
+        "name_en": "Haitham Asiri",
+        "age": 22,
+        "squad_no": 25,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 68
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KSA_2022_26",
+        "name_cn": "Riyadh Sharahili",
+        "name_en": "Riyadh Sharahili",
+        "age": 22,
+        "squad_no": 26,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 68
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      }
+    ],
+    "2026": [
+      {
+        "id": "KSA_2026_01",
+        "name_cn": "阿里",
+        "name_en": "Mohammed Al Owais",
+        "age": 28,
+        "squad_no": 1,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KSA_2026_02",
+        "name_cn": "Nawaf Al Aqidi",
+        "name_en": "Nawaf Al Aqidi",
+        "age": 29,
+        "squad_no": 2,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KSA_2026_03",
+        "name_cn": "Ahmed Al Kassar",
+        "name_en": "Ahmed Al Kassar",
+        "age": 33,
+        "squad_no": 3,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KSA_2026_04",
+        "name_cn": "Abdulelah Al Amri",
+        "name_en": "Abdulelah Al Amri",
+        "age": 28,
+        "squad_no": 4,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KSA_2026_05",
+        "name_cn": "Hassan Tambakti",
+        "name_en": "Hassan Tambakti",
+        "age": 24,
+        "squad_no": 5,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KSA_2026_06",
+        "name_cn": "Jehad Thikri",
+        "name_en": "Jehad Thikri",
+        "age": 28,
+        "squad_no": 6,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KSA_2026_07",
+        "name_cn": "Ali Lajami",
+        "name_en": "Ali Lajami",
+        "age": 29,
+        "squad_no": 7,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KSA_2026_08",
+        "name_cn": "Hassan Kadesh",
+        "name_en": "Hassan Kadesh",
+        "age": 28,
+        "squad_no": 8,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KSA_2026_09",
+        "name_cn": "阿卜杜勒哈米德",
+        "name_en": "Saud Abdulhamid",
+        "age": 27,
+        "squad_no": 9,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KSA_2026_10",
+        "name_cn": "Mohammed Abu Al Shamat",
+        "name_en": "Mohammed Abu Al Shamat",
+        "age": 30,
+        "squad_no": 10,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KSA_2026_11",
+        "name_cn": "Ali Majrashi",
+        "name_en": "Ali Majrashi",
+        "age": 28,
+        "squad_no": 11,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KSA_2026_12",
+        "name_cn": "Moteb Al Harbi",
+        "name_en": "Moteb Al Harbi",
+        "age": 23,
+        "squad_no": 12,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KSA_2026_13",
+        "name_cn": "Nawaf Boushal",
+        "name_en": "Nawaf Boushal",
+        "age": 29,
+        "squad_no": 13,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KSA_2026_14",
+        "name_cn": "Sultan Al-Ghannam",
+        "name_en": "Sultan Al-Ghannam",
+        "age": 31,
+        "squad_no": 14,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KSA_2026_15",
+        "name_cn": "Mohammed Kanno",
+        "name_en": "Mohammed Kanno",
+        "age": 32,
+        "squad_no": 15,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KSA_2026_16",
+        "name_cn": "Abdullah Al Khaibari",
+        "name_en": "Abdullah Al Khaibari",
+        "age": 32,
+        "squad_no": 16,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KSA_2026_17",
+        "name_cn": "Ziyad Al Johani",
+        "name_en": "Ziyad Al Johani",
+        "age": 25,
+        "squad_no": 17,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KSA_2026_18",
+        "name_cn": "Nasser Al Dawsari",
+        "name_en": "Nasser Al Dawsari",
+        "age": 24,
+        "squad_no": 18,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KSA_2026_19",
+        "name_cn": "Musab Al Juwayr",
+        "name_en": "Musab Al Juwayr",
+        "age": 29,
+        "squad_no": 19,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KSA_2026_20",
+        "name_cn": "Alaa Al Hajji",
+        "name_en": "Alaa Al Hajji",
+        "age": 23,
+        "squad_no": 20,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KSA_2026_21",
+        "name_cn": "多萨里",
+        "name_en": "Salem Al Dawsari",
+        "age": 22,
+        "squad_no": 21,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KSA_2026_22",
+        "name_cn": "Khalid Al Ghannam",
+        "name_en": "Khalid Al Ghannam",
+        "age": 26,
+        "squad_no": 22,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KSA_2026_23",
+        "name_cn": "Ayman Yahya",
+        "name_en": "Ayman Yahya",
+        "age": 22,
+        "squad_no": 23,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KSA_2026_24",
+        "name_cn": "布赖坎",
+        "name_en": "Firas Al Buraikan",
+        "age": 27,
+        "squad_no": 24,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KSA_2026_25",
+        "name_cn": "萨利赫·谢赫里",
+        "name_en": "Saleh Al Shehri",
+        "age": 26,
+        "squad_no": 25,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 82
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "KSA_2026_26",
+        "name_cn": "Abdullah Al Hamdan",
+        "name_en": "Abdullah Al Hamdan",
+        "age": 23,
+        "squad_no": 26,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      }
+    ]
+  }
+}

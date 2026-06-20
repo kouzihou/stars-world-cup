@@ -1,0 +1,366 @@
+{
+  "country_code": "PER",
+  "squads": {
+    "2018": [
+      {
+        "id": "PER_2018_01",
+        "name_cn": "Pedro Gallese",
+        "name_en": "Pedro Gallese",
+        "age": 26,
+        "squad_no": 1,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "PER_2018_02",
+        "name_cn": "Alberto Rodríguez",
+        "name_en": "Alberto Rodríguez",
+        "age": 27,
+        "squad_no": 2,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          },
+          {
+            "pos": "RB",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "PER_2018_03",
+        "name_cn": "Aldo Corzo",
+        "name_en": "Aldo Corzo",
+        "age": 29,
+        "squad_no": 3,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          },
+          {
+            "pos": "LB",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "PER_2018_04",
+        "name_cn": "Anderson Santamaría",
+        "name_en": "Anderson Santamaría",
+        "age": 30,
+        "squad_no": 4,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "PER_2018_05",
+        "name_cn": "Miguel Araujo",
+        "name_en": "Miguel Araujo",
+        "age": 25,
+        "squad_no": 5,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "PER_2018_06",
+        "name_cn": "Miguel Trauco",
+        "name_en": "Miguel Trauco",
+        "age": 23,
+        "squad_no": 6,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "PER_2018_07",
+        "name_cn": "Paolo Hurtado",
+        "name_en": "Paolo Hurtado",
+        "age": 29,
+        "squad_no": 7,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "PER_2018_08",
+        "name_cn": "库埃瓦",
+        "name_en": "Christian Cueva",
+        "age": 26,
+        "squad_no": 8,
+        "positions": [
+          {
+            "pos": "CAM",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "PER_2018_09",
+        "name_cn": "格雷罗",
+        "name_en": "Paolo Guerrero",
+        "age": 27,
+        "squad_no": 9,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 85
+          }
+        ],
+        "tags": [
+          "队长"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "PER_2018_10",
+        "name_cn": "法尔范",
+        "name_en": "Jefferson Farfán",
+        "age": 28,
+        "squad_no": 10,
+        "positions": [
+          {
+            "pos": "RW",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "PER_2018_11",
+        "name_cn": "Raúl Ruidíaz",
+        "name_en": "Raúl Ruidíaz",
+        "age": 26,
+        "squad_no": 11,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 73
+          },
+          {
+            "pos": "LW",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "PER_2018_12",
+        "name_cn": "Carlos Cáceda",
+        "name_en": "Carlos Cáceda",
+        "age": 24,
+        "squad_no": 12,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 72
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "PER_2018_13",
+        "name_cn": "Renato Tapia",
+        "name_en": "Renato Tapia",
+        "age": 26,
+        "squad_no": 13,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "PER_2018_14",
+        "name_cn": "Andy Polo",
+        "name_en": "Andy Polo",
+        "age": 22,
+        "squad_no": 14,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "PER_2018_15",
+        "name_cn": "Christian Ramos",
+        "name_en": "Christian Ramos",
+        "age": 22,
+        "squad_no": 15,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "PER_2018_16",
+        "name_cn": "Wilder Cartagena",
+        "name_en": "Wilder Cartagena",
+        "age": 30,
+        "squad_no": 16,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "PER_2018_17",
+        "name_cn": "Luis Advíncula",
+        "name_en": "Luis Advíncula",
+        "age": 24,
+        "squad_no": 17,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "PER_2018_18",
+        "name_cn": "André Carrillo",
+        "name_en": "André Carrillo",
+        "age": 27,
+        "squad_no": 18,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "PER_2018_19",
+        "name_cn": "Yoshimar Yotún",
+        "name_en": "Yoshimar Yotún",
+        "age": 26,
+        "squad_no": 19,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "PER_2018_20",
+        "name_cn": "Edison Flores",
+        "name_en": "Edison Flores",
+        "age": 29,
+        "squad_no": 20,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "PER_2018_21",
+        "name_cn": "José Carvallo",
+        "name_en": "José Carvallo",
+        "age": 30,
+        "squad_no": 21,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "PER_2018_22",
+        "name_cn": "Nilson Loyola",
+        "name_en": "Nilson Loyola",
+        "age": 22,
+        "squad_no": 22,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "PER_2018_23",
+        "name_cn": "Pedro Aquino",
+        "name_en": "Pedro Aquino",
+        "age": 33,
+        "squad_no": 23,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 68
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,1093 @@
+{
+  "country_code": "GRE",
+  "squads": {
+    "1994": [
+      {
+        "id": "GRE_1994_01",
+        "name_cn": "Antonis Minou",
+        "name_en": "Antonis Minou",
+        "age": 22,
+        "squad_no": 1,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GRE_1994_02",
+        "name_cn": "Stratos Apostolakis",
+        "name_en": "Stratos Apostolakis",
+        "age": 24,
+        "squad_no": 2,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 72
+          },
+          {
+            "pos": "RB",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GRE_1994_03",
+        "name_cn": "Thanasis Kolitsidakis",
+        "name_en": "Thanasis Kolitsidakis",
+        "age": 24,
+        "squad_no": 3,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 72
+          },
+          {
+            "pos": "LB",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GRE_1994_04",
+        "name_cn": "Stelios Manolas",
+        "name_en": "Stelios Manolas",
+        "age": 22,
+        "squad_no": 4,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 72
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GRE_1994_05",
+        "name_cn": "Ioannis Kalitzakis",
+        "name_en": "Ioannis Kalitzakis",
+        "age": 25,
+        "squad_no": 5,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 72
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GRE_1994_06",
+        "name_cn": "Panagiotis Tsalouchidis",
+        "name_en": "Panagiotis Tsalouchidis",
+        "age": 23,
+        "squad_no": 6,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 72
+          },
+          {
+            "pos": "DM",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GRE_1994_07",
+        "name_cn": "Dimitris Saravakos",
+        "name_en": "Dimitris Saravakos",
+        "age": 29,
+        "squad_no": 7,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 72
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GRE_1994_08",
+        "name_cn": "Nikos Nioplias",
+        "name_en": "Nikos Nioplias",
+        "age": 25,
+        "squad_no": 8,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 72
+          },
+          {
+            "pos": "DM",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GRE_1994_09",
+        "name_cn": "Nikos Machlas",
+        "name_en": "Nikos Machlas",
+        "age": 23,
+        "squad_no": 9,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 72
+          },
+          {
+            "pos": "CAM",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GRE_1994_10",
+        "name_cn": "Tasos Mitropoulos",
+        "name_en": "Tasos Mitropoulos",
+        "age": 22,
+        "squad_no": 10,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 72
+          },
+          {
+            "pos": "CAM",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GRE_1994_11",
+        "name_cn": "Nikos Tsiantakis",
+        "name_en": "Nikos Tsiantakis",
+        "age": 31,
+        "squad_no": 11,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 72
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GRE_1994_12",
+        "name_cn": "Spiros Marangos",
+        "name_en": "Spiros Marangos",
+        "age": 32,
+        "squad_no": 12,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GRE_1994_13",
+        "name_cn": "Vaios Karagiannis",
+        "name_en": "Vaios Karagiannis",
+        "age": 28,
+        "squad_no": 13,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GRE_1994_14",
+        "name_cn": "Vasilis Dimitriadis",
+        "name_en": "Vasilis Dimitriadis",
+        "age": 32,
+        "squad_no": 14,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GRE_1994_15",
+        "name_cn": "Christos Karkamanis",
+        "name_en": "Christos Karkamanis",
+        "age": 29,
+        "squad_no": 15,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GRE_1994_16",
+        "name_cn": "Alexis Alexoudis",
+        "name_en": "Alexis Alexoudis",
+        "age": 30,
+        "squad_no": 16,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GRE_1994_17",
+        "name_cn": "Minas Hantzidis",
+        "name_en": "Minas Hantzidis",
+        "age": 31,
+        "squad_no": 17,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 68
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GRE_1994_18",
+        "name_cn": "Kyriakos Karataidis",
+        "name_en": "Kyriakos Karataidis",
+        "age": 33,
+        "squad_no": 18,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 68
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GRE_1994_19",
+        "name_cn": "Savvas Kofidis",
+        "name_en": "Savvas Kofidis",
+        "age": 31,
+        "squad_no": 19,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 68
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GRE_1994_20",
+        "name_cn": "Elias Atmatsidis",
+        "name_en": "Elias Atmatsidis",
+        "age": 26,
+        "squad_no": 20,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GRE_1994_21",
+        "name_cn": "Alexis Alexandris",
+        "name_en": "Alexis Alexandris",
+        "age": 22,
+        "squad_no": 21,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 68
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GRE_1994_22",
+        "name_cn": "Alexis Alexiou",
+        "name_en": "Alexis Alexiou",
+        "age": 27,
+        "squad_no": 22,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 68
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      }
+    ],
+    "2010": [
+      {
+        "id": "GRE_2010_01",
+        "name_cn": "Kostas Chalkias",
+        "name_en": "Kostas Chalkias",
+        "age": 25,
+        "squad_no": 1,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GRE_2010_02",
+        "name_cn": "Giourkas Seitaridis",
+        "name_en": "Giourkas Seitaridis",
+        "age": 31,
+        "squad_no": 2,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          },
+          {
+            "pos": "RB",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GRE_2010_03",
+        "name_cn": "Christos Patsatzoglou",
+        "name_en": "Christos Patsatzoglou",
+        "age": 33,
+        "squad_no": 3,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          },
+          {
+            "pos": "LB",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GRE_2010_04",
+        "name_cn": "Nikos Spyropoulos",
+        "name_en": "Nikos Spyropoulos",
+        "age": 23,
+        "squad_no": 4,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GRE_2010_05",
+        "name_cn": "Vangelis Moras",
+        "name_en": "Vangelis Moras",
+        "age": 22,
+        "squad_no": 5,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GRE_2010_06",
+        "name_cn": "Alexandros Tziolis",
+        "name_en": "Alexandros Tziolis",
+        "age": 25,
+        "squad_no": 6,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          },
+          {
+            "pos": "DM",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GRE_2010_07",
+        "name_cn": "Georgios Samaras",
+        "name_en": "Georgios Samaras",
+        "age": 32,
+        "squad_no": 7,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 73
+          },
+          {
+            "pos": "LW",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GRE_2010_08",
+        "name_cn": "Avraam Papadopoulos",
+        "name_en": "Avraam Papadopoulos",
+        "age": 29,
+        "squad_no": 8,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GRE_2010_09",
+        "name_cn": "查里斯泰阿斯",
+        "name_en": "Angelos Charisteas",
+        "age": 23,
+        "squad_no": 9,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 83
+          }
+        ],
+        "tags": [
+          "euro04英雄"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GRE_2010_10",
+        "name_cn": "卡拉古尼斯",
+        "name_en": "Giorgos Karagounis",
+        "age": 29,
+        "squad_no": 10,
+        "positions": [
+          {
+            "pos": "DM",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GRE_2010_11",
+        "name_cn": "Loukas Vyntra",
+        "name_en": "Loukas Vyntra",
+        "age": 32,
+        "squad_no": 11,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GRE_2010_12",
+        "name_cn": "Alexandros Tzorvas",
+        "name_en": "Alexandros Tzorvas",
+        "age": 22,
+        "squad_no": 12,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 72
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GRE_2010_13",
+        "name_cn": "Michalis Sifakis",
+        "name_en": "Michalis Sifakis",
+        "age": 27,
+        "squad_no": 13,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 72
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GRE_2010_14",
+        "name_cn": "Dimitris Salpingidis",
+        "name_en": "Dimitris Salpingidis",
+        "age": 30,
+        "squad_no": 14,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GRE_2010_15",
+        "name_cn": "Vasilis Torosidis",
+        "name_en": "Vasilis Torosidis",
+        "age": 33,
+        "squad_no": 15,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GRE_2010_16",
+        "name_cn": "Sotirios Kyrgiakos",
+        "name_en": "Sotirios Kyrgiakos",
+        "age": 28,
+        "squad_no": 16,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GRE_2010_17",
+        "name_cn": "Theofanis Gekas",
+        "name_en": "Theofanis Gekas",
+        "age": 27,
+        "squad_no": 17,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GRE_2010_18",
+        "name_cn": "Sotiris Ninis",
+        "name_en": "Sotiris Ninis",
+        "age": 33,
+        "squad_no": 18,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GRE_2010_19",
+        "name_cn": "Sokratis Papastathopoulos",
+        "name_en": "Sokratis Papastathopoulos",
+        "age": 22,
+        "squad_no": 19,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GRE_2010_20",
+        "name_cn": "Pantelis Kapetanos",
+        "name_en": "Pantelis Kapetanos",
+        "age": 31,
+        "squad_no": 20,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GRE_2010_21",
+        "name_cn": "卡苏拉斯",
+        "name_en": "Kostas Katsouranis",
+        "age": 26,
+        "squad_no": 21,
+        "positions": [
+          {
+            "pos": "DM",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GRE_2010_22",
+        "name_cn": "Stelios Malezas",
+        "name_en": "Stelios Malezas",
+        "age": 30,
+        "squad_no": 22,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GRE_2010_23",
+        "name_cn": "Sakis Prittas",
+        "name_en": "Sakis Prittas",
+        "age": 22,
+        "squad_no": 23,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 68
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      }
+    ],
+    "2014": [
+      {
+        "id": "GRE_2014_01",
+        "name_cn": "Orestis Karnezis",
+        "name_en": "Orestis Karnezis",
+        "age": 33,
+        "squad_no": 1,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GRE_2014_02",
+        "name_cn": "Giannis Maniatis",
+        "name_en": "Giannis Maniatis",
+        "age": 23,
+        "squad_no": 2,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GRE_2014_03",
+        "name_cn": "Giorgos Tzavellas",
+        "name_en": "Giorgos Tzavellas",
+        "age": 26,
+        "squad_no": 3,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          },
+          {
+            "pos": "LB",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GRE_2014_04",
+        "name_cn": "Kostas Manolas",
+        "name_en": "Kostas Manolas",
+        "age": 23,
+        "squad_no": 4,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GRE_2014_05",
+        "name_cn": "Vangelis Moras",
+        "name_en": "Vangelis Moras",
+        "age": 25,
+        "squad_no": 5,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GRE_2014_06",
+        "name_cn": "Alexandros Tziolis",
+        "name_en": "Alexandros Tziolis",
+        "age": 30,
+        "squad_no": 6,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          },
+          {
+            "pos": "DM",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GRE_2014_07",
+        "name_cn": "Georgios Samaras",
+        "name_en": "Georgios Samaras",
+        "age": 23,
+        "squad_no": 7,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 73
+          },
+          {
+            "pos": "LW",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GRE_2014_08",
+        "name_cn": "Panagiotis Kone",
+        "name_en": "Panagiotis Kone",
+        "age": 23,
+        "squad_no": 8,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          },
+          {
+            "pos": "DM",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GRE_2014_09",
+        "name_cn": "Kostas Mitroglou",
+        "name_en": "Kostas Mitroglou",
+        "age": 33,
+        "squad_no": 9,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 73
+          },
+          {
+            "pos": "CAM",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GRE_2014_10",
+        "name_cn": "卡拉古尼斯",
+        "name_en": "Giorgos Karagounis",
+        "age": 25,
+        "squad_no": 10,
+        "positions": [
+          {
+            "pos": "DM",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GRE_2014_11",
+        "name_cn": "Loukas Vyntra",
+        "name_en": "Loukas Vyntra",
+        "age": 30,
+        "squad_no": 11,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GRE_2014_12",
+        "name_cn": "Panagiotis Glykos",
+        "name_en": "Panagiotis Glykos",
+        "age": 28,
+        "squad_no": 12,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 72
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GRE_2014_13",
+        "name_cn": "Stefanos Kapino",
+        "name_en": "Stefanos Kapino",
+        "age": 25,
+        "squad_no": 13,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 72
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GRE_2014_14",
+        "name_cn": "Dimitris Salpingidis",
+        "name_en": "Dimitris Salpingidis",
+        "age": 25,
+        "squad_no": 14,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GRE_2014_15",
+        "name_cn": "Vasilis Torosidis",
+        "name_en": "Vasilis Torosidis",
+        "age": 30,
+        "squad_no": 15,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GRE_2014_16",
+        "name_cn": "Lazaros Christodoulopoulos",
+        "name_en": "Lazaros Christodoulopoulos",
+        "age": 32,
+        "squad_no": 16,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GRE_2014_17",
+        "name_cn": "Theofanis Gekas",
+        "name_en": "Theofanis Gekas",
+        "age": 25,
+        "squad_no": 17,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GRE_2014_18",
+        "name_cn": "Giannis Fetfatzidis",
+        "name_en": "Giannis Fetfatzidis",
+        "age": 31,
+        "squad_no": 18,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GRE_2014_19",
+        "name_cn": "Sokratis Papastathopoulos",
+        "name_en": "Sokratis Papastathopoulos",
+        "age": 32,
+        "squad_no": 19,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GRE_2014_20",
+        "name_cn": "José Holebas",
+        "name_en": "José Holebas",
+        "age": 24,
+        "squad_no": 20,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GRE_2014_21",
+        "name_cn": "卡苏拉斯",
+        "name_en": "Kostas Katsouranis",
+        "age": 30,
+        "squad_no": 21,
+        "positions": [
+          {
+            "pos": "DM",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GRE_2014_22",
+        "name_cn": "萨马里斯",
+        "name_en": "Andreas Samaris",
+        "age": 33,
+        "squad_no": 22,
+        "positions": [
+          {
+            "pos": "DM",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GRE_2014_23",
+        "name_cn": "Panagiotis Tachtsidis",
+        "name_en": "Panagiotis Tachtsidis",
+        "age": 30,
+        "squad_no": 23,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 68
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      }
+    ]
+  }
+}

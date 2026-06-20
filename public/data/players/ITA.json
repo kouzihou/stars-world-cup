@@ -1,0 +1,2615 @@
+{
+  "country_code": "ITA",
+  "squads": {
+    "1990": [
+      {
+        "id": "ITA_1990_01",
+        "name_cn": "Walter Zenga",
+        "name_en": "Walter Zenga",
+        "age": 31,
+        "squad_no": 1,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 77
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ITA_1990_02",
+        "name_cn": "巴雷西",
+        "name_en": "Franco Baresi",
+        "age": 30,
+        "squad_no": 2,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 92
+          }
+        ],
+        "tags": [
+          "传奇"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ITA_1990_03",
+        "name_cn": "Giuseppe Bergomi",
+        "name_en": "Giuseppe Bergomi",
+        "age": 22,
+        "squad_no": 3,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 76
+          },
+          {
+            "pos": "LB",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ITA_1990_04",
+        "name_cn": "Luigi De Agostini",
+        "name_en": "Luigi De Agostini",
+        "age": 32,
+        "squad_no": 4,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ITA_1990_05",
+        "name_cn": "Ciro Ferrara",
+        "name_en": "Ciro Ferrara",
+        "age": 32,
+        "squad_no": 5,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ITA_1990_06",
+        "name_cn": "Riccardo Ferri",
+        "name_en": "Riccardo Ferri",
+        "age": 28,
+        "squad_no": 6,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ITA_1990_07",
+        "name_cn": "马尔蒂尼",
+        "name_en": "Paolo Maldini",
+        "age": 30,
+        "squad_no": 7,
+        "positions": [
+          {
+            "pos": "LB",
+            "ovr": 94
+          },
+          {
+            "pos": "CB",
+            "ovr": 92
+          }
+        ],
+        "tags": [
+          "传奇队长"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ITA_1990_08",
+        "name_cn": "Pietro Vierchowod",
+        "name_en": "Pietro Vierchowod",
+        "age": 28,
+        "squad_no": 8,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ITA_1990_09",
+        "name_cn": "Carlo Ancelotti",
+        "name_en": "Carlo Ancelotti",
+        "age": 27,
+        "squad_no": 9,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ITA_1990_10",
+        "name_cn": "Nicola Berti",
+        "name_en": "Nicola Berti",
+        "age": 22,
+        "squad_no": 10,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 76
+          },
+          {
+            "pos": "CAM",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ITA_1990_11",
+        "name_cn": "Fernando De Napoli",
+        "name_en": "Fernando De Napoli",
+        "age": 33,
+        "squad_no": 11,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ITA_1990_12",
+        "name_cn": "Stefano Tacconi",
+        "name_en": "Stefano Tacconi",
+        "age": 30,
+        "squad_no": 12,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ITA_1990_13",
+        "name_cn": "Giuseppe Giannini",
+        "name_en": "Giuseppe Giannini",
+        "age": 28,
+        "squad_no": 13,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ITA_1990_14",
+        "name_cn": "Giancarlo Marocchi",
+        "name_en": "Giancarlo Marocchi",
+        "age": 25,
+        "squad_no": 14,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ITA_1990_15",
+        "name_cn": "罗·巴乔",
+        "name_en": "Roberto Baggio",
+        "age": 29,
+        "squad_no": 15,
+        "positions": [
+          {
+            "pos": "CAM",
+            "ovr": 95
+          },
+          {
+            "pos": "ST",
+            "ovr": 92
+          }
+        ],
+        "tags": [
+          "金球奖",
+          "GOAT级10号"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ITA_1990_16",
+        "name_cn": "Andrea Carnevale",
+        "name_en": "Andrea Carnevale",
+        "age": 28,
+        "squad_no": 16,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ITA_1990_17",
+        "name_cn": "Roberto Donadoni",
+        "name_en": "Roberto Donadoni",
+        "age": 27,
+        "squad_no": 17,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 72
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ITA_1990_18",
+        "name_cn": "Roberto Mancini",
+        "name_en": "Roberto Mancini",
+        "age": 31,
+        "squad_no": 18,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 72
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ITA_1990_19",
+        "name_cn": "斯基拉奇",
+        "name_en": "Salvatore Schillaci",
+        "age": 33,
+        "squad_no": 19,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 90
+          }
+        ],
+        "tags": [
+          "金靴1990"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ITA_1990_20",
+        "name_cn": "Aldo Serena",
+        "name_en": "Aldo Serena",
+        "age": 33,
+        "squad_no": 20,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 72
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ITA_1990_21",
+        "name_cn": "Gianluca Vialli",
+        "name_en": "Gianluca Vialli",
+        "age": 31,
+        "squad_no": 21,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 72
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ITA_1990_22",
+        "name_cn": "Gianluca Pagliuca",
+        "name_en": "Gianluca Pagliuca",
+        "age": 23,
+        "squad_no": 22,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      }
+    ],
+    "1994": [
+      {
+        "id": "ITA_1994_01",
+        "name_cn": "Gianluca Pagliuca",
+        "name_en": "Gianluca Pagliuca",
+        "age": 28,
+        "squad_no": 1,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 78
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ITA_1994_02",
+        "name_cn": "Luigi Apolloni",
+        "name_en": "Luigi Apolloni",
+        "age": 24,
+        "squad_no": 2,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 77
+          },
+          {
+            "pos": "RB",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ITA_1994_03",
+        "name_cn": "Antonio Benarrivo",
+        "name_en": "Antonio Benarrivo",
+        "age": 26,
+        "squad_no": 3,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 77
+          },
+          {
+            "pos": "LB",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ITA_1994_04",
+        "name_cn": "Alessandro Costacurta",
+        "name_en": "Alessandro Costacurta",
+        "age": 29,
+        "squad_no": 4,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 77
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ITA_1994_05",
+        "name_cn": "马尔蒂尼",
+        "name_en": "Paolo Maldini",
+        "age": 25,
+        "squad_no": 5,
+        "positions": [
+          {
+            "pos": "LB",
+            "ovr": 94
+          },
+          {
+            "pos": "CB",
+            "ovr": 92
+          }
+        ],
+        "tags": [
+          "传奇队长"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ITA_1994_06",
+        "name_cn": "巴雷西",
+        "name_en": "Franco Baresi",
+        "age": 23,
+        "squad_no": 6,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 92
+          }
+        ],
+        "tags": [
+          "传奇"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ITA_1994_07",
+        "name_cn": "Lorenzo Minotti",
+        "name_en": "Lorenzo Minotti",
+        "age": 26,
+        "squad_no": 7,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 77
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ITA_1994_08",
+        "name_cn": "Roberto Mussi",
+        "name_en": "Roberto Mussi",
+        "age": 31,
+        "squad_no": 8,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 77
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ITA_1994_09",
+        "name_cn": "Mauro Tassotti",
+        "name_en": "Mauro Tassotti",
+        "age": 30,
+        "squad_no": 9,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 77
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ITA_1994_10",
+        "name_cn": "罗·巴乔",
+        "name_en": "Roberto Baggio",
+        "age": 28,
+        "squad_no": 10,
+        "positions": [
+          {
+            "pos": "CAM",
+            "ovr": 95
+          },
+          {
+            "pos": "ST",
+            "ovr": 92
+          }
+        ],
+        "tags": [
+          "金球奖",
+          "GOAT级10号"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ITA_1994_11",
+        "name_cn": "Demetrio Albertini",
+        "name_en": "Demetrio Albertini",
+        "age": 26,
+        "squad_no": 11,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 77
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ITA_1994_12",
+        "name_cn": "Luca Marchegiani",
+        "name_en": "Luca Marchegiani",
+        "age": 25,
+        "squad_no": 12,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ITA_1994_13",
+        "name_cn": "Dino Baggio",
+        "name_en": "Dino Baggio",
+        "age": 22,
+        "squad_no": 13,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ITA_1994_14",
+        "name_cn": "Nicola Berti",
+        "name_en": "Nicola Berti",
+        "age": 33,
+        "squad_no": 14,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ITA_1994_15",
+        "name_cn": "Antonio Conte",
+        "name_en": "Antonio Conte",
+        "age": 33,
+        "squad_no": 15,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ITA_1994_16",
+        "name_cn": "Roberto Donadoni",
+        "name_en": "Roberto Donadoni",
+        "age": 22,
+        "squad_no": 16,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ITA_1994_17",
+        "name_cn": "Alberigo Evani",
+        "name_en": "Alberigo Evani",
+        "age": 31,
+        "squad_no": 17,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ITA_1994_18",
+        "name_cn": "Pierluigi Casiraghi",
+        "name_en": "Pierluigi Casiraghi",
+        "age": 30,
+        "squad_no": 18,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ITA_1994_19",
+        "name_cn": "Daniele Massaro",
+        "name_en": "Daniele Massaro",
+        "age": 23,
+        "squad_no": 19,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ITA_1994_20",
+        "name_cn": "Giuseppe Signori",
+        "name_en": "Giuseppe Signori",
+        "age": 30,
+        "squad_no": 20,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ITA_1994_21",
+        "name_cn": "佐拉",
+        "name_en": "Gianfranco Zola",
+        "age": 22,
+        "squad_no": 21,
+        "positions": [
+          {
+            "pos": "CAM",
+            "ovr": 87
+          },
+          {
+            "pos": "ST",
+            "ovr": 85
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ITA_1994_22",
+        "name_cn": "Luca Bucci",
+        "name_en": "Luca Bucci",
+        "age": 28,
+        "squad_no": 22,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      }
+    ],
+    "1998": [
+      {
+        "id": "ITA_1998_01",
+        "name_cn": "Francesco Toldo",
+        "name_en": "Francesco Toldo",
+        "age": 32,
+        "squad_no": 1,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 78
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ITA_1998_02",
+        "name_cn": "Giuseppe Bergomi",
+        "name_en": "Giuseppe Bergomi",
+        "age": 25,
+        "squad_no": 2,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 77
+          },
+          {
+            "pos": "RB",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ITA_1998_03",
+        "name_cn": "马尔蒂尼",
+        "name_en": "Paolo Maldini",
+        "age": 33,
+        "squad_no": 3,
+        "positions": [
+          {
+            "pos": "LB",
+            "ovr": 94
+          },
+          {
+            "pos": "CB",
+            "ovr": 92
+          }
+        ],
+        "tags": [
+          "传奇队长"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ITA_1998_04",
+        "name_cn": "卡纳瓦罗",
+        "name_en": "Fabio Cannavaro",
+        "age": 27,
+        "squad_no": 4,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 77
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ITA_1998_05",
+        "name_cn": "Alessandro Costacurta",
+        "name_en": "Alessandro Costacurta",
+        "age": 28,
+        "squad_no": 5,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 77
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ITA_1998_06",
+        "name_cn": "Alessandro Nesta",
+        "name_en": "Alessandro Nesta",
+        "age": 27,
+        "squad_no": 6,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 77
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ITA_1998_07",
+        "name_cn": "Gianluca Pessotto",
+        "name_en": "Gianluca Pessotto",
+        "age": 23,
+        "squad_no": 7,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 77
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ITA_1998_08",
+        "name_cn": "Moreno Torricelli",
+        "name_en": "Moreno Torricelli",
+        "age": 24,
+        "squad_no": 8,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 77
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ITA_1998_09",
+        "name_cn": "Demetrio Albertini",
+        "name_en": "Demetrio Albertini",
+        "age": 28,
+        "squad_no": 9,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 77
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ITA_1998_10",
+        "name_cn": "德尔·皮耶罗",
+        "name_en": "Alessandro Del Piero",
+        "age": 32,
+        "squad_no": 10,
+        "positions": [
+          {
+            "pos": "CAM",
+            "ovr": 92
+          },
+          {
+            "pos": "ST",
+            "ovr": 90
+          }
+        ],
+        "tags": [
+          "斑马传奇"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ITA_1998_11",
+        "name_cn": "Dino Baggio",
+        "name_en": "Dino Baggio",
+        "age": 31,
+        "squad_no": 11,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 77
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ITA_1998_12",
+        "name_cn": "Gianluca Pagliuca",
+        "name_en": "Gianluca Pagliuca",
+        "age": 26,
+        "squad_no": 12,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ITA_1998_13",
+        "name_cn": "Sandro Cois",
+        "name_en": "Sandro Cois",
+        "age": 26,
+        "squad_no": 13,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ITA_1998_14",
+        "name_cn": "Luigi Di Biagio",
+        "name_en": "Luigi Di Biagio",
+        "age": 30,
+        "squad_no": 14,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ITA_1998_15",
+        "name_cn": "Angelo Di Livio",
+        "name_en": "Angelo Di Livio",
+        "age": 28,
+        "squad_no": 15,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ITA_1998_16",
+        "name_cn": "Roberto Di Matteo",
+        "name_en": "Roberto Di Matteo",
+        "age": 31,
+        "squad_no": 16,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ITA_1998_17",
+        "name_cn": "Francesco Moriero",
+        "name_en": "Francesco Moriero",
+        "age": 27,
+        "squad_no": 17,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ITA_1998_18",
+        "name_cn": "罗·巴乔",
+        "name_en": "Roberto Baggio",
+        "age": 31,
+        "squad_no": 18,
+        "positions": [
+          {
+            "pos": "CAM",
+            "ovr": 95
+          },
+          {
+            "pos": "ST",
+            "ovr": 92
+          }
+        ],
+        "tags": [
+          "金球奖",
+          "GOAT级10号"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ITA_1998_19",
+        "name_cn": "因扎吉",
+        "name_en": "Filippo Inzaghi",
+        "age": 26,
+        "squad_no": 19,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ITA_1998_20",
+        "name_cn": "Enrico Chiesa",
+        "name_en": "Enrico Chiesa",
+        "age": 32,
+        "squad_no": 20,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ITA_1998_21",
+        "name_cn": "Christian Vieri",
+        "name_en": "Christian Vieri",
+        "age": 28,
+        "squad_no": 21,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ITA_1998_22",
+        "name_cn": "布冯",
+        "name_en": "Gianluigi Buffon",
+        "age": 25,
+        "squad_no": 22,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      }
+    ],
+    "2002": [
+      {
+        "id": "ITA_2002_01",
+        "name_cn": "布冯",
+        "name_en": "Gianluigi Buffon",
+        "age": 28,
+        "squad_no": 1,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 94
+          }
+        ],
+        "tags": [
+          "传奇门将",
+          "2006冠军"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ITA_2002_02",
+        "name_cn": "Christian Panucci",
+        "name_en": "Christian Panucci",
+        "age": 30,
+        "squad_no": 2,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 78
+          },
+          {
+            "pos": "RB",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ITA_2002_03",
+        "name_cn": "马尔蒂尼",
+        "name_en": "Paolo Maldini",
+        "age": 30,
+        "squad_no": 3,
+        "positions": [
+          {
+            "pos": "LB",
+            "ovr": 94
+          },
+          {
+            "pos": "CB",
+            "ovr": 92
+          }
+        ],
+        "tags": [
+          "传奇队长"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ITA_2002_04",
+        "name_cn": "Francesco Coco",
+        "name_en": "Francesco Coco",
+        "age": 29,
+        "squad_no": 4,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 78
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ITA_2002_05",
+        "name_cn": "卡纳瓦罗",
+        "name_en": "Fabio Cannavaro",
+        "age": 24,
+        "squad_no": 5,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 92
+          }
+        ],
+        "tags": [
+          "2006金球队长"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ITA_2002_06",
+        "name_cn": "Cristiano Zanetti",
+        "name_en": "Cristiano Zanetti",
+        "age": 27,
+        "squad_no": 6,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 78
+          },
+          {
+            "pos": "DM",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ITA_2002_07",
+        "name_cn": "德尔·皮耶罗",
+        "name_en": "Alessandro Del Piero",
+        "age": 30,
+        "squad_no": 7,
+        "positions": [
+          {
+            "pos": "CAM",
+            "ovr": 92
+          },
+          {
+            "pos": "ST",
+            "ovr": 90
+          }
+        ],
+        "tags": [
+          "斑马传奇"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ITA_2002_08",
+        "name_cn": "Gennaro Gattuso",
+        "name_en": "Gennaro Gattuso",
+        "age": 30,
+        "squad_no": 8,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 78
+          },
+          {
+            "pos": "DM",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ITA_2002_09",
+        "name_cn": "因扎吉",
+        "name_en": "Filippo Inzaghi",
+        "age": 29,
+        "squad_no": 9,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 78
+          },
+          {
+            "pos": "CAM",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ITA_2002_10",
+        "name_cn": "托蒂",
+        "name_en": "Francesco Totti",
+        "age": 26,
+        "squad_no": 10,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 78
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ITA_2002_11",
+        "name_cn": "Cristiano Doni",
+        "name_en": "Cristiano Doni",
+        "age": 26,
+        "squad_no": 11,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 78
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ITA_2002_12",
+        "name_cn": "Christian Abbiati",
+        "name_en": "Christian Abbiati",
+        "age": 31,
+        "squad_no": 12,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 77
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ITA_2002_13",
+        "name_cn": "内斯塔",
+        "name_en": "Alessandro Nesta",
+        "age": 27,
+        "squad_no": 13,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 92
+          }
+        ],
+        "tags": [
+          "2006冠军"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ITA_2002_14",
+        "name_cn": "Luigi Di Biagio",
+        "name_en": "Luigi Di Biagio",
+        "age": 33,
+        "squad_no": 14,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ITA_2002_15",
+        "name_cn": "Mark Iuliano",
+        "name_en": "Mark Iuliano",
+        "age": 28,
+        "squad_no": 15,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ITA_2002_16",
+        "name_cn": "Angelo Di Livio",
+        "name_en": "Angelo Di Livio",
+        "age": 33,
+        "squad_no": 16,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ITA_2002_17",
+        "name_cn": "Damiano Tommasi",
+        "name_en": "Damiano Tommasi",
+        "age": 24,
+        "squad_no": 17,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ITA_2002_18",
+        "name_cn": "Marco Delvecchio",
+        "name_en": "Marco Delvecchio",
+        "age": 32,
+        "squad_no": 18,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ITA_2002_19",
+        "name_cn": "赞布罗塔",
+        "name_en": "Gianluca Zambrotta",
+        "age": 23,
+        "squad_no": 19,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ITA_2002_20",
+        "name_cn": "Vincenzo Montella",
+        "name_en": "Vincenzo Montella",
+        "age": 33,
+        "squad_no": 20,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ITA_2002_21",
+        "name_cn": "Christian Vieri",
+        "name_en": "Christian Vieri",
+        "age": 25,
+        "squad_no": 21,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ITA_2002_22",
+        "name_cn": "Francesco Toldo",
+        "name_en": "Francesco Toldo",
+        "age": 29,
+        "squad_no": 22,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ITA_2002_23",
+        "name_cn": "马特拉齐",
+        "name_en": "Marco Materazzi",
+        "age": 33,
+        "squad_no": 23,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      }
+    ],
+    "2006": [
+      {
+        "id": "ITA_2006_01",
+        "name_cn": "布冯",
+        "name_en": "Gianluigi Buffon",
+        "age": 24,
+        "squad_no": 1,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 94
+          }
+        ],
+        "tags": [
+          "传奇门将",
+          "2006冠军"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ITA_2006_02",
+        "name_cn": "Cristian Zaccardo",
+        "name_en": "Cristian Zaccardo",
+        "age": 23,
+        "squad_no": 2,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 78
+          },
+          {
+            "pos": "RB",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ITA_2006_03",
+        "name_cn": "Fabio Grosso",
+        "name_en": "Fabio Grosso",
+        "age": 25,
+        "squad_no": 3,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 78
+          },
+          {
+            "pos": "LB",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ITA_2006_04",
+        "name_cn": "德罗西",
+        "name_en": "Daniele De Rossi",
+        "age": 30,
+        "squad_no": 4,
+        "positions": [
+          {
+            "pos": "DM",
+            "ovr": 87
+          },
+          {
+            "pos": "CM",
+            "ovr": 84
+          }
+        ],
+        "tags": [
+          "2006冠军"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ITA_2006_05",
+        "name_cn": "卡纳瓦罗",
+        "name_en": "Fabio Cannavaro",
+        "age": 28,
+        "squad_no": 5,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 92
+          }
+        ],
+        "tags": [
+          "2006金球队长"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ITA_2006_06",
+        "name_cn": "Andrea Barzagli",
+        "name_en": "Andrea Barzagli",
+        "age": 27,
+        "squad_no": 6,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 78
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ITA_2006_07",
+        "name_cn": "德尔·皮耶罗",
+        "name_en": "Alessandro Del Piero",
+        "age": 30,
+        "squad_no": 7,
+        "positions": [
+          {
+            "pos": "CAM",
+            "ovr": 92
+          },
+          {
+            "pos": "ST",
+            "ovr": 90
+          }
+        ],
+        "tags": [
+          "斑马传奇"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ITA_2006_08",
+        "name_cn": "加图索",
+        "name_en": "Gennaro Gattuso",
+        "age": 31,
+        "squad_no": 8,
+        "positions": [
+          {
+            "pos": "DM",
+            "ovr": 87
+          }
+        ],
+        "tags": [
+          "2006冠军"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ITA_2006_09",
+        "name_cn": "托尼",
+        "name_en": "Luca Toni",
+        "age": 33,
+        "squad_no": 9,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 87
+          }
+        ],
+        "tags": [
+          "2006冠军"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ITA_2006_10",
+        "name_cn": "托蒂",
+        "name_en": "Francesco Totti",
+        "age": 32,
+        "squad_no": 10,
+        "positions": [
+          {
+            "pos": "CAM",
+            "ovr": 92
+          },
+          {
+            "pos": "ST",
+            "ovr": 87
+          }
+        ],
+        "tags": [
+          "罗马王子",
+          "2006冠军"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ITA_2006_11",
+        "name_cn": "Alberto Gilardino",
+        "name_en": "Alberto Gilardino",
+        "age": 33,
+        "squad_no": 11,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 78
+          },
+          {
+            "pos": "LW",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ITA_2006_12",
+        "name_cn": "Angelo Peruzzi",
+        "name_en": "Angelo Peruzzi",
+        "age": 22,
+        "squad_no": 12,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 77
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ITA_2006_13",
+        "name_cn": "内斯塔",
+        "name_en": "Alessandro Nesta",
+        "age": 24,
+        "squad_no": 13,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 92
+          }
+        ],
+        "tags": [
+          "2006冠军"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ITA_2006_14",
+        "name_cn": "Marco Amelia",
+        "name_en": "Marco Amelia",
+        "age": 28,
+        "squad_no": 14,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 77
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ITA_2006_15",
+        "name_cn": "Vincenzo Iaquinta",
+        "name_en": "Vincenzo Iaquinta",
+        "age": 32,
+        "squad_no": 15,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ITA_2006_16",
+        "name_cn": "Mauro Camoranesi",
+        "name_en": "Mauro Camoranesi",
+        "age": 22,
+        "squad_no": 16,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ITA_2006_17",
+        "name_cn": "Simone Barone",
+        "name_en": "Simone Barone",
+        "age": 23,
+        "squad_no": 17,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ITA_2006_18",
+        "name_cn": "因扎吉",
+        "name_en": "Filippo Inzaghi",
+        "age": 24,
+        "squad_no": 18,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ITA_2006_19",
+        "name_cn": "赞布罗塔",
+        "name_en": "Gianluca Zambrotta",
+        "age": 29,
+        "squad_no": 19,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ITA_2006_20",
+        "name_cn": "Simone Perrotta",
+        "name_en": "Simone Perrotta",
+        "age": 31,
+        "squad_no": 20,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ITA_2006_21",
+        "name_cn": "皮尔洛",
+        "name_en": "Andrea Pirlo",
+        "age": 28,
+        "squad_no": 21,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 92
+          },
+          {
+            "pos": "CAM",
+            "ovr": 87
+          }
+        ],
+        "tags": [
+          "2006冠军"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ITA_2006_22",
+        "name_cn": "Massimo Oddo",
+        "name_en": "Massimo Oddo",
+        "age": 23,
+        "squad_no": 22,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ITA_2006_23",
+        "name_cn": "马特拉齐",
+        "name_en": "Marco Materazzi",
+        "age": 23,
+        "squad_no": 23,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      }
+    ],
+    "2010": [
+      {
+        "id": "ITA_2010_01",
+        "name_cn": "布冯",
+        "name_en": "Gianluigi Buffon",
+        "age": 26,
+        "squad_no": 1,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 94
+          }
+        ],
+        "tags": [
+          "传奇门将",
+          "2006冠军"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ITA_2010_02",
+        "name_cn": "Christian Maggio",
+        "name_en": "Christian Maggio",
+        "age": 25,
+        "squad_no": 2,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 78
+          },
+          {
+            "pos": "RB",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ITA_2010_03",
+        "name_cn": "Domenico Criscito",
+        "name_en": "Domenico Criscito",
+        "age": 27,
+        "squad_no": 3,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 78
+          },
+          {
+            "pos": "LB",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ITA_2010_04",
+        "name_cn": "基耶利尼",
+        "name_en": "Giorgio Chiellini",
+        "age": 23,
+        "squad_no": 4,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 87
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ITA_2010_05",
+        "name_cn": "卡纳瓦罗",
+        "name_en": "Fabio Cannavaro",
+        "age": 31,
+        "squad_no": 5,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 92
+          }
+        ],
+        "tags": [
+          "2006金球队长"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ITA_2010_06",
+        "name_cn": "德罗西",
+        "name_en": "Daniele De Rossi",
+        "age": 22,
+        "squad_no": 6,
+        "positions": [
+          {
+            "pos": "DM",
+            "ovr": 87
+          },
+          {
+            "pos": "CM",
+            "ovr": 84
+          }
+        ],
+        "tags": [
+          "2006冠军"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ITA_2010_07",
+        "name_cn": "Simone Pepe",
+        "name_en": "Simone Pepe",
+        "age": 33,
+        "squad_no": 7,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 78
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ITA_2010_08",
+        "name_cn": "Gennaro Gattuso",
+        "name_en": "Gennaro Gattuso",
+        "age": 28,
+        "squad_no": 8,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 78
+          },
+          {
+            "pos": "DM",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ITA_2010_09",
+        "name_cn": "Vincenzo Iaquinta",
+        "name_en": "Vincenzo Iaquinta",
+        "age": 28,
+        "squad_no": 9,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 78
+          },
+          {
+            "pos": "CAM",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ITA_2010_10",
+        "name_cn": "Antonio Di Natale",
+        "name_en": "Antonio Di Natale",
+        "age": 31,
+        "squad_no": 10,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 78
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ITA_2010_11",
+        "name_cn": "Alberto Gilardino",
+        "name_en": "Alberto Gilardino",
+        "age": 32,
+        "squad_no": 11,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 78
+          },
+          {
+            "pos": "LW",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ITA_2010_12",
+        "name_cn": "Federico Marchetti",
+        "name_en": "Federico Marchetti",
+        "age": 30,
+        "squad_no": 12,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 77
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ITA_2010_13",
+        "name_cn": "Salvatore Bocchetti",
+        "name_en": "Salvatore Bocchetti",
+        "age": 26,
+        "squad_no": 13,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ITA_2010_14",
+        "name_cn": "Morgan De Sanctis",
+        "name_en": "Morgan De Sanctis",
+        "age": 33,
+        "squad_no": 14,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 77
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ITA_2010_15",
+        "name_cn": "Claudio Marchisio",
+        "name_en": "Claudio Marchisio",
+        "age": 31,
+        "squad_no": 15,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ITA_2010_16",
+        "name_cn": "Mauro Camoranesi",
+        "name_en": "Mauro Camoranesi",
+        "age": 22,
+        "squad_no": 16,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ITA_2010_17",
+        "name_cn": "Angelo Palombo",
+        "name_en": "Angelo Palombo",
+        "age": 24,
+        "squad_no": 17,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ITA_2010_18",
+        "name_cn": "Fabio Quagliarella",
+        "name_en": "Fabio Quagliarella",
+        "age": 32,
+        "squad_no": 18,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ITA_2010_19",
+        "name_cn": "赞布罗塔",
+        "name_en": "Gianluca Zambrotta",
+        "age": 29,
+        "squad_no": 19,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ITA_2010_20",
+        "name_cn": "Giampaolo Pazzini",
+        "name_en": "Giampaolo Pazzini",
+        "age": 29,
+        "squad_no": 20,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ITA_2010_21",
+        "name_cn": "皮尔洛",
+        "name_en": "Andrea Pirlo",
+        "age": 22,
+        "squad_no": 21,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 92
+          },
+          {
+            "pos": "CAM",
+            "ovr": 87
+          }
+        ],
+        "tags": [
+          "2006冠军"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ITA_2010_22",
+        "name_cn": "Riccardo Montolivo",
+        "name_en": "Riccardo Montolivo",
+        "age": 25,
+        "squad_no": 22,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ITA_2010_23",
+        "name_cn": "Leonardo Bonucci",
+        "name_en": "Leonardo Bonucci",
+        "age": 32,
+        "squad_no": 23,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      }
+    ],
+    "2014": [
+      {
+        "id": "ITA_2014_01",
+        "name_cn": "布冯",
+        "name_en": "Gianluigi Buffon",
+        "age": 30,
+        "squad_no": 1,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 94
+          }
+        ],
+        "tags": [
+          "传奇门将",
+          "2006冠军"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ITA_2014_02",
+        "name_cn": "Mattia De Sciglio",
+        "name_en": "Mattia De Sciglio",
+        "age": 26,
+        "squad_no": 2,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 78
+          },
+          {
+            "pos": "RB",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ITA_2014_03",
+        "name_cn": "基耶利尼",
+        "name_en": "Giorgio Chiellini",
+        "age": 25,
+        "squad_no": 3,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 87
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ITA_2014_04",
+        "name_cn": "Matteo Darmian",
+        "name_en": "Matteo Darmian",
+        "age": 22,
+        "squad_no": 4,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 78
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ITA_2014_05",
+        "name_cn": "Thiago Motta",
+        "name_en": "Thiago Motta",
+        "age": 31,
+        "squad_no": 5,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 78
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ITA_2014_06",
+        "name_cn": "Antonio Candreva",
+        "name_en": "Antonio Candreva",
+        "age": 30,
+        "squad_no": 6,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 78
+          },
+          {
+            "pos": "DM",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ITA_2014_07",
+        "name_cn": "Ignazio Abate",
+        "name_en": "Ignazio Abate",
+        "age": 30,
+        "squad_no": 7,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 78
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ITA_2014_08",
+        "name_cn": "Claudio Marchisio",
+        "name_en": "Claudio Marchisio",
+        "age": 33,
+        "squad_no": 8,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 78
+          },
+          {
+            "pos": "DM",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ITA_2014_09",
+        "name_cn": "巴洛特利",
+        "name_en": "Mario Balotelli",
+        "age": 25,
+        "squad_no": 9,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 87
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ITA_2014_10",
+        "name_cn": "Antonio Cassano",
+        "name_en": "Antonio Cassano",
+        "age": 31,
+        "squad_no": 10,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 78
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ITA_2014_11",
+        "name_cn": "Alessio Cerci",
+        "name_en": "Alessio Cerci",
+        "age": 24,
+        "squad_no": 11,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 78
+          },
+          {
+            "pos": "LW",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ITA_2014_12",
+        "name_cn": "Salvatore Sirigu",
+        "name_en": "Salvatore Sirigu",
+        "age": 32,
+        "squad_no": 12,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 77
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ITA_2014_13",
+        "name_cn": "Mattia Perin",
+        "name_en": "Mattia Perin",
+        "age": 22,
+        "squad_no": 13,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 77
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ITA_2014_14",
+        "name_cn": "Alberto Aquilani",
+        "name_en": "Alberto Aquilani",
+        "age": 27,
+        "squad_no": 14,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ITA_2014_15",
+        "name_cn": "Andrea Barzagli",
+        "name_en": "Andrea Barzagli",
+        "age": 25,
+        "squad_no": 15,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ITA_2014_16",
+        "name_cn": "德罗西",
+        "name_en": "Daniele De Rossi",
+        "age": 32,
+        "squad_no": 16,
+        "positions": [
+          {
+            "pos": "DM",
+            "ovr": 87
+          },
+          {
+            "pos": "CM",
+            "ovr": 84
+          }
+        ],
+        "tags": [
+          "2006冠军"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ITA_2014_17",
+        "name_cn": "Ciro Immobile",
+        "name_en": "Ciro Immobile",
+        "age": 22,
+        "squad_no": 17,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ITA_2014_18",
+        "name_cn": "Marco Parolo",
+        "name_en": "Marco Parolo",
+        "age": 24,
+        "squad_no": 18,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ITA_2014_19",
+        "name_cn": "博努奇",
+        "name_en": "Leonardo Bonucci",
+        "age": 23,
+        "squad_no": 19,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 87
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ITA_2014_20",
+        "name_cn": "Gabriel Paletta",
+        "name_en": "Gabriel Paletta",
+        "age": 26,
+        "squad_no": 20,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ITA_2014_21",
+        "name_cn": "皮尔洛",
+        "name_en": "Andrea Pirlo",
+        "age": 28,
+        "squad_no": 21,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 92
+          },
+          {
+            "pos": "CAM",
+            "ovr": 87
+          }
+        ],
+        "tags": [
+          "2006冠军"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ITA_2014_22",
+        "name_cn": "Lorenzo Insigne",
+        "name_en": "Lorenzo Insigne",
+        "age": 27,
+        "squad_no": 22,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ITA_2014_23",
+        "name_cn": "Marco Verratti",
+        "name_en": "Marco Verratti",
+        "age": 32,
+        "squad_no": 23,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      }
+    ]
+  }
+}

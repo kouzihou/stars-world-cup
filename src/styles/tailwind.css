@@ -1,0 +1,92 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html, body, #app { height: 100%; }
+body {
+  background:
+    radial-gradient(1200px 600px at 50% -10%, rgba(22,163,74,0.25), transparent 60%),
+    radial-gradient(900px 500px at 100% 110%, rgba(255,215,0,0.10), transparent 60%),
+    #0b1736;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.btn-gold {
+  @apply bg-gold text-navy2 font-bold rounded-lg px-4 py-2 shadow hover:brightness-110 active:scale-95 transition;
+}
+.btn-ghost {
+  @apply border border-white/30 text-white rounded-lg px-4 py-2 hover:bg-white/10 active:scale-95 transition;
+}
+.card-glass {
+  @apply bg-white/5 backdrop-blur border border-white/10 rounded-xl;
+}
+
+/* 球场 */
+.pitch {
+  position: relative;
+  width: 100%;
+  aspect-ratio: 2 / 3;
+  background:
+    linear-gradient(180deg, #15803d 0%, #16a34a 50%, #15803d 100%);
+  border: 2px solid rgba(255,255,255,0.6);
+  border-radius: 12px;
+  overflow: hidden;
+}
+.pitch::before, .pitch::after {
+  content: '';
+  position: absolute;
+  left: 0; right: 0;
+  border-top: 2px solid rgba(255,255,255,0.6);
+}
+.pitch::before { top: 50%; }
+.pitch-circle {
+  position: absolute;
+  top: 50%; left: 50%;
+  width: 28%;
+  aspect-ratio: 1;
+  border: 2px solid rgba(255,255,255,0.6);
+  border-radius: 50%;
+  transform: translate(-50%, -50%);
+}
+.pitch-box-top, .pitch-box-bottom {
+  position: absolute;
+  left: 22%;
+  width: 56%;
+  height: 14%;
+  border: 2px solid rgba(255,255,255,0.6);
+}
+.pitch-box-top { top: 0; border-top: 0; }
+.pitch-box-bottom { bottom: 0; border-bottom: 0; }
+.pitch-small-top, .pitch-small-bottom {
+  position: absolute;
+  left: 36%;
+  width: 28%;
+  height: 6%;
+  border: 2px solid rgba(255,255,255,0.6);
+}
+.pitch-small-top { top: 0; border-top: 0; }
+.pitch-small-bottom { bottom: 0; border-bottom: 0; }
+
+.slot-dot {
+  position: absolute;
+  transform: translate(-50%, 50%);
+}
+
+/* OVR 徽章颜色 */
+.ovr-90 { @apply bg-gradient-to-br from-yellow-300 to-amber-500 text-amber-900; }
+.ovr-85 { @apply bg-gradient-to-br from-amber-200 to-yellow-400 text-amber-900; }
+.ovr-80 { @apply bg-gradient-to-br from-purple-400 to-fuchsia-500 text-white; }
+.ovr-75 { @apply bg-gradient-to-br from-emerald-400 to-green-500 text-white; }
+.ovr-70 { @apply bg-gradient-to-br from-sky-400 to-blue-500 text-white; }
+.ovr-default { @apply bg-slate-400 text-white; }
+
+/* 闪烁高亮 */
+@keyframes pulseGold {
+  0%, 100% { box-shadow: 0 0 0 0 rgba(255,215,0,0.7); }
+  50% { box-shadow: 0 0 0 12px rgba(255,215,0,0); }
+}
+.pulse-gold { animation: pulseGold 1.4s ease-out infinite; }
+
+.no-scrollbar::-webkit-scrollbar { display: none; }
+.no-scrollbar { -ms-overflow-style: none; scrollbar-width: none; }

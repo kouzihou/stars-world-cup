@@ -1,0 +1,774 @@
+{
+  "country_code": "CZE",
+  "squads": {
+    "2006": [
+      {
+        "id": "CZE_2006_01",
+        "name_cn": "切赫",
+        "name_en": "Petr Čech",
+        "age": 30,
+        "squad_no": 1,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 92
+          }
+        ],
+        "tags": [
+          "传奇门将"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CZE_2006_02",
+        "name_cn": "Zdeněk Grygera",
+        "name_en": "Zdeněk Grygera",
+        "age": 29,
+        "squad_no": 2,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          },
+          {
+            "pos": "RB",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CZE_2006_03",
+        "name_cn": "Pavel Mareš",
+        "name_en": "Pavel Mareš",
+        "age": 27,
+        "squad_no": 3,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          },
+          {
+            "pos": "LB",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CZE_2006_04",
+        "name_cn": "Tomáš Galásek",
+        "name_en": "Tomáš Galásek",
+        "age": 22,
+        "squad_no": 4,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CZE_2006_05",
+        "name_cn": "Radoslav Kováč",
+        "name_en": "Radoslav Kováč",
+        "age": 31,
+        "squad_no": 5,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CZE_2006_06",
+        "name_cn": "Marek Jankulovski",
+        "name_en": "Marek Jankulovski",
+        "age": 32,
+        "squad_no": 6,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CZE_2006_07",
+        "name_cn": "Libor Sionko",
+        "name_en": "Libor Sionko",
+        "age": 32,
+        "squad_no": 7,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CZE_2006_08",
+        "name_cn": "波博尔斯基",
+        "name_en": "Karel Poborský",
+        "age": 31,
+        "squad_no": 8,
+        "positions": [
+          {
+            "pos": "RM",
+            "ovr": 87
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CZE_2006_09",
+        "name_cn": "Jan Koller",
+        "name_en": "Jan Koller",
+        "age": 29,
+        "squad_no": 9,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 73
+          },
+          {
+            "pos": "CAM",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CZE_2006_10",
+        "name_cn": "罗西基",
+        "name_en": "Tomáš Rosický",
+        "age": 32,
+        "squad_no": 10,
+        "positions": [
+          {
+            "pos": "CAM",
+            "ovr": 87
+          },
+          {
+            "pos": "CM",
+            "ovr": 85
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CZE_2006_11",
+        "name_cn": "内德维德",
+        "name_en": "Pavel Nedvěd",
+        "age": 29,
+        "squad_no": 11,
+        "positions": [
+          {
+            "pos": "CAM",
+            "ovr": 92
+          },
+          {
+            "pos": "CM",
+            "ovr": 90
+          }
+        ],
+        "tags": [
+          "金球奖03"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CZE_2006_12",
+        "name_cn": "Vratislav Lokvenc",
+        "name_en": "Vratislav Lokvenc",
+        "age": 22,
+        "squad_no": 12,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CZE_2006_13",
+        "name_cn": "Martin Jiránek",
+        "name_en": "Martin Jiránek",
+        "age": 22,
+        "squad_no": 13,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CZE_2006_14",
+        "name_cn": "David Jarolím",
+        "name_en": "David Jarolím",
+        "age": 30,
+        "squad_no": 14,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CZE_2006_15",
+        "name_cn": "巴罗什",
+        "name_en": "Milan Baroš",
+        "age": 30,
+        "squad_no": 15,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 87
+          }
+        ],
+        "tags": [
+          "金靴euro04"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CZE_2006_16",
+        "name_cn": "Jaromír Blažek",
+        "name_en": "Jaromír Blažek",
+        "age": 28,
+        "squad_no": 16,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 72
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CZE_2006_17",
+        "name_cn": "Jiří Štajner",
+        "name_en": "Jiří Štajner",
+        "age": 22,
+        "squad_no": 17,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CZE_2006_18",
+        "name_cn": "Marek Heinz",
+        "name_en": "Marek Heinz",
+        "age": 22,
+        "squad_no": 18,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CZE_2006_19",
+        "name_cn": "Jan Polák",
+        "name_en": "Jan Polák",
+        "age": 30,
+        "squad_no": 19,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CZE_2006_20",
+        "name_cn": "Jaroslav Plašil",
+        "name_en": "Jaroslav Plašil",
+        "age": 33,
+        "squad_no": 20,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CZE_2006_21",
+        "name_cn": "Tomáš Ujfaluši",
+        "name_en": "Tomáš Ujfaluši",
+        "age": 26,
+        "squad_no": 21,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CZE_2006_22",
+        "name_cn": "David Rozehnal",
+        "name_en": "David Rozehnal",
+        "age": 30,
+        "squad_no": 22,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CZE_2006_23",
+        "name_cn": "Antonín Kinský",
+        "name_en": "Antonín Kinský",
+        "age": 26,
+        "squad_no": 23,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      }
+    ],
+    "2026": [
+      {
+        "id": "CZE_2026_01",
+        "name_cn": "Lukas Hornicek",
+        "name_en": "Lukas Hornicek",
+        "age": 22,
+        "squad_no": 1,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CZE_2026_02",
+        "name_cn": "Jan Koutny",
+        "name_en": "Jan Koutny",
+        "age": 30,
+        "squad_no": 2,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CZE_2026_03",
+        "name_cn": "Jindrich Stanek",
+        "name_en": "Jindrich Stanek",
+        "age": 33,
+        "squad_no": 3,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CZE_2026_04",
+        "name_cn": "Vladimír Coufal",
+        "name_en": "Vladimír Coufal",
+        "age": 32,
+        "squad_no": 4,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CZE_2026_05",
+        "name_cn": "David Douděra",
+        "name_en": "David Douděra",
+        "age": 28,
+        "squad_no": 5,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CZE_2026_06",
+        "name_cn": "Tomáš Holeš",
+        "name_en": "Tomáš Holeš",
+        "age": 24,
+        "squad_no": 6,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CZE_2026_07",
+        "name_cn": "Robin Hranáč",
+        "name_en": "Robin Hranáč",
+        "age": 23,
+        "squad_no": 7,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CZE_2026_08",
+        "name_cn": "Štěpán Chaloupek",
+        "name_en": "Štěpán Chaloupek",
+        "age": 23,
+        "squad_no": 8,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CZE_2026_09",
+        "name_cn": "David Jurásek",
+        "name_en": "David Jurásek",
+        "age": 30,
+        "squad_no": 9,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CZE_2026_10",
+        "name_cn": "Ladislav Krejčí",
+        "name_en": "Ladislav Krejčí",
+        "age": 24,
+        "squad_no": 10,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CZE_2026_11",
+        "name_cn": "Jaroslav Zelený",
+        "name_en": "Jaroslav Zelený",
+        "age": 25,
+        "squad_no": 11,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CZE_2026_12",
+        "name_cn": "David Zima",
+        "name_en": "David Zima",
+        "age": 25,
+        "squad_no": 12,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CZE_2026_13",
+        "name_cn": "Lukás Cerv",
+        "name_en": "Lukás Cerv",
+        "age": 31,
+        "squad_no": 13,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CZE_2026_14",
+        "name_cn": "Vladimir Darida",
+        "name_en": "Vladimir Darida",
+        "age": 30,
+        "squad_no": 14,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CZE_2026_15",
+        "name_cn": "Lukás Provod",
+        "name_en": "Lukás Provod",
+        "age": 26,
+        "squad_no": 15,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CZE_2026_16",
+        "name_cn": "Michal Sadílek",
+        "name_en": "Michal Sadílek",
+        "age": 27,
+        "squad_no": 16,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CZE_2026_17",
+        "name_cn": "Hugo Sochůrek",
+        "name_en": "Hugo Sochůrek",
+        "age": 26,
+        "squad_no": 17,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CZE_2026_18",
+        "name_cn": "Alexandr Sojka",
+        "name_en": "Alexandr Sojka",
+        "age": 28,
+        "squad_no": 18,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CZE_2026_19",
+        "name_cn": "索切克",
+        "name_en": "Tomáš Souček",
+        "age": 23,
+        "squad_no": 19,
+        "positions": [
+          {
+            "pos": "DM",
+            "ovr": 84
+          },
+          {
+            "pos": "CM",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CZE_2026_20",
+        "name_cn": "亨特",
+        "name_en": "Adam Hložek",
+        "age": 27,
+        "squad_no": 20,
+        "positions": [
+          {
+            "pos": "LW",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CZE_2026_21",
+        "name_cn": "Tomáš Chorý",
+        "name_en": "Tomáš Chorý",
+        "age": 28,
+        "squad_no": 21,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CZE_2026_22",
+        "name_cn": "Mojmír Chytil",
+        "name_en": "Mojmír Chytil",
+        "age": 29,
+        "squad_no": 22,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CZE_2026_23",
+        "name_cn": "Jan Kuchta",
+        "name_en": "Jan Kuchta",
+        "age": 31,
+        "squad_no": 23,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CZE_2026_24",
+        "name_cn": "巴尔卡",
+        "name_en": "Patrik Schick",
+        "age": 25,
+        "squad_no": 24,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 85
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CZE_2026_25",
+        "name_cn": "Matej Vydra",
+        "name_en": "Matej Vydra",
+        "age": 33,
+        "squad_no": 25,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CZE_2026_26",
+        "name_cn": "Denis Višinský",
+        "name_en": "Denis Višinský",
+        "age": 25,
+        "squad_no": 26,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      }
+    ]
+  }
+}

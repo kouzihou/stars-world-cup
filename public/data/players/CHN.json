@@ -1,0 +1,372 @@
+{
+  "country_code": "CHN",
+  "squads": {
+    "2002": [
+      {
+        "id": "CHN_2002_01",
+        "name_cn": "安琦",
+        "name_en": "An Qi",
+        "age": 28,
+        "squad_no": 1,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CHN_2002_02",
+        "name_cn": "张恩华",
+        "name_en": "Zhang Enhua",
+        "age": 28,
+        "squad_no": 2,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 69
+          },
+          {
+            "pos": "RB",
+            "ovr": 66
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CHN_2002_03",
+        "name_cn": "杨璞",
+        "name_en": "Yang Pu",
+        "age": 31,
+        "squad_no": 3,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 69
+          },
+          {
+            "pos": "LB",
+            "ovr": 66
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CHN_2002_04",
+        "name_cn": "吴承瑛",
+        "name_en": "Wu Chengying",
+        "age": 25,
+        "squad_no": 4,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CHN_2002_05",
+        "name_cn": "范志毅",
+        "name_en": "Fan Zhiyi",
+        "age": 30,
+        "squad_no": 5,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 84
+          }
+        ],
+        "tags": [
+          "队长"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CHN_2002_06",
+        "name_cn": "邵佳一",
+        "name_en": "Shao Jiayi",
+        "age": 22,
+        "squad_no": 6,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 69
+          },
+          {
+            "pos": "DM",
+            "ovr": 67
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CHN_2002_07",
+        "name_cn": "孙继海",
+        "name_en": "Sun Jihai",
+        "age": 33,
+        "squad_no": 7,
+        "positions": [
+          {
+            "pos": "RB",
+            "ovr": 83
+          },
+          {
+            "pos": "CB",
+            "ovr": 82
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CHN_2002_08",
+        "name_cn": "李铁",
+        "name_en": "Li Tie",
+        "age": 33,
+        "squad_no": 8,
+        "positions": [
+          {
+            "pos": "DM",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CHN_2002_09",
+        "name_cn": "马明宇",
+        "name_en": "Ma Mingyu",
+        "age": 23,
+        "squad_no": 9,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CHN_2002_10",
+        "name_cn": "郝海东",
+        "name_en": "Hao Haidong",
+        "age": 23,
+        "squad_no": 10,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 84
+          }
+        ],
+        "tags": [
+          "亚洲射手"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CHN_2002_11",
+        "name_cn": "于根伟",
+        "name_en": "Yu Genwei",
+        "age": 30,
+        "squad_no": 11,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CHN_2002_12",
+        "name_cn": "宿茂臻",
+        "name_en": "Su Maozhen",
+        "age": 26,
+        "squad_no": 12,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 67
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CHN_2002_13",
+        "name_cn": "高尧",
+        "name_en": "Gao Yao",
+        "age": 33,
+        "squad_no": 13,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 67
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CHN_2002_14",
+        "name_cn": "李玮锋",
+        "name_en": "Li Weifeng",
+        "age": 30,
+        "squad_no": 14,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 67
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CHN_2002_15",
+        "name_cn": "赵俊哲",
+        "name_en": "Zhao Junzhe",
+        "age": 31,
+        "squad_no": 15,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 67
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CHN_2002_16",
+        "name_cn": "曲波",
+        "name_en": "Qu Bo",
+        "age": 27,
+        "squad_no": 16,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 67
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CHN_2002_17",
+        "name_cn": "杜威",
+        "name_en": "Du Wei",
+        "age": 27,
+        "squad_no": 17,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 65
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CHN_2002_18",
+        "name_cn": "李霄鹏",
+        "name_en": "Li Xiaopeng",
+        "age": 26,
+        "squad_no": 18,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 65
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CHN_2002_19",
+        "name_cn": "祁宏",
+        "name_en": "Qi Hong",
+        "age": 25,
+        "squad_no": 19,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 65
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CHN_2002_20",
+        "name_cn": "杨晨",
+        "name_en": "Yang Chen",
+        "age": 31,
+        "squad_no": 20,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 65
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CHN_2002_21",
+        "name_cn": "徐云龙",
+        "name_en": "Xu Yunlong",
+        "age": 25,
+        "squad_no": 21,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 65
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CHN_2002_22",
+        "name_cn": "江津",
+        "name_en": "Jiang Jin",
+        "age": 29,
+        "squad_no": 22,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CHN_2002_23",
+        "name_cn": "区楚良",
+        "name_en": "Ou Chuliang",
+        "age": 28,
+        "squad_no": 23,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 65
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,3400 @@
+{
+  "country_code": "ENG",
+  "squads": {
+    "1990": [
+      {
+        "id": "ENG_1990_01",
+        "name_cn": "希尔顿",
+        "name_en": "Shilton",
+        "age": 31,
+        "squad_no": 1,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 88
+          }
+        ],
+        "tags": [
+          "传奇门将",
+          "队长"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ENG_1990_02",
+        "name_cn": "Gary Stevens",
+        "name_en": "Gary Stevens",
+        "age": 33,
+        "squad_no": 2,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 82
+          },
+          {
+            "pos": "RB",
+            "ovr": 79
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ENG_1990_03",
+        "name_cn": "皮尔斯",
+        "name_en": "Pearce",
+        "age": 26,
+        "squad_no": 3,
+        "positions": [
+          {
+            "pos": "LB",
+            "ovr": 87
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ENG_1990_04",
+        "name_cn": "罗布森",
+        "name_en": "Robson",
+        "age": 30,
+        "squad_no": 4,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 87
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ENG_1990_05",
+        "name_cn": "沃克",
+        "name_en": "Walker",
+        "age": 22,
+        "squad_no": 5,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ENG_1990_06",
+        "name_cn": "巴特勒",
+        "name_en": "Butcher",
+        "age": 30,
+        "squad_no": 6,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 85
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ENG_1990_07",
+        "name_cn": "Neil Webb",
+        "name_en": "Neil Webb",
+        "age": 25,
+        "squad_no": 7,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 82
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ENG_1990_08",
+        "name_cn": "沃丁",
+        "name_en": "Waddle",
+        "age": 23,
+        "squad_no": 8,
+        "positions": [
+          {
+            "pos": "RW",
+            "ovr": 85
+          },
+          {
+            "pos": "RM",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ENG_1990_09",
+        "name_cn": "Peter Beardsley",
+        "name_en": "Peter Beardsley",
+        "age": 25,
+        "squad_no": 9,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 82
+          },
+          {
+            "pos": "CAM",
+            "ovr": 79
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ENG_1990_10",
+        "name_cn": "莱因克尔",
+        "name_en": "Lineker",
+        "age": 33,
+        "squad_no": 10,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 92
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ENG_1990_11",
+        "name_cn": "巴恩斯",
+        "name_en": "Barnes",
+        "age": 28,
+        "squad_no": 11,
+        "positions": [
+          {
+            "pos": "LW",
+            "ovr": 87
+          },
+          {
+            "pos": "LM",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ENG_1990_12",
+        "name_cn": "Paul Parker",
+        "name_en": "Paul Parker",
+        "age": 29,
+        "squad_no": 12,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ENG_1990_13",
+        "name_cn": "Chris Woods",
+        "name_en": "Chris Woods",
+        "age": 30,
+        "squad_no": 13,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 81
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ENG_1990_14",
+        "name_cn": "Mark Wright",
+        "name_en": "Mark Wright",
+        "age": 25,
+        "squad_no": 14,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ENG_1990_15",
+        "name_cn": "Tony Dorigo",
+        "name_en": "Tony Dorigo",
+        "age": 33,
+        "squad_no": 15,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ENG_1990_16",
+        "name_cn": "Steve McMahon",
+        "name_en": "Steve McMahon",
+        "age": 29,
+        "squad_no": 16,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ENG_1990_17",
+        "name_cn": "David Platt",
+        "name_en": "David Platt",
+        "age": 32,
+        "squad_no": 17,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 78
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ENG_1990_18",
+        "name_cn": "Steve Hodge",
+        "name_en": "Steve Hodge",
+        "age": 33,
+        "squad_no": 18,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 78
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ENG_1990_19",
+        "name_cn": "加斯科因",
+        "name_en": "Gascoigne",
+        "age": 29,
+        "squad_no": 19,
+        "positions": [
+          {
+            "pos": "CAM",
+            "ovr": 90
+          },
+          {
+            "pos": "CM",
+            "ovr": 87
+          }
+        ],
+        "tags": [
+          "四强落泪",
+          "英格兰天才"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ENG_1990_20",
+        "name_cn": "Trevor Steven",
+        "name_en": "Trevor Steven",
+        "age": 29,
+        "squad_no": 20,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 78
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ENG_1990_21",
+        "name_cn": "Steve Bull",
+        "name_en": "Steve Bull",
+        "age": 22,
+        "squad_no": 21,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 78
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ENG_1990_22",
+        "name_cn": "David Seaman",
+        "name_en": "David Seaman",
+        "age": 23,
+        "squad_no": 22,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 79
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      }
+    ],
+    "1998": [
+      {
+        "id": "ENG_1998_01",
+        "name_cn": "西曼",
+        "name_en": "Seaman",
+        "age": 26,
+        "squad_no": 1,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 88
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ENG_1998_02",
+        "name_cn": "Sol Campbell",
+        "name_en": "Sol Campbell",
+        "age": 25,
+        "squad_no": 2,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 83
+          },
+          {
+            "pos": "RB",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ENG_1998_03",
+        "name_cn": "勒索克斯",
+        "name_en": "Le Saux",
+        "age": 28,
+        "squad_no": 3,
+        "positions": [
+          {
+            "pos": "LB",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ENG_1998_04",
+        "name_cn": "因斯",
+        "name_en": "Ince",
+        "age": 33,
+        "squad_no": 4,
+        "positions": [
+          {
+            "pos": "DM",
+            "ovr": 85
+          },
+          {
+            "pos": "CM",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ENG_1998_05",
+        "name_cn": "亚当斯",
+        "name_en": "Adams",
+        "age": 25,
+        "squad_no": 5,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 87
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ENG_1998_06",
+        "name_cn": "绍斯盖特",
+        "name_en": "Southgate",
+        "age": 26,
+        "squad_no": 6,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ENG_1998_07",
+        "name_cn": "贝克汉姆",
+        "name_en": "Beckham",
+        "age": 32,
+        "squad_no": 7,
+        "positions": [
+          {
+            "pos": "RM",
+            "ovr": 87
+          },
+          {
+            "pos": "RW",
+            "ovr": 85
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ENG_1998_08",
+        "name_cn": "斯科尔斯",
+        "name_en": "Scholes",
+        "age": 31,
+        "squad_no": 8,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 87
+          },
+          {
+            "pos": "CAM",
+            "ovr": 85
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ENG_1998_09",
+        "name_cn": "希勒",
+        "name_en": "Shearer",
+        "age": 27,
+        "squad_no": 9,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 92
+          }
+        ],
+        "tags": [
+          "队长"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ENG_1998_10",
+        "name_cn": "谢林汉姆",
+        "name_en": "Sheringham",
+        "age": 29,
+        "squad_no": 10,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 85
+          },
+          {
+            "pos": "CAM",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ENG_1998_11",
+        "name_cn": "David Batty",
+        "name_en": "David Batty",
+        "age": 30,
+        "squad_no": 11,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 83
+          },
+          {
+            "pos": "DM",
+            "ovr": 81
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ENG_1998_12",
+        "name_cn": "Steve McManaman",
+        "name_en": "Steve McManaman",
+        "age": 30,
+        "squad_no": 12,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ENG_1998_13",
+        "name_cn": "Gary Neville",
+        "name_en": "Gary Neville",
+        "age": 27,
+        "squad_no": 13,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 81
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ENG_1998_14",
+        "name_cn": "Nigel Martyn",
+        "name_en": "Nigel Martyn",
+        "age": 28,
+        "squad_no": 14,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 82
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ENG_1998_15",
+        "name_cn": "Darren Anderton",
+        "name_en": "Darren Anderton",
+        "age": 33,
+        "squad_no": 15,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 81
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ENG_1998_16",
+        "name_cn": "Paul Merson",
+        "name_en": "Paul Merson",
+        "age": 30,
+        "squad_no": 16,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 81
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ENG_1998_17",
+        "name_cn": "Rob Lee",
+        "name_en": "Rob Lee",
+        "age": 27,
+        "squad_no": 17,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 79
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ENG_1998_18",
+        "name_cn": "Martin Keown",
+        "name_en": "Martin Keown",
+        "age": 27,
+        "squad_no": 18,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 79
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ENG_1998_19",
+        "name_cn": "Les Ferdinand",
+        "name_en": "Les Ferdinand",
+        "age": 33,
+        "squad_no": 19,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 79
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ENG_1998_20",
+        "name_cn": "欧文",
+        "name_en": "Owen",
+        "age": 29,
+        "squad_no": 20,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 87
+          }
+        ],
+        "tags": [
+          "未来金球新星"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ENG_1998_21",
+        "name_cn": "费迪南德",
+        "name_en": "Rio Ferdinand",
+        "age": 26,
+        "squad_no": 21,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 79
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ENG_1998_22",
+        "name_cn": "Tim Flowers",
+        "name_en": "Tim Flowers",
+        "age": 26,
+        "squad_no": 22,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      }
+    ],
+    "2002": [
+      {
+        "id": "ENG_2002_01",
+        "name_cn": "西曼",
+        "name_en": "Seaman",
+        "age": 26,
+        "squad_no": 1,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 85
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ENG_2002_02",
+        "name_cn": "Danny Mills",
+        "name_en": "Danny Mills",
+        "age": 25,
+        "squad_no": 2,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 84
+          },
+          {
+            "pos": "RB",
+            "ovr": 81
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ENG_2002_03",
+        "name_cn": "阿什利·科尔",
+        "name_en": "Cole",
+        "age": 23,
+        "squad_no": 3,
+        "positions": [
+          {
+            "pos": "LB",
+            "ovr": 87
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ENG_2002_04",
+        "name_cn": "Trevor Sinclair",
+        "name_en": "Trevor Sinclair",
+        "age": 33,
+        "squad_no": 4,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ENG_2002_05",
+        "name_cn": "坎贝尔",
+        "name_en": "Campbell",
+        "age": 25,
+        "squad_no": 5,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 87
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ENG_2002_06",
+        "name_cn": "费迪南德",
+        "name_en": "Ferdinand",
+        "age": 27,
+        "squad_no": 6,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 87
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ENG_2002_07",
+        "name_cn": "贝克汉姆",
+        "name_en": "Beckham",
+        "age": 23,
+        "squad_no": 7,
+        "positions": [
+          {
+            "pos": "RM",
+            "ovr": 90
+          },
+          {
+            "pos": "RW",
+            "ovr": 87
+          }
+        ],
+        "tags": [
+          "队长"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ENG_2002_08",
+        "name_cn": "斯科尔斯",
+        "name_en": "Scholes",
+        "age": 33,
+        "squad_no": 8,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 87
+          },
+          {
+            "pos": "CAM",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ENG_2002_09",
+        "name_cn": "赫斯基",
+        "name_en": "Heskey",
+        "age": 30,
+        "squad_no": 9,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ENG_2002_10",
+        "name_cn": "欧文",
+        "name_en": "Owen",
+        "age": 33,
+        "squad_no": 10,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 90
+          }
+        ],
+        "tags": [
+          "金童奖"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ENG_2002_11",
+        "name_cn": "Robbie Fowler",
+        "name_en": "Robbie Fowler",
+        "age": 24,
+        "squad_no": 11,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 84
+          },
+          {
+            "pos": "CAM",
+            "ovr": 81
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ENG_2002_12",
+        "name_cn": "Wes Brown",
+        "name_en": "Wes Brown",
+        "age": 25,
+        "squad_no": 12,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 82
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ENG_2002_13",
+        "name_cn": "Nigel Martyn",
+        "name_en": "Nigel Martyn",
+        "age": 25,
+        "squad_no": 13,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ENG_2002_14",
+        "name_cn": "Wayne Bridge",
+        "name_en": "Wayne Bridge",
+        "age": 33,
+        "squad_no": 14,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 82
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ENG_2002_15",
+        "name_cn": "Martin Keown",
+        "name_en": "Martin Keown",
+        "age": 29,
+        "squad_no": 15,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 82
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ENG_2002_16",
+        "name_cn": "哈格里夫斯",
+        "name_en": "Hargreaves",
+        "age": 26,
+        "squad_no": 16,
+        "positions": [
+          {
+            "pos": "DM",
+            "ovr": 83
+          },
+          {
+            "pos": "CM",
+            "ovr": 81
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ENG_2002_17",
+        "name_cn": "Gareth Southgate",
+        "name_en": "Gareth Southgate",
+        "age": 33,
+        "squad_no": 17,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 82
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ENG_2002_18",
+        "name_cn": "Teddy Sheringham",
+        "name_en": "Teddy Sheringham",
+        "age": 31,
+        "squad_no": 18,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ENG_2002_20",
+        "name_cn": "Darius Vassell",
+        "name_en": "Darius Vassell",
+        "age": 30,
+        "squad_no": 20,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ENG_2002_21",
+        "name_cn": "Nicky Butt",
+        "name_en": "Nicky Butt",
+        "age": 31,
+        "squad_no": 21,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ENG_2002_22",
+        "name_cn": "David James",
+        "name_en": "David James",
+        "age": 26,
+        "squad_no": 22,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 81
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ENG_2002_23",
+        "name_cn": "Kieron Dyer",
+        "name_en": "Kieron Dyer",
+        "age": 23,
+        "squad_no": 23,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 79
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      }
+    ],
+    "2006": [
+      {
+        "id": "ENG_2006_01",
+        "name_cn": "罗宾逊",
+        "name_en": "Robinson",
+        "age": 25,
+        "squad_no": 1,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ENG_2006_02",
+        "name_cn": "Gary Neville",
+        "name_en": "Gary Neville",
+        "age": 26,
+        "squad_no": 2,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 84
+          },
+          {
+            "pos": "RB",
+            "ovr": 81
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ENG_2006_03",
+        "name_cn": "阿什利·科尔",
+        "name_en": "Cole",
+        "age": 25,
+        "squad_no": 3,
+        "positions": [
+          {
+            "pos": "LB",
+            "ovr": 90
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ENG_2006_04",
+        "name_cn": "杰拉德",
+        "name_en": "Gerrard",
+        "age": 27,
+        "squad_no": 4,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 90
+          },
+          {
+            "pos": "CAM",
+            "ovr": 87
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ENG_2006_05",
+        "name_cn": "费迪南德",
+        "name_en": "Ferdinand",
+        "age": 24,
+        "squad_no": 5,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 87
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ENG_2006_06",
+        "name_cn": "特里",
+        "name_en": "Terry",
+        "age": 26,
+        "squad_no": 6,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 88
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ENG_2006_07",
+        "name_cn": "贝克汉姆",
+        "name_en": "Beckham",
+        "age": 22,
+        "squad_no": 7,
+        "positions": [
+          {
+            "pos": "RM",
+            "ovr": 87
+          },
+          {
+            "pos": "RW",
+            "ovr": 85
+          }
+        ],
+        "tags": [
+          "队长"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ENG_2006_08",
+        "name_cn": "兰帕德",
+        "name_en": "Lampard",
+        "age": 33,
+        "squad_no": 8,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 90
+          },
+          {
+            "pos": "CAM",
+            "ovr": 87
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ENG_2006_09",
+        "name_cn": "鲁尼",
+        "name_en": "Rooney",
+        "age": 30,
+        "squad_no": 9,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 91
+          },
+          {
+            "pos": "CAM",
+            "ovr": 88
+          }
+        ],
+        "tags": [
+          "小胖"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ENG_2006_10",
+        "name_cn": "欧文",
+        "name_en": "Owen",
+        "age": 24,
+        "squad_no": 10,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 87
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ENG_2006_12",
+        "name_cn": "Sol Campbell",
+        "name_en": "Sol Campbell",
+        "age": 26,
+        "squad_no": 12,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 82
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ENG_2006_13",
+        "name_cn": "David James",
+        "name_en": "David James",
+        "age": 22,
+        "squad_no": 13,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ENG_2006_14",
+        "name_cn": "Wayne Bridge",
+        "name_en": "Wayne Bridge",
+        "age": 22,
+        "squad_no": 14,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 82
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ENG_2006_15",
+        "name_cn": "Jamie Carragher",
+        "name_en": "Jamie Carragher",
+        "age": 30,
+        "squad_no": 15,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 82
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ENG_2006_16",
+        "name_cn": "Owen Hargreaves",
+        "name_en": "Owen Hargreaves",
+        "age": 26,
+        "squad_no": 16,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 82
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ENG_2006_17",
+        "name_cn": "Jermaine Jenas",
+        "name_en": "Jermaine Jenas",
+        "age": 33,
+        "squad_no": 17,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ENG_2006_18",
+        "name_cn": "Michael Carrick",
+        "name_en": "Michael Carrick",
+        "age": 24,
+        "squad_no": 18,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ENG_2006_19",
+        "name_cn": "Aaron Lennon",
+        "name_en": "Aaron Lennon",
+        "age": 32,
+        "squad_no": 19,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ENG_2006_20",
+        "name_cn": "Stewart Downing",
+        "name_en": "Stewart Downing",
+        "age": 29,
+        "squad_no": 20,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ENG_2006_21",
+        "name_cn": "Peter Crouch",
+        "name_en": "Peter Crouch",
+        "age": 23,
+        "squad_no": 21,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ENG_2006_22",
+        "name_cn": "Scott Carson",
+        "name_en": "Scott Carson",
+        "age": 22,
+        "squad_no": 22,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 81
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ENG_2006_23",
+        "name_cn": "Theo Walcott",
+        "name_en": "Theo Walcott",
+        "age": 31,
+        "squad_no": 23,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 79
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      }
+    ],
+    "2010": [
+      {
+        "id": "ENG_2010_01",
+        "name_cn": "格林",
+        "name_en": "Green",
+        "age": 26,
+        "squad_no": 1,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ENG_2010_02",
+        "name_cn": "约翰逊",
+        "name_en": "Johnson",
+        "age": 29,
+        "squad_no": 2,
+        "positions": [
+          {
+            "pos": "RB",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ENG_2010_03",
+        "name_cn": "阿什利·科尔",
+        "name_en": "Cole",
+        "age": 29,
+        "squad_no": 3,
+        "positions": [
+          {
+            "pos": "LB",
+            "ovr": 88
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ENG_2010_04",
+        "name_cn": "巴里",
+        "name_en": "Barry",
+        "age": 29,
+        "squad_no": 4,
+        "positions": [
+          {
+            "pos": "DM",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ENG_2010_05",
+        "name_cn": "David James",
+        "name_en": "David James",
+        "age": 27,
+        "squad_no": 5,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ENG_2010_06",
+        "name_cn": "特里",
+        "name_en": "Terry",
+        "age": 24,
+        "squad_no": 6,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 87
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ENG_2010_07",
+        "name_cn": "Michael Dawson",
+        "name_en": "Michael Dawson",
+        "age": 22,
+        "squad_no": 7,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ENG_2010_08",
+        "name_cn": "兰帕德",
+        "name_en": "Lampard",
+        "age": 26,
+        "squad_no": 8,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 88
+          },
+          {
+            "pos": "CAM",
+            "ovr": 86
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ENG_2010_09",
+        "name_cn": "鲁尼",
+        "name_en": "Rooney",
+        "age": 29,
+        "squad_no": 9,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 88
+          },
+          {
+            "pos": "CAM",
+            "ovr": 87
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ENG_2010_10",
+        "name_cn": "杰拉德",
+        "name_en": "Gerrard",
+        "age": 23,
+        "squad_no": 10,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 90
+          },
+          {
+            "pos": "CAM",
+            "ovr": 87
+          }
+        ],
+        "tags": [
+          "队长"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ENG_2010_11",
+        "name_cn": "Aaron Lennon",
+        "name_en": "Aaron Lennon",
+        "age": 23,
+        "squad_no": 11,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ENG_2010_12",
+        "name_cn": "Peter Crouch",
+        "name_en": "Peter Crouch",
+        "age": 28,
+        "squad_no": 12,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 84
+          },
+          {
+            "pos": "CAM",
+            "ovr": 81
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ENG_2010_13",
+        "name_cn": "Stephen Warnock",
+        "name_en": "Stephen Warnock",
+        "age": 29,
+        "squad_no": 13,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 82
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ENG_2010_14",
+        "name_cn": "Emile Heskey",
+        "name_en": "Emile Heskey",
+        "age": 23,
+        "squad_no": 14,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ENG_2010_15",
+        "name_cn": "Matthew Upson",
+        "name_en": "Matthew Upson",
+        "age": 31,
+        "squad_no": 15,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 82
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ENG_2010_17",
+        "name_cn": "Shaun Wright-Phillips",
+        "name_en": "Shaun Wright-Phillips",
+        "age": 32,
+        "squad_no": 17,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ENG_2010_18",
+        "name_cn": "Jamie Carragher",
+        "name_en": "Jamie Carragher",
+        "age": 32,
+        "squad_no": 18,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ENG_2010_19",
+        "name_cn": "Jermain Defoe",
+        "name_en": "Jermain Defoe",
+        "age": 22,
+        "squad_no": 19,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ENG_2010_20",
+        "name_cn": "Ledley King",
+        "name_en": "Ledley King",
+        "age": 24,
+        "squad_no": 20,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ENG_2010_21",
+        "name_cn": "米尔纳",
+        "name_en": "Milner",
+        "age": 24,
+        "squad_no": 21,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ENG_2010_22",
+        "name_cn": "Michael Carrick",
+        "name_en": "Michael Carrick",
+        "age": 31,
+        "squad_no": 22,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ENG_2010_23",
+        "name_cn": "Joe Hart",
+        "name_en": "Joe Hart",
+        "age": 26,
+        "squad_no": 23,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      }
+    ],
+    "2014": [
+      {
+        "id": "ENG_2014_01",
+        "name_cn": "哈特",
+        "name_en": "Hart",
+        "age": 23,
+        "squad_no": 1,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 85
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ENG_2014_02",
+        "name_cn": "约翰逊",
+        "name_en": "Johnson",
+        "age": 25,
+        "squad_no": 2,
+        "positions": [
+          {
+            "pos": "RB",
+            "ovr": 82
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ENG_2014_03",
+        "name_cn": "贝恩斯",
+        "name_en": "Baines",
+        "age": 23,
+        "squad_no": 3,
+        "positions": [
+          {
+            "pos": "LB",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ENG_2014_04",
+        "name_cn": "杰拉德",
+        "name_en": "Gerrard",
+        "age": 30,
+        "squad_no": 4,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 87
+          },
+          {
+            "pos": "CAM",
+            "ovr": 84
+          }
+        ],
+        "tags": [
+          "队长"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ENG_2014_05",
+        "name_cn": "贾格尔卡",
+        "name_en": "Jagielka",
+        "age": 28,
+        "squad_no": 5,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ENG_2014_06",
+        "name_cn": "卡希尔",
+        "name_en": "Cahill",
+        "age": 31,
+        "squad_no": 6,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ENG_2014_07",
+        "name_cn": "威尔希尔",
+        "name_en": "Wilshere",
+        "age": 31,
+        "squad_no": 7,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ENG_2014_08",
+        "name_cn": "兰帕德",
+        "name_en": "Lampard",
+        "age": 31,
+        "squad_no": 8,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ENG_2014_09",
+        "name_cn": "Daniel Sturridge",
+        "name_en": "Daniel Sturridge",
+        "age": 25,
+        "squad_no": 9,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 84
+          },
+          {
+            "pos": "CAM",
+            "ovr": 81
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ENG_2014_10",
+        "name_cn": "鲁尼",
+        "name_en": "Rooney",
+        "age": 30,
+        "squad_no": 10,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 87
+          },
+          {
+            "pos": "CAM",
+            "ovr": 86
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ENG_2014_11",
+        "name_cn": "维尔贝克",
+        "name_en": "Welbeck",
+        "age": 28,
+        "squad_no": 11,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 81
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ENG_2014_12",
+        "name_cn": "Chris Smalling",
+        "name_en": "Chris Smalling",
+        "age": 29,
+        "squad_no": 12,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 82
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ENG_2014_13",
+        "name_cn": "Ben Foster",
+        "name_en": "Ben Foster",
+        "age": 29,
+        "squad_no": 13,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ENG_2014_14",
+        "name_cn": "James Milner",
+        "name_en": "James Milner",
+        "age": 26,
+        "squad_no": 14,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ENG_2014_15",
+        "name_cn": "Alex Oxlade-Chamberlain",
+        "name_en": "Alex Oxlade-Chamberlain",
+        "age": 31,
+        "squad_no": 15,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 82
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ENG_2014_16",
+        "name_cn": "Phil Jones",
+        "name_en": "Phil Jones",
+        "age": 28,
+        "squad_no": 16,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 82
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ENG_2014_17",
+        "name_cn": "亨德森",
+        "name_en": "Henderson",
+        "age": 26,
+        "squad_no": 17,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ENG_2014_18",
+        "name_cn": "Rickie Lambert",
+        "name_en": "Rickie Lambert",
+        "age": 31,
+        "squad_no": 18,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ENG_2014_19",
+        "name_cn": "Adam Lallana",
+        "name_en": "Adam Lallana",
+        "age": 31,
+        "squad_no": 19,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ENG_2014_20",
+        "name_cn": "斯特林",
+        "name_en": "Sterling",
+        "age": 22,
+        "squad_no": 20,
+        "positions": [
+          {
+            "pos": "LW",
+            "ovr": 83
+          },
+          {
+            "pos": "RW",
+            "ovr": 82
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ENG_2014_21",
+        "name_cn": "肖",
+        "name_en": "Luke Shaw",
+        "age": 31,
+        "squad_no": 21,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 79
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ENG_2014_22",
+        "name_cn": "Fraser Forster",
+        "name_en": "Fraser Forster",
+        "age": 33,
+        "squad_no": 22,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 81
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ENG_2014_23",
+        "name_cn": "巴克利",
+        "name_en": "Barkley",
+        "age": 23,
+        "squad_no": 23,
+        "positions": [
+          {
+            "pos": "CAM",
+            "ovr": 81
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      }
+    ],
+    "2018": [
+      {
+        "id": "ENG_2018_01",
+        "name_cn": "皮克福德",
+        "name_en": "Pickford",
+        "age": 25,
+        "squad_no": 1,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ENG_2018_02",
+        "name_cn": "S. Blackstenius",
+        "name_en": "S. Blackstenius",
+        "age": 32,
+        "squad_no": 2,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 84
+          },
+          {
+            "pos": "LW",
+            "ovr": 82
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ENG_2018_03",
+        "name_cn": "扬",
+        "name_en": "Young",
+        "age": 25,
+        "squad_no": 3,
+        "positions": [
+          {
+            "pos": "LB",
+            "ovr": 82
+          },
+          {
+            "pos": "RB",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ENG_2018_04",
+        "name_cn": "Gary Cahill",
+        "name_en": "Gary Cahill",
+        "age": 26,
+        "squad_no": 4,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 82
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ENG_2018_05",
+        "name_cn": "斯通斯",
+        "name_en": "Stones",
+        "age": 32,
+        "squad_no": 5,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ENG_2018_06",
+        "name_cn": "马奎尔",
+        "name_en": "Maguire",
+        "age": 23,
+        "squad_no": 6,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ENG_2018_07",
+        "name_cn": "林加德",
+        "name_en": "Lingard",
+        "age": 24,
+        "squad_no": 7,
+        "positions": [
+          {
+            "pos": "CAM",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ENG_2018_08",
+        "name_cn": "亨德森",
+        "name_en": "Henderson",
+        "age": 25,
+        "squad_no": 8,
+        "positions": [
+          {
+            "pos": "DM",
+            "ovr": 84
+          },
+          {
+            "pos": "CM",
+            "ovr": 82
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ENG_2018_09",
+        "name_cn": "凯恩",
+        "name_en": "Kane",
+        "age": 24,
+        "squad_no": 9,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 90
+          }
+        ],
+        "tags": [
+          "队长",
+          "金靴"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ENG_2018_10",
+        "name_cn": "斯特林",
+        "name_en": "Sterling",
+        "age": 30,
+        "squad_no": 10,
+        "positions": [
+          {
+            "pos": "RW",
+            "ovr": 85
+          },
+          {
+            "pos": "LW",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ENG_2018_11",
+        "name_cn": "瓦尔迪",
+        "name_en": "Vardy",
+        "age": 23,
+        "squad_no": 11,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ENG_2018_12",
+        "name_cn": "沃克",
+        "name_en": "Walker",
+        "age": 24,
+        "squad_no": 12,
+        "positions": [
+          {
+            "pos": "RB",
+            "ovr": 85
+          },
+          {
+            "pos": "CB",
+            "ovr": 82
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ENG_2018_13",
+        "name_cn": "Jack Butland",
+        "name_en": "Jack Butland",
+        "age": 22,
+        "squad_no": 13,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ENG_2018_14",
+        "name_cn": "Danny Welbeck",
+        "name_en": "Danny Welbeck",
+        "age": 28,
+        "squad_no": 14,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 82
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ENG_2018_15",
+        "name_cn": "罗斯",
+        "name_en": "Rose",
+        "age": 29,
+        "squad_no": 15,
+        "positions": [
+          {
+            "pos": "LB",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ENG_2018_16",
+        "name_cn": "Phil Jones",
+        "name_en": "Phil Jones",
+        "age": 33,
+        "squad_no": 16,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 82
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ENG_2018_17",
+        "name_cn": "Fabian Delph",
+        "name_en": "Fabian Delph",
+        "age": 31,
+        "squad_no": 17,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ENG_2018_18",
+        "name_cn": "Dele Alli",
+        "name_en": "Dele Alli",
+        "age": 29,
+        "squad_no": 18,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ENG_2018_19",
+        "name_cn": "拉什福德",
+        "name_en": "Rashford",
+        "age": 26,
+        "squad_no": 19,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 83
+          },
+          {
+            "pos": "LW",
+            "ovr": 82
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ENG_2018_20",
+        "name_cn": "戴尔",
+        "name_en": "Dier",
+        "age": 22,
+        "squad_no": 20,
+        "positions": [
+          {
+            "pos": "DM",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ENG_2018_21",
+        "name_cn": "Ruben Loftus-Cheek",
+        "name_en": "Ruben Loftus-Cheek",
+        "age": 25,
+        "squad_no": 21,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ENG_2018_22",
+        "name_cn": "特里皮尔",
+        "name_en": "Trippier",
+        "age": 26,
+        "squad_no": 22,
+        "positions": [
+          {
+            "pos": "RB",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ENG_2018_23",
+        "name_cn": "Trent Alexander-Arnold",
+        "name_en": "Trent Alexander-Arnold",
+        "age": 33,
+        "squad_no": 23,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      }
+    ],
+    "2022": [
+      {
+        "id": "ENG_2022_01",
+        "name_cn": "皮克福德",
+        "name_en": "Pickford",
+        "age": 26,
+        "squad_no": 1,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 85
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ENG_2022_02",
+        "name_cn": "沃克",
+        "name_en": "Walker",
+        "age": 33,
+        "squad_no": 2,
+        "positions": [
+          {
+            "pos": "RB",
+            "ovr": 87
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ENG_2022_03",
+        "name_cn": "卢克·肖",
+        "name_en": "Shaw",
+        "age": 29,
+        "squad_no": 3,
+        "positions": [
+          {
+            "pos": "LB",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ENG_2022_04",
+        "name_cn": "赖斯",
+        "name_en": "Rice",
+        "age": 23,
+        "squad_no": 4,
+        "positions": [
+          {
+            "pos": "DM",
+            "ovr": 87
+          },
+          {
+            "pos": "CM",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ENG_2022_05",
+        "name_cn": "斯通斯",
+        "name_en": "Stones",
+        "age": 32,
+        "squad_no": 5,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 85
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ENG_2022_06",
+        "name_cn": "马奎尔",
+        "name_en": "Maguire",
+        "age": 25,
+        "squad_no": 6,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ENG_2022_07",
+        "name_cn": "格拉利什",
+        "name_en": "Grealish",
+        "age": 26,
+        "squad_no": 7,
+        "positions": [
+          {
+            "pos": "LW",
+            "ovr": 83
+          },
+          {
+            "pos": "CAM",
+            "ovr": 82
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ENG_2022_08",
+        "name_cn": "亨德森",
+        "name_en": "Henderson",
+        "age": 32,
+        "squad_no": 8,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 83
+          },
+          {
+            "pos": "DM",
+            "ovr": 82
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ENG_2022_09",
+        "name_cn": "凯恩",
+        "name_en": "Kane",
+        "age": 31,
+        "squad_no": 9,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 91
+          }
+        ],
+        "tags": [
+          "队长"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ENG_2022_10",
+        "name_cn": "斯特林",
+        "name_en": "Sterling",
+        "age": 32,
+        "squad_no": 10,
+        "positions": [
+          {
+            "pos": "LW",
+            "ovr": 85
+          },
+          {
+            "pos": "RW",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ENG_2022_11",
+        "name_cn": "福登",
+        "name_en": "Foden",
+        "age": 25,
+        "squad_no": 11,
+        "positions": [
+          {
+            "pos": "CAM",
+            "ovr": 87
+          },
+          {
+            "pos": "LW",
+            "ovr": 85
+          },
+          {
+            "pos": "RW",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ENG_2022_12",
+        "name_cn": "特里皮尔",
+        "name_en": "Trippier",
+        "age": 28,
+        "squad_no": 12,
+        "positions": [
+          {
+            "pos": "RB",
+            "ovr": 85
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ENG_2022_13",
+        "name_cn": "亚历山大-阿诺德",
+        "name_en": "Alexander-Arnold",
+        "age": 23,
+        "squad_no": 13,
+        "positions": [
+          {
+            "pos": "RB",
+            "ovr": 84
+          },
+          {
+            "pos": "CM",
+            "ovr": 82
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ENG_2022_14",
+        "name_cn": "Nick Pope",
+        "name_en": "Nick Pope",
+        "age": 30,
+        "squad_no": 14,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ENG_2022_15",
+        "name_cn": "Kalvin Phillips",
+        "name_en": "Kalvin Phillips",
+        "age": 25,
+        "squad_no": 15,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 82
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ENG_2022_16",
+        "name_cn": "Eric Dier",
+        "name_en": "Eric Dier",
+        "age": 32,
+        "squad_no": 16,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 82
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ENG_2022_17",
+        "name_cn": "拉什福德",
+        "name_en": "Rashford",
+        "age": 24,
+        "squad_no": 17,
+        "positions": [
+          {
+            "pos": "LW",
+            "ovr": 84
+          },
+          {
+            "pos": "ST",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ENG_2022_18",
+        "name_cn": "Conor Coady",
+        "name_en": "Conor Coady",
+        "age": 26,
+        "squad_no": 18,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 82
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ENG_2022_19",
+        "name_cn": "萨卡",
+        "name_en": "Saka",
+        "age": 24,
+        "squad_no": 19,
+        "positions": [
+          {
+            "pos": "RW",
+            "ovr": 85
+          },
+          {
+            "pos": "LW",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ENG_2022_20",
+        "name_cn": "马迪森",
+        "name_en": "Maddison",
+        "age": 23,
+        "squad_no": 20,
+        "positions": [
+          {
+            "pos": "CAM",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ENG_2022_21",
+        "name_cn": "Trent Alexander-Arnold",
+        "name_en": "Trent Alexander-Arnold",
+        "age": 22,
+        "squad_no": 21,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ENG_2022_22",
+        "name_cn": "贝林厄姆",
+        "name_en": "Bellingham",
+        "age": 24,
+        "squad_no": 22,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 87
+          },
+          {
+            "pos": "CAM",
+            "ovr": 85
+          }
+        ],
+        "tags": [
+          "新星"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ENG_2022_23",
+        "name_cn": "芒特",
+        "name_en": "Mason Mount",
+        "age": 26,
+        "squad_no": 23,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ENG_2022_24",
+        "name_cn": "Ben White",
+        "name_en": "Ben White",
+        "age": 31,
+        "squad_no": 24,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ENG_2022_25",
+        "name_cn": "Aaron Ramsdale",
+        "name_en": "Aaron Ramsdale",
+        "age": 33,
+        "squad_no": 25,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ENG_2022_26",
+        "name_cn": "Callum Wilson",
+        "name_en": "Callum Wilson",
+        "age": 31,
+        "squad_no": 26,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 79
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      }
+    ],
+    "2026": [
+      {
+        "id": "ENG_2026_01",
+        "name_cn": "皮克福德",
+        "name_en": "Pickford",
+        "age": 26,
+        "squad_no": 1,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 85
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ENG_2026_02",
+        "name_cn": "沃克",
+        "name_en": "Walker",
+        "age": 29,
+        "squad_no": 2,
+        "positions": [
+          {
+            "pos": "RB",
+            "ovr": 85
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ENG_2026_03",
+        "name_cn": "卢克·肖",
+        "name_en": "Shaw",
+        "age": 23,
+        "squad_no": 3,
+        "positions": [
+          {
+            "pos": "LB",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ENG_2026_04",
+        "name_cn": "赖斯",
+        "name_en": "Rice",
+        "age": 29,
+        "squad_no": 4,
+        "positions": [
+          {
+            "pos": "DM",
+            "ovr": 88
+          },
+          {
+            "pos": "CM",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ENG_2026_05",
+        "name_cn": "斯通斯",
+        "name_en": "Stones",
+        "age": 33,
+        "squad_no": 5,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 87
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ENG_2026_06",
+        "name_cn": "迪恩·亨德森",
+        "name_en": "Dean Henderson",
+        "age": 26,
+        "squad_no": 6,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ENG_2026_07",
+        "name_cn": "萨卡",
+        "name_en": "Saka",
+        "age": 33,
+        "squad_no": 7,
+        "positions": [
+          {
+            "pos": "RW",
+            "ovr": 87
+          },
+          {
+            "pos": "LW",
+            "ovr": 85
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ENG_2026_08",
+        "name_cn": "梅努",
+        "name_en": "Mainoo",
+        "age": 28,
+        "squad_no": 8,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 84
+          },
+          {
+            "pos": "DM",
+            "ovr": 82
+          }
+        ],
+        "tags": [
+          "新星"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ENG_2026_09",
+        "name_cn": "凯恩",
+        "name_en": "Kane",
+        "age": 26,
+        "squad_no": 9,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 90
+          }
+        ],
+        "tags": [
+          "队长"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ENG_2026_10",
+        "name_cn": "贝林厄姆",
+        "name_en": "Bellingham",
+        "age": 30,
+        "squad_no": 10,
+        "positions": [
+          {
+            "pos": "CAM",
+            "ovr": 91
+          },
+          {
+            "pos": "CM",
+            "ovr": 87
+          }
+        ],
+        "tags": [
+          "金球候选"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ENG_2026_11",
+        "name_cn": "福登",
+        "name_en": "Foden",
+        "age": 30,
+        "squad_no": 11,
+        "positions": [
+          {
+            "pos": "CAM",
+            "ovr": 88
+          },
+          {
+            "pos": "LW",
+            "ovr": 85
+          },
+          {
+            "pos": "RW",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ENG_2026_12",
+        "name_cn": "特里皮尔",
+        "name_en": "Trippier",
+        "age": 29,
+        "squad_no": 12,
+        "positions": [
+          {
+            "pos": "RB",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ENG_2026_13",
+        "name_cn": "特拉福德",
+        "name_en": "James Trafford",
+        "age": 29,
+        "squad_no": 13,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ENG_2026_14",
+        "name_cn": "里斯·詹姆斯",
+        "name_en": "Reece James",
+        "age": 23,
+        "squad_no": 14,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ENG_2026_15",
+        "name_cn": "孔萨",
+        "name_en": "Ezri Konsa",
+        "age": 31,
+        "squad_no": 15,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ENG_2026_16",
+        "name_cn": "格希",
+        "name_en": "Guéhi",
+        "age": 22,
+        "squad_no": 16,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ENG_2026_17",
+        "name_cn": "拉什福德",
+        "name_en": "Rashford",
+        "age": 28,
+        "squad_no": 17,
+        "positions": [
+          {
+            "pos": "LW",
+            "ovr": 84
+          },
+          {
+            "pos": "ST",
+            "ovr": 82
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ENG_2026_18",
+        "name_cn": "夸萨",
+        "name_en": "Jarell Quansah",
+        "age": 33,
+        "squad_no": 18,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ENG_2026_19",
+        "name_cn": "沃特金斯",
+        "name_en": "Watkins",
+        "age": 27,
+        "squad_no": 19,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ENG_2026_20",
+        "name_cn": "帕尔默",
+        "name_en": "Palmer",
+        "age": 31,
+        "squad_no": 20,
+        "positions": [
+          {
+            "pos": "CAM",
+            "ovr": 87
+          },
+          {
+            "pos": "RW",
+            "ovr": 84
+          }
+        ],
+        "tags": [
+          "新星"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ENG_2026_21",
+        "name_cn": "伯恩",
+        "name_en": "Dan Burn",
+        "age": 26,
+        "squad_no": 21,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ENG_2026_22",
+        "name_cn": "戈登",
+        "name_en": "Gordon",
+        "age": 22,
+        "squad_no": 22,
+        "positions": [
+          {
+            "pos": "LW",
+            "ovr": 83
+          },
+          {
+            "pos": "RW",
+            "ovr": 82
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ENG_2026_23",
+        "name_cn": "伊兹",
+        "name_en": "Eze",
+        "age": 23,
+        "squad_no": 23,
+        "positions": [
+          {
+            "pos": "CAM",
+            "ovr": 83
+          },
+          {
+            "pos": "LW",
+            "ovr": 82
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ENG_2026_24",
+        "name_cn": "奥赖利",
+        "name_en": "Nico O'Reilly",
+        "age": 25,
+        "squad_no": 24,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ENG_2026_25",
+        "name_cn": "斯彭斯",
+        "name_en": "Djed Spence",
+        "age": 32,
+        "squad_no": 25,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ENG_2026_26",
+        "name_cn": "利夫拉门托",
+        "name_en": "Tino Livramento",
+        "age": 31,
+        "squad_no": 26,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      }
+    ]
+  }
+}

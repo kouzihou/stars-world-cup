@@ -1,0 +1,1107 @@
+{
+  "country_code": "SCO",
+  "squads": {
+    "1990": [
+      {
+        "id": "SCO_1990_01",
+        "name_cn": "Jim Leighton",
+        "name_en": "Jim Leighton",
+        "age": 25,
+        "squad_no": 1,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 68
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SCO_1990_02",
+        "name_cn": "Alex McLeish",
+        "name_en": "Alex McLeish",
+        "age": 30,
+        "squad_no": 2,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 67
+          },
+          {
+            "pos": "RB",
+            "ovr": 64
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SCO_1990_03",
+        "name_cn": "Roy Aitken",
+        "name_en": "Roy Aitken",
+        "age": 25,
+        "squad_no": 3,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 67
+          },
+          {
+            "pos": "LB",
+            "ovr": 64
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SCO_1990_04",
+        "name_cn": "Richard Gough",
+        "name_en": "Richard Gough",
+        "age": 22,
+        "squad_no": 4,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 67
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SCO_1990_05",
+        "name_cn": "Paul McStay",
+        "name_en": "Paul McStay",
+        "age": 24,
+        "squad_no": 5,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 67
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SCO_1990_06",
+        "name_cn": "Maurice Malpas",
+        "name_en": "Maurice Malpas",
+        "age": 30,
+        "squad_no": 6,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 67
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SCO_1990_07",
+        "name_cn": "Mo Johnston",
+        "name_en": "Mo Johnston",
+        "age": 26,
+        "squad_no": 7,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 67
+          },
+          {
+            "pos": "LW",
+            "ovr": 65
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SCO_1990_08",
+        "name_cn": "Jim Bett",
+        "name_en": "Jim Bett",
+        "age": 25,
+        "squad_no": 8,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 67
+          },
+          {
+            "pos": "DM",
+            "ovr": 65
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SCO_1990_09",
+        "name_cn": "罗布森",
+        "name_en": "Ally McCoist",
+        "age": 33,
+        "squad_no": 9,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SCO_1990_10",
+        "name_cn": "Murdo MacLeod",
+        "name_en": "Murdo MacLeod",
+        "age": 31,
+        "squad_no": 10,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 67
+          },
+          {
+            "pos": "CAM",
+            "ovr": 65
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SCO_1990_11",
+        "name_cn": "Gary Gillespie",
+        "name_en": "Gary Gillespie",
+        "age": 27,
+        "squad_no": 11,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 67
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SCO_1990_12",
+        "name_cn": "Andy Goram",
+        "name_en": "Andy Goram",
+        "age": 31,
+        "squad_no": 12,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 66
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SCO_1990_13",
+        "name_cn": "Gordon Durie",
+        "name_en": "Gordon Durie",
+        "age": 31,
+        "squad_no": 13,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 65
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SCO_1990_14",
+        "name_cn": "Alan McInally",
+        "name_en": "Alan McInally",
+        "age": 32,
+        "squad_no": 14,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 65
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SCO_1990_15",
+        "name_cn": "Craig Levein",
+        "name_en": "Craig Levein",
+        "age": 27,
+        "squad_no": 15,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 65
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SCO_1990_16",
+        "name_cn": "Stuart McCall",
+        "name_en": "Stuart McCall",
+        "age": 25,
+        "squad_no": 16,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 65
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SCO_1990_17",
+        "name_cn": "Stewart McKimmie",
+        "name_en": "Stewart McKimmie",
+        "age": 26,
+        "squad_no": 17,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 63
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SCO_1990_18",
+        "name_cn": "John Collins",
+        "name_en": "John Collins",
+        "age": 24,
+        "squad_no": 18,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 63
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SCO_1990_19",
+        "name_cn": "David McPherson",
+        "name_en": "David McPherson",
+        "age": 32,
+        "squad_no": 19,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 63
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SCO_1990_20",
+        "name_cn": "Gary McAllister",
+        "name_en": "Gary McAllister",
+        "age": 30,
+        "squad_no": 20,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 63
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SCO_1990_21",
+        "name_cn": "Robert Fleck",
+        "name_en": "Robert Fleck",
+        "age": 25,
+        "squad_no": 21,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 63
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SCO_1990_22",
+        "name_cn": "Bryan Gunn",
+        "name_en": "Bryan Gunn",
+        "age": 28,
+        "squad_no": 22,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 64
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      }
+    ],
+    "1998": [
+      {
+        "id": "SCO_1998_01",
+        "name_cn": "Jim Leighton",
+        "name_en": "Jim Leighton",
+        "age": 26,
+        "squad_no": 1,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SCO_1998_02",
+        "name_cn": "Jackie McNamara",
+        "name_en": "Jackie McNamara",
+        "age": 26,
+        "squad_no": 2,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 68
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SCO_1998_03",
+        "name_cn": "Tom Boyd",
+        "name_en": "Tom Boyd",
+        "age": 22,
+        "squad_no": 3,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 68
+          },
+          {
+            "pos": "LB",
+            "ovr": 65
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SCO_1998_04",
+        "name_cn": "Colin Calderwood",
+        "name_en": "Colin Calderwood",
+        "age": 30,
+        "squad_no": 4,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 68
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SCO_1998_05",
+        "name_cn": "Colin Hendry",
+        "name_en": "Colin Hendry",
+        "age": 31,
+        "squad_no": 5,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 68
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SCO_1998_06",
+        "name_cn": "Tosh McKinlay",
+        "name_en": "Tosh McKinlay",
+        "age": 33,
+        "squad_no": 6,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 68
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SCO_1998_07",
+        "name_cn": "Kevin Gallacher",
+        "name_en": "Kevin Gallacher",
+        "age": 24,
+        "squad_no": 7,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 68
+          },
+          {
+            "pos": "LW",
+            "ovr": 66
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SCO_1998_08",
+        "name_cn": "Craig Burley",
+        "name_en": "Craig Burley",
+        "age": 32,
+        "squad_no": 8,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 68
+          },
+          {
+            "pos": "DM",
+            "ovr": 66
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SCO_1998_09",
+        "name_cn": "Gordon Durie",
+        "name_en": "Gordon Durie",
+        "age": 32,
+        "squad_no": 9,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 68
+          },
+          {
+            "pos": "CAM",
+            "ovr": 65
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SCO_1998_10",
+        "name_cn": "Darren Jackson",
+        "name_en": "Darren Jackson",
+        "age": 28,
+        "squad_no": 10,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 68
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SCO_1998_11",
+        "name_cn": "John Collins",
+        "name_en": "John Collins",
+        "age": 30,
+        "squad_no": 11,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 68
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SCO_1998_12",
+        "name_cn": "Neil Sullivan",
+        "name_en": "Neil Sullivan",
+        "age": 29,
+        "squad_no": 12,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 67
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SCO_1998_13",
+        "name_cn": "Simon Donnelly",
+        "name_en": "Simon Donnelly",
+        "age": 22,
+        "squad_no": 13,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 66
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SCO_1998_14",
+        "name_cn": "Paul Lambert",
+        "name_en": "Paul Lambert",
+        "age": 27,
+        "squad_no": 14,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 66
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SCO_1998_15",
+        "name_cn": "Scot Gemmill",
+        "name_en": "Scot Gemmill",
+        "age": 32,
+        "squad_no": 15,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 66
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SCO_1998_16",
+        "name_cn": "David Weir",
+        "name_en": "David Weir",
+        "age": 32,
+        "squad_no": 16,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 66
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SCO_1998_17",
+        "name_cn": "Billy McKinlay",
+        "name_en": "Billy McKinlay",
+        "age": 28,
+        "squad_no": 17,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 64
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SCO_1998_18",
+        "name_cn": "Matt Elliott",
+        "name_en": "Matt Elliott",
+        "age": 30,
+        "squad_no": 18,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 64
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SCO_1998_19",
+        "name_cn": "Derek Whyte",
+        "name_en": "Derek Whyte",
+        "age": 27,
+        "squad_no": 19,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 64
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SCO_1998_20",
+        "name_cn": "Scott Booth",
+        "name_en": "Scott Booth",
+        "age": 33,
+        "squad_no": 20,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 64
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SCO_1998_21",
+        "name_cn": "Jonathan Gould",
+        "name_en": "Jonathan Gould",
+        "age": 28,
+        "squad_no": 21,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 65
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SCO_1998_22",
+        "name_cn": "Christian Dailly",
+        "name_en": "Christian Dailly",
+        "age": 28,
+        "squad_no": 22,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 64
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      }
+    ],
+    "2026": [
+      {
+        "id": "SCO_2026_01",
+        "name_cn": "Craig Gordon",
+        "name_en": "Craig Gordon",
+        "age": 24,
+        "squad_no": 1,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SCO_2026_02",
+        "name_cn": "Angus Gunn",
+        "name_en": "Angus Gunn",
+        "age": 26,
+        "squad_no": 2,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SCO_2026_03",
+        "name_cn": "Liam Kelly",
+        "name_en": "Liam Kelly",
+        "age": 28,
+        "squad_no": 3,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SCO_2026_04",
+        "name_cn": "Grant Hanley",
+        "name_en": "Grant Hanley",
+        "age": 24,
+        "squad_no": 4,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SCO_2026_05",
+        "name_cn": "Jack Hendry",
+        "name_en": "Jack Hendry",
+        "age": 30,
+        "squad_no": 5,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SCO_2026_06",
+        "name_cn": "Aaron Hickey",
+        "name_en": "Aaron Hickey",
+        "age": 29,
+        "squad_no": 6,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SCO_2026_07",
+        "name_cn": "Dom Hyam",
+        "name_en": "Dom Hyam",
+        "age": 25,
+        "squad_no": 7,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SCO_2026_08",
+        "name_cn": "Scott McKenna",
+        "name_en": "Scott McKenna",
+        "age": 25,
+        "squad_no": 8,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SCO_2026_09",
+        "name_cn": "Nathan Patterson",
+        "name_en": "Nathan Patterson",
+        "age": 26,
+        "squad_no": 9,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SCO_2026_10",
+        "name_cn": "Anthony Ralston",
+        "name_en": "Anthony Ralston",
+        "age": 33,
+        "squad_no": 10,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SCO_2026_11",
+        "name_cn": "罗伯特森",
+        "name_en": "Andy Robertson",
+        "age": 24,
+        "squad_no": 11,
+        "positions": [
+          {
+            "pos": "LB",
+            "ovr": 87
+          }
+        ],
+        "tags": [
+          "队长"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SCO_2026_12",
+        "name_cn": "John Souttar",
+        "name_en": "John Souttar",
+        "age": 29,
+        "squad_no": 12,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 68
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SCO_2026_13",
+        "name_cn": "蒂尔尼",
+        "name_en": "Kieran Tierney",
+        "age": 22,
+        "squad_no": 13,
+        "positions": [
+          {
+            "pos": "LB",
+            "ovr": 84
+          },
+          {
+            "pos": "CB",
+            "ovr": 82
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SCO_2026_14",
+        "name_cn": "Ryan Christie",
+        "name_en": "Ryan Christie",
+        "age": 30,
+        "squad_no": 14,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 68
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SCO_2026_15",
+        "name_cn": "Finlay Curtis",
+        "name_en": "Finlay Curtis",
+        "age": 28,
+        "squad_no": 15,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 68
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SCO_2026_16",
+        "name_cn": "Lewis Ferguson",
+        "name_en": "Lewis Ferguson",
+        "age": 28,
+        "squad_no": 16,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 68
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SCO_2026_17",
+        "name_cn": "Ben Gannon-Doak",
+        "name_en": "Ben Gannon-Doak",
+        "age": 30,
+        "squad_no": 17,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 68
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SCO_2026_18",
+        "name_cn": "安德鲁·吉尔摩",
+        "name_en": "Billy Gilmour",
+        "age": 30,
+        "squad_no": 18,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SCO_2026_19",
+        "name_cn": "John McGinn",
+        "name_en": "John McGinn",
+        "age": 24,
+        "squad_no": 19,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 66
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SCO_2026_20",
+        "name_cn": "Kenny McLean",
+        "name_en": "Kenny McLean",
+        "age": 28,
+        "squad_no": 20,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 66
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SCO_2026_21",
+        "name_cn": "迈基托米",
+        "name_en": "Scott McTominay",
+        "age": 25,
+        "squad_no": 21,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 85
+          },
+          {
+            "pos": "DM",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SCO_2026_22",
+        "name_cn": "Ché Adams",
+        "name_en": "Ché Adams",
+        "age": 26,
+        "squad_no": 22,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 66
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SCO_2026_23",
+        "name_cn": "Lyndon Dykes",
+        "name_en": "Lyndon Dykes",
+        "age": 25,
+        "squad_no": 23,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 66
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SCO_2026_24",
+        "name_cn": "George Hirst",
+        "name_en": "George Hirst",
+        "age": 27,
+        "squad_no": 24,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 66
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SCO_2026_25",
+        "name_cn": "Lawrence Shankland",
+        "name_en": "Lawrence Shankland",
+        "age": 32,
+        "squad_no": 25,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 66
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SCO_2026_26",
+        "name_cn": "Ross Stewart",
+        "name_en": "Ross Stewart",
+        "age": 23,
+        "squad_no": 26,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 66
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      }
+    ]
+  }
+}

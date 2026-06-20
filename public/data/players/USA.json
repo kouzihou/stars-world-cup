@@ -1,0 +1,3376 @@
+{
+  "country_code": "USA",
+  "squads": {
+    "1990": [
+      {
+        "id": "USA_1990_01",
+        "name_cn": "Tony Meola",
+        "name_en": "Tony Meola",
+        "age": 28,
+        "squad_no": 1,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 77
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "USA_1990_02",
+        "name_cn": "Steve Trittschuh",
+        "name_en": "Steve Trittschuh",
+        "age": 30,
+        "squad_no": 2,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 76
+          },
+          {
+            "pos": "RB",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "USA_1990_03",
+        "name_cn": "John Doyle",
+        "name_en": "John Doyle",
+        "age": 31,
+        "squad_no": 3,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 76
+          },
+          {
+            "pos": "LB",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "USA_1990_04",
+        "name_cn": "Jimmy Banks",
+        "name_en": "Jimmy Banks",
+        "age": 31,
+        "squad_no": 4,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "USA_1990_05",
+        "name_cn": "Mike Windischmann",
+        "name_en": "Mike Windischmann",
+        "age": 32,
+        "squad_no": 5,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "USA_1990_06",
+        "name_cn": "John Harkes",
+        "name_en": "John Harkes",
+        "age": 32,
+        "squad_no": 6,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 76
+          },
+          {
+            "pos": "DM",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "USA_1990_07",
+        "name_cn": "Tab Ramos",
+        "name_en": "Tab Ramos",
+        "age": 30,
+        "squad_no": 7,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "USA_1990_08",
+        "name_cn": "Brian Bliss",
+        "name_en": "Brian Bliss",
+        "age": 22,
+        "squad_no": 8,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "USA_1990_09",
+        "name_cn": "Christopher Sullivan",
+        "name_en": "Christopher Sullivan",
+        "age": 31,
+        "squad_no": 9,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 76
+          },
+          {
+            "pos": "CAM",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "USA_1990_10",
+        "name_cn": "Peter Vermes",
+        "name_en": "Peter Vermes",
+        "age": 32,
+        "squad_no": 10,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "USA_1990_11",
+        "name_cn": "Eric Wynalda",
+        "name_en": "Eric Wynalda",
+        "age": 33,
+        "squad_no": 11,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 76
+          },
+          {
+            "pos": "LW",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "USA_1990_12",
+        "name_cn": "Paul Krumpe",
+        "name_en": "Paul Krumpe",
+        "age": 26,
+        "squad_no": 12,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "USA_1990_13",
+        "name_cn": "Eric Eichmann",
+        "name_en": "Eric Eichmann",
+        "age": 22,
+        "squad_no": 13,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "USA_1990_14",
+        "name_cn": "John Stollmeyer",
+        "name_en": "John Stollmeyer",
+        "age": 24,
+        "squad_no": 14,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "USA_1990_15",
+        "name_cn": "Desmond Armstrong",
+        "name_en": "Desmond Armstrong",
+        "age": 26,
+        "squad_no": 15,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "USA_1990_16",
+        "name_cn": "Bruce Murray",
+        "name_en": "Bruce Murray",
+        "age": 33,
+        "squad_no": 16,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "USA_1990_17",
+        "name_cn": "Marcelo Balboa",
+        "name_en": "Marcelo Balboa",
+        "age": 26,
+        "squad_no": 17,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 72
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "USA_1990_18",
+        "name_cn": "Kasey Keller",
+        "name_en": "Kasey Keller",
+        "age": 27,
+        "squad_no": 18,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "USA_1990_19",
+        "name_cn": "Chris Henderson",
+        "name_en": "Chris Henderson",
+        "age": 27,
+        "squad_no": 19,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 72
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "USA_1990_20",
+        "name_cn": "Paul Caligiuri",
+        "name_en": "Paul Caligiuri",
+        "age": 22,
+        "squad_no": 20,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 72
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "USA_1990_21",
+        "name_cn": "Neil Covone",
+        "name_en": "Neil Covone",
+        "age": 24,
+        "squad_no": 21,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 72
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "USA_1990_22",
+        "name_cn": "David Vanole",
+        "name_en": "David Vanole",
+        "age": 24,
+        "squad_no": 22,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      }
+    ],
+    "1994": [
+      {
+        "id": "USA_1994_01",
+        "name_cn": "Tony Meola",
+        "name_en": "Tony Meola",
+        "age": 31,
+        "squad_no": 1,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 78
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "USA_1994_02",
+        "name_cn": "Mike Lapper",
+        "name_en": "Mike Lapper",
+        "age": 32,
+        "squad_no": 2,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 77
+          },
+          {
+            "pos": "RB",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "USA_1994_03",
+        "name_cn": "Mike Burns",
+        "name_en": "Mike Burns",
+        "age": 28,
+        "squad_no": 3,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 77
+          },
+          {
+            "pos": "LB",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "USA_1994_04",
+        "name_cn": "Cle Kooiman",
+        "name_en": "Cle Kooiman",
+        "age": 23,
+        "squad_no": 4,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 77
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "USA_1994_05",
+        "name_cn": "Thomas Dooley",
+        "name_en": "Thomas Dooley",
+        "age": 24,
+        "squad_no": 5,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 77
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "USA_1994_06",
+        "name_cn": "John Harkes",
+        "name_en": "John Harkes",
+        "age": 33,
+        "squad_no": 6,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 77
+          },
+          {
+            "pos": "DM",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "USA_1994_07",
+        "name_cn": "Hugo Pérez",
+        "name_en": "Hugo Pérez",
+        "age": 32,
+        "squad_no": 7,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 77
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "USA_1994_08",
+        "name_cn": "Earnie Stewart",
+        "name_en": "Earnie Stewart",
+        "age": 22,
+        "squad_no": 8,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 77
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "USA_1994_09",
+        "name_cn": "Tab Ramos",
+        "name_en": "Tab Ramos",
+        "age": 23,
+        "squad_no": 9,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 77
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "USA_1994_10",
+        "name_cn": "Roy Wegerle",
+        "name_en": "Roy Wegerle",
+        "age": 33,
+        "squad_no": 10,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 77
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "USA_1994_11",
+        "name_cn": "Eric Wynalda",
+        "name_en": "Eric Wynalda",
+        "age": 30,
+        "squad_no": 11,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 77
+          },
+          {
+            "pos": "LW",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "USA_1994_12",
+        "name_cn": "Juergen Sommer",
+        "name_en": "Juergen Sommer",
+        "age": 25,
+        "squad_no": 12,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "USA_1994_13",
+        "name_cn": "Cobi Jones",
+        "name_en": "Cobi Jones",
+        "age": 28,
+        "squad_no": 13,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "USA_1994_14",
+        "name_cn": "Frank Klopas",
+        "name_en": "Frank Klopas",
+        "age": 28,
+        "squad_no": 14,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "USA_1994_15",
+        "name_cn": "Joe-Max Moore",
+        "name_en": "Joe-Max Moore",
+        "age": 29,
+        "squad_no": 15,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "USA_1994_16",
+        "name_cn": "Mike Sorber",
+        "name_en": "Mike Sorber",
+        "age": 27,
+        "squad_no": 16,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "USA_1994_17",
+        "name_cn": "Marcelo Balboa",
+        "name_en": "Marcelo Balboa",
+        "age": 24,
+        "squad_no": 17,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "USA_1994_18",
+        "name_cn": "Brad Friedel",
+        "name_en": "Brad Friedel",
+        "age": 27,
+        "squad_no": 18,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "USA_1994_19",
+        "name_cn": "Claudio Reyna",
+        "name_en": "Claudio Reyna",
+        "age": 26,
+        "squad_no": 19,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "USA_1994_20",
+        "name_cn": "Paul Caligiuri",
+        "name_en": "Paul Caligiuri",
+        "age": 33,
+        "squad_no": 20,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "USA_1994_21",
+        "name_cn": "Fernando Clavijo",
+        "name_en": "Fernando Clavijo",
+        "age": 27,
+        "squad_no": 21,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "USA_1994_22",
+        "name_cn": "Alexi Lalas",
+        "name_en": "Alexi Lalas",
+        "age": 31,
+        "squad_no": 22,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      }
+    ],
+    "1998": [
+      {
+        "id": "USA_1998_01",
+        "name_cn": "弗雷泽",
+        "name_en": "Brad Friedel",
+        "age": 31,
+        "squad_no": 1,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 85
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "USA_1998_02",
+        "name_cn": "Frankie Hejduk",
+        "name_en": "Frankie Hejduk",
+        "age": 23,
+        "squad_no": 2,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 77
+          },
+          {
+            "pos": "RB",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "USA_1998_03",
+        "name_cn": "Eddie Pope",
+        "name_en": "Eddie Pope",
+        "age": 22,
+        "squad_no": 3,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 77
+          },
+          {
+            "pos": "LB",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "USA_1998_04",
+        "name_cn": "Mike Burns",
+        "name_en": "Mike Burns",
+        "age": 24,
+        "squad_no": 4,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 77
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "USA_1998_05",
+        "name_cn": "Thomas Dooley",
+        "name_en": "Thomas Dooley",
+        "age": 24,
+        "squad_no": 5,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 77
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "USA_1998_06",
+        "name_cn": "David Regis",
+        "name_en": "David Regis",
+        "age": 31,
+        "squad_no": 6,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 77
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "USA_1998_07",
+        "name_cn": "Roy Wegerle",
+        "name_en": "Roy Wegerle",
+        "age": 22,
+        "squad_no": 7,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 77
+          },
+          {
+            "pos": "LW",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "USA_1998_08",
+        "name_cn": "Earnie Stewart",
+        "name_en": "Earnie Stewart",
+        "age": 32,
+        "squad_no": 8,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 77
+          },
+          {
+            "pos": "DM",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "USA_1998_09",
+        "name_cn": "Joe-Max Moore",
+        "name_en": "Joe-Max Moore",
+        "age": 23,
+        "squad_no": 9,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 77
+          },
+          {
+            "pos": "CAM",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "USA_1998_10",
+        "name_cn": "Tab Ramos",
+        "name_en": "Tab Ramos",
+        "age": 26,
+        "squad_no": 10,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 77
+          },
+          {
+            "pos": "CAM",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "USA_1998_11",
+        "name_cn": "Eric Wynalda",
+        "name_en": "Eric Wynalda",
+        "age": 29,
+        "squad_no": 11,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 77
+          },
+          {
+            "pos": "LW",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "USA_1998_12",
+        "name_cn": "Jeff Agoos",
+        "name_en": "Jeff Agoos",
+        "age": 32,
+        "squad_no": 12,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "USA_1998_13",
+        "name_cn": "Cobi Jones",
+        "name_en": "Cobi Jones",
+        "age": 28,
+        "squad_no": 13,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "USA_1998_14",
+        "name_cn": "Predrag Radosavljević",
+        "name_en": "Predrag Radosavljević",
+        "age": 29,
+        "squad_no": 14,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "USA_1998_15",
+        "name_cn": "Chad Deering",
+        "name_en": "Chad Deering",
+        "age": 31,
+        "squad_no": 15,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "USA_1998_16",
+        "name_cn": "Juergen Sommer",
+        "name_en": "Juergen Sommer",
+        "age": 29,
+        "squad_no": 16,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "USA_1998_17",
+        "name_cn": "Marcelo Balboa",
+        "name_en": "Marcelo Balboa",
+        "age": 28,
+        "squad_no": 17,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "USA_1998_18",
+        "name_cn": "基勒",
+        "name_en": "Kasey Keller",
+        "age": 26,
+        "squad_no": 18,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "USA_1998_19",
+        "name_cn": "Brian Maisonneuve",
+        "name_en": "Brian Maisonneuve",
+        "age": 25,
+        "squad_no": 19,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "USA_1998_20",
+        "name_cn": "Brian McBride",
+        "name_en": "Brian McBride",
+        "age": 30,
+        "squad_no": 20,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "USA_1998_21",
+        "name_cn": "Claudio Reyna",
+        "name_en": "Claudio Reyna",
+        "age": 23,
+        "squad_no": 21,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "USA_1998_22",
+        "name_cn": "Alexi Lalas",
+        "name_en": "Alexi Lalas",
+        "age": 27,
+        "squad_no": 22,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      }
+    ],
+    "2002": [
+      {
+        "id": "USA_2002_01",
+        "name_cn": "弗雷泽",
+        "name_en": "Brad Friedel",
+        "age": 28,
+        "squad_no": 1,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 85
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "USA_2002_02",
+        "name_cn": "Frankie Hejduk",
+        "name_en": "Frankie Hejduk",
+        "age": 23,
+        "squad_no": 2,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 78
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "USA_2002_03",
+        "name_cn": "Gregg Berhalter",
+        "name_en": "Gregg Berhalter",
+        "age": 26,
+        "squad_no": 3,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 78
+          },
+          {
+            "pos": "LB",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "USA_2002_04",
+        "name_cn": "Pablo Mastroeni",
+        "name_en": "Pablo Mastroeni",
+        "age": 32,
+        "squad_no": 4,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 78
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "USA_2002_05",
+        "name_cn": "John O'Brien",
+        "name_en": "John O'Brien",
+        "age": 32,
+        "squad_no": 5,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 78
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "USA_2002_06",
+        "name_cn": "David Regis",
+        "name_en": "David Regis",
+        "age": 31,
+        "squad_no": 6,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 78
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "USA_2002_07",
+        "name_cn": "Eddie Lewis",
+        "name_en": "Eddie Lewis",
+        "age": 29,
+        "squad_no": 7,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 78
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "USA_2002_08",
+        "name_cn": "Earnie Stewart",
+        "name_en": "Earnie Stewart",
+        "age": 30,
+        "squad_no": 8,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 78
+          },
+          {
+            "pos": "DM",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "USA_2002_09",
+        "name_cn": "Joe-Max Moore",
+        "name_en": "Joe-Max Moore",
+        "age": 32,
+        "squad_no": 9,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 78
+          },
+          {
+            "pos": "CAM",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "USA_2002_10",
+        "name_cn": "Claudio Reyna",
+        "name_en": "Claudio Reyna",
+        "age": 26,
+        "squad_no": 10,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 78
+          },
+          {
+            "pos": "CAM",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "USA_2002_11",
+        "name_cn": "Clint Mathis",
+        "name_en": "Clint Mathis",
+        "age": 22,
+        "squad_no": 11,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 78
+          },
+          {
+            "pos": "LW",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "USA_2002_12",
+        "name_cn": "Jeff Agoos",
+        "name_en": "Jeff Agoos",
+        "age": 25,
+        "squad_no": 12,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "USA_2002_13",
+        "name_cn": "Cobi Jones",
+        "name_en": "Cobi Jones",
+        "age": 28,
+        "squad_no": 13,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "USA_2002_14",
+        "name_cn": "Steve Cherundolo",
+        "name_en": "Steve Cherundolo",
+        "age": 31,
+        "squad_no": 14,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "USA_2002_15",
+        "name_cn": "Josh Wolff",
+        "name_en": "Josh Wolff",
+        "age": 22,
+        "squad_no": 15,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "USA_2002_16",
+        "name_cn": "Carlos Llamosa",
+        "name_en": "Carlos Llamosa",
+        "age": 22,
+        "squad_no": 16,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "USA_2002_17",
+        "name_cn": "DaMarcus Beasley",
+        "name_en": "DaMarcus Beasley",
+        "age": 25,
+        "squad_no": 17,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "USA_2002_18",
+        "name_cn": "基勒",
+        "name_en": "Kasey Keller",
+        "age": 26,
+        "squad_no": 18,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "USA_2002_19",
+        "name_cn": "Tony Meola",
+        "name_en": "Tony Meola",
+        "age": 25,
+        "squad_no": 19,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "USA_2002_20",
+        "name_cn": "Brian McBride",
+        "name_en": "Brian McBride",
+        "age": 24,
+        "squad_no": 20,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "USA_2002_21",
+        "name_cn": "多诺万",
+        "name_en": "Landon Donovan",
+        "age": 26,
+        "squad_no": 21,
+        "positions": [
+          {
+            "pos": "CAM",
+            "ovr": 85
+          },
+          {
+            "pos": "LW",
+            "ovr": 84
+          }
+        ],
+        "tags": [
+          "金童"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "USA_2002_22",
+        "name_cn": "Tony Sanneh",
+        "name_en": "Tony Sanneh",
+        "age": 26,
+        "squad_no": 22,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "USA_2002_23",
+        "name_cn": "Eddie Pope",
+        "name_en": "Eddie Pope",
+        "age": 27,
+        "squad_no": 23,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      }
+    ],
+    "2006": [
+      {
+        "id": "USA_2006_01",
+        "name_cn": "Tim Howard",
+        "name_en": "Tim Howard",
+        "age": 23,
+        "squad_no": 1,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 79
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "USA_2006_02",
+        "name_cn": "Chris Albright",
+        "name_en": "Chris Albright",
+        "age": 22,
+        "squad_no": 2,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 78
+          },
+          {
+            "pos": "RB",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "USA_2006_03",
+        "name_cn": "Carlos Bocanegra",
+        "name_en": "Carlos Bocanegra",
+        "age": 29,
+        "squad_no": 3,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 78
+          },
+          {
+            "pos": "LB",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "USA_2006_04",
+        "name_cn": "Pablo Mastroeni",
+        "name_en": "Pablo Mastroeni",
+        "age": 33,
+        "squad_no": 4,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 78
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "USA_2006_05",
+        "name_cn": "John O'Brien",
+        "name_en": "John O'Brien",
+        "age": 28,
+        "squad_no": 5,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 78
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "USA_2006_06",
+        "name_cn": "Steve Cherundolo",
+        "name_en": "Steve Cherundolo",
+        "age": 24,
+        "squad_no": 6,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 78
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "USA_2006_07",
+        "name_cn": "Eddie Lewis",
+        "name_en": "Eddie Lewis",
+        "age": 24,
+        "squad_no": 7,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 78
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "USA_2006_08",
+        "name_cn": "登普西",
+        "name_en": "Clint Dempsey",
+        "age": 28,
+        "squad_no": 8,
+        "positions": [
+          {
+            "pos": "CAM",
+            "ovr": 84
+          },
+          {
+            "pos": "ST",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "USA_2006_09",
+        "name_cn": "Eddie Johnson",
+        "name_en": "Eddie Johnson",
+        "age": 30,
+        "squad_no": 9,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 78
+          },
+          {
+            "pos": "CAM",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "USA_2006_10",
+        "name_cn": "Claudio Reyna",
+        "name_en": "Claudio Reyna",
+        "age": 33,
+        "squad_no": 10,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 78
+          },
+          {
+            "pos": "CAM",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "USA_2006_11",
+        "name_cn": "Brian Ching",
+        "name_en": "Brian Ching",
+        "age": 25,
+        "squad_no": 11,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 78
+          },
+          {
+            "pos": "LW",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "USA_2006_12",
+        "name_cn": "Gregg Berhalter",
+        "name_en": "Gregg Berhalter",
+        "age": 30,
+        "squad_no": 12,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "USA_2006_13",
+        "name_cn": "Jimmy Conrad",
+        "name_en": "Jimmy Conrad",
+        "age": 30,
+        "squad_no": 13,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "USA_2006_14",
+        "name_cn": "Ben Olsen",
+        "name_en": "Ben Olsen",
+        "age": 32,
+        "squad_no": 14,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "USA_2006_15",
+        "name_cn": "Bobby Convey",
+        "name_en": "Bobby Convey",
+        "age": 27,
+        "squad_no": 15,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "USA_2006_16",
+        "name_cn": "Josh Wolff",
+        "name_en": "Josh Wolff",
+        "age": 23,
+        "squad_no": 16,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "USA_2006_17",
+        "name_cn": "DaMarcus Beasley",
+        "name_en": "DaMarcus Beasley",
+        "age": 28,
+        "squad_no": 17,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "USA_2006_18",
+        "name_cn": "基勒",
+        "name_en": "Kasey Keller",
+        "age": 33,
+        "squad_no": 18,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "USA_2006_19",
+        "name_cn": "Marcus Hahnemann",
+        "name_en": "Marcus Hahnemann",
+        "age": 22,
+        "squad_no": 19,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "USA_2006_20",
+        "name_cn": "Brian McBride",
+        "name_en": "Brian McBride",
+        "age": 28,
+        "squad_no": 20,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "USA_2006_21",
+        "name_cn": "多诺万",
+        "name_en": "Landon Donovan",
+        "age": 22,
+        "squad_no": 21,
+        "positions": [
+          {
+            "pos": "CAM",
+            "ovr": 85
+          },
+          {
+            "pos": "LW",
+            "ovr": 84
+          }
+        ],
+        "tags": [
+          "金童"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "USA_2006_22",
+        "name_cn": "Oguchi Onyewu",
+        "name_en": "Oguchi Onyewu",
+        "age": 29,
+        "squad_no": 22,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "USA_2006_23",
+        "name_cn": "Eddie Pope",
+        "name_en": "Eddie Pope",
+        "age": 23,
+        "squad_no": 23,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      }
+    ],
+    "2010": [
+      {
+        "id": "USA_2010_01",
+        "name_cn": "霍华德",
+        "name_en": "Tim Howard",
+        "age": 27,
+        "squad_no": 1,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 87
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "USA_2010_02",
+        "name_cn": "Jonathan Spector",
+        "name_en": "Jonathan Spector",
+        "age": 31,
+        "squad_no": 2,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 78
+          },
+          {
+            "pos": "RB",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "USA_2010_03",
+        "name_cn": "Carlos Bocanegra",
+        "name_en": "Carlos Bocanegra",
+        "age": 28,
+        "squad_no": 3,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 78
+          },
+          {
+            "pos": "LB",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "USA_2010_04",
+        "name_cn": "Michael Bradley",
+        "name_en": "Michael Bradley",
+        "age": 31,
+        "squad_no": 4,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 78
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "USA_2010_05",
+        "name_cn": "Oguchi Onyewu",
+        "name_en": "Oguchi Onyewu",
+        "age": 28,
+        "squad_no": 5,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 78
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "USA_2010_06",
+        "name_cn": "Steve Cherundolo",
+        "name_en": "Steve Cherundolo",
+        "age": 33,
+        "squad_no": 6,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 78
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "USA_2010_07",
+        "name_cn": "DaMarcus Beasley",
+        "name_en": "DaMarcus Beasley",
+        "age": 32,
+        "squad_no": 7,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 78
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "USA_2010_08",
+        "name_cn": "登普西",
+        "name_en": "Clint Dempsey",
+        "age": 28,
+        "squad_no": 8,
+        "positions": [
+          {
+            "pos": "CAM",
+            "ovr": 84
+          },
+          {
+            "pos": "ST",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "USA_2010_09",
+        "name_cn": "Herculez Gomez",
+        "name_en": "Herculez Gomez",
+        "age": 26,
+        "squad_no": 9,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 78
+          },
+          {
+            "pos": "CAM",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "USA_2010_10",
+        "name_cn": "多诺万",
+        "name_en": "Landon Donovan",
+        "age": 23,
+        "squad_no": 10,
+        "positions": [
+          {
+            "pos": "CAM",
+            "ovr": 85
+          },
+          {
+            "pos": "LW",
+            "ovr": 84
+          }
+        ],
+        "tags": [
+          "金童"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "USA_2010_11",
+        "name_cn": "Stuart Holden",
+        "name_en": "Stuart Holden",
+        "age": 28,
+        "squad_no": 11,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 78
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "USA_2010_12",
+        "name_cn": "Jonathan Bornstein",
+        "name_en": "Jonathan Bornstein",
+        "age": 22,
+        "squad_no": 12,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "USA_2010_13",
+        "name_cn": "Ricardo Clark",
+        "name_en": "Ricardo Clark",
+        "age": 27,
+        "squad_no": 13,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "USA_2010_14",
+        "name_cn": "Edson Buddle",
+        "name_en": "Edson Buddle",
+        "age": 24,
+        "squad_no": 14,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "USA_2010_15",
+        "name_cn": "Jay DeMerit",
+        "name_en": "Jay DeMerit",
+        "age": 31,
+        "squad_no": 15,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "USA_2010_16",
+        "name_cn": "José Francisco Torres",
+        "name_en": "José Francisco Torres",
+        "age": 29,
+        "squad_no": 16,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "USA_2010_17",
+        "name_cn": "Jozy Altidore",
+        "name_en": "Jozy Altidore",
+        "age": 33,
+        "squad_no": 17,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "USA_2010_18",
+        "name_cn": "Brad Guzan",
+        "name_en": "Brad Guzan",
+        "age": 27,
+        "squad_no": 18,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "USA_2010_19",
+        "name_cn": "Maurice Edu",
+        "name_en": "Maurice Edu",
+        "age": 23,
+        "squad_no": 19,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "USA_2010_20",
+        "name_cn": "Robbie Findley",
+        "name_en": "Robbie Findley",
+        "age": 28,
+        "squad_no": 20,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "USA_2010_21",
+        "name_cn": "Clarence Goodson",
+        "name_en": "Clarence Goodson",
+        "age": 23,
+        "squad_no": 21,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "USA_2010_22",
+        "name_cn": "Benny Feilhaber",
+        "name_en": "Benny Feilhaber",
+        "age": 25,
+        "squad_no": 22,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "USA_2010_23",
+        "name_cn": "Marcus Hahnemann",
+        "name_en": "Marcus Hahnemann",
+        "age": 28,
+        "squad_no": 23,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      }
+    ],
+    "2014": [
+      {
+        "id": "USA_2014_01",
+        "name_cn": "霍华德",
+        "name_en": "Tim Howard",
+        "age": 31,
+        "squad_no": 1,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 87
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "USA_2014_02",
+        "name_cn": "DeAndre Yedlin",
+        "name_en": "DeAndre Yedlin",
+        "age": 28,
+        "squad_no": 2,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 78
+          },
+          {
+            "pos": "RB",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "USA_2014_03",
+        "name_cn": "Omar Gonzalez",
+        "name_en": "Omar Gonzalez",
+        "age": 30,
+        "squad_no": 3,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 78
+          },
+          {
+            "pos": "LB",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "USA_2014_04",
+        "name_cn": "Michael Bradley",
+        "name_en": "Michael Bradley",
+        "age": 23,
+        "squad_no": 4,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 78
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "USA_2014_05",
+        "name_cn": "Matt Besler",
+        "name_en": "Matt Besler",
+        "age": 28,
+        "squad_no": 5,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 78
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "USA_2014_06",
+        "name_cn": "John Brooks",
+        "name_en": "John Brooks",
+        "age": 26,
+        "squad_no": 6,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 78
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "USA_2014_07",
+        "name_cn": "DaMarcus Beasley",
+        "name_en": "DaMarcus Beasley",
+        "age": 33,
+        "squad_no": 7,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 78
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "USA_2014_08",
+        "name_cn": "登普西",
+        "name_en": "Clint Dempsey",
+        "age": 27,
+        "squad_no": 8,
+        "positions": [
+          {
+            "pos": "CAM",
+            "ovr": 84
+          },
+          {
+            "pos": "ST",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "USA_2014_09",
+        "name_cn": "Aron Jóhannsson",
+        "name_en": "Aron Jóhannsson",
+        "age": 25,
+        "squad_no": 9,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 78
+          },
+          {
+            "pos": "CAM",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "USA_2014_10",
+        "name_cn": "Mix Diskerud",
+        "name_en": "Mix Diskerud",
+        "age": 27,
+        "squad_no": 10,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 78
+          },
+          {
+            "pos": "CAM",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "USA_2014_11",
+        "name_cn": "Alejandro Bedoya",
+        "name_en": "Alejandro Bedoya",
+        "age": 24,
+        "squad_no": 11,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 78
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "USA_2014_12",
+        "name_cn": "Brad Guzan",
+        "name_en": "Brad Guzan",
+        "age": 23,
+        "squad_no": 12,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 77
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "USA_2014_13",
+        "name_cn": "Jermaine Jones",
+        "name_en": "Jermaine Jones",
+        "age": 30,
+        "squad_no": 13,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "USA_2014_14",
+        "name_cn": "Brad Davis",
+        "name_en": "Brad Davis",
+        "age": 32,
+        "squad_no": 14,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "USA_2014_15",
+        "name_cn": "Kyle Beckerman",
+        "name_en": "Kyle Beckerman",
+        "age": 23,
+        "squad_no": 15,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "USA_2014_16",
+        "name_cn": "Julian Green",
+        "name_en": "Julian Green",
+        "age": 30,
+        "squad_no": 16,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "USA_2014_17",
+        "name_cn": "Jozy Altidore",
+        "name_en": "Jozy Altidore",
+        "age": 30,
+        "squad_no": 17,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "USA_2014_18",
+        "name_cn": "Chris Wondolowski",
+        "name_en": "Chris Wondolowski",
+        "age": 25,
+        "squad_no": 18,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "USA_2014_19",
+        "name_cn": "Graham Zusi",
+        "name_en": "Graham Zusi",
+        "age": 27,
+        "squad_no": 19,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "USA_2014_20",
+        "name_cn": "Geoff Cameron",
+        "name_en": "Geoff Cameron",
+        "age": 27,
+        "squad_no": 20,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "USA_2014_21",
+        "name_cn": "Timothy Chandler",
+        "name_en": "Timothy Chandler",
+        "age": 33,
+        "squad_no": 21,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "USA_2014_22",
+        "name_cn": "Nick Rimando",
+        "name_en": "Nick Rimando",
+        "age": 32,
+        "squad_no": 22,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "USA_2014_23",
+        "name_cn": "Fabian Johnson",
+        "name_en": "Fabian Johnson",
+        "age": 24,
+        "squad_no": 23,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      }
+    ],
+    "2022": [
+      {
+        "id": "USA_2022_01",
+        "name_cn": "Matt Turner",
+        "name_en": "Matt Turner",
+        "age": 25,
+        "squad_no": 1,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 79
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "USA_2022_02",
+        "name_cn": "Sergiño Dest",
+        "name_en": "Sergiño Dest",
+        "age": 23,
+        "squad_no": 2,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 78
+          },
+          {
+            "pos": "RB",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "USA_2022_03",
+        "name_cn": "Walker Zimmerman",
+        "name_en": "Walker Zimmerman",
+        "age": 24,
+        "squad_no": 3,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 78
+          },
+          {
+            "pos": "LB",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "USA_2022_04",
+        "name_cn": "亚当斯",
+        "name_en": "Tyler Adams",
+        "age": 26,
+        "squad_no": 4,
+        "positions": [
+          {
+            "pos": "DM",
+            "ovr": 84
+          },
+          {
+            "pos": "CM",
+            "ovr": 82
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "USA_2022_05",
+        "name_cn": "Antonee Robinson",
+        "name_en": "Antonee Robinson",
+        "age": 25,
+        "squad_no": 5,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 78
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "USA_2022_06",
+        "name_cn": "Yunus Musah",
+        "name_en": "Yunus Musah",
+        "age": 24,
+        "squad_no": 6,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 78
+          },
+          {
+            "pos": "DM",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "USA_2022_07",
+        "name_cn": "赖斯",
+        "name_en": "Giovanni Reyna",
+        "age": 31,
+        "squad_no": 7,
+        "positions": [
+          {
+            "pos": "CAM",
+            "ovr": 83
+          },
+          {
+            "pos": "CM",
+            "ovr": 82
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "USA_2022_08",
+        "name_cn": "麦肯尼",
+        "name_en": "Weston McKennie",
+        "age": 24,
+        "squad_no": 8,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 84
+          },
+          {
+            "pos": "CAM",
+            "ovr": 82
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "USA_2022_09",
+        "name_cn": "Jesús Ferreira",
+        "name_en": "Jesús Ferreira",
+        "age": 32,
+        "squad_no": 9,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 78
+          },
+          {
+            "pos": "CAM",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "USA_2022_10",
+        "name_cn": "普利西奇",
+        "name_en": "Christian Pulisic",
+        "age": 23,
+        "squad_no": 10,
+        "positions": [
+          {
+            "pos": "LW",
+            "ovr": 87
+          },
+          {
+            "pos": "CAM",
+            "ovr": 84
+          }
+        ],
+        "tags": [
+          "队长"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "USA_2022_11",
+        "name_cn": "Brenden Aaronson",
+        "name_en": "Brenden Aaronson",
+        "age": 24,
+        "squad_no": 11,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 78
+          },
+          {
+            "pos": "LW",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "USA_2022_12",
+        "name_cn": "Ethan Horvath",
+        "name_en": "Ethan Horvath",
+        "age": 32,
+        "squad_no": 12,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 77
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "USA_2022_13",
+        "name_cn": "Tim Ream",
+        "name_en": "Tim Ream",
+        "age": 29,
+        "squad_no": 13,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "USA_2022_14",
+        "name_cn": "Luca de la Torre",
+        "name_en": "Luca de la Torre",
+        "age": 29,
+        "squad_no": 14,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "USA_2022_15",
+        "name_cn": "Aaron Long",
+        "name_en": "Aaron Long",
+        "age": 31,
+        "squad_no": 15,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "USA_2022_16",
+        "name_cn": "Jordan Morris",
+        "name_en": "Jordan Morris",
+        "age": 31,
+        "squad_no": 16,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "USA_2022_17",
+        "name_cn": "Cristian Roldan",
+        "name_en": "Cristian Roldan",
+        "age": 29,
+        "squad_no": 17,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "USA_2022_18",
+        "name_cn": "Shaq Moore",
+        "name_en": "Shaq Moore",
+        "age": 32,
+        "squad_no": 18,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "USA_2022_19",
+        "name_cn": "Haji Wright",
+        "name_en": "Haji Wright",
+        "age": 31,
+        "squad_no": 19,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "USA_2022_20",
+        "name_cn": "Cameron Carter-Vickers",
+        "name_en": "Cameron Carter-Vickers",
+        "age": 32,
+        "squad_no": 20,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "USA_2022_21",
+        "name_cn": "Timothy Weah",
+        "name_en": "Timothy Weah",
+        "age": 32,
+        "squad_no": 21,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "USA_2022_22",
+        "name_cn": "DeAndre Yedlin",
+        "name_en": "DeAndre Yedlin",
+        "age": 31,
+        "squad_no": 22,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "USA_2022_23",
+        "name_cn": "Kellyn Acosta",
+        "name_en": "Kellyn Acosta",
+        "age": 27,
+        "squad_no": 23,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "USA_2022_24",
+        "name_cn": "Josh Sargent",
+        "name_en": "Josh Sargent",
+        "age": 32,
+        "squad_no": 24,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "USA_2022_25",
+        "name_cn": "Sean Johnson",
+        "name_en": "Sean Johnson",
+        "age": 27,
+        "squad_no": 25,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "USA_2022_26",
+        "name_cn": "Joe Scally",
+        "name_en": "Joe Scally",
+        "age": 24,
+        "squad_no": 26,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      }
+    ],
+    "2026": [
+      {
+        "id": "USA_2026_01",
+        "name_cn": "Chris Brady",
+        "name_en": "Chris Brady",
+        "age": 29,
+        "squad_no": 1,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 81
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "USA_2026_02",
+        "name_cn": "Matt Freese",
+        "name_en": "Matt Freese",
+        "age": 23,
+        "squad_no": 2,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 81
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "USA_2026_03",
+        "name_cn": "特纳",
+        "name_en": "Matt Turner",
+        "age": 29,
+        "squad_no": 3,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 81
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "USA_2026_04",
+        "name_cn": "Max Arfsten",
+        "name_en": "Max Arfsten",
+        "age": 29,
+        "squad_no": 4,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "USA_2026_05",
+        "name_cn": "Sergiño Dest",
+        "name_en": "Sergiño Dest",
+        "age": 32,
+        "squad_no": 5,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "USA_2026_06",
+        "name_cn": "Alex Freeman",
+        "name_en": "Alex Freeman",
+        "age": 26,
+        "squad_no": 6,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "USA_2026_07",
+        "name_cn": "Mark McKenzie",
+        "name_en": "Mark McKenzie",
+        "age": 26,
+        "squad_no": 7,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "USA_2026_08",
+        "name_cn": "Tim Ream",
+        "name_en": "Tim Ream",
+        "age": 31,
+        "squad_no": 8,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "USA_2026_09",
+        "name_cn": "Chris Richards",
+        "name_en": "Chris Richards",
+        "age": 22,
+        "squad_no": 9,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "USA_2026_10",
+        "name_cn": "罗宾逊",
+        "name_en": "Antonee Robinson",
+        "age": 27,
+        "squad_no": 10,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "USA_2026_11",
+        "name_cn": "Miles Robinson",
+        "name_en": "Miles Robinson",
+        "age": 30,
+        "squad_no": 11,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "USA_2026_12",
+        "name_cn": "Joe Scally",
+        "name_en": "Joe Scally",
+        "age": 23,
+        "squad_no": 12,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 78
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "USA_2026_13",
+        "name_cn": "Auston Trusty",
+        "name_en": "Auston Trusty",
+        "age": 26,
+        "squad_no": 13,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 78
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "USA_2026_14",
+        "name_cn": "亚当斯",
+        "name_en": "Tyler Adams",
+        "age": 29,
+        "squad_no": 14,
+        "positions": [
+          {
+            "pos": "DM",
+            "ovr": 84
+          },
+          {
+            "pos": "CM",
+            "ovr": 82
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "USA_2026_15",
+        "name_cn": "麦肯尼",
+        "name_en": "Weston McKennie",
+        "age": 29,
+        "squad_no": 15,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 84
+          },
+          {
+            "pos": "CAM",
+            "ovr": 82
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "USA_2026_16",
+        "name_cn": "Cristian Roldan",
+        "name_en": "Cristian Roldan",
+        "age": 22,
+        "squad_no": 16,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 78
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "USA_2026_17",
+        "name_cn": "Brenden Aaronson",
+        "name_en": "Brenden Aaronson",
+        "age": 22,
+        "squad_no": 17,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 78
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "USA_2026_18",
+        "name_cn": "Malik Tillman",
+        "name_en": "Malik Tillman",
+        "age": 27,
+        "squad_no": 18,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 78
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "USA_2026_19",
+        "name_cn": "蒂姆·维阿",
+        "name_en": "Tim Weah",
+        "age": 26,
+        "squad_no": 19,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "USA_2026_20",
+        "name_cn": "Alejandro Zendejas",
+        "name_en": "Alejandro Zendejas",
+        "age": 23,
+        "squad_no": 20,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "USA_2026_21",
+        "name_cn": "普利西奇",
+        "name_en": "Christian Pulisic",
+        "age": 32,
+        "squad_no": 21,
+        "positions": [
+          {
+            "pos": "LW",
+            "ovr": 87
+          },
+          {
+            "pos": "CAM",
+            "ovr": 84
+          }
+        ],
+        "tags": [
+          "队长"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "USA_2026_22",
+        "name_cn": "赖斯",
+        "name_en": "Gio Reyna",
+        "age": 23,
+        "squad_no": 22,
+        "positions": [
+          {
+            "pos": "CAM",
+            "ovr": 83
+          },
+          {
+            "pos": "CM",
+            "ovr": 82
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "USA_2026_23",
+        "name_cn": "巴洛甘",
+        "name_en": "Folarin Balogun",
+        "age": 31,
+        "squad_no": 23,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "USA_2026_24",
+        "name_cn": "Ricardo Pepi",
+        "name_en": "Ricardo Pepi",
+        "age": 31,
+        "squad_no": 24,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "USA_2026_25",
+        "name_cn": "Haji Wright",
+        "name_en": "Haji Wright",
+        "age": 30,
+        "squad_no": 25,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      }
+    ]
+  }
+}

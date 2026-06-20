@@ -1,0 +1,3972 @@
+{
+  "country_code": "GER",
+  "squads": {
+    "1990": [
+      {
+        "id": "GER_1990_01",
+        "name_cn": "伊尔格纳",
+        "name_en": "Illgner",
+        "age": 30,
+        "squad_no": 1,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 87
+          }
+        ],
+        "tags": [
+          "冠军门将"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GER_1990_02",
+        "name_cn": "Stefan Reuter",
+        "name_en": "Stefan Reuter",
+        "age": 25,
+        "squad_no": 2,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 82
+          },
+          {
+            "pos": "RB",
+            "ovr": 79
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GER_1990_03",
+        "name_cn": "布雷默",
+        "name_en": "Brehme",
+        "age": 23,
+        "squad_no": 3,
+        "positions": [
+          {
+            "pos": "LB",
+            "ovr": 87
+          }
+        ],
+        "tags": [
+          "冠军",
+          "决赛点球"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GER_1990_04",
+        "name_cn": "科勒尔",
+        "name_en": "Kohler",
+        "age": 29,
+        "squad_no": 4,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 87
+          }
+        ],
+        "tags": [
+          "冠军"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GER_1990_05",
+        "name_cn": "布赫瓦尔德",
+        "name_en": "Buchwald",
+        "age": 24,
+        "squad_no": 5,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 87
+          }
+        ],
+        "tags": [
+          "冠军"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GER_1990_06",
+        "name_cn": "贝特霍尔德",
+        "name_en": "Berthold",
+        "age": 29,
+        "squad_no": 6,
+        "positions": [
+          {
+            "pos": "RB",
+            "ovr": 83
+          }
+        ],
+        "tags": [
+          "冠军"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GER_1990_07",
+        "name_cn": "利特巴尔斯基",
+        "name_en": "Littbarski",
+        "age": 32,
+        "squad_no": 7,
+        "positions": [
+          {
+            "pos": "RW",
+            "ovr": 87
+          },
+          {
+            "pos": "CAM",
+            "ovr": 84
+          }
+        ],
+        "tags": [
+          "冠军"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GER_1990_08",
+        "name_cn": "哈斯勒",
+        "name_en": "Häßler",
+        "age": 30,
+        "squad_no": 8,
+        "positions": [
+          {
+            "pos": "CAM",
+            "ovr": 84
+          },
+          {
+            "pos": "RM",
+            "ovr": 83
+          }
+        ],
+        "tags": [
+          "冠军"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GER_1990_09",
+        "name_cn": "克林斯曼",
+        "name_en": "Klinsmann",
+        "age": 30,
+        "squad_no": 9,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 92
+          }
+        ],
+        "tags": [
+          "冠军"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GER_1990_10",
+        "name_cn": "马特乌斯",
+        "name_en": "Matthäus",
+        "age": 31,
+        "squad_no": 10,
+        "positions": [
+          {
+            "pos": "CAM",
+            "ovr": 94
+          },
+          {
+            "pos": "DM",
+            "ovr": 90
+          },
+          {
+            "pos": "CM",
+            "ovr": 89
+          }
+        ],
+        "tags": [
+          "金球奖",
+          "冠军队长",
+          "GOAT级"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GER_1990_11",
+        "name_cn": "托马斯",
+        "name_en": "Thon",
+        "age": 27,
+        "squad_no": 11,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 83
+          }
+        ],
+        "tags": [
+          "冠军"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GER_1990_12",
+        "name_cn": "Klaus Augenthaler",
+        "name_en": "Klaus Augenthaler",
+        "age": 29,
+        "squad_no": 12,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 82
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GER_1990_13",
+        "name_cn": "Frank Mill",
+        "name_en": "Frank Mill",
+        "age": 31,
+        "squad_no": 13,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 82
+          },
+          {
+            "pos": "LW",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GER_1990_14",
+        "name_cn": "Raimond Aumann",
+        "name_en": "Raimond Aumann",
+        "age": 33,
+        "squad_no": 14,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 81
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GER_1990_15",
+        "name_cn": "Karl-Heinz Riedle",
+        "name_en": "Karl-Heinz Riedle",
+        "age": 30,
+        "squad_no": 15,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GER_1990_16",
+        "name_cn": "Uwe Bein",
+        "name_en": "Uwe Bein",
+        "age": 28,
+        "squad_no": 16,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GER_1990_17",
+        "name_cn": "Paul Steiner",
+        "name_en": "Paul Steiner",
+        "age": 30,
+        "squad_no": 17,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GER_1990_18",
+        "name_cn": "沃勒尔",
+        "name_en": "Völler",
+        "age": 29,
+        "squad_no": 18,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 90
+          }
+        ],
+        "tags": [
+          "冠军"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GER_1990_19",
+        "name_cn": "Andreas Möller",
+        "name_en": "Andreas Möller",
+        "age": 24,
+        "squad_no": 19,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 78
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GER_1990_20",
+        "name_cn": "Hans Pflügler",
+        "name_en": "Hans Pflügler",
+        "age": 33,
+        "squad_no": 20,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 78
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GER_1990_21",
+        "name_cn": "Günter Hermann",
+        "name_en": "Günter Hermann",
+        "age": 29,
+        "squad_no": 21,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 78
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GER_1990_22",
+        "name_cn": "Andreas Köpke",
+        "name_en": "Andreas Köpke",
+        "age": 29,
+        "squad_no": 22,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 79
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      }
+    ],
+    "1994": [
+      {
+        "id": "GER_1994_01",
+        "name_cn": "伊尔格纳",
+        "name_en": "Illgner",
+        "age": 26,
+        "squad_no": 1,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 85
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GER_1994_02",
+        "name_cn": "赫尔默",
+        "name_en": "Helmer",
+        "age": 25,
+        "squad_no": 2,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GER_1994_03",
+        "name_cn": "Thomas Strunz",
+        "name_en": "Thomas Strunz",
+        "age": 32,
+        "squad_no": 3,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GER_1994_04",
+        "name_cn": "科勒尔",
+        "name_en": "Kohler",
+        "age": 26,
+        "squad_no": 4,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 85
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GER_1994_05",
+        "name_cn": "萨默尔",
+        "name_en": "Sammer",
+        "age": 30,
+        "squad_no": 5,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 87
+          },
+          {
+            "pos": "DM",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GER_1994_06",
+        "name_cn": "布雷默",
+        "name_en": "Andreas Brehme",
+        "age": 29,
+        "squad_no": 6,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 83
+          },
+          {
+            "pos": "LB",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GER_1994_07",
+        "name_cn": "Guido Buchwald",
+        "name_en": "Guido Buchwald",
+        "age": 32,
+        "squad_no": 7,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GER_1994_08",
+        "name_cn": "Karl-Heinz Riedle",
+        "name_en": "Karl-Heinz Riedle",
+        "age": 25,
+        "squad_no": 8,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 83
+          },
+          {
+            "pos": "CAM",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GER_1994_09",
+        "name_cn": "沃勒尔",
+        "name_en": "Völler",
+        "age": 26,
+        "squad_no": 9,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 87
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GER_1994_10",
+        "name_cn": "马特乌斯",
+        "name_en": "Matthäus",
+        "age": 29,
+        "squad_no": 10,
+        "positions": [
+          {
+            "pos": "CAM",
+            "ovr": 90
+          },
+          {
+            "pos": "DM",
+            "ovr": 87
+          }
+        ],
+        "tags": [
+          "队长"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GER_1994_11",
+        "name_cn": "哈斯勒",
+        "name_en": "Häßler",
+        "age": 23,
+        "squad_no": 11,
+        "positions": [
+          {
+            "pos": "CAM",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GER_1994_12",
+        "name_cn": "Stefan Kuntz",
+        "name_en": "Stefan Kuntz",
+        "age": 33,
+        "squad_no": 12,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 83
+          },
+          {
+            "pos": "LW",
+            "ovr": 81
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GER_1994_13",
+        "name_cn": "Andreas Köpke",
+        "name_en": "Andreas Köpke",
+        "age": 26,
+        "squad_no": 13,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 82
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GER_1994_14",
+        "name_cn": "Thomas Berthold",
+        "name_en": "Thomas Berthold",
+        "age": 25,
+        "squad_no": 14,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 81
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GER_1994_15",
+        "name_cn": "Maurizio Gaudino",
+        "name_en": "Maurizio Gaudino",
+        "age": 26,
+        "squad_no": 15,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 81
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GER_1994_16",
+        "name_cn": "安德雷亚斯·穆勒",
+        "name_en": "A. Möller",
+        "age": 27,
+        "squad_no": 16,
+        "positions": [
+          {
+            "pos": "CAM",
+            "ovr": 85
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GER_1994_17",
+        "name_cn": "Martin Wagner",
+        "name_en": "Martin Wagner",
+        "age": 27,
+        "squad_no": 17,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 79
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GER_1994_18",
+        "name_cn": "克林斯曼",
+        "name_en": "Klinsmann",
+        "age": 30,
+        "squad_no": 18,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 91
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GER_1994_19",
+        "name_cn": "Ulf Kirsten",
+        "name_en": "Ulf Kirsten",
+        "age": 23,
+        "squad_no": 19,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 79
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GER_1994_20",
+        "name_cn": "Stefan Effenberg",
+        "name_en": "Stefan Effenberg",
+        "age": 24,
+        "squad_no": 20,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 79
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GER_1994_21",
+        "name_cn": "Mario Basler",
+        "name_en": "Mario Basler",
+        "age": 24,
+        "squad_no": 21,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 79
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GER_1994_22",
+        "name_cn": "Oliver Kahn",
+        "name_en": "Oliver Kahn",
+        "age": 25,
+        "squad_no": 22,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      }
+    ],
+    "1998": [
+      {
+        "id": "GER_1998_01",
+        "name_cn": "科普克",
+        "name_en": "Köpke",
+        "age": 28,
+        "squad_no": 1,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GER_1998_02",
+        "name_cn": "Christian Wörns",
+        "name_en": "Christian Wörns",
+        "age": 33,
+        "squad_no": 2,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 83
+          },
+          {
+            "pos": "RB",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GER_1998_03",
+        "name_cn": "齐格",
+        "name_en": "Ziege",
+        "age": 24,
+        "squad_no": 3,
+        "positions": [
+          {
+            "pos": "LB",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GER_1998_04",
+        "name_cn": "科勒尔",
+        "name_en": "Kohler",
+        "age": 33,
+        "squad_no": 4,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GER_1998_05",
+        "name_cn": "Jörg Heinrich",
+        "name_en": "Jörg Heinrich",
+        "age": 25,
+        "squad_no": 5,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 83
+          },
+          {
+            "pos": "LB",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GER_1998_06",
+        "name_cn": "Thomas Helmer",
+        "name_en": "Thomas Helmer",
+        "age": 23,
+        "squad_no": 6,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GER_1998_07",
+        "name_cn": "Olaf Thon",
+        "name_en": "Olaf Thon",
+        "age": 28,
+        "squad_no": 7,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GER_1998_08",
+        "name_cn": "哈曼",
+        "name_en": "Hamann",
+        "age": 28,
+        "squad_no": 8,
+        "positions": [
+          {
+            "pos": "DM",
+            "ovr": 84
+          },
+          {
+            "pos": "CM",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GER_1998_09",
+        "name_cn": "比埃尔霍夫",
+        "name_en": "Bierhoff",
+        "age": 27,
+        "squad_no": 9,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 85
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GER_1998_10",
+        "name_cn": "马特乌斯",
+        "name_en": "Matthäus",
+        "age": 30,
+        "squad_no": 10,
+        "positions": [
+          {
+            "pos": "DM",
+            "ovr": 87
+          },
+          {
+            "pos": "CB",
+            "ovr": 85
+          }
+        ],
+        "tags": [
+          "队长"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GER_1998_11",
+        "name_cn": "穆勒",
+        "name_en": "A. Möller",
+        "age": 29,
+        "squad_no": 11,
+        "positions": [
+          {
+            "pos": "CAM",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GER_1998_12",
+        "name_cn": "Ulf Kirsten",
+        "name_en": "Ulf Kirsten",
+        "age": 28,
+        "squad_no": 12,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 83
+          },
+          {
+            "pos": "CAM",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GER_1998_13",
+        "name_cn": "Thomas Häßler",
+        "name_en": "Thomas Häßler",
+        "age": 22,
+        "squad_no": 13,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 83
+          },
+          {
+            "pos": "CAM",
+            "ovr": 81
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GER_1998_14",
+        "name_cn": "Olaf Marschall",
+        "name_en": "Olaf Marschall",
+        "age": 25,
+        "squad_no": 14,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 83
+          },
+          {
+            "pos": "LW",
+            "ovr": 81
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GER_1998_15",
+        "name_cn": "Oliver Kahn",
+        "name_en": "Oliver Kahn",
+        "age": 28,
+        "squad_no": 15,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 82
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GER_1998_16",
+        "name_cn": "Jens Jeremies",
+        "name_en": "Jens Jeremies",
+        "age": 28,
+        "squad_no": 16,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 81
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GER_1998_17",
+        "name_cn": "Markus Babbel",
+        "name_en": "Markus Babbel",
+        "age": 31,
+        "squad_no": 17,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 81
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GER_1998_18",
+        "name_cn": "克林斯曼",
+        "name_en": "Klinsmann",
+        "age": 33,
+        "squad_no": 18,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 88
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GER_1998_19",
+        "name_cn": "Steffen Freund",
+        "name_en": "Steffen Freund",
+        "age": 22,
+        "squad_no": 19,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 81
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GER_1998_20",
+        "name_cn": "Stefan Reuter",
+        "name_en": "Stefan Reuter",
+        "age": 31,
+        "squad_no": 20,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 79
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GER_1998_21",
+        "name_cn": "Michael Tarnat",
+        "name_en": "Michael Tarnat",
+        "age": 28,
+        "squad_no": 21,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 79
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GER_1998_22",
+        "name_cn": "Jens Lehmann",
+        "name_en": "Jens Lehmann",
+        "age": 29,
+        "squad_no": 22,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      }
+    ],
+    "2002": [
+      {
+        "id": "GER_2002_01",
+        "name_cn": "卡恩",
+        "name_en": "Kahn",
+        "age": 22,
+        "squad_no": 1,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 94
+          }
+        ],
+        "tags": [
+          "亚军",
+          "金球银靴",
+          "门将之神"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GER_2002_02",
+        "name_cn": "Marko Rehmer",
+        "name_en": "Marko Rehmer",
+        "age": 27,
+        "squad_no": 2,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 84
+          },
+          {
+            "pos": "LB",
+            "ovr": 81
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GER_2002_03",
+        "name_cn": "齐格",
+        "name_en": "Ziege",
+        "age": 26,
+        "squad_no": 3,
+        "positions": [
+          {
+            "pos": "LB",
+            "ovr": 83
+          }
+        ],
+        "tags": [
+          "亚军"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GER_2002_04",
+        "name_cn": "Frank Baumann",
+        "name_en": "Frank Baumann",
+        "age": 28,
+        "squad_no": 4,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GER_2002_05",
+        "name_cn": "哈塞尔",
+        "name_en": "Linke",
+        "age": 28,
+        "squad_no": 5,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 83
+          }
+        ],
+        "tags": [
+          "亚军"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GER_2002_06",
+        "name_cn": "耶雷梅斯",
+        "name_en": "Jeremies",
+        "age": 30,
+        "squad_no": 6,
+        "positions": [
+          {
+            "pos": "DM",
+            "ovr": 83
+          }
+        ],
+        "tags": [
+          "亚军"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GER_2002_07",
+        "name_cn": "Carsten Ramelow",
+        "name_en": "Carsten Ramelow",
+        "age": 33,
+        "squad_no": 7,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GER_2002_08",
+        "name_cn": "哈曼",
+        "name_en": "Hamann",
+        "age": 33,
+        "squad_no": 8,
+        "positions": [
+          {
+            "pos": "DM",
+            "ovr": 85
+          },
+          {
+            "pos": "CM",
+            "ovr": 83
+          }
+        ],
+        "tags": [
+          "亚军"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GER_2002_09",
+        "name_cn": "扬克尔",
+        "name_en": "Jancker",
+        "age": 30,
+        "squad_no": 9,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 83
+          }
+        ],
+        "tags": [
+          "亚军"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GER_2002_10",
+        "name_cn": "巴拉克",
+        "name_en": "Ballack",
+        "age": 31,
+        "squad_no": 10,
+        "positions": [
+          {
+            "pos": "CAM",
+            "ovr": 91
+          },
+          {
+            "pos": "CM",
+            "ovr": 89
+          }
+        ],
+        "tags": [
+          "亚军核心"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GER_2002_11",
+        "name_cn": "Oliver Neuville",
+        "name_en": "Oliver Neuville",
+        "age": 25,
+        "squad_no": 11,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 84
+          },
+          {
+            "pos": "LW",
+            "ovr": 82
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GER_2002_12",
+        "name_cn": "Lars Ricken",
+        "name_en": "Lars Ricken",
+        "age": 29,
+        "squad_no": 12,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 84
+          },
+          {
+            "pos": "CAM",
+            "ovr": 82
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GER_2002_13",
+        "name_cn": "Jens Lehmann",
+        "name_en": "Jens Lehmann",
+        "age": 25,
+        "squad_no": 13,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GER_2002_14",
+        "name_cn": "Gerald Asamoah",
+        "name_en": "Gerald Asamoah",
+        "age": 26,
+        "squad_no": 14,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 82
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GER_2002_15",
+        "name_cn": "Sebastian Kehl",
+        "name_en": "Sebastian Kehl",
+        "age": 28,
+        "squad_no": 15,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 82
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GER_2002_16",
+        "name_cn": "Oliver Bierhoff",
+        "name_en": "Oliver Bierhoff",
+        "age": 29,
+        "squad_no": 16,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GER_2002_17",
+        "name_cn": "Marco Bode",
+        "name_en": "Marco Bode",
+        "age": 22,
+        "squad_no": 17,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GER_2002_18",
+        "name_cn": "Jörg Böhme",
+        "name_en": "Jörg Böhme",
+        "age": 28,
+        "squad_no": 18,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GER_2002_19",
+        "name_cn": "Bernd Schneider",
+        "name_en": "Bernd Schneider",
+        "age": 27,
+        "squad_no": 19,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GER_2002_20",
+        "name_cn": "克洛泽",
+        "name_en": "Klose",
+        "age": 32,
+        "squad_no": 20,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 87
+          }
+        ],
+        "tags": [
+          "亚军",
+          "新人射手"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GER_2002_21",
+        "name_cn": "Christoph Metzelder",
+        "name_en": "Christoph Metzelder",
+        "age": 32,
+        "squad_no": 21,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GER_2002_22",
+        "name_cn": "Torsten Frings",
+        "name_en": "Torsten Frings",
+        "age": 28,
+        "squad_no": 22,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GER_2002_23",
+        "name_cn": "Hans-Jörg Butt",
+        "name_en": "Hans-Jörg Butt",
+        "age": 33,
+        "squad_no": 23,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      }
+    ],
+    "2006": [
+      {
+        "id": "GER_2006_01",
+        "name_cn": "莱曼",
+        "name_en": "Lehmann",
+        "age": 24,
+        "squad_no": 1,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 87
+          }
+        ],
+        "tags": [
+          "季军"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GER_2006_02",
+        "name_cn": "Marcell Jansen",
+        "name_en": "Marcell Jansen",
+        "age": 29,
+        "squad_no": 2,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 84
+          },
+          {
+            "pos": "RB",
+            "ovr": 81
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GER_2006_03",
+        "name_cn": "弗里德里希",
+        "name_en": "Friedrich",
+        "age": 24,
+        "squad_no": 3,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 83
+          }
+        ],
+        "tags": [
+          "季军"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GER_2006_04",
+        "name_cn": "Robert Huth",
+        "name_en": "Robert Huth",
+        "age": 31,
+        "squad_no": 4,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GER_2006_05",
+        "name_cn": "梅策尔德",
+        "name_en": "Mertesacker",
+        "age": 30,
+        "squad_no": 5,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 84
+          }
+        ],
+        "tags": [
+          "季军"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GER_2006_06",
+        "name_cn": "克尔",
+        "name_en": "Kehl",
+        "age": 22,
+        "squad_no": 6,
+        "positions": [
+          {
+            "pos": "DM",
+            "ovr": 83
+          }
+        ],
+        "tags": [
+          "季军"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GER_2006_07",
+        "name_cn": "施奈德",
+        "name_en": "Schneider",
+        "age": 28,
+        "squad_no": 7,
+        "positions": [
+          {
+            "pos": "RM",
+            "ovr": 83
+          }
+        ],
+        "tags": [
+          "季军"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GER_2006_08",
+        "name_cn": "弗林斯",
+        "name_en": "Frings",
+        "age": 31,
+        "squad_no": 8,
+        "positions": [
+          {
+            "pos": "DM",
+            "ovr": 85
+          },
+          {
+            "pos": "CM",
+            "ovr": 83
+          }
+        ],
+        "tags": [
+          "季军"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GER_2006_09",
+        "name_cn": "Jens Nowotny",
+        "name_en": "Jens Nowotny",
+        "age": 31,
+        "squad_no": 9,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GER_2006_10",
+        "name_cn": "诺伊维尔",
+        "name_en": "Neuville",
+        "age": 32,
+        "squad_no": 10,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 83
+          }
+        ],
+        "tags": [
+          "季军"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GER_2006_11",
+        "name_cn": "克洛泽",
+        "name_en": "Klose",
+        "age": 22,
+        "squad_no": 11,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 90
+          }
+        ],
+        "tags": [
+          "季军金靴"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GER_2006_12",
+        "name_cn": "施魏因施泰格",
+        "name_en": "Bastian Schweinsteiger",
+        "age": 23,
+        "squad_no": 12,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GER_2006_13",
+        "name_cn": "巴拉克",
+        "name_en": "Ballack",
+        "age": 32,
+        "squad_no": 13,
+        "positions": [
+          {
+            "pos": "CAM",
+            "ovr": 90
+          },
+          {
+            "pos": "CM",
+            "ovr": 87
+          }
+        ],
+        "tags": [
+          "季军队长"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GER_2006_14",
+        "name_cn": "博罗夫斯基",
+        "name_en": "Borowski",
+        "age": 28,
+        "squad_no": 14,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 83
+          }
+        ],
+        "tags": [
+          "季军"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GER_2006_15",
+        "name_cn": "Mike Hanke",
+        "name_en": "Mike Hanke",
+        "age": 24,
+        "squad_no": 15,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 84
+          },
+          {
+            "pos": "CAM",
+            "ovr": 81
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GER_2006_16",
+        "name_cn": "拉姆",
+        "name_en": "Lahm",
+        "age": 29,
+        "squad_no": 16,
+        "positions": [
+          {
+            "pos": "RB",
+            "ovr": 87
+          },
+          {
+            "pos": "LB",
+            "ovr": 87
+          }
+        ],
+        "tags": [
+          "季军"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GER_2006_17",
+        "name_cn": "Oliver Kahn",
+        "name_en": "Oliver Kahn",
+        "age": 24,
+        "squad_no": 17,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GER_2006_18",
+        "name_cn": "Gerald Asamoah",
+        "name_en": "Gerald Asamoah",
+        "age": 22,
+        "squad_no": 18,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 82
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GER_2006_19",
+        "name_cn": "Thomas Hitzlsperger",
+        "name_en": "Thomas Hitzlsperger",
+        "age": 26,
+        "squad_no": 19,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 82
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GER_2006_20",
+        "name_cn": "波多尔斯基",
+        "name_en": "Podolski",
+        "age": 28,
+        "squad_no": 20,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 87
+          },
+          {
+            "pos": "LW",
+            "ovr": 85
+          }
+        ],
+        "tags": [
+          "季军最佳新人"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GER_2006_21",
+        "name_cn": "Christoph Metzelder",
+        "name_en": "Christoph Metzelder",
+        "age": 27,
+        "squad_no": 21,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GER_2006_22",
+        "name_cn": "David Odonkor",
+        "name_en": "David Odonkor",
+        "age": 25,
+        "squad_no": 22,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GER_2006_23",
+        "name_cn": "Timo Hildebrand",
+        "name_en": "Timo Hildebrand",
+        "age": 29,
+        "squad_no": 23,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      }
+    ],
+    "2010": [
+      {
+        "id": "GER_2010_01",
+        "name_cn": "诺伊尔",
+        "name_en": "Neuer",
+        "age": 27,
+        "squad_no": 1,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 87
+          }
+        ],
+        "tags": [
+          "季军",
+          "新星门将"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GER_2010_02",
+        "name_cn": "Marcell Jansen",
+        "name_en": "Marcell Jansen",
+        "age": 27,
+        "squad_no": 2,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 84
+          },
+          {
+            "pos": "RB",
+            "ovr": 81
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GER_2010_03",
+        "name_cn": "弗里德里希",
+        "name_en": "Friedrich",
+        "age": 28,
+        "squad_no": 3,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 83
+          }
+        ],
+        "tags": [
+          "季军"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GER_2010_04",
+        "name_cn": "门德斯·萨米",
+        "name_en": "Mertesacker",
+        "age": 26,
+        "squad_no": 4,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GER_2010_05",
+        "name_cn": "Dennis Aogo",
+        "name_en": "Dennis Aogo",
+        "age": 28,
+        "squad_no": 5,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GER_2010_06",
+        "name_cn": "Serdar Tasci",
+        "name_en": "Serdar Tasci",
+        "age": 26,
+        "squad_no": 6,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GER_2010_07",
+        "name_cn": "施魏因斯泰格",
+        "name_en": "Schweinsteiger",
+        "age": 23,
+        "squad_no": 7,
+        "positions": [
+          {
+            "pos": "DM",
+            "ovr": 87
+          },
+          {
+            "pos": "CM",
+            "ovr": 85
+          }
+        ],
+        "tags": [
+          "季军"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GER_2010_08",
+        "name_cn": "厄齐尔",
+        "name_en": "Özil",
+        "age": 29,
+        "squad_no": 8,
+        "positions": [
+          {
+            "pos": "CAM",
+            "ovr": 87
+          },
+          {
+            "pos": "LM",
+            "ovr": 84
+          }
+        ],
+        "tags": [
+          "季军最佳新人"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GER_2010_09",
+        "name_cn": "Stefan Kießling",
+        "name_en": "Stefan Kießling",
+        "age": 22,
+        "squad_no": 9,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 84
+          },
+          {
+            "pos": "CAM",
+            "ovr": 81
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GER_2010_10",
+        "name_cn": "波多尔斯基",
+        "name_en": "Podolski",
+        "age": 33,
+        "squad_no": 10,
+        "positions": [
+          {
+            "pos": "LW",
+            "ovr": 85
+          },
+          {
+            "pos": "ST",
+            "ovr": 83
+          }
+        ],
+        "tags": [
+          "季军"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GER_2010_11",
+        "name_cn": "克洛泽",
+        "name_en": "Klose",
+        "age": 30,
+        "squad_no": 11,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 87
+          }
+        ],
+        "tags": [
+          "季军"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GER_2010_12",
+        "name_cn": "Tim Wiese",
+        "name_en": "Tim Wiese",
+        "age": 22,
+        "squad_no": 12,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GER_2010_13",
+        "name_cn": "穆勒",
+        "name_en": "Müller",
+        "age": 27,
+        "squad_no": 13,
+        "positions": [
+          {
+            "pos": "RW",
+            "ovr": 85
+          },
+          {
+            "pos": "ST",
+            "ovr": 83
+          }
+        ],
+        "tags": [
+          "季军金靴最佳新人"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GER_2010_14",
+        "name_cn": "Holger Badstuber",
+        "name_en": "Holger Badstuber",
+        "age": 25,
+        "squad_no": 14,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 82
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GER_2010_15",
+        "name_cn": "赫迪拉",
+        "name_en": "Khedira",
+        "age": 32,
+        "squad_no": 15,
+        "positions": [
+          {
+            "pos": "DM",
+            "ovr": 84
+          },
+          {
+            "pos": "CM",
+            "ovr": 83
+          }
+        ],
+        "tags": [
+          "季军"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GER_2010_16",
+        "name_cn": "拉姆",
+        "name_en": "Lahm",
+        "age": 23,
+        "squad_no": 16,
+        "positions": [
+          {
+            "pos": "RB",
+            "ovr": 90
+          },
+          {
+            "pos": "LB",
+            "ovr": 89
+          }
+        ],
+        "tags": [
+          "季军队长"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GER_2010_17",
+        "name_cn": "博阿滕",
+        "name_en": "Boateng",
+        "age": 32,
+        "squad_no": 17,
+        "positions": [
+          {
+            "pos": "RB",
+            "ovr": 83
+          },
+          {
+            "pos": "CB",
+            "ovr": 82
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GER_2010_18",
+        "name_cn": "克罗斯",
+        "name_en": "Toni Kroos",
+        "age": 22,
+        "squad_no": 18,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GER_2010_19",
+        "name_cn": "Cacau",
+        "name_en": "Cacau",
+        "age": 22,
+        "squad_no": 19,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GER_2010_20",
+        "name_cn": "特罗霍夫斯基",
+        "name_en": "Trochowski",
+        "age": 25,
+        "squad_no": 20,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GER_2010_21",
+        "name_cn": "Marko Marin",
+        "name_en": "Marko Marin",
+        "age": 25,
+        "squad_no": 21,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GER_2010_22",
+        "name_cn": "Hans-Jörg Butt",
+        "name_en": "Hans-Jörg Butt",
+        "age": 22,
+        "squad_no": 22,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 81
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GER_2010_23",
+        "name_cn": "Mario Gómez",
+        "name_en": "Mario Gómez",
+        "age": 31,
+        "squad_no": 23,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 79
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      }
+    ],
+    "2014": [
+      {
+        "id": "GER_2014_01",
+        "name_cn": "诺伊尔",
+        "name_en": "Neuer",
+        "age": 24,
+        "squad_no": 1,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 92
+          }
+        ],
+        "tags": [
+          "冠军金手套"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GER_2014_02",
+        "name_cn": "Kevin Großkreutz",
+        "name_en": "Kevin Großkreutz",
+        "age": 25,
+        "squad_no": 2,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 84
+          },
+          {
+            "pos": "RB",
+            "ovr": 81
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GER_2014_03",
+        "name_cn": "Matthias Ginter",
+        "name_en": "Matthias Ginter",
+        "age": 24,
+        "squad_no": 3,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 84
+          },
+          {
+            "pos": "LB",
+            "ovr": 81
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GER_2014_04",
+        "name_cn": "赫韦德斯",
+        "name_en": "Höwedes",
+        "age": 29,
+        "squad_no": 4,
+        "positions": [
+          {
+            "pos": "LB",
+            "ovr": 81
+          },
+          {
+            "pos": "CB",
+            "ovr": 82
+          }
+        ],
+        "tags": [
+          "冠军"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GER_2014_05",
+        "name_cn": "胡梅尔斯",
+        "name_en": "Hummels",
+        "age": 32,
+        "squad_no": 5,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 87
+          }
+        ],
+        "tags": [
+          "冠军"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GER_2014_06",
+        "name_cn": "赫迪拉",
+        "name_en": "Khedira",
+        "age": 23,
+        "squad_no": 6,
+        "positions": [
+          {
+            "pos": "DM",
+            "ovr": 84
+          },
+          {
+            "pos": "CM",
+            "ovr": 83
+          }
+        ],
+        "tags": [
+          "冠军"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GER_2014_07",
+        "name_cn": "施魏因斯泰格",
+        "name_en": "Schweinsteiger",
+        "age": 31,
+        "squad_no": 7,
+        "positions": [
+          {
+            "pos": "DM",
+            "ovr": 88
+          },
+          {
+            "pos": "CM",
+            "ovr": 87
+          }
+        ],
+        "tags": [
+          "冠军"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GER_2014_08",
+        "name_cn": "厄齐尔",
+        "name_en": "Özil",
+        "age": 25,
+        "squad_no": 8,
+        "positions": [
+          {
+            "pos": "CAM",
+            "ovr": 88
+          },
+          {
+            "pos": "LM",
+            "ovr": 86
+          },
+          {
+            "pos": "RM",
+            "ovr": 86
+          }
+        ],
+        "tags": [
+          "冠军"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GER_2014_09",
+        "name_cn": "许尔勒",
+        "name_en": "Schürrle",
+        "age": 29,
+        "squad_no": 9,
+        "positions": [
+          {
+            "pos": "LW",
+            "ovr": 82
+          },
+          {
+            "pos": "RW",
+            "ovr": 81
+          },
+          {
+            "pos": "ST",
+            "ovr": 80
+          }
+        ],
+        "tags": [
+          "冠军决赛助攻"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GER_2014_10",
+        "name_cn": "Lukas Podolski",
+        "name_en": "Lukas Podolski",
+        "age": 33,
+        "squad_no": 10,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GER_2014_11",
+        "name_cn": "克洛泽",
+        "name_en": "Klose",
+        "age": 26,
+        "squad_no": 11,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 85
+          }
+        ],
+        "tags": [
+          "冠军",
+          "世界杯历史最佳射手"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GER_2014_12",
+        "name_cn": "Ron-Robert Zieler",
+        "name_en": "Ron-Robert Zieler",
+        "age": 27,
+        "squad_no": 12,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GER_2014_13",
+        "name_cn": "穆勒",
+        "name_en": "Müller",
+        "age": 24,
+        "squad_no": 13,
+        "positions": [
+          {
+            "pos": "RW",
+            "ovr": 88
+          },
+          {
+            "pos": "ST",
+            "ovr": 86
+          },
+          {
+            "pos": "CAM",
+            "ovr": 85
+          }
+        ],
+        "tags": [
+          "冠军金靴"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GER_2014_14",
+        "name_cn": "Julian Draxler",
+        "name_en": "Julian Draxler",
+        "age": 31,
+        "squad_no": 14,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 82
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GER_2014_15",
+        "name_cn": "穆斯塔菲",
+        "name_en": "Mustafi",
+        "age": 31,
+        "squad_no": 15,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 82
+          }
+        ],
+        "tags": [
+          "冠军"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GER_2014_16",
+        "name_cn": "拉姆",
+        "name_en": "Lahm",
+        "age": 33,
+        "squad_no": 16,
+        "positions": [
+          {
+            "pos": "RB",
+            "ovr": 90
+          },
+          {
+            "pos": "DM",
+            "ovr": 84
+          },
+          {
+            "pos": "LB",
+            "ovr": 87
+          }
+        ],
+        "tags": [
+          "冠军队长"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GER_2014_17",
+        "name_cn": "默特萨克",
+        "name_en": "Mertesacker",
+        "age": 33,
+        "squad_no": 17,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 84
+          }
+        ],
+        "tags": [
+          "冠军"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GER_2014_18",
+        "name_cn": "克罗斯",
+        "name_en": "Kroos",
+        "age": 23,
+        "squad_no": 18,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 88
+          },
+          {
+            "pos": "DM",
+            "ovr": 86
+          }
+        ],
+        "tags": [
+          "冠军"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GER_2014_19",
+        "name_cn": "格策",
+        "name_en": "Götze",
+        "age": 24,
+        "squad_no": 19,
+        "positions": [
+          {
+            "pos": "CAM",
+            "ovr": 84
+          },
+          {
+            "pos": "LW",
+            "ovr": 82
+          },
+          {
+            "pos": "RW",
+            "ovr": 82
+          }
+        ],
+        "tags": [
+          "冠军决赛绝杀"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GER_2014_20",
+        "name_cn": "博阿滕",
+        "name_en": "Boateng",
+        "age": 26,
+        "squad_no": 20,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 84
+          },
+          {
+            "pos": "RB",
+            "ovr": 82
+          }
+        ],
+        "tags": [
+          "冠军"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GER_2014_21",
+        "name_cn": "Erik Durm",
+        "name_en": "Erik Durm",
+        "age": 23,
+        "squad_no": 21,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 82
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GER_2014_22",
+        "name_cn": "Roman Weidenfeller",
+        "name_en": "Roman Weidenfeller",
+        "age": 31,
+        "squad_no": 22,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 81
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GER_2014_23",
+        "name_cn": "Christoph Kramer",
+        "name_en": "Christoph Kramer",
+        "age": 22,
+        "squad_no": 23,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 79
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      }
+    ],
+    "2018": [
+      {
+        "id": "GER_2018_01",
+        "name_cn": "诺伊尔",
+        "name_en": "Neuer",
+        "age": 26,
+        "squad_no": 1,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 90
+          }
+        ],
+        "tags": [
+          "队长"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GER_2018_02",
+        "name_cn": "Marvin Plattenhardt",
+        "name_en": "Marvin Plattenhardt",
+        "age": 31,
+        "squad_no": 2,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 84
+          },
+          {
+            "pos": "RB",
+            "ovr": 81
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GER_2018_03",
+        "name_cn": "约纳斯·赫克托",
+        "name_en": "Hector",
+        "age": 32,
+        "squad_no": 3,
+        "positions": [
+          {
+            "pos": "LB",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GER_2018_04",
+        "name_cn": "Matthias Ginter",
+        "name_en": "Matthias Ginter",
+        "age": 28,
+        "squad_no": 4,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GER_2018_05",
+        "name_cn": "胡梅尔斯",
+        "name_en": "Hummels",
+        "age": 28,
+        "squad_no": 5,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 87
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GER_2018_06",
+        "name_cn": "赫迪拉",
+        "name_en": "Khedira",
+        "age": 33,
+        "squad_no": 6,
+        "positions": [
+          {
+            "pos": "DM",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GER_2018_07",
+        "name_cn": "德拉克斯勒",
+        "name_en": "Draxler",
+        "age": 25,
+        "squad_no": 7,
+        "positions": [
+          {
+            "pos": "LW",
+            "ovr": 84
+          },
+          {
+            "pos": "CAM",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GER_2018_08",
+        "name_cn": "克罗斯",
+        "name_en": "Kroos",
+        "age": 23,
+        "squad_no": 8,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 90
+          },
+          {
+            "pos": "DM",
+            "ovr": 87
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GER_2018_09",
+        "name_cn": "维尔纳",
+        "name_en": "Werner",
+        "age": 31,
+        "squad_no": 9,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GER_2018_10",
+        "name_cn": "厄齐尔",
+        "name_en": "Özil",
+        "age": 33,
+        "squad_no": 10,
+        "positions": [
+          {
+            "pos": "CAM",
+            "ovr": 87
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GER_2018_11",
+        "name_cn": "罗伊斯",
+        "name_en": "Reus",
+        "age": 32,
+        "squad_no": 11,
+        "positions": [
+          {
+            "pos": "RW",
+            "ovr": 85
+          },
+          {
+            "pos": "LW",
+            "ovr": 84
+          },
+          {
+            "pos": "CAM",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GER_2018_12",
+        "name_cn": "Kevin Trapp",
+        "name_en": "Kevin Trapp",
+        "age": 25,
+        "squad_no": 12,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GER_2018_13",
+        "name_cn": "穆勒",
+        "name_en": "Müller",
+        "age": 23,
+        "squad_no": 13,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 87
+          },
+          {
+            "pos": "RW",
+            "ovr": 85
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GER_2018_14",
+        "name_cn": "戈麦斯",
+        "name_en": "Gómez",
+        "age": 33,
+        "squad_no": 14,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GER_2018_15",
+        "name_cn": "鲁迪",
+        "name_en": "Rudy",
+        "age": 26,
+        "squad_no": 15,
+        "positions": [
+          {
+            "pos": "DM",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GER_2018_16",
+        "name_cn": "吕迪格",
+        "name_en": "Rüdiger",
+        "age": 32,
+        "squad_no": 16,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GER_2018_17",
+        "name_cn": "博阿滕",
+        "name_en": "Boateng",
+        "age": 31,
+        "squad_no": 17,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 87
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GER_2018_18",
+        "name_cn": "基米希",
+        "name_en": "Kimmich",
+        "age": 23,
+        "squad_no": 18,
+        "positions": [
+          {
+            "pos": "RB",
+            "ovr": 87
+          },
+          {
+            "pos": "DM",
+            "ovr": 85
+          },
+          {
+            "pos": "CM",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GER_2018_19",
+        "name_cn": "Leon Goretzka",
+        "name_en": "Leon Goretzka",
+        "age": 31,
+        "squad_no": 19,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 82
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GER_2018_20",
+        "name_cn": "Niklas Süle",
+        "name_en": "Niklas Süle",
+        "age": 22,
+        "squad_no": 20,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 82
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GER_2018_21",
+        "name_cn": "Julian Brandt",
+        "name_en": "Julian Brandt",
+        "age": 27,
+        "squad_no": 21,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GER_2018_22",
+        "name_cn": "İlkay Gündoğan",
+        "name_en": "İlkay Gündoğan",
+        "age": 30,
+        "squad_no": 22,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GER_2018_23",
+        "name_cn": "Marc-André ter Stegen",
+        "name_en": "Marc-André ter Stegen",
+        "age": 28,
+        "squad_no": 23,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 81
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      }
+    ],
+    "2022": [
+      {
+        "id": "GER_2022_01",
+        "name_cn": "诺伊尔",
+        "name_en": "Neuer",
+        "age": 32,
+        "squad_no": 1,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 87
+          }
+        ],
+        "tags": [
+          "队长"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GER_2022_02",
+        "name_cn": "金特尔",
+        "name_en": "Ginter",
+        "age": 27,
+        "squad_no": 2,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GER_2022_03",
+        "name_cn": "劳姆",
+        "name_en": "Raum",
+        "age": 23,
+        "squad_no": 3,
+        "positions": [
+          {
+            "pos": "LB",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GER_2022_04",
+        "name_cn": "吕迪格",
+        "name_en": "Rüdiger",
+        "age": 30,
+        "squad_no": 4,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 87
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GER_2022_05",
+        "name_cn": "Thilo Kehrer",
+        "name_en": "Thilo Kehrer",
+        "age": 32,
+        "squad_no": 5,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GER_2022_06",
+        "name_cn": "基米希",
+        "name_en": "Kimmich",
+        "age": 27,
+        "squad_no": 6,
+        "positions": [
+          {
+            "pos": "DM",
+            "ovr": 88
+          },
+          {
+            "pos": "RB",
+            "ovr": 87
+          },
+          {
+            "pos": "CM",
+            "ovr": 86
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GER_2022_07",
+        "name_cn": "哈弗茨",
+        "name_en": "Havertz",
+        "age": 22,
+        "squad_no": 7,
+        "positions": [
+          {
+            "pos": "CAM",
+            "ovr": 85
+          },
+          {
+            "pos": "ST",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GER_2022_08",
+        "name_cn": "Serge Gnabry",
+        "name_en": "Serge Gnabry",
+        "age": 28,
+        "squad_no": 8,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GER_2022_09",
+        "name_cn": "菲尔克鲁格",
+        "name_en": "Füllkrug",
+        "age": 29,
+        "squad_no": 9,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GER_2022_10",
+        "name_cn": "格雷茨卡",
+        "name_en": "Goretzka",
+        "age": 23,
+        "squad_no": 10,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 87
+          },
+          {
+            "pos": "DM",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GER_2022_11",
+        "name_cn": "穆科科",
+        "name_en": "Moukoko",
+        "age": 28,
+        "squad_no": 11,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GER_2022_12",
+        "name_cn": "Mario Götze",
+        "name_en": "Mario Götze",
+        "age": 27,
+        "squad_no": 12,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GER_2022_13",
+        "name_cn": "穆勒",
+        "name_en": "Müller",
+        "age": 32,
+        "squad_no": 13,
+        "positions": [
+          {
+            "pos": "CAM",
+            "ovr": 84
+          },
+          {
+            "pos": "RW",
+            "ovr": 83
+          },
+          {
+            "pos": "ST",
+            "ovr": 82
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GER_2022_14",
+        "name_cn": "穆西亚拉",
+        "name_en": "Musiala",
+        "age": 29,
+        "squad_no": 14,
+        "positions": [
+          {
+            "pos": "CAM",
+            "ovr": 87
+          },
+          {
+            "pos": "LM",
+            "ovr": 85
+          },
+          {
+            "pos": "CM",
+            "ovr": 83
+          }
+        ],
+        "tags": [
+          "新星"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GER_2022_15",
+        "name_cn": "聚勒",
+        "name_en": "Süle",
+        "age": 33,
+        "squad_no": 15,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GER_2022_16",
+        "name_cn": "克洛斯特曼",
+        "name_en": "Klostermann",
+        "age": 24,
+        "squad_no": 16,
+        "positions": [
+          {
+            "pos": "RB",
+            "ovr": 82
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GER_2022_17",
+        "name_cn": "维尔纳",
+        "name_en": "Werner",
+        "age": 28,
+        "squad_no": 17,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GER_2022_18",
+        "name_cn": "Kevin Trapp",
+        "name_en": "Kevin Trapp",
+        "age": 24,
+        "squad_no": 18,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GER_2022_19",
+        "name_cn": "萨内",
+        "name_en": "Sané",
+        "age": 33,
+        "squad_no": 19,
+        "positions": [
+          {
+            "pos": "RW",
+            "ovr": 87
+          },
+          {
+            "pos": "LW",
+            "ovr": 85
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GER_2022_20",
+        "name_cn": "Julian Brandt",
+        "name_en": "Julian Brandt",
+        "age": 30,
+        "squad_no": 20,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GER_2022_21",
+        "name_cn": "京多安",
+        "name_en": "Gündoğan",
+        "age": 32,
+        "squad_no": 21,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 87
+          },
+          {
+            "pos": "DM",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GER_2022_22",
+        "name_cn": "Jonas Hofmann",
+        "name_en": "Jonas Hofmann",
+        "age": 26,
+        "squad_no": 22,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GER_2022_23",
+        "name_cn": "Christian Günter",
+        "name_en": "Christian Günter",
+        "age": 31,
+        "squad_no": 23,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GER_2022_24",
+        "name_cn": "Marc-André ter Stegen",
+        "name_en": "Marc-André ter Stegen",
+        "age": 30,
+        "squad_no": 24,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 81
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GER_2022_25",
+        "name_cn": "Nico Schlotterbeck",
+        "name_en": "Nico Schlotterbeck",
+        "age": 29,
+        "squad_no": 25,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 79
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GER_2022_26",
+        "name_cn": "Karim Adeyemi",
+        "name_en": "Karim Adeyemi",
+        "age": 29,
+        "squad_no": 26,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 79
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      }
+    ],
+    "2026": [
+      {
+        "id": "GER_2026_01",
+        "name_cn": "特尔施特根",
+        "name_en": "Ter Stegen",
+        "age": 28,
+        "squad_no": 1,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 87
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GER_2026_02",
+        "name_cn": "Oliver Baumann",
+        "name_en": "Oliver Baumann",
+        "age": 33,
+        "squad_no": 2,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GER_2026_03",
+        "name_cn": "塔",
+        "name_en": "Tah",
+        "age": 31,
+        "squad_no": 3,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 85
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GER_2026_04",
+        "name_cn": "吕迪格",
+        "name_en": "Rüdiger",
+        "age": 26,
+        "squad_no": 4,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 87
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GER_2026_05",
+        "name_cn": "诺伊尔",
+        "name_en": "Manuel Neuer",
+        "age": 27,
+        "squad_no": 5,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GER_2026_06",
+        "name_cn": "基米希",
+        "name_en": "Kimmich",
+        "age": 25,
+        "squad_no": 6,
+        "positions": [
+          {
+            "pos": "RB",
+            "ovr": 88
+          },
+          {
+            "pos": "DM",
+            "ovr": 87
+          }
+        ],
+        "tags": [
+          "队长"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GER_2026_07",
+        "name_cn": "哈弗茨",
+        "name_en": "Havertz",
+        "age": 23,
+        "squad_no": 7,
+        "positions": [
+          {
+            "pos": "CAM",
+            "ovr": 85
+          },
+          {
+            "pos": "ST",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GER_2026_08",
+        "name_cn": "格雷茨卡",
+        "name_en": "Goretzka",
+        "age": 26,
+        "squad_no": 8,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 85
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GER_2026_09",
+        "name_cn": "菲尔克鲁格",
+        "name_en": "Füllkrug",
+        "age": 29,
+        "squad_no": 9,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GER_2026_10",
+        "name_cn": "穆西亚拉",
+        "name_en": "Musiala",
+        "age": 25,
+        "squad_no": 10,
+        "positions": [
+          {
+            "pos": "CAM",
+            "ovr": 90
+          },
+          {
+            "pos": "LW",
+            "ovr": 87
+          }
+        ],
+        "tags": [
+          "新一代核心"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GER_2026_11",
+        "name_cn": "Alexander Nübel",
+        "name_en": "Alexander Nübel",
+        "age": 29,
+        "squad_no": 11,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GER_2026_12",
+        "name_cn": "Waldemar Anton",
+        "name_en": "Waldemar Anton",
+        "age": 31,
+        "squad_no": 12,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GER_2026_13",
+        "name_cn": "Nathaniel Brown",
+        "name_en": "Nathaniel Brown",
+        "age": 31,
+        "squad_no": 13,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GER_2026_14",
+        "name_cn": "维尔茨",
+        "name_en": "Wirtz",
+        "age": 32,
+        "squad_no": 14,
+        "positions": [
+          {
+            "pos": "CAM",
+            "ovr": 88
+          },
+          {
+            "pos": "RW",
+            "ovr": 85
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GER_2026_15",
+        "name_cn": "米塔尔斯塔特",
+        "name_en": "Mittelstädt",
+        "age": 28,
+        "squad_no": 15,
+        "positions": [
+          {
+            "pos": "LB",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GER_2026_16",
+        "name_cn": "安德里希",
+        "name_en": "Andrich",
+        "age": 27,
+        "squad_no": 16,
+        "positions": [
+          {
+            "pos": "DM",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GER_2026_17",
+        "name_cn": "维尔纳",
+        "name_en": "Werner",
+        "age": 22,
+        "squad_no": 17,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 82
+          },
+          {
+            "pos": "LW",
+            "ovr": 81
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GER_2026_18",
+        "name_cn": "劳姆",
+        "name_en": "David Raum",
+        "age": 29,
+        "squad_no": 18,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GER_2026_19",
+        "name_cn": "萨内",
+        "name_en": "Sané",
+        "age": 27,
+        "squad_no": 19,
+        "positions": [
+          {
+            "pos": "RW",
+            "ovr": 85
+          },
+          {
+            "pos": "LW",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GER_2026_20",
+        "name_cn": "施洛特贝克",
+        "name_en": "Nico Schlotterbeck",
+        "age": 24,
+        "squad_no": 20,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GER_2026_21",
+        "name_cn": "京多安",
+        "name_en": "Gündoğan",
+        "age": 29,
+        "squad_no": 21,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 84
+          },
+          {
+            "pos": "CAM",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GER_2026_22",
+        "name_cn": "Malick Thiaw",
+        "name_en": "Malick Thiaw",
+        "age": 25,
+        "squad_no": 22,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GER_2026_23",
+        "name_cn": "昂达夫",
+        "name_en": "Undav",
+        "age": 27,
+        "squad_no": 23,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 82
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GER_2026_24",
+        "name_cn": "Pascal Gross",
+        "name_en": "Pascal Gross",
+        "age": 26,
+        "squad_no": 24,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GER_2026_25",
+        "name_cn": "Felix Nmecha",
+        "name_en": "Felix Nmecha",
+        "age": 27,
+        "squad_no": 25,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "GER_2026_26",
+        "name_cn": "Aleksandar Pavlovic",
+        "name_en": "Aleksandar Pavlovic",
+        "age": 26,
+        "squad_no": 26,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,397 @@
+{
+  "country_code": "JOR",
+  "squads": {
+    "2026": [
+      {
+        "id": "JOR_2026_01",
+        "name_cn": "Yazid Abulaila",
+        "name_en": "Yazid Abulaila",
+        "age": 29,
+        "squad_no": 1,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "JOR_2026_02",
+        "name_cn": "Abdallah Al-Fakhouri",
+        "name_en": "Abdallah Al-Fakhouri",
+        "age": 25,
+        "squad_no": 2,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "JOR_2026_03",
+        "name_cn": "Nour Bani Attiah",
+        "name_en": "Nour Bani Attiah",
+        "age": 28,
+        "squad_no": 3,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "JOR_2026_04",
+        "name_cn": "Ihsan Haddad",
+        "name_en": "Ihsan Haddad",
+        "age": 33,
+        "squad_no": 4,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "JOR_2026_05",
+        "name_cn": "Saed Al-Rosan",
+        "name_en": "Saed Al-Rosan",
+        "age": 29,
+        "squad_no": 5,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "JOR_2026_06",
+        "name_cn": "Mohammad Abualnadi",
+        "name_en": "Mohammad Abualnadi",
+        "age": 30,
+        "squad_no": 6,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "JOR_2026_07",
+        "name_cn": "Husam Abu Dahab",
+        "name_en": "Husam Abu Dahab",
+        "age": 27,
+        "squad_no": 7,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "JOR_2026_08",
+        "name_cn": "Mohammed Abu Hashish",
+        "name_en": "Mohammed Abu Hashish",
+        "age": 22,
+        "squad_no": 8,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "JOR_2026_09",
+        "name_cn": "Yazan Al-Arab",
+        "name_en": "Yazan Al-Arab",
+        "age": 30,
+        "squad_no": 9,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "JOR_2026_10",
+        "name_cn": "Anas Badawi",
+        "name_en": "Anas Badawi",
+        "age": 24,
+        "squad_no": 10,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "JOR_2026_11",
+        "name_cn": "Abdallah Nasib",
+        "name_en": "Abdallah Nasib",
+        "age": 23,
+        "squad_no": 11,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "JOR_2026_12",
+        "name_cn": "Saleem Obaid",
+        "name_en": "Saleem Obaid",
+        "age": 26,
+        "squad_no": 12,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 68
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "JOR_2026_13",
+        "name_cn": "Mohammed Al-Dawoud",
+        "name_en": "Mohammed Al-Dawoud",
+        "age": 33,
+        "squad_no": 13,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 68
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "JOR_2026_14",
+        "name_cn": "Nizar Al-Rashdan",
+        "name_en": "Nizar Al-Rashdan",
+        "age": 30,
+        "squad_no": 14,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 68
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "JOR_2026_15",
+        "name_cn": "Noor Al-Rawabdeh",
+        "name_en": "Noor Al-Rawabdeh",
+        "age": 28,
+        "squad_no": 15,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 68
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "JOR_2026_16",
+        "name_cn": "Rajaei Ayed",
+        "name_en": "Rajaei Ayed",
+        "age": 24,
+        "squad_no": 16,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 68
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "JOR_2026_17",
+        "name_cn": "Amer Jamous",
+        "name_en": "Amer Jamous",
+        "age": 30,
+        "squad_no": 17,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 68
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "JOR_2026_18",
+        "name_cn": "Ibrahim Sadeh",
+        "name_en": "Ibrahim Sadeh",
+        "age": 31,
+        "squad_no": 18,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 68
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "JOR_2026_19",
+        "name_cn": "Mohannad Abu Taha",
+        "name_en": "Mohannad Abu Taha",
+        "age": 22,
+        "squad_no": 19,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 66
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "JOR_2026_20",
+        "name_cn": "Mohammed Abu Zrayq",
+        "name_en": "Mohammed Abu Zrayq",
+        "age": 24,
+        "squad_no": 20,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 66
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "JOR_2026_21",
+        "name_cn": "Mousa Al-Tamari",
+        "name_en": "Mousa Al-Tamari",
+        "age": 25,
+        "squad_no": 21,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 66
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "JOR_2026_22",
+        "name_cn": "Ali Azaizeh",
+        "name_en": "Ali Azaizeh",
+        "age": 25,
+        "squad_no": 22,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 66
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "JOR_2026_23",
+        "name_cn": "Odeh Al-Fakhouri",
+        "name_en": "Odeh Al-Fakhouri",
+        "age": 22,
+        "squad_no": 23,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 66
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "JOR_2026_24",
+        "name_cn": "Ali Olwan",
+        "name_en": "Ali Olwan",
+        "age": 25,
+        "squad_no": 24,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 66
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "JOR_2026_25",
+        "name_cn": "Ibrahim Sabra",
+        "name_en": "Ibrahim Sabra",
+        "age": 22,
+        "squad_no": 25,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 66
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "JOR_2026_26",
+        "name_cn": "Mahmoud Al-Mardi",
+        "name_en": "Mahmoud Al-Mardi",
+        "age": 29,
+        "squad_no": 26,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 66
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      }
+    ]
+  }
+}

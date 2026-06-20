@@ -1,0 +1,1907 @@
+{
+  "country_code": "ECU",
+  "squads": {
+    "2002": [
+      {
+        "id": "ECU_2002_01",
+        "name_cn": "José Francisco Cevallos",
+        "name_en": "José Francisco Cevallos",
+        "age": 22,
+        "squad_no": 1,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ECU_2002_02",
+        "name_cn": "Augusto Porozo",
+        "name_en": "Augusto Porozo",
+        "age": 27,
+        "squad_no": 2,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          },
+          {
+            "pos": "RB",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ECU_2002_03",
+        "name_cn": "Iván Hurtado",
+        "name_en": "Iván Hurtado",
+        "age": 32,
+        "squad_no": 3,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          },
+          {
+            "pos": "LB",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ECU_2002_04",
+        "name_cn": "Ulises de la Cruz",
+        "name_en": "Ulises de la Cruz",
+        "age": 23,
+        "squad_no": 4,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ECU_2002_05",
+        "name_cn": "Alfonso Obregón",
+        "name_en": "Alfonso Obregón",
+        "age": 32,
+        "squad_no": 5,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ECU_2002_06",
+        "name_cn": "Raúl Guerrón",
+        "name_en": "Raúl Guerrón",
+        "age": 24,
+        "squad_no": 6,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ECU_2002_07",
+        "name_cn": "Nicolás Asencio",
+        "name_en": "Nicolás Asencio",
+        "age": 33,
+        "squad_no": 7,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 73
+          },
+          {
+            "pos": "LW",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ECU_2002_08",
+        "name_cn": "Luis Gómez",
+        "name_en": "Luis Gómez",
+        "age": 25,
+        "squad_no": 8,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          },
+          {
+            "pos": "DM",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ECU_2002_09",
+        "name_cn": "Iván Kaviedes",
+        "name_en": "Iván Kaviedes",
+        "age": 30,
+        "squad_no": 9,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 73
+          },
+          {
+            "pos": "CAM",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ECU_2002_10",
+        "name_cn": "Álex Aguinaga",
+        "name_en": "Álex Aguinaga",
+        "age": 24,
+        "squad_no": 10,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          },
+          {
+            "pos": "CAM",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ECU_2002_11",
+        "name_cn": "德尔加多",
+        "name_en": "Agustín Delgado",
+        "age": 30,
+        "squad_no": 11,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ECU_2002_12",
+        "name_cn": "Oswaldo Ibarra",
+        "name_en": "Oswaldo Ibarra",
+        "age": 24,
+        "squad_no": 12,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 72
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ECU_2002_13",
+        "name_cn": "Ángel Fernández",
+        "name_en": "Ángel Fernández",
+        "age": 27,
+        "squad_no": 13,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ECU_2002_14",
+        "name_cn": "Juan Carlos Burbano",
+        "name_en": "Juan Carlos Burbano",
+        "age": 30,
+        "squad_no": 14,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ECU_2002_15",
+        "name_cn": "Marlon Ayoví",
+        "name_en": "Marlon Ayoví",
+        "age": 28,
+        "squad_no": 15,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ECU_2002_16",
+        "name_cn": "Misa",
+        "name_en": "Misa",
+        "age": 29,
+        "squad_no": 16,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ECU_2002_17",
+        "name_cn": "Giovanny Espinoza",
+        "name_en": "Giovanny Espinoza",
+        "age": 25,
+        "squad_no": 17,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ECU_2002_18",
+        "name_cn": "Carlos Tenorio",
+        "name_en": "Carlos Tenorio",
+        "age": 28,
+        "squad_no": 18,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ECU_2002_19",
+        "name_cn": "Édison Méndez",
+        "name_en": "Édison Méndez",
+        "age": 32,
+        "squad_no": 19,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ECU_2002_20",
+        "name_cn": "Edwin Tenorio",
+        "name_en": "Edwin Tenorio",
+        "age": 24,
+        "squad_no": 20,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ECU_2002_21",
+        "name_cn": "Wellington Sánchez",
+        "name_en": "Wellington Sánchez",
+        "age": 24,
+        "squad_no": 21,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ECU_2002_22",
+        "name_cn": "Daniel Viteri",
+        "name_en": "Daniel Viteri",
+        "age": 32,
+        "squad_no": 22,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ECU_2002_23",
+        "name_cn": "Walter Ayoví",
+        "name_en": "Walter Ayoví",
+        "age": 32,
+        "squad_no": 23,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 68
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      }
+    ],
+    "2006": [
+      {
+        "id": "ECU_2006_01",
+        "name_cn": "Edwin Villafuerte",
+        "name_en": "Edwin Villafuerte",
+        "age": 28,
+        "squad_no": 1,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ECU_2006_02",
+        "name_cn": "Jorge Guagua",
+        "name_en": "Jorge Guagua",
+        "age": 28,
+        "squad_no": 2,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          },
+          {
+            "pos": "RB",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ECU_2006_03",
+        "name_cn": "Iván Hurtado",
+        "name_en": "Iván Hurtado",
+        "age": 22,
+        "squad_no": 3,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          },
+          {
+            "pos": "LB",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ECU_2006_04",
+        "name_cn": "Ulises de la Cruz",
+        "name_en": "Ulises de la Cruz",
+        "age": 33,
+        "squad_no": 4,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ECU_2006_05",
+        "name_cn": "José Luis Perlaza",
+        "name_en": "José Luis Perlaza",
+        "age": 31,
+        "squad_no": 5,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ECU_2006_06",
+        "name_cn": "Patricio Urrutia",
+        "name_en": "Patricio Urrutia",
+        "age": 25,
+        "squad_no": 6,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          },
+          {
+            "pos": "DM",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ECU_2006_07",
+        "name_cn": "Christian Lara",
+        "name_en": "Christian Lara",
+        "age": 29,
+        "squad_no": 7,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ECU_2006_08",
+        "name_cn": "Édison Méndez",
+        "name_en": "Édison Méndez",
+        "age": 31,
+        "squad_no": 8,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          },
+          {
+            "pos": "DM",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ECU_2006_09",
+        "name_cn": "Félix Borja",
+        "name_en": "Félix Borja",
+        "age": 28,
+        "squad_no": 9,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 73
+          },
+          {
+            "pos": "CAM",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ECU_2006_10",
+        "name_cn": "Iván Kaviedes",
+        "name_en": "Iván Kaviedes",
+        "age": 28,
+        "squad_no": 10,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ECU_2006_11",
+        "name_cn": "德尔加多",
+        "name_en": "Agustín Delgado",
+        "age": 22,
+        "squad_no": 11,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ECU_2006_12",
+        "name_cn": "Cristian Mora",
+        "name_en": "Cristian Mora",
+        "age": 33,
+        "squad_no": 12,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 72
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ECU_2006_13",
+        "name_cn": "Paúl Ambrosi",
+        "name_en": "Paúl Ambrosi",
+        "age": 25,
+        "squad_no": 13,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ECU_2006_14",
+        "name_cn": "Segundo Castillo",
+        "name_en": "Segundo Castillo",
+        "age": 25,
+        "squad_no": 14,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ECU_2006_15",
+        "name_cn": "Marlon Ayoví",
+        "name_en": "Marlon Ayoví",
+        "age": 26,
+        "squad_no": 15,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ECU_2006_16",
+        "name_cn": "Antonio Valencia",
+        "name_en": "Antonio Valencia",
+        "age": 33,
+        "squad_no": 16,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ECU_2006_17",
+        "name_cn": "Giovanny Espinoza",
+        "name_en": "Giovanny Espinoza",
+        "age": 23,
+        "squad_no": 17,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ECU_2006_18",
+        "name_cn": "Néicer Reasco",
+        "name_en": "Néicer Reasco",
+        "age": 31,
+        "squad_no": 18,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ECU_2006_19",
+        "name_cn": "Luis Saritama",
+        "name_en": "Luis Saritama",
+        "age": 23,
+        "squad_no": 19,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ECU_2006_20",
+        "name_cn": "Edwin Tenorio",
+        "name_en": "Edwin Tenorio",
+        "age": 30,
+        "squad_no": 20,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ECU_2006_21",
+        "name_cn": "Carlos Tenorio",
+        "name_en": "Carlos Tenorio",
+        "age": 24,
+        "squad_no": 21,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ECU_2006_22",
+        "name_cn": "Damián Lanza",
+        "name_en": "Damián Lanza",
+        "age": 27,
+        "squad_no": 22,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ECU_2006_23",
+        "name_cn": "Christian Benítez",
+        "name_en": "Christian Benítez",
+        "age": 27,
+        "squad_no": 23,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 68
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      }
+    ],
+    "2014": [
+      {
+        "id": "ECU_2014_01",
+        "name_cn": "Máximo Banguera",
+        "name_en": "Máximo Banguera",
+        "age": 25,
+        "squad_no": 1,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ECU_2014_02",
+        "name_cn": "Jorge Guagua",
+        "name_en": "Jorge Guagua",
+        "age": 29,
+        "squad_no": 2,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          },
+          {
+            "pos": "RB",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ECU_2014_03",
+        "name_cn": "Frickson Erazo",
+        "name_en": "Frickson Erazo",
+        "age": 23,
+        "squad_no": 3,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          },
+          {
+            "pos": "LB",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ECU_2014_04",
+        "name_cn": "Juan Carlos Paredes",
+        "name_en": "Juan Carlos Paredes",
+        "age": 26,
+        "squad_no": 4,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ECU_2014_05",
+        "name_cn": "Renato Ibarra",
+        "name_en": "Renato Ibarra",
+        "age": 32,
+        "squad_no": 5,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ECU_2014_06",
+        "name_cn": "Christian Noboa",
+        "name_en": "Christian Noboa",
+        "age": 29,
+        "squad_no": 6,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          },
+          {
+            "pos": "DM",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ECU_2014_07",
+        "name_cn": "Jefferson Montero",
+        "name_en": "Jefferson Montero",
+        "age": 30,
+        "squad_no": 7,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ECU_2014_08",
+        "name_cn": "Édison Méndez",
+        "name_en": "Édison Méndez",
+        "age": 32,
+        "squad_no": 8,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          },
+          {
+            "pos": "DM",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ECU_2014_09",
+        "name_cn": "Joao Rojas",
+        "name_en": "Joao Rojas",
+        "age": 27,
+        "squad_no": 9,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ECU_2014_10",
+        "name_cn": "Walter Ayoví",
+        "name_en": "Walter Ayoví",
+        "age": 31,
+        "squad_no": 10,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ECU_2014_11",
+        "name_cn": "Felipe Caicedo",
+        "name_en": "Felipe Caicedo",
+        "age": 28,
+        "squad_no": 11,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 73
+          },
+          {
+            "pos": "LW",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ECU_2014_12",
+        "name_cn": "Adrián Bone",
+        "name_en": "Adrián Bone",
+        "age": 31,
+        "squad_no": 12,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 72
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ECU_2014_13",
+        "name_cn": "Enner Valencia",
+        "name_en": "Enner Valencia",
+        "age": 28,
+        "squad_no": 13,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ECU_2014_14",
+        "name_cn": "Oswaldo Minda",
+        "name_en": "Oswaldo Minda",
+        "age": 31,
+        "squad_no": 14,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ECU_2014_15",
+        "name_cn": "Michael Arroyo",
+        "name_en": "Michael Arroyo",
+        "age": 23,
+        "squad_no": 15,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ECU_2014_16",
+        "name_cn": "瓦伦西亚",
+        "name_en": "Antonio Valencia",
+        "age": 27,
+        "squad_no": 16,
+        "positions": [
+          {
+            "pos": "RW",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ECU_2014_17",
+        "name_cn": "Jaime Ayoví",
+        "name_en": "Jaime Ayoví",
+        "age": 27,
+        "squad_no": 17,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ECU_2014_18",
+        "name_cn": "Óscar Bagüí",
+        "name_en": "Óscar Bagüí",
+        "age": 29,
+        "squad_no": 18,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ECU_2014_19",
+        "name_cn": "Luis Saritama",
+        "name_en": "Luis Saritama",
+        "age": 31,
+        "squad_no": 19,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ECU_2014_20",
+        "name_cn": "Fidel Martínez",
+        "name_en": "Fidel Martínez",
+        "age": 24,
+        "squad_no": 20,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ECU_2014_21",
+        "name_cn": "Gabriel Achilier",
+        "name_en": "Gabriel Achilier",
+        "age": 32,
+        "squad_no": 21,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ECU_2014_22",
+        "name_cn": "Alexander Domínguez",
+        "name_en": "Alexander Domínguez",
+        "age": 33,
+        "squad_no": 22,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ECU_2014_23",
+        "name_cn": "Carlos Gruezo",
+        "name_en": "Carlos Gruezo",
+        "age": 26,
+        "squad_no": 23,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 68
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      }
+    ],
+    "2022": [
+      {
+        "id": "ECU_2022_01",
+        "name_cn": "Hernán Galíndez",
+        "name_en": "Hernán Galíndez",
+        "age": 31,
+        "squad_no": 1,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ECU_2022_02",
+        "name_cn": "Félix Torres",
+        "name_en": "Félix Torres",
+        "age": 31,
+        "squad_no": 2,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          },
+          {
+            "pos": "RB",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ECU_2022_03",
+        "name_cn": "Piero Hincapié",
+        "name_en": "Piero Hincapié",
+        "age": 23,
+        "squad_no": 3,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          },
+          {
+            "pos": "LB",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ECU_2022_04",
+        "name_cn": "Robert Arboleda",
+        "name_en": "Robert Arboleda",
+        "age": 32,
+        "squad_no": 4,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ECU_2022_05",
+        "name_cn": "José Cifuentes",
+        "name_en": "José Cifuentes",
+        "age": 24,
+        "squad_no": 5,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ECU_2022_06",
+        "name_cn": "William Pacho",
+        "name_en": "William Pacho",
+        "age": 27,
+        "squad_no": 6,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ECU_2022_07",
+        "name_cn": "埃斯特皮利安",
+        "name_en": "Pervis Estupiñán",
+        "age": 23,
+        "squad_no": 7,
+        "positions": [
+          {
+            "pos": "LB",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ECU_2022_08",
+        "name_cn": "Carlos Gruezo",
+        "name_en": "Carlos Gruezo",
+        "age": 25,
+        "squad_no": 8,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          },
+          {
+            "pos": "DM",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ECU_2022_09",
+        "name_cn": "Ayrton Preciado",
+        "name_en": "Ayrton Preciado",
+        "age": 26,
+        "squad_no": 9,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ECU_2022_10",
+        "name_cn": "Romario Ibarra",
+        "name_en": "Romario Ibarra",
+        "age": 23,
+        "squad_no": 10,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          },
+          {
+            "pos": "CAM",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ECU_2022_11",
+        "name_cn": "Michael Estrada",
+        "name_en": "Michael Estrada",
+        "age": 24,
+        "squad_no": 11,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 73
+          },
+          {
+            "pos": "LW",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ECU_2022_12",
+        "name_cn": "Moisés Ramírez",
+        "name_en": "Moisés Ramírez",
+        "age": 27,
+        "squad_no": 12,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 72
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ECU_2022_13",
+        "name_cn": "Enner Valencia",
+        "name_en": "Enner Valencia",
+        "age": 33,
+        "squad_no": 13,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ECU_2022_14",
+        "name_cn": "Xavier Arreaga",
+        "name_en": "Xavier Arreaga",
+        "age": 24,
+        "squad_no": 14,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ECU_2022_15",
+        "name_cn": "Ángel Mena",
+        "name_en": "Ángel Mena",
+        "age": 30,
+        "squad_no": 15,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ECU_2022_16",
+        "name_cn": "Jeremy Sarmiento",
+        "name_en": "Jeremy Sarmiento",
+        "age": 28,
+        "squad_no": 16,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ECU_2022_18",
+        "name_cn": "Diego Palacios",
+        "name_en": "Diego Palacios",
+        "age": 28,
+        "squad_no": 18,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ECU_2022_19",
+        "name_cn": "普拉塔",
+        "name_en": "Gonzalo Plata",
+        "age": 31,
+        "squad_no": 19,
+        "positions": [
+          {
+            "pos": "RW",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ECU_2022_20",
+        "name_cn": "Sebas Méndez",
+        "name_en": "Sebas Méndez",
+        "age": 24,
+        "squad_no": 20,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ECU_2022_21",
+        "name_cn": "Alan Franco",
+        "name_en": "Alan Franco",
+        "age": 31,
+        "squad_no": 21,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ECU_2022_22",
+        "name_cn": "Alexander Domínguez",
+        "name_en": "Alexander Domínguez",
+        "age": 28,
+        "squad_no": 22,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ECU_2022_23",
+        "name_cn": "凯塞多",
+        "name_en": "Moisés Caicedo",
+        "age": 28,
+        "squad_no": 23,
+        "positions": [
+          {
+            "pos": "DM",
+            "ovr": 87
+          },
+          {
+            "pos": "CM",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ECU_2022_24",
+        "name_cn": "Djorkaeff Reasco",
+        "name_en": "Djorkaeff Reasco",
+        "age": 24,
+        "squad_no": 24,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 68
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ECU_2022_25",
+        "name_cn": "Jackson Porozo",
+        "name_en": "Jackson Porozo",
+        "age": 29,
+        "squad_no": 25,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 68
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ECU_2022_26",
+        "name_cn": "Kevin Rodríguez",
+        "name_en": "Kevin Rodríguez",
+        "age": 32,
+        "squad_no": 26,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 68
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      }
+    ],
+    "2026": [
+      {
+        "id": "ECU_2026_01",
+        "name_cn": "Hernán Galíndez",
+        "name_en": "Hernán Galíndez",
+        "age": 30,
+        "squad_no": 1,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ECU_2026_02",
+        "name_cn": "Moisés Ramírez",
+        "name_en": "Moisés Ramírez",
+        "age": 33,
+        "squad_no": 2,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ECU_2026_03",
+        "name_cn": "Gonzalo Valle",
+        "name_en": "Gonzalo Valle",
+        "age": 32,
+        "squad_no": 3,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ECU_2026_04",
+        "name_cn": "Willian Pacho",
+        "name_en": "Willian Pacho",
+        "age": 24,
+        "squad_no": 4,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ECU_2026_05",
+        "name_cn": "Piero Hincapié",
+        "name_en": "Piero Hincapié",
+        "age": 30,
+        "squad_no": 5,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ECU_2026_06",
+        "name_cn": "Joel Ordóñez",
+        "name_en": "Joel Ordóñez",
+        "age": 24,
+        "squad_no": 6,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ECU_2026_07",
+        "name_cn": "Félix Torres",
+        "name_en": "Félix Torres",
+        "age": 29,
+        "squad_no": 7,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ECU_2026_08",
+        "name_cn": "埃斯特皮利安",
+        "name_en": "Pervis Estupiñán",
+        "age": 26,
+        "squad_no": 8,
+        "positions": [
+          {
+            "pos": "LB",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ECU_2026_09",
+        "name_cn": "Yaimar Medina",
+        "name_en": "Yaimar Medina",
+        "age": 24,
+        "squad_no": 9,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ECU_2026_10",
+        "name_cn": "Ángelo Preciado",
+        "name_en": "Ángelo Preciado",
+        "age": 24,
+        "squad_no": 10,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ECU_2026_11",
+        "name_cn": "Jackson Porozo",
+        "name_en": "Jackson Porozo",
+        "age": 27,
+        "squad_no": 11,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ECU_2026_12",
+        "name_cn": "Alan Minda",
+        "name_en": "Alan Minda",
+        "age": 29,
+        "squad_no": 12,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ECU_2026_13",
+        "name_cn": "凯塞多",
+        "name_en": "Moisés Caicedo",
+        "age": 31,
+        "squad_no": 13,
+        "positions": [
+          {
+            "pos": "DM",
+            "ovr": 87
+          },
+          {
+            "pos": "CM",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ECU_2026_14",
+        "name_cn": "Jordy Alcivar",
+        "name_en": "Jordy Alcivar",
+        "age": 22,
+        "squad_no": 14,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ECU_2026_15",
+        "name_cn": "Denil Castillo",
+        "name_en": "Denil Castillo",
+        "age": 27,
+        "squad_no": 15,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ECU_2026_16",
+        "name_cn": "John Yeboah",
+        "name_en": "John Yeboah",
+        "age": 22,
+        "squad_no": 16,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ECU_2026_17",
+        "name_cn": "Alan Franco",
+        "name_en": "Alan Franco",
+        "age": 29,
+        "squad_no": 17,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ECU_2026_18",
+        "name_cn": "Pedro Vite",
+        "name_en": "Pedro Vite",
+        "age": 24,
+        "squad_no": 18,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ECU_2026_19",
+        "name_cn": "Kendry Páez",
+        "name_en": "Kendry Páez",
+        "age": 25,
+        "squad_no": 19,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ECU_2026_20",
+        "name_cn": "Nilson Angulo",
+        "name_en": "Nilson Angulo",
+        "age": 28,
+        "squad_no": 20,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ECU_2026_21",
+        "name_cn": "普拉塔",
+        "name_en": "Gonzalo Plata",
+        "age": 30,
+        "squad_no": 21,
+        "positions": [
+          {
+            "pos": "RW",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ECU_2026_22",
+        "name_cn": "Kevin Rodríguez",
+        "name_en": "Kevin Rodríguez",
+        "age": 30,
+        "squad_no": 22,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ECU_2026_23",
+        "name_cn": "Anthony Valencia",
+        "name_en": "Anthony Valencia",
+        "age": 32,
+        "squad_no": 23,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ECU_2026_24",
+        "name_cn": "Enner Valencia",
+        "name_en": "Enner Valencia",
+        "age": 29,
+        "squad_no": 24,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ECU_2026_25",
+        "name_cn": "Jordy Caicedo",
+        "name_en": "Jordy Caicedo",
+        "age": 28,
+        "squad_no": 25,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ECU_2026_26",
+        "name_cn": "Jeremy Arévalo",
+        "name_en": "Jeremy Arévalo",
+        "age": 32,
+        "squad_no": 26,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      }
+    ]
+  }
+}

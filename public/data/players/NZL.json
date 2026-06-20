@@ -1,0 +1,760 @@
+{
+  "country_code": "NZL",
+  "squads": {
+    "2010": [
+      {
+        "id": "NZL_2010_01",
+        "name_cn": "Mark Paston",
+        "name_en": "Mark Paston",
+        "age": 24,
+        "squad_no": 1,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 66
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NZL_2010_02",
+        "name_cn": "Ben Sigmund",
+        "name_en": "Ben Sigmund",
+        "age": 32,
+        "squad_no": 2,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 65
+          },
+          {
+            "pos": "RB",
+            "ovr": 62
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NZL_2010_03",
+        "name_cn": "Tony Lochhead",
+        "name_en": "Tony Lochhead",
+        "age": 30,
+        "squad_no": 3,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 65
+          },
+          {
+            "pos": "LB",
+            "ovr": 62
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NZL_2010_04",
+        "name_cn": "Winston Reid",
+        "name_en": "Winston Reid",
+        "age": 22,
+        "squad_no": 4,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 65
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NZL_2010_05",
+        "name_cn": "Ivan Vicelich",
+        "name_en": "Ivan Vicelich",
+        "age": 31,
+        "squad_no": 5,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 65
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NZL_2010_06",
+        "name_cn": "Ryan Nelsen",
+        "name_en": "Ryan Nelsen",
+        "age": 24,
+        "squad_no": 6,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 65
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NZL_2010_07",
+        "name_cn": "Simon Elliott",
+        "name_en": "Simon Elliott",
+        "age": 22,
+        "squad_no": 7,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 65
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NZL_2010_08",
+        "name_cn": "Tim Brown",
+        "name_en": "Tim Brown",
+        "age": 24,
+        "squad_no": 8,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 65
+          },
+          {
+            "pos": "DM",
+            "ovr": 63
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NZL_2010_09",
+        "name_cn": "Shane Smeltz",
+        "name_en": "Shane Smeltz",
+        "age": 26,
+        "squad_no": 9,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 65
+          },
+          {
+            "pos": "CAM",
+            "ovr": 62
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NZL_2010_10",
+        "name_cn": "Chris Killen",
+        "name_en": "Chris Killen",
+        "age": 24,
+        "squad_no": 10,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 65
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NZL_2010_11",
+        "name_cn": "Leo Bertos",
+        "name_en": "Leo Bertos",
+        "age": 30,
+        "squad_no": 11,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 65
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NZL_2010_12",
+        "name_cn": "Glen Moss",
+        "name_en": "Glen Moss",
+        "age": 28,
+        "squad_no": 12,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 64
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NZL_2010_13",
+        "name_cn": "Andy Barron",
+        "name_en": "Andy Barron",
+        "age": 31,
+        "squad_no": 13,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 63
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NZL_2010_14",
+        "name_cn": "Rory Fallon",
+        "name_en": "Rory Fallon",
+        "age": 31,
+        "squad_no": 14,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 63
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NZL_2010_15",
+        "name_cn": "Michael McGlinchey",
+        "name_en": "Michael McGlinchey",
+        "age": 32,
+        "squad_no": 15,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 63
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NZL_2010_16",
+        "name_cn": "Aaron Clapham",
+        "name_en": "Aaron Clapham",
+        "age": 22,
+        "squad_no": 16,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 63
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NZL_2010_17",
+        "name_cn": "Dave Mulligan",
+        "name_en": "Dave Mulligan",
+        "age": 33,
+        "squad_no": 17,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 61
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NZL_2010_18",
+        "name_cn": "Andrew Boyens",
+        "name_en": "Andrew Boyens",
+        "age": 33,
+        "squad_no": 18,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 61
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NZL_2010_19",
+        "name_cn": "Tommy Smith",
+        "name_en": "Tommy Smith",
+        "age": 32,
+        "squad_no": 19,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 61
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NZL_2010_20",
+        "name_cn": "Chris Wood",
+        "name_en": "Chris Wood",
+        "age": 26,
+        "squad_no": 20,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 61
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NZL_2010_21",
+        "name_cn": "Jeremy Christie",
+        "name_en": "Jeremy Christie",
+        "age": 23,
+        "squad_no": 21,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 61
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NZL_2010_22",
+        "name_cn": "Jeremy Brockie",
+        "name_en": "Jeremy Brockie",
+        "age": 25,
+        "squad_no": 22,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 61
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NZL_2010_23",
+        "name_cn": "James Bannatyne",
+        "name_en": "James Bannatyne",
+        "age": 29,
+        "squad_no": 23,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 61
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      }
+    ],
+    "2026": [
+      {
+        "id": "NZL_2026_01",
+        "name_cn": "Max Crocombe",
+        "name_en": "Max Crocombe",
+        "age": 31,
+        "squad_no": 1,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 66
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NZL_2026_02",
+        "name_cn": "Alex Paulsen",
+        "name_en": "Alex Paulsen",
+        "age": 29,
+        "squad_no": 2,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 66
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NZL_2026_03",
+        "name_cn": "Michael Woud",
+        "name_en": "Michael Woud",
+        "age": 29,
+        "squad_no": 3,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 66
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NZL_2026_04",
+        "name_cn": "Tim Payne",
+        "name_en": "Tim Payne",
+        "age": 24,
+        "squad_no": 4,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 65
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NZL_2026_05",
+        "name_cn": "Francis De Vries",
+        "name_en": "Francis De Vries",
+        "age": 25,
+        "squad_no": 5,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 65
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NZL_2026_06",
+        "name_cn": "Tyler Bindon",
+        "name_en": "Tyler Bindon",
+        "age": 28,
+        "squad_no": 6,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 65
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NZL_2026_07",
+        "name_cn": "Michael Boxall",
+        "name_en": "Michael Boxall",
+        "age": 31,
+        "squad_no": 7,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 65
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NZL_2026_08",
+        "name_cn": "Liberato Cacace",
+        "name_en": "Liberato Cacace",
+        "age": 24,
+        "squad_no": 8,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 65
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NZL_2026_09",
+        "name_cn": "Nando Pijnaker",
+        "name_en": "Nando Pijnaker",
+        "age": 31,
+        "squad_no": 9,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 65
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NZL_2026_10",
+        "name_cn": "Finn Surman",
+        "name_en": "Finn Surman",
+        "age": 24,
+        "squad_no": 10,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 65
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NZL_2026_11",
+        "name_cn": "Callan Elliot",
+        "name_en": "Callan Elliot",
+        "age": 31,
+        "squad_no": 11,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 65
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NZL_2026_12",
+        "name_cn": "Tommy Smith",
+        "name_en": "Tommy Smith",
+        "age": 32,
+        "squad_no": 12,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 63
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NZL_2026_13",
+        "name_cn": "Joe Bell",
+        "name_en": "Joe Bell",
+        "age": 30,
+        "squad_no": 13,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 63
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NZL_2026_14",
+        "name_cn": "Matt Garbett",
+        "name_en": "Matt Garbett",
+        "age": 26,
+        "squad_no": 14,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 63
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NZL_2026_15",
+        "name_cn": "Marko Stamenic",
+        "name_en": "Marko Stamenic",
+        "age": 24,
+        "squad_no": 15,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 63
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NZL_2026_16",
+        "name_cn": "Sarpreet Singh",
+        "name_en": "Sarpreet Singh",
+        "age": 33,
+        "squad_no": 16,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 63
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NZL_2026_17",
+        "name_cn": "Alex Rufer",
+        "name_en": "Alex Rufer",
+        "age": 32,
+        "squad_no": 17,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 63
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NZL_2026_18",
+        "name_cn": "Ryan Thomas",
+        "name_en": "Ryan Thomas",
+        "age": 27,
+        "squad_no": 18,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 63
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NZL_2026_19",
+        "name_cn": "克里斯·伍德",
+        "name_en": "Chris Wood",
+        "age": 29,
+        "squad_no": 19,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NZL_2026_20",
+        "name_cn": "Eli Just",
+        "name_en": "Eli Just",
+        "age": 31,
+        "squad_no": 20,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 61
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NZL_2026_21",
+        "name_cn": "Kosta Barbarouses",
+        "name_en": "Kosta Barbarouses",
+        "age": 31,
+        "squad_no": 21,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 61
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NZL_2026_22",
+        "name_cn": "Ben Waine",
+        "name_en": "Ben Waine",
+        "age": 23,
+        "squad_no": 22,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 61
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NZL_2026_23",
+        "name_cn": "Ben Old",
+        "name_en": "Ben Old",
+        "age": 25,
+        "squad_no": 23,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 61
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NZL_2026_24",
+        "name_cn": "Callum McCowatt",
+        "name_en": "Callum McCowatt",
+        "age": 28,
+        "squad_no": 24,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 61
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NZL_2026_25",
+        "name_cn": "Jesse Randall",
+        "name_en": "Jesse Randall",
+        "age": 28,
+        "squad_no": 25,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 61
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "NZL_2026_26",
+        "name_cn": "Lachlan Bayliss",
+        "name_en": "Lachlan Bayliss",
+        "age": 24,
+        "squad_no": 26,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 61
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      }
+    ]
+  }
+}

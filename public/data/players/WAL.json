@@ -1,0 +1,427 @@
+{
+  "country_code": "WAL",
+  "squads": {
+    "2022": [
+      {
+        "id": "WAL_2022_01",
+        "name_cn": "Wayne Hennessey",
+        "name_en": "Wayne Hennessey",
+        "age": 26,
+        "squad_no": 1,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "WAL_2022_02",
+        "name_cn": "Chris Gunter",
+        "name_en": "Chris Gunter",
+        "age": 32,
+        "squad_no": 2,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 69
+          },
+          {
+            "pos": "RB",
+            "ovr": 66
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "WAL_2022_03",
+        "name_cn": "Neco Williams",
+        "name_en": "Neco Williams",
+        "age": 23,
+        "squad_no": 3,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 69
+          },
+          {
+            "pos": "LB",
+            "ovr": 66
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "WAL_2022_04",
+        "name_cn": "Ben Davies",
+        "name_en": "Ben Davies",
+        "age": 32,
+        "squad_no": 4,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "WAL_2022_05",
+        "name_cn": "Chris Mepham",
+        "name_en": "Chris Mepham",
+        "age": 32,
+        "squad_no": 5,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "WAL_2022_06",
+        "name_cn": "乔·罗顿",
+        "name_en": "Joe Rodon",
+        "age": 22,
+        "squad_no": 6,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "WAL_2022_07",
+        "name_cn": "阿伦",
+        "name_en": "Joe Allen",
+        "age": 23,
+        "squad_no": 7,
+        "positions": [
+          {
+            "pos": "DM",
+            "ovr": 83
+          },
+          {
+            "pos": "CM",
+            "ovr": 82
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "WAL_2022_08",
+        "name_cn": "Harry Wilson",
+        "name_en": "Harry Wilson",
+        "age": 28,
+        "squad_no": 8,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 69
+          },
+          {
+            "pos": "DM",
+            "ovr": 67
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "WAL_2022_09",
+        "name_cn": "Brennan Johnson",
+        "name_en": "Brennan Johnson",
+        "age": 28,
+        "squad_no": 9,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 69
+          },
+          {
+            "pos": "CAM",
+            "ovr": 66
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "WAL_2022_10",
+        "name_cn": "拉姆塞",
+        "name_en": "Aaron Ramsey",
+        "age": 28,
+        "squad_no": 10,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 84
+          },
+          {
+            "pos": "CAM",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "WAL_2022_11",
+        "name_cn": "贝尔",
+        "name_en": "Gareth Bale",
+        "age": 30,
+        "squad_no": 11,
+        "positions": [
+          {
+            "pos": "LW",
+            "ovr": 92
+          },
+          {
+            "pos": "RW",
+            "ovr": 87
+          }
+        ],
+        "tags": [
+          "队长"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "WAL_2022_12",
+        "name_cn": "Danny Ward",
+        "name_en": "Danny Ward",
+        "age": 29,
+        "squad_no": 12,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 68
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "WAL_2022_13",
+        "name_cn": "Kieffer Moore",
+        "name_en": "Kieffer Moore",
+        "age": 22,
+        "squad_no": 13,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 67
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "WAL_2022_14",
+        "name_cn": "Connor Roberts",
+        "name_en": "Connor Roberts",
+        "age": 32,
+        "squad_no": 14,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 67
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "WAL_2022_15",
+        "name_cn": "Ethan Ampadu",
+        "name_en": "Ethan Ampadu",
+        "age": 22,
+        "squad_no": 15,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 67
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "WAL_2022_16",
+        "name_cn": "Joe Morrell",
+        "name_en": "Joe Morrell",
+        "age": 33,
+        "squad_no": 16,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 67
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "WAL_2022_17",
+        "name_cn": "Tom Lockyer",
+        "name_en": "Tom Lockyer",
+        "age": 24,
+        "squad_no": 17,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 65
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "WAL_2022_18",
+        "name_cn": "Jonny Williams",
+        "name_en": "Jonny Williams",
+        "age": 23,
+        "squad_no": 18,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 65
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "WAL_2022_19",
+        "name_cn": "Mark Harris",
+        "name_en": "Mark Harris",
+        "age": 29,
+        "squad_no": 19,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 65
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "WAL_2022_20",
+        "name_cn": "Daniel James",
+        "name_en": "Daniel James",
+        "age": 28,
+        "squad_no": 20,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 65
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "WAL_2022_21",
+        "name_cn": "Adam Davies",
+        "name_en": "Adam Davies",
+        "age": 32,
+        "squad_no": 21,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 66
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "WAL_2022_22",
+        "name_cn": "Sorba Thomas",
+        "name_en": "Sorba Thomas",
+        "age": 27,
+        "squad_no": 22,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 65
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "WAL_2022_23",
+        "name_cn": "Dylan Levitt",
+        "name_en": "Dylan Levitt",
+        "age": 31,
+        "squad_no": 23,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 64
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "WAL_2022_24",
+        "name_cn": "Ben Cabango",
+        "name_en": "Ben Cabango",
+        "age": 23,
+        "squad_no": 24,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 64
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "WAL_2022_25",
+        "name_cn": "Rubin Colwill",
+        "name_en": "Rubin Colwill",
+        "age": 30,
+        "squad_no": 25,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 64
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "WAL_2022_26",
+        "name_cn": "Matthew Smith",
+        "name_en": "Matthew Smith",
+        "age": 22,
+        "squad_no": 26,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 64
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      }
+    ]
+  }
+}

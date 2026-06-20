@@ -1,0 +1,2223 @@
+{
+  "country_code": "IRN",
+  "squads": {
+    "1998": [
+      {
+        "id": "IRN_1998_01",
+        "name_cn": "Ahmad Reza Abedzadeh",
+        "name_en": "Ahmad Reza Abedzadeh",
+        "age": 27,
+        "squad_no": 1,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 78
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "IRN_1998_02",
+        "name_cn": "Mehdi Mahdavikia",
+        "name_en": "Mehdi Mahdavikia",
+        "age": 28,
+        "squad_no": 2,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 77
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "IRN_1998_03",
+        "name_cn": "Naeim Saadavi",
+        "name_en": "Naeim Saadavi",
+        "age": 23,
+        "squad_no": 3,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 77
+          },
+          {
+            "pos": "LB",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "IRN_1998_04",
+        "name_cn": "Mohammad Khakpour",
+        "name_en": "Mohammad Khakpour",
+        "age": 30,
+        "squad_no": 4,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 77
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "IRN_1998_05",
+        "name_cn": "Afshin Peyrovani",
+        "name_en": "Afshin Peyrovani",
+        "age": 27,
+        "squad_no": 5,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 77
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "IRN_1998_06",
+        "name_cn": "Karim Bagheri",
+        "name_en": "Karim Bagheri",
+        "age": 25,
+        "squad_no": 6,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 77
+          },
+          {
+            "pos": "DM",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "IRN_1998_07",
+        "name_cn": "Alireza Mansourian",
+        "name_en": "Alireza Mansourian",
+        "age": 29,
+        "squad_no": 7,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 77
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "IRN_1998_08",
+        "name_cn": "Sirous Dinmohammadi",
+        "name_en": "Sirous Dinmohammadi",
+        "age": 26,
+        "squad_no": 8,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 77
+          },
+          {
+            "pos": "DM",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "IRN_1998_09",
+        "name_cn": "Hamid Estili",
+        "name_en": "Hamid Estili",
+        "age": 29,
+        "squad_no": 9,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 77
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "IRN_1998_10",
+        "name_cn": "达埃",
+        "name_en": "Ali Daei",
+        "age": 26,
+        "squad_no": 10,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 87
+          }
+        ],
+        "tags": [
+          "亚洲射手王"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "IRN_1998_11",
+        "name_cn": "Khodadad Azizi",
+        "name_en": "Khodadad Azizi",
+        "age": 23,
+        "squad_no": 11,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 77
+          },
+          {
+            "pos": "LW",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "IRN_1998_12",
+        "name_cn": "Nima Nakisa",
+        "name_en": "Nima Nakisa",
+        "age": 23,
+        "squad_no": 12,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "IRN_1998_13",
+        "name_cn": "Ali Latifi",
+        "name_en": "Ali Latifi",
+        "age": 24,
+        "squad_no": 13,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "IRN_1998_14",
+        "name_cn": "Nader Mohammadkhani",
+        "name_en": "Nader Mohammadkhani",
+        "age": 32,
+        "squad_no": 14,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "IRN_1998_15",
+        "name_cn": "Ali Akbar Ostad-Asadi",
+        "name_en": "Ali Akbar Ostad-Asadi",
+        "age": 26,
+        "squad_no": 15,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "IRN_1998_16",
+        "name_cn": "Reza Shahroudi",
+        "name_en": "Reza Shahroudi",
+        "age": 33,
+        "squad_no": 16,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "IRN_1998_17",
+        "name_cn": "Javad Zarincheh",
+        "name_en": "Javad Zarincheh",
+        "age": 33,
+        "squad_no": 17,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "IRN_1998_18",
+        "name_cn": "Sattar Hamedani",
+        "name_en": "Sattar Hamedani",
+        "age": 31,
+        "squad_no": 18,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "IRN_1998_19",
+        "name_cn": "Behnam Seraj",
+        "name_en": "Behnam Seraj",
+        "age": 22,
+        "squad_no": 19,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "IRN_1998_20",
+        "name_cn": "Mehdi Pashazadeh",
+        "name_en": "Mehdi Pashazadeh",
+        "age": 25,
+        "squad_no": 20,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "IRN_1998_21",
+        "name_cn": "Mehrdad Minavand",
+        "name_en": "Mehrdad Minavand",
+        "age": 27,
+        "squad_no": 21,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "IRN_1998_22",
+        "name_cn": "Parviz Boroumand",
+        "name_en": "Parviz Boroumand",
+        "age": 24,
+        "squad_no": 22,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      }
+    ],
+    "2006": [
+      {
+        "id": "IRN_2006_01",
+        "name_cn": "Ebrahim Mirzapour",
+        "name_en": "Ebrahim Mirzapour",
+        "age": 23,
+        "squad_no": 1,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 79
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "IRN_2006_02",
+        "name_cn": "Mehdi Mahdavikia",
+        "name_en": "Mehdi Mahdavikia",
+        "age": 33,
+        "squad_no": 2,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 78
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "IRN_2006_03",
+        "name_cn": "Sohrab Bakhtiarizadeh",
+        "name_en": "Sohrab Bakhtiarizadeh",
+        "age": 25,
+        "squad_no": 3,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 78
+          },
+          {
+            "pos": "LB",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "IRN_2006_04",
+        "name_cn": "Yahya Golmohammadi",
+        "name_en": "Yahya Golmohammadi",
+        "age": 27,
+        "squad_no": 4,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 78
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "IRN_2006_05",
+        "name_cn": "Rahman Rezaei",
+        "name_en": "Rahman Rezaei",
+        "age": 28,
+        "squad_no": 5,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 78
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "IRN_2006_06",
+        "name_cn": "Javad Nekounam",
+        "name_en": "Javad Nekounam",
+        "age": 30,
+        "squad_no": 6,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 78
+          },
+          {
+            "pos": "DM",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "IRN_2006_07",
+        "name_cn": "Ferydoon Zandi",
+        "name_en": "Ferydoon Zandi",
+        "age": 22,
+        "squad_no": 7,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 78
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "IRN_2006_08",
+        "name_cn": "Ali Karimi",
+        "name_en": "Ali Karimi",
+        "age": 32,
+        "squad_no": 8,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 78
+          },
+          {
+            "pos": "DM",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "IRN_2006_09",
+        "name_cn": "Vahid Hashemian",
+        "name_en": "Vahid Hashemian",
+        "age": 26,
+        "squad_no": 9,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 78
+          },
+          {
+            "pos": "CAM",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "IRN_2006_10",
+        "name_cn": "达埃",
+        "name_en": "Ali Daei",
+        "age": 26,
+        "squad_no": 10,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 87
+          }
+        ],
+        "tags": [
+          "亚洲射手王"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "IRN_2006_11",
+        "name_cn": "Rasoul Khatibi",
+        "name_en": "Rasoul Khatibi",
+        "age": 24,
+        "squad_no": 11,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 78
+          },
+          {
+            "pos": "LW",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "IRN_2006_12",
+        "name_cn": "Hassan Roudbarian",
+        "name_en": "Hassan Roudbarian",
+        "age": 22,
+        "squad_no": 12,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 77
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "IRN_2006_13",
+        "name_cn": "Hossein Kaebi",
+        "name_en": "Hossein Kaebi",
+        "age": 28,
+        "squad_no": 13,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "IRN_2006_14",
+        "name_cn": "Andranik Teymourian",
+        "name_en": "Andranik Teymourian",
+        "age": 29,
+        "squad_no": 14,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "IRN_2006_15",
+        "name_cn": "Arash Borhani",
+        "name_en": "Arash Borhani",
+        "age": 30,
+        "squad_no": 15,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "IRN_2006_16",
+        "name_cn": "Reza Enayati",
+        "name_en": "Reza Enayati",
+        "age": 33,
+        "squad_no": 16,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "IRN_2006_17",
+        "name_cn": "Javad Kazemian",
+        "name_en": "Javad Kazemian",
+        "age": 30,
+        "squad_no": 17,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "IRN_2006_18",
+        "name_cn": "Moharram Navidkia",
+        "name_en": "Moharram Navidkia",
+        "age": 25,
+        "squad_no": 18,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "IRN_2006_19",
+        "name_cn": "Amir Hossein Sadeghi",
+        "name_en": "Amir Hossein Sadeghi",
+        "age": 23,
+        "squad_no": 19,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "IRN_2006_20",
+        "name_cn": "Mohammad Nosrati",
+        "name_en": "Mohammad Nosrati",
+        "age": 29,
+        "squad_no": 20,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "IRN_2006_21",
+        "name_cn": "Mehrzad Madanchi",
+        "name_en": "Mehrzad Madanchi",
+        "age": 23,
+        "squad_no": 21,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "IRN_2006_22",
+        "name_cn": "Vahid Talebloo",
+        "name_en": "Vahid Talebloo",
+        "age": 24,
+        "squad_no": 22,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "IRN_2006_23",
+        "name_cn": "Masoud Shojaei",
+        "name_en": "Masoud Shojaei",
+        "age": 23,
+        "squad_no": 23,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      }
+    ],
+    "2014": [
+      {
+        "id": "IRN_2014_01",
+        "name_cn": "Rahman Ahmadi",
+        "name_en": "Rahman Ahmadi",
+        "age": 22,
+        "squad_no": 1,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 79
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "IRN_2014_02",
+        "name_cn": "Khosro Heydari",
+        "name_en": "Khosro Heydari",
+        "age": 22,
+        "squad_no": 2,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 78
+          },
+          {
+            "pos": "RB",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "IRN_2014_03",
+        "name_cn": "Ehsan Hajsafi",
+        "name_en": "Ehsan Hajsafi",
+        "age": 25,
+        "squad_no": 3,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 78
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "IRN_2014_04",
+        "name_cn": "Jalal Hosseini",
+        "name_en": "Jalal Hosseini",
+        "age": 24,
+        "squad_no": 4,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 78
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "IRN_2014_05",
+        "name_cn": "Amir Hossein Sadeghi",
+        "name_en": "Amir Hossein Sadeghi",
+        "age": 25,
+        "squad_no": 5,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 78
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "IRN_2014_06",
+        "name_cn": "Javad Nekounam",
+        "name_en": "Javad Nekounam",
+        "age": 28,
+        "squad_no": 6,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 78
+          },
+          {
+            "pos": "DM",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "IRN_2014_07",
+        "name_cn": "Masoud Shojaei",
+        "name_en": "Masoud Shojaei",
+        "age": 27,
+        "squad_no": 7,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 78
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "IRN_2014_08",
+        "name_cn": "Reza Haghighi",
+        "name_en": "Reza Haghighi",
+        "age": 32,
+        "squad_no": 8,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 78
+          },
+          {
+            "pos": "DM",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "IRN_2014_09",
+        "name_cn": "Alireza Jahanbakhsh",
+        "name_en": "Alireza Jahanbakhsh",
+        "age": 32,
+        "squad_no": 9,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 78
+          },
+          {
+            "pos": "CAM",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "IRN_2014_10",
+        "name_cn": "Karim Ansarifard",
+        "name_en": "Karim Ansarifard",
+        "age": 32,
+        "squad_no": 10,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 78
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "IRN_2014_11",
+        "name_cn": "Ghasem Haddadifar",
+        "name_en": "Ghasem Haddadifar",
+        "age": 23,
+        "squad_no": 11,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 78
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "IRN_2014_12",
+        "name_cn": "Alireza Haghighi",
+        "name_en": "Alireza Haghighi",
+        "age": 31,
+        "squad_no": 12,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 77
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "IRN_2014_13",
+        "name_cn": "Hossein Mahini",
+        "name_en": "Hossein Mahini",
+        "age": 31,
+        "squad_no": 13,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "IRN_2014_14",
+        "name_cn": "Andranik Teymourian",
+        "name_en": "Andranik Teymourian",
+        "age": 26,
+        "squad_no": 14,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "IRN_2014_15",
+        "name_cn": "Pejman Montazeri",
+        "name_en": "Pejman Montazeri",
+        "age": 23,
+        "squad_no": 15,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "IRN_2014_16",
+        "name_cn": "Reza Ghoochannejhad",
+        "name_en": "Reza Ghoochannejhad",
+        "age": 22,
+        "squad_no": 16,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "IRN_2014_17",
+        "name_cn": "Ahmad Alenemeh",
+        "name_en": "Ahmad Alenemeh",
+        "age": 23,
+        "squad_no": 17,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "IRN_2014_18",
+        "name_cn": "Bakhtiar Rahmani",
+        "name_en": "Bakhtiar Rahmani",
+        "age": 25,
+        "squad_no": 18,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "IRN_2014_19",
+        "name_cn": "Hashem Beikzadeh",
+        "name_en": "Hashem Beikzadeh",
+        "age": 32,
+        "squad_no": 19,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "IRN_2014_20",
+        "name_cn": "Steven Beitashour",
+        "name_en": "Steven Beitashour",
+        "age": 29,
+        "squad_no": 20,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "IRN_2014_21",
+        "name_cn": "Ashkan Dejagah",
+        "name_en": "Ashkan Dejagah",
+        "age": 24,
+        "squad_no": 21,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "IRN_2014_22",
+        "name_cn": "Daniel Davari",
+        "name_en": "Daniel Davari",
+        "age": 23,
+        "squad_no": 22,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "IRN_2014_23",
+        "name_cn": "Mehrdad Pooladi",
+        "name_en": "Mehrdad Pooladi",
+        "age": 27,
+        "squad_no": 23,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      }
+    ],
+    "2018": [
+      {
+        "id": "IRN_2018_01",
+        "name_cn": "贝兰万德",
+        "name_en": "Alireza Beiranvand",
+        "age": 23,
+        "squad_no": 1,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "IRN_2018_02",
+        "name_cn": "Mehdi Torabi",
+        "name_en": "Mehdi Torabi",
+        "age": 22,
+        "squad_no": 2,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 78
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "IRN_2018_03",
+        "name_cn": "Ehsan Hajsafi",
+        "name_en": "Ehsan Hajsafi",
+        "age": 29,
+        "squad_no": 3,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 78
+          },
+          {
+            "pos": "LB",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "IRN_2018_04",
+        "name_cn": "Rouzbeh Cheshmi",
+        "name_en": "Rouzbeh Cheshmi",
+        "age": 22,
+        "squad_no": 4,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 78
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "IRN_2018_05",
+        "name_cn": "Milad Mohammadi",
+        "name_en": "Milad Mohammadi",
+        "age": 24,
+        "squad_no": 5,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 78
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "IRN_2018_06",
+        "name_cn": "Saeid Ezatolahi",
+        "name_en": "Saeid Ezatolahi",
+        "age": 31,
+        "squad_no": 6,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 78
+          },
+          {
+            "pos": "DM",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "IRN_2018_07",
+        "name_cn": "Masoud Shojaei",
+        "name_en": "Masoud Shojaei",
+        "age": 28,
+        "squad_no": 7,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 78
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "IRN_2018_08",
+        "name_cn": "Morteza Pouraliganji",
+        "name_en": "Morteza Pouraliganji",
+        "age": 33,
+        "squad_no": 8,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 78
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "IRN_2018_09",
+        "name_cn": "Omid Ebrahimi",
+        "name_en": "Omid Ebrahimi",
+        "age": 28,
+        "squad_no": 9,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 78
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "IRN_2018_10",
+        "name_cn": "Karim Ansarifard",
+        "name_en": "Karim Ansarifard",
+        "age": 29,
+        "squad_no": 10,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 78
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "IRN_2018_11",
+        "name_cn": "Vahid Amiri",
+        "name_en": "Vahid Amiri",
+        "age": 22,
+        "squad_no": 11,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 78
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "IRN_2018_12",
+        "name_cn": "Mohammad Rashid Mazaheri",
+        "name_en": "Mohammad Rashid Mazaheri",
+        "age": 28,
+        "squad_no": 12,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 77
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "IRN_2018_13",
+        "name_cn": "Mohammad Reza Khanzadeh",
+        "name_en": "Mohammad Reza Khanzadeh",
+        "age": 32,
+        "squad_no": 13,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "IRN_2018_14",
+        "name_cn": "Saman Ghoddos",
+        "name_en": "Saman Ghoddos",
+        "age": 28,
+        "squad_no": 14,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "IRN_2018_15",
+        "name_cn": "Pejman Montazeri",
+        "name_en": "Pejman Montazeri",
+        "age": 24,
+        "squad_no": 15,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "IRN_2018_16",
+        "name_cn": "Reza Ghoochannejhad",
+        "name_en": "Reza Ghoochannejhad",
+        "age": 27,
+        "squad_no": 16,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "IRN_2018_17",
+        "name_cn": "塔雷米",
+        "name_en": "Mehdi Taremi",
+        "age": 25,
+        "squad_no": 17,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 87
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "IRN_2018_18",
+        "name_cn": "贾汉巴克什",
+        "name_en": "Alireza Jahanbakhsh",
+        "age": 24,
+        "squad_no": 18,
+        "positions": [
+          {
+            "pos": "RW",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "IRN_2018_19",
+        "name_cn": "Majid Hosseini",
+        "name_en": "Majid Hosseini",
+        "age": 26,
+        "squad_no": 19,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "IRN_2018_20",
+        "name_cn": "阿兹蒙",
+        "name_en": "Sardar Azmoun",
+        "age": 26,
+        "squad_no": 20,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 85
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "IRN_2018_21",
+        "name_cn": "Ashkan Dejagah",
+        "name_en": "Ashkan Dejagah",
+        "age": 29,
+        "squad_no": 21,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "IRN_2018_22",
+        "name_cn": "Amir Abedzadeh",
+        "name_en": "Amir Abedzadeh",
+        "age": 24,
+        "squad_no": 22,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "IRN_2018_23",
+        "name_cn": "Ramin Rezaeian",
+        "name_en": "Ramin Rezaeian",
+        "age": 22,
+        "squad_no": 23,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      }
+    ],
+    "2022": [
+      {
+        "id": "IRN_2022_01",
+        "name_cn": "贝兰万德",
+        "name_en": "Alireza Beiranvand",
+        "age": 31,
+        "squad_no": 1,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "IRN_2022_02",
+        "name_cn": "Sadegh Moharrami",
+        "name_en": "Sadegh Moharrami",
+        "age": 31,
+        "squad_no": 2,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 78
+          },
+          {
+            "pos": "RB",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "IRN_2022_03",
+        "name_cn": "Ehsan Hajsafi",
+        "name_en": "Ehsan Hajsafi",
+        "age": 31,
+        "squad_no": 3,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 78
+          },
+          {
+            "pos": "LB",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "IRN_2022_04",
+        "name_cn": "Shojae Khalilzadeh",
+        "name_en": "Shojae Khalilzadeh",
+        "age": 25,
+        "squad_no": 4,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 78
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "IRN_2022_05",
+        "name_cn": "Milad Mohammadi",
+        "name_en": "Milad Mohammadi",
+        "age": 32,
+        "squad_no": 5,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 78
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "IRN_2022_06",
+        "name_cn": "Saeid Ezatolahi",
+        "name_en": "Saeid Ezatolahi",
+        "age": 26,
+        "squad_no": 6,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 78
+          },
+          {
+            "pos": "DM",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "IRN_2022_07",
+        "name_cn": "贾汉巴克什",
+        "name_en": "Alireza Jahanbakhsh",
+        "age": 29,
+        "squad_no": 7,
+        "positions": [
+          {
+            "pos": "RW",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "IRN_2022_08",
+        "name_cn": "Morteza Pouraliganji",
+        "name_en": "Morteza Pouraliganji",
+        "age": 28,
+        "squad_no": 8,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 78
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "IRN_2022_09",
+        "name_cn": "塔雷米",
+        "name_en": "Mehdi Taremi",
+        "age": 30,
+        "squad_no": 9,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 87
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "IRN_2022_10",
+        "name_cn": "Karim Ansarifard",
+        "name_en": "Karim Ansarifard",
+        "age": 29,
+        "squad_no": 10,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 78
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "IRN_2022_11",
+        "name_cn": "Vahid Amiri",
+        "name_en": "Vahid Amiri",
+        "age": 22,
+        "squad_no": 11,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 78
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "IRN_2022_12",
+        "name_cn": "Payam Niazmand",
+        "name_en": "Payam Niazmand",
+        "age": 23,
+        "squad_no": 12,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 77
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "IRN_2022_13",
+        "name_cn": "Hossein Kanaanizadegan",
+        "name_en": "Hossein Kanaanizadegan",
+        "age": 26,
+        "squad_no": 13,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "IRN_2022_14",
+        "name_cn": "Saman Ghoddos",
+        "name_en": "Saman Ghoddos",
+        "age": 28,
+        "squad_no": 14,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "IRN_2022_15",
+        "name_cn": "Rouzbeh Cheshmi",
+        "name_en": "Rouzbeh Cheshmi",
+        "age": 24,
+        "squad_no": 15,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "IRN_2022_16",
+        "name_cn": "Mehdi Torabi",
+        "name_en": "Mehdi Torabi",
+        "age": 28,
+        "squad_no": 16,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "IRN_2022_17",
+        "name_cn": "Ali Gholizadeh",
+        "name_en": "Ali Gholizadeh",
+        "age": 25,
+        "squad_no": 17,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "IRN_2022_18",
+        "name_cn": "G. Stanway",
+        "name_en": "G. Stanway",
+        "age": 32,
+        "squad_no": 18,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "IRN_2022_19",
+        "name_cn": "Majid Hosseini",
+        "name_en": "Majid Hosseini",
+        "age": 30,
+        "squad_no": 19,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "IRN_2022_20",
+        "name_cn": "阿兹蒙",
+        "name_en": "Sardar Azmoun",
+        "age": 25,
+        "squad_no": 20,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 85
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "IRN_2022_21",
+        "name_cn": "Ahmad Nourollahi",
+        "name_en": "Ahmad Nourollahi",
+        "age": 32,
+        "squad_no": 21,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "IRN_2022_22",
+        "name_cn": "Amir Abedzadeh",
+        "name_en": "Amir Abedzadeh",
+        "age": 30,
+        "squad_no": 22,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "IRN_2022_23",
+        "name_cn": "Ramin Rezaeian",
+        "name_en": "Ramin Rezaeian",
+        "age": 22,
+        "squad_no": 23,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "IRN_2022_24",
+        "name_cn": "Hossein Hosseini",
+        "name_en": "Hossein Hosseini",
+        "age": 28,
+        "squad_no": 24,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "IRN_2022_25",
+        "name_cn": "Abolfazl Jalali",
+        "name_en": "Abolfazl Jalali",
+        "age": 33,
+        "squad_no": 25,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      }
+    ],
+    "2026": [
+      {
+        "id": "IRN_2026_01",
+        "name_cn": "贝兰万德",
+        "name_en": "Alireza Beiranvand",
+        "age": 27,
+        "squad_no": 1,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "IRN_2026_02",
+        "name_cn": "Hossein Hosseini",
+        "name_en": "Hossein Hosseini",
+        "age": 29,
+        "squad_no": 2,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 81
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "IRN_2026_03",
+        "name_cn": "Payam Niazmand",
+        "name_en": "Payam Niazmand",
+        "age": 30,
+        "squad_no": 3,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 81
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "IRN_2026_04",
+        "name_cn": "Danial Eiri",
+        "name_en": "Danial Eiri",
+        "age": 29,
+        "squad_no": 4,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "IRN_2026_05",
+        "name_cn": "Ehsan Hajsafi",
+        "name_en": "Ehsan Hajsafi",
+        "age": 27,
+        "squad_no": 5,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "IRN_2026_06",
+        "name_cn": "Saleh Hardani",
+        "name_en": "Saleh Hardani",
+        "age": 31,
+        "squad_no": 6,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "IRN_2026_07",
+        "name_cn": "Hossein Kanaani",
+        "name_en": "Hossein Kanaani",
+        "age": 30,
+        "squad_no": 7,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "IRN_2026_08",
+        "name_cn": "Shoka Khalilzadeh",
+        "name_en": "Shoka Khalilzadeh",
+        "age": 27,
+        "squad_no": 8,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "IRN_2026_09",
+        "name_cn": "穆罕默迪",
+        "name_en": "Milad Mohammadi",
+        "age": 28,
+        "squad_no": 9,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "IRN_2026_10",
+        "name_cn": "Ali Nemati Omid Noorafkan",
+        "name_en": "Ali Nemati Omid Noorafkan",
+        "age": 26,
+        "squad_no": 10,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "IRN_2026_11",
+        "name_cn": "雷扎伊安",
+        "name_en": "Ramin Rezaeian",
+        "age": 24,
+        "squad_no": 11,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "IRN_2026_12",
+        "name_cn": "Rouzbeh Cheshmi",
+        "name_en": "Rouzbeh Cheshmi",
+        "age": 22,
+        "squad_no": 12,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 78
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "IRN_2026_13",
+        "name_cn": "Saeid Ezatolahi",
+        "name_en": "Saeid Ezatolahi",
+        "age": 27,
+        "squad_no": 13,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 78
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "IRN_2026_14",
+        "name_cn": "Mehdi Ghaedi",
+        "name_en": "Mehdi Ghaedi",
+        "age": 31,
+        "squad_no": 14,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 78
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "IRN_2026_15",
+        "name_cn": "Saman Ghoddos",
+        "name_en": "Saman Ghoddos",
+        "age": 25,
+        "squad_no": 15,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 78
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "IRN_2026_16",
+        "name_cn": "Mohammad Ghorbani",
+        "name_en": "Mohammad Ghorbani",
+        "age": 22,
+        "squad_no": 16,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 78
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "IRN_2026_17",
+        "name_cn": "贾汉巴克什",
+        "name_en": "Alireza Jahanbakhsh",
+        "age": 26,
+        "squad_no": 17,
+        "positions": [
+          {
+            "pos": "RW",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "IRN_2026_18",
+        "name_cn": "Mohammad Mohebi",
+        "name_en": "Mohammad Mohebi",
+        "age": 22,
+        "squad_no": 18,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 78
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "IRN_2026_19",
+        "name_cn": "Amir Mohammad Razzaghinia",
+        "name_en": "Amir Mohammad Razzaghinia",
+        "age": 29,
+        "squad_no": 19,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "IRN_2026_20",
+        "name_cn": "Mehdi Torabi",
+        "name_en": "Mehdi Torabi",
+        "age": 30,
+        "squad_no": 20,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "IRN_2026_21",
+        "name_cn": "Aria Yousefi",
+        "name_en": "Aria Yousefi",
+        "age": 27,
+        "squad_no": 21,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "IRN_2026_22",
+        "name_cn": "Ali Alipour",
+        "name_en": "Ali Alipour",
+        "age": 31,
+        "squad_no": 22,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "IRN_2026_23",
+        "name_cn": "Dennis Dargahi",
+        "name_en": "Dennis Dargahi",
+        "age": 25,
+        "squad_no": 23,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "IRN_2026_24",
+        "name_cn": "Amirhossein Hosseinzadeh",
+        "name_en": "Amirhossein Hosseinzadeh",
+        "age": 24,
+        "squad_no": 24,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "IRN_2026_25",
+        "name_cn": "Amirhossein Mahmoudi",
+        "name_en": "Amirhossein Mahmoudi",
+        "age": 23,
+        "squad_no": 25,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "IRN_2026_26",
+        "name_cn": "塔雷米",
+        "name_en": "Mehdi Taremi",
+        "age": 25,
+        "squad_no": 26,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 87
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      }
+    ]
+  }
+}

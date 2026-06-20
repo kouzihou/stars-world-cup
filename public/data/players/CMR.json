@@ -1,0 +1,2562 @@
+{
+  "country_code": "CMR",
+  "squads": {
+    "1990": [
+      {
+        "id": "CMR_1990_01",
+        "name_cn": "Joseph-Antoine Bell",
+        "name_en": "Joseph-Antoine Bell",
+        "age": 24,
+        "squad_no": 1,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 72
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CMR_1990_02",
+        "name_cn": "André Kana-Biyik",
+        "name_en": "André Kana-Biyik",
+        "age": 30,
+        "squad_no": 2,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 71
+          },
+          {
+            "pos": "RB",
+            "ovr": 68
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CMR_1990_03",
+        "name_cn": "Jules Onana",
+        "name_en": "Jules Onana",
+        "age": 29,
+        "squad_no": 3,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CMR_1990_04",
+        "name_cn": "Benjamin Massing",
+        "name_en": "Benjamin Massing",
+        "age": 29,
+        "squad_no": 4,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CMR_1990_05",
+        "name_cn": "Bertin Ebwellé",
+        "name_en": "Bertin Ebwellé",
+        "age": 24,
+        "squad_no": 5,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CMR_1990_06",
+        "name_cn": "Emmanuel Kundé",
+        "name_en": "Emmanuel Kundé",
+        "age": 23,
+        "squad_no": 6,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CMR_1990_07",
+        "name_cn": "François Omam-Biyik",
+        "name_en": "François Omam-Biyik",
+        "age": 29,
+        "squad_no": 7,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 71
+          },
+          {
+            "pos": "LW",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CMR_1990_08",
+        "name_cn": "Émile Mbouh",
+        "name_en": "Émile Mbouh",
+        "age": 27,
+        "squad_no": 8,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 71
+          },
+          {
+            "pos": "DM",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CMR_1990_09",
+        "name_cn": "米拉大叔",
+        "name_en": "Roger Milla",
+        "age": 25,
+        "squad_no": 9,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 87
+          }
+        ],
+        "tags": [
+          "传奇老将"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CMR_1990_10",
+        "name_cn": "Louis-Paul M'Fédé",
+        "name_en": "Louis-Paul M'Fédé",
+        "age": 27,
+        "squad_no": 10,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 71
+          },
+          {
+            "pos": "CAM",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CMR_1990_11",
+        "name_cn": "Eugène Ekéké",
+        "name_en": "Eugène Ekéké",
+        "age": 26,
+        "squad_no": 11,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 71
+          },
+          {
+            "pos": "LW",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CMR_1990_12",
+        "name_cn": "Alphonse Yombi",
+        "name_en": "Alphonse Yombi",
+        "age": 22,
+        "squad_no": 12,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CMR_1990_13",
+        "name_cn": "Jean-Claude Pagal",
+        "name_en": "Jean-Claude Pagal",
+        "age": 30,
+        "squad_no": 13,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CMR_1990_14",
+        "name_cn": "Stephen Tataw",
+        "name_en": "Stephen Tataw",
+        "age": 25,
+        "squad_no": 14,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CMR_1990_15",
+        "name_cn": "Thomas Libiih",
+        "name_en": "Thomas Libiih",
+        "age": 30,
+        "squad_no": 15,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CMR_1990_16",
+        "name_cn": "Thomas N'Kono",
+        "name_en": "Thomas N'Kono",
+        "age": 32,
+        "squad_no": 16,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CMR_1990_17",
+        "name_cn": "Victor N'Dip",
+        "name_en": "Victor N'Dip",
+        "age": 28,
+        "squad_no": 17,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 67
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CMR_1990_18",
+        "name_cn": "Bonaventure Djonkep",
+        "name_en": "Bonaventure Djonkep",
+        "age": 28,
+        "squad_no": 18,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 67
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CMR_1990_19",
+        "name_cn": "Roger Feutmba",
+        "name_en": "Roger Feutmba",
+        "age": 25,
+        "squad_no": 19,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 67
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CMR_1990_20",
+        "name_cn": "Cyrille Makanaky",
+        "name_en": "Cyrille Makanaky",
+        "age": 23,
+        "squad_no": 20,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 67
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CMR_1990_21",
+        "name_cn": "Emmanuel Maboang",
+        "name_en": "Emmanuel Maboang",
+        "age": 29,
+        "squad_no": 21,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 67
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CMR_1990_22",
+        "name_cn": "Jacques Songo'o",
+        "name_en": "Jacques Songo'o",
+        "age": 29,
+        "squad_no": 22,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 68
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      }
+    ],
+    "1994": [
+      {
+        "id": "CMR_1994_01",
+        "name_cn": "Joseph-Antoine Bell",
+        "name_en": "Joseph-Antoine Bell",
+        "age": 31,
+        "squad_no": 1,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CMR_1994_02",
+        "name_cn": "André Kana-Biyik",
+        "name_en": "André Kana-Biyik",
+        "age": 29,
+        "squad_no": 2,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 72
+          },
+          {
+            "pos": "RB",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CMR_1994_03",
+        "name_cn": "里戈贝尔·宋",
+        "name_en": "Rigobert Song",
+        "age": 23,
+        "squad_no": 3,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 72
+          },
+          {
+            "pos": "LB",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CMR_1994_04",
+        "name_cn": "Samuel Ekemé",
+        "name_en": "Samuel Ekemé",
+        "age": 29,
+        "squad_no": 4,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 72
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CMR_1994_05",
+        "name_cn": "Victor N'Dip",
+        "name_en": "Victor N'Dip",
+        "age": 29,
+        "squad_no": 5,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 72
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CMR_1994_06",
+        "name_cn": "Thomas Libiih",
+        "name_en": "Thomas Libiih",
+        "age": 27,
+        "squad_no": 6,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 72
+          },
+          {
+            "pos": "DM",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CMR_1994_07",
+        "name_cn": "François Omam-Biyik",
+        "name_en": "François Omam-Biyik",
+        "age": 23,
+        "squad_no": 7,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 72
+          },
+          {
+            "pos": "LW",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CMR_1994_08",
+        "name_cn": "Émile Mbouh",
+        "name_en": "Émile Mbouh",
+        "age": 29,
+        "squad_no": 8,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 72
+          },
+          {
+            "pos": "DM",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CMR_1994_09",
+        "name_cn": "米拉大叔",
+        "name_en": "Roger Milla",
+        "age": 33,
+        "squad_no": 9,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 87
+          }
+        ],
+        "tags": [
+          "传奇老将"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CMR_1994_10",
+        "name_cn": "Louis-Paul M'Fédé",
+        "name_en": "Louis-Paul M'Fédé",
+        "age": 32,
+        "squad_no": 10,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 72
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CMR_1994_11",
+        "name_cn": "Emmanuel Maboang",
+        "name_en": "Emmanuel Maboang",
+        "age": 22,
+        "squad_no": 11,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 72
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CMR_1994_12",
+        "name_cn": "Paul Loga",
+        "name_en": "Paul Loga",
+        "age": 23,
+        "squad_no": 12,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CMR_1994_13",
+        "name_cn": "Raymond Kalla",
+        "name_en": "Raymond Kalla",
+        "age": 28,
+        "squad_no": 13,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CMR_1994_14",
+        "name_cn": "Stephen Tataw",
+        "name_en": "Stephen Tataw",
+        "age": 28,
+        "squad_no": 14,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CMR_1994_15",
+        "name_cn": "Hans Agbo",
+        "name_en": "Hans Agbo",
+        "age": 22,
+        "squad_no": 15,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CMR_1994_16",
+        "name_cn": "Alphonse Tchami",
+        "name_en": "Alphonse Tchami",
+        "age": 30,
+        "squad_no": 16,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CMR_1994_17",
+        "name_cn": "Marc-Vivien Foé",
+        "name_en": "Marc-Vivien Foé",
+        "age": 30,
+        "squad_no": 17,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 68
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CMR_1994_18",
+        "name_cn": "Jean-Pierre Fiala",
+        "name_en": "Jean-Pierre Fiala",
+        "age": 22,
+        "squad_no": 18,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 68
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CMR_1994_19",
+        "name_cn": "David Embé",
+        "name_en": "David Embé",
+        "age": 23,
+        "squad_no": 19,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 68
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CMR_1994_20",
+        "name_cn": "Georges Mouyémé",
+        "name_en": "Georges Mouyémé",
+        "age": 31,
+        "squad_no": 20,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 68
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CMR_1994_21",
+        "name_cn": "Thomas N'Kono",
+        "name_en": "Thomas N'Kono",
+        "age": 31,
+        "squad_no": 21,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CMR_1994_22",
+        "name_cn": "Jacques Songo'o",
+        "name_en": "Jacques Songo'o",
+        "age": 32,
+        "squad_no": 22,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      }
+    ],
+    "1998": [
+      {
+        "id": "CMR_1998_01",
+        "name_cn": "Jacques Songo'o",
+        "name_en": "Jacques Songo'o",
+        "age": 26,
+        "squad_no": 1,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CMR_1998_02",
+        "name_cn": "Joseph Elanga",
+        "name_en": "Joseph Elanga",
+        "age": 30,
+        "squad_no": 2,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 72
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CMR_1998_03",
+        "name_cn": "Pierre Womé",
+        "name_en": "Pierre Womé",
+        "age": 30,
+        "squad_no": 3,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 72
+          },
+          {
+            "pos": "LB",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CMR_1998_04",
+        "name_cn": "里戈贝尔·宋",
+        "name_en": "Rigobert Song",
+        "age": 25,
+        "squad_no": 4,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 72
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CMR_1998_05",
+        "name_cn": "Raymond Kalla",
+        "name_en": "Raymond Kalla",
+        "age": 32,
+        "squad_no": 5,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 72
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CMR_1998_06",
+        "name_cn": "Pierre Njanka",
+        "name_en": "Pierre Njanka",
+        "age": 32,
+        "squad_no": 6,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 72
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CMR_1998_07",
+        "name_cn": "François Omam-Biyik",
+        "name_en": "François Omam-Biyik",
+        "age": 29,
+        "squad_no": 7,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 72
+          },
+          {
+            "pos": "LW",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CMR_1998_08",
+        "name_cn": "Didier Angibeaud",
+        "name_en": "Didier Angibeaud",
+        "age": 27,
+        "squad_no": 8,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 72
+          },
+          {
+            "pos": "DM",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CMR_1998_09",
+        "name_cn": "Alphonse Tchami",
+        "name_en": "Alphonse Tchami",
+        "age": 27,
+        "squad_no": 9,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 72
+          },
+          {
+            "pos": "CAM",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CMR_1998_10",
+        "name_cn": "姆博马",
+        "name_en": "Patrick M'Boma",
+        "age": 22,
+        "squad_no": 10,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 87
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CMR_1998_11",
+        "name_cn": "埃托奥",
+        "name_en": "Samuel Eto'o",
+        "age": 25,
+        "squad_no": 11,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 92
+          }
+        ],
+        "tags": [
+          "非洲足球先生"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CMR_1998_12",
+        "name_cn": "Lauren",
+        "name_en": "Lauren",
+        "age": 29,
+        "squad_no": 12,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CMR_1998_13",
+        "name_cn": "Patrice Abanda",
+        "name_en": "Patrice Abanda",
+        "age": 27,
+        "squad_no": 13,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CMR_1998_14",
+        "name_cn": "Augustine Simo",
+        "name_en": "Augustine Simo",
+        "age": 30,
+        "squad_no": 14,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CMR_1998_15",
+        "name_cn": "Joseph N'Do",
+        "name_en": "Joseph N'Do",
+        "age": 31,
+        "squad_no": 15,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CMR_1998_16",
+        "name_cn": "William Andem",
+        "name_en": "William Andem",
+        "age": 31,
+        "squad_no": 16,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CMR_1998_17",
+        "name_cn": "Michel Pensée",
+        "name_en": "Michel Pensée",
+        "age": 29,
+        "squad_no": 17,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 68
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CMR_1998_18",
+        "name_cn": "Samuel Ipoua",
+        "name_en": "Samuel Ipoua",
+        "age": 33,
+        "squad_no": 18,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 68
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CMR_1998_19",
+        "name_cn": "Marcel Mahouvé",
+        "name_en": "Marcel Mahouvé",
+        "age": 32,
+        "squad_no": 19,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 68
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CMR_1998_20",
+        "name_cn": "Salomon Olembé",
+        "name_en": "Salomon Olembé",
+        "age": 27,
+        "squad_no": 20,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 68
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CMR_1998_21",
+        "name_cn": "Joseph-Désiré Job",
+        "name_en": "Joseph-Désiré Job",
+        "age": 33,
+        "squad_no": 21,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 68
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CMR_1998_22",
+        "name_cn": "Alioum Boukar",
+        "name_en": "Alioum Boukar",
+        "age": 29,
+        "squad_no": 22,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      }
+    ],
+    "2002": [
+      {
+        "id": "CMR_2002_01",
+        "name_cn": "Alioum Boukar",
+        "name_en": "Alioum Boukar",
+        "age": 23,
+        "squad_no": 1,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CMR_2002_02",
+        "name_cn": "Bill Tchato",
+        "name_en": "Bill Tchato",
+        "age": 23,
+        "squad_no": 2,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          },
+          {
+            "pos": "RB",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CMR_2002_03",
+        "name_cn": "Pierre Womé",
+        "name_en": "Pierre Womé",
+        "age": 32,
+        "squad_no": 3,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          },
+          {
+            "pos": "LB",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CMR_2002_04",
+        "name_cn": "里戈贝尔·宋",
+        "name_en": "Rigobert Song",
+        "age": 25,
+        "squad_no": 4,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CMR_2002_05",
+        "name_cn": "Raymond Kalla",
+        "name_en": "Raymond Kalla",
+        "age": 22,
+        "squad_no": 5,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CMR_2002_06",
+        "name_cn": "Pierre Njanka",
+        "name_en": "Pierre Njanka",
+        "age": 27,
+        "squad_no": 6,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CMR_2002_07",
+        "name_cn": "Joseph N'Do",
+        "name_en": "Joseph N'Do",
+        "age": 27,
+        "squad_no": 7,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CMR_2002_08",
+        "name_cn": "Geremi",
+        "name_en": "Geremi",
+        "age": 32,
+        "squad_no": 8,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CMR_2002_09",
+        "name_cn": "埃托奥",
+        "name_en": "Samuel Eto'o",
+        "age": 26,
+        "squad_no": 9,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 92
+          }
+        ],
+        "tags": [
+          "非洲足球先生"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CMR_2002_10",
+        "name_cn": "姆博马",
+        "name_en": "Patrick M'Boma",
+        "age": 30,
+        "squad_no": 10,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 87
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CMR_2002_11",
+        "name_cn": "Pius Ndiefi",
+        "name_en": "Pius Ndiefi",
+        "age": 30,
+        "squad_no": 11,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 73
+          },
+          {
+            "pos": "LW",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CMR_2002_12",
+        "name_cn": "Lauren",
+        "name_en": "Lauren",
+        "age": 27,
+        "squad_no": 12,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CMR_2002_13",
+        "name_cn": "Lucien Mettomo",
+        "name_en": "Lucien Mettomo",
+        "age": 33,
+        "squad_no": 13,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CMR_2002_14",
+        "name_cn": "Joël Epalle",
+        "name_en": "Joël Epalle",
+        "age": 23,
+        "squad_no": 14,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CMR_2002_15",
+        "name_cn": "Nicolas Alnoudji",
+        "name_en": "Nicolas Alnoudji",
+        "age": 22,
+        "squad_no": 15,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CMR_2002_16",
+        "name_cn": "Jacques Songo'o",
+        "name_en": "Jacques Songo'o",
+        "age": 24,
+        "squad_no": 16,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 72
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CMR_2002_17",
+        "name_cn": "Marc-Vivien Foé",
+        "name_en": "Marc-Vivien Foé",
+        "age": 29,
+        "squad_no": 17,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CMR_2002_18",
+        "name_cn": "Patrick Suffo",
+        "name_en": "Patrick Suffo",
+        "age": 24,
+        "squad_no": 18,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CMR_2002_19",
+        "name_cn": "Eric Djemba-Djemba",
+        "name_en": "Eric Djemba-Djemba",
+        "age": 33,
+        "squad_no": 19,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CMR_2002_20",
+        "name_cn": "Salomon Olembé",
+        "name_en": "Salomon Olembé",
+        "age": 33,
+        "squad_no": 20,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CMR_2002_21",
+        "name_cn": "Joseph-Désiré Job",
+        "name_en": "Joseph-Désiré Job",
+        "age": 33,
+        "squad_no": 21,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CMR_2002_22",
+        "name_cn": "Carlos Kameni",
+        "name_en": "Carlos Kameni",
+        "age": 28,
+        "squad_no": 22,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CMR_2002_23",
+        "name_cn": "Daniel Kome",
+        "name_en": "Daniel Kome",
+        "age": 23,
+        "squad_no": 23,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 68
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      }
+    ],
+    "2010": [
+      {
+        "id": "CMR_2010_01",
+        "name_cn": "Carlos Kameni",
+        "name_en": "Carlos Kameni",
+        "age": 26,
+        "squad_no": 1,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CMR_2010_02",
+        "name_cn": "Benoît Assou-Ekotto",
+        "name_en": "Benoît Assou-Ekotto",
+        "age": 31,
+        "squad_no": 2,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          },
+          {
+            "pos": "RB",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CMR_2010_03",
+        "name_cn": "Nicolas Nkoulou",
+        "name_en": "Nicolas Nkoulou",
+        "age": 25,
+        "squad_no": 3,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          },
+          {
+            "pos": "LB",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CMR_2010_04",
+        "name_cn": "里戈贝尔·宋",
+        "name_en": "Rigobert Song",
+        "age": 25,
+        "squad_no": 4,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CMR_2010_05",
+        "name_cn": "Sébastien Bassong",
+        "name_en": "Sébastien Bassong",
+        "age": 23,
+        "squad_no": 5,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CMR_2010_06",
+        "name_cn": "Alex Song",
+        "name_en": "Alex Song",
+        "age": 28,
+        "squad_no": 6,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          },
+          {
+            "pos": "DM",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CMR_2010_07",
+        "name_cn": "Landry N'Guémo",
+        "name_en": "Landry N'Guémo",
+        "age": 25,
+        "squad_no": 7,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CMR_2010_08",
+        "name_cn": "Geremi",
+        "name_en": "Geremi",
+        "age": 29,
+        "squad_no": 8,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CMR_2010_09",
+        "name_cn": "埃托奥",
+        "name_en": "Samuel Eto'o",
+        "age": 25,
+        "squad_no": 9,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 92
+          }
+        ],
+        "tags": [
+          "非洲足球先生"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CMR_2010_10",
+        "name_cn": "Achille Emaná",
+        "name_en": "Achille Emaná",
+        "age": 33,
+        "squad_no": 10,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          },
+          {
+            "pos": "CAM",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CMR_2010_11",
+        "name_cn": "Jean Makoun",
+        "name_en": "Jean Makoun",
+        "age": 27,
+        "squad_no": 11,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CMR_2010_12",
+        "name_cn": "Gaëtan Bong",
+        "name_en": "Gaëtan Bong",
+        "age": 23,
+        "squad_no": 12,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CMR_2010_13",
+        "name_cn": "Eric Maxim Choupo-Moting",
+        "name_en": "Eric Maxim Choupo-Moting",
+        "age": 28,
+        "squad_no": 13,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CMR_2010_14",
+        "name_cn": "Aurélien Chedjou",
+        "name_en": "Aurélien Chedjou",
+        "age": 22,
+        "squad_no": 14,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CMR_2010_15",
+        "name_cn": "Pierre Webó",
+        "name_en": "Pierre Webó",
+        "age": 32,
+        "squad_no": 15,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CMR_2010_16",
+        "name_cn": "Souleymanou Hamidou",
+        "name_en": "Souleymanou Hamidou",
+        "age": 32,
+        "squad_no": 16,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 72
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CMR_2010_17",
+        "name_cn": "Mohammadou Idrissou",
+        "name_en": "Mohammadou Idrissou",
+        "age": 31,
+        "squad_no": 17,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CMR_2010_18",
+        "name_cn": "Eyong Enoh",
+        "name_en": "Eyong Enoh",
+        "age": 23,
+        "squad_no": 18,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CMR_2010_19",
+        "name_cn": "姆比亚",
+        "name_en": "Stéphane Mbia",
+        "age": 29,
+        "squad_no": 19,
+        "positions": [
+          {
+            "pos": "DM",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CMR_2010_20",
+        "name_cn": "Georges Mandjeck",
+        "name_en": "Georges Mandjeck",
+        "age": 29,
+        "squad_no": 20,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CMR_2010_21",
+        "name_cn": "Joël Matip",
+        "name_en": "Joël Matip",
+        "age": 32,
+        "squad_no": 21,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CMR_2010_22",
+        "name_cn": "Guy N'dy Assembé",
+        "name_en": "Guy N'dy Assembé",
+        "age": 31,
+        "squad_no": 22,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CMR_2010_23",
+        "name_cn": "Vincent Aboubakar",
+        "name_en": "Vincent Aboubakar",
+        "age": 30,
+        "squad_no": 23,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 68
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      }
+    ],
+    "2014": [
+      {
+        "id": "CMR_2014_01",
+        "name_cn": "Loïc Feudjou",
+        "name_en": "Loïc Feudjou",
+        "age": 24,
+        "squad_no": 1,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CMR_2014_02",
+        "name_cn": "Benoît Assou-Ekotto",
+        "name_en": "Benoît Assou-Ekotto",
+        "age": 29,
+        "squad_no": 2,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          },
+          {
+            "pos": "RB",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CMR_2014_03",
+        "name_cn": "Nicolas Nkoulou",
+        "name_en": "Nicolas Nkoulou",
+        "age": 22,
+        "squad_no": 3,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          },
+          {
+            "pos": "LB",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CMR_2014_04",
+        "name_cn": "Cédric Djeugoué",
+        "name_en": "Cédric Djeugoué",
+        "age": 30,
+        "squad_no": 4,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CMR_2014_05",
+        "name_cn": "Dany Nounkeu",
+        "name_en": "Dany Nounkeu",
+        "age": 33,
+        "squad_no": 5,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CMR_2014_06",
+        "name_cn": "Alex Song",
+        "name_en": "Alex Song",
+        "age": 22,
+        "squad_no": 6,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          },
+          {
+            "pos": "DM",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CMR_2014_07",
+        "name_cn": "Landry N'Guémo",
+        "name_en": "Landry N'Guémo",
+        "age": 30,
+        "squad_no": 7,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CMR_2014_08",
+        "name_cn": "Benjamin Moukandjo",
+        "name_en": "Benjamin Moukandjo",
+        "age": 28,
+        "squad_no": 8,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CMR_2014_09",
+        "name_cn": "埃托奥",
+        "name_en": "Samuel Eto'o",
+        "age": 31,
+        "squad_no": 9,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 92
+          }
+        ],
+        "tags": [
+          "非洲足球先生"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CMR_2014_10",
+        "name_cn": "Vincent Aboubakar",
+        "name_en": "Vincent Aboubakar",
+        "age": 29,
+        "squad_no": 10,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CMR_2014_11",
+        "name_cn": "Jean Makoun",
+        "name_en": "Jean Makoun",
+        "age": 30,
+        "squad_no": 11,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CMR_2014_12",
+        "name_cn": "Henri Bedimo",
+        "name_en": "Henri Bedimo",
+        "age": 24,
+        "squad_no": 12,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CMR_2014_13",
+        "name_cn": "Eric Maxim Choupo-Moting",
+        "name_en": "Eric Maxim Choupo-Moting",
+        "age": 33,
+        "squad_no": 13,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CMR_2014_14",
+        "name_cn": "Aurélien Chedjou",
+        "name_en": "Aurélien Chedjou",
+        "age": 31,
+        "squad_no": 14,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CMR_2014_15",
+        "name_cn": "Pierre Webó",
+        "name_en": "Pierre Webó",
+        "age": 24,
+        "squad_no": 15,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CMR_2014_16",
+        "name_cn": "Charles Itandje",
+        "name_en": "Charles Itandje",
+        "age": 33,
+        "squad_no": 16,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 72
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CMR_2014_17",
+        "name_cn": "姆比亚",
+        "name_en": "Stéphane Mbia",
+        "age": 24,
+        "squad_no": 17,
+        "positions": [
+          {
+            "pos": "DM",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CMR_2014_18",
+        "name_cn": "Eyong Enoh",
+        "name_en": "Eyong Enoh",
+        "age": 23,
+        "squad_no": 18,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CMR_2014_19",
+        "name_cn": "Fabrice Olinga",
+        "name_en": "Fabrice Olinga",
+        "age": 28,
+        "squad_no": 19,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CMR_2014_20",
+        "name_cn": "Edgar Salli",
+        "name_en": "Edgar Salli",
+        "age": 32,
+        "squad_no": 20,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CMR_2014_21",
+        "name_cn": "Joël Matip",
+        "name_en": "Joël Matip",
+        "age": 31,
+        "squad_no": 21,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CMR_2014_22",
+        "name_cn": "Allan Nyom",
+        "name_en": "Allan Nyom",
+        "age": 31,
+        "squad_no": 22,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CMR_2014_23",
+        "name_cn": "Sammy Ndjock",
+        "name_en": "Sammy Ndjock",
+        "age": 27,
+        "squad_no": 23,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      }
+    ],
+    "2022": [
+      {
+        "id": "CMR_2022_01",
+        "name_cn": "Simon Ngapandouetnbu",
+        "name_en": "Simon Ngapandouetnbu",
+        "age": 30,
+        "squad_no": 1,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CMR_2022_02",
+        "name_cn": "Jerome Ngom Mbekeli",
+        "name_en": "Jerome Ngom Mbekeli",
+        "age": 28,
+        "squad_no": 2,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          },
+          {
+            "pos": "RB",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CMR_2022_03",
+        "name_cn": "Nicolas Nkoulou",
+        "name_en": "Nicolas Nkoulou",
+        "age": 28,
+        "squad_no": 3,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          },
+          {
+            "pos": "LB",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CMR_2022_04",
+        "name_cn": "Christopher Wooh",
+        "name_en": "Christopher Wooh",
+        "age": 31,
+        "squad_no": 4,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CMR_2022_05",
+        "name_cn": "Gaël Ondoua",
+        "name_en": "Gaël Ondoua",
+        "age": 33,
+        "squad_no": 5,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CMR_2022_06",
+        "name_cn": "Moumi Ngamaleu",
+        "name_en": "Moumi Ngamaleu",
+        "age": 25,
+        "squad_no": 6,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CMR_2022_07",
+        "name_cn": "Georges-Kévin Nkoudou",
+        "name_en": "Georges-Kévin Nkoudou",
+        "age": 26,
+        "squad_no": 7,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CMR_2022_08",
+        "name_cn": "André-Frank Zambo Anguissa",
+        "name_en": "André-Frank Zambo Anguissa",
+        "age": 28,
+        "squad_no": 8,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          },
+          {
+            "pos": "DM",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CMR_2022_09",
+        "name_cn": "Jean-Pierre Nsame",
+        "name_en": "Jean-Pierre Nsame",
+        "age": 27,
+        "squad_no": 9,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 73
+          },
+          {
+            "pos": "CAM",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CMR_2022_10",
+        "name_cn": "阿布巴卡尔",
+        "name_en": "Vincent Aboubakar",
+        "age": 26,
+        "squad_no": 10,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CMR_2022_11",
+        "name_cn": "Christian Bassogog",
+        "name_en": "Christian Bassogog",
+        "age": 29,
+        "squad_no": 11,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 73
+          },
+          {
+            "pos": "LW",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CMR_2022_12",
+        "name_cn": "Karl Toko Ekambi",
+        "name_en": "Karl Toko Ekambi",
+        "age": 24,
+        "squad_no": 12,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CMR_2022_13",
+        "name_cn": "Eric Maxim Choupo-Moting",
+        "name_en": "Eric Maxim Choupo-Moting",
+        "age": 24,
+        "squad_no": 13,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CMR_2022_14",
+        "name_cn": "Samuel Gouet",
+        "name_en": "Samuel Gouet",
+        "age": 28,
+        "squad_no": 14,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CMR_2022_15",
+        "name_cn": "Pierre Kunde",
+        "name_en": "Pierre Kunde",
+        "age": 31,
+        "squad_no": 15,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CMR_2022_16",
+        "name_cn": "Devis Epassy",
+        "name_en": "Devis Epassy",
+        "age": 33,
+        "squad_no": 16,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 72
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CMR_2022_17",
+        "name_cn": "Olivier Mbaizo",
+        "name_en": "Olivier Mbaizo",
+        "age": 33,
+        "squad_no": 17,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CMR_2022_18",
+        "name_cn": "Martin Hongla",
+        "name_en": "Martin Hongla",
+        "age": 30,
+        "squad_no": 18,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CMR_2022_19",
+        "name_cn": "Collins Fai",
+        "name_en": "Collins Fai",
+        "age": 26,
+        "squad_no": 19,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CMR_2022_20",
+        "name_cn": "Bryan Mbeumo",
+        "name_en": "Bryan Mbeumo",
+        "age": 33,
+        "squad_no": 20,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CMR_2022_21",
+        "name_cn": "Jean-Charles Castelletto",
+        "name_en": "Jean-Charles Castelletto",
+        "age": 30,
+        "squad_no": 21,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CMR_2022_22",
+        "name_cn": "Olivier Ntcham",
+        "name_en": "Olivier Ntcham",
+        "age": 27,
+        "squad_no": 22,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CMR_2022_23",
+        "name_cn": "奥纳纳",
+        "name_en": "André Onana",
+        "age": 33,
+        "squad_no": 23,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 87
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CMR_2022_24",
+        "name_cn": "Enzo Ebosse",
+        "name_en": "Enzo Ebosse",
+        "age": 33,
+        "squad_no": 24,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 68
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CMR_2022_25",
+        "name_cn": "Nouhou Tolo",
+        "name_en": "Nouhou Tolo",
+        "age": 30,
+        "squad_no": 25,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 68
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CMR_2022_26",
+        "name_cn": "Souaibou Marou",
+        "name_en": "Souaibou Marou",
+        "age": 32,
+        "squad_no": 26,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 68
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      }
+    ]
+  }
+}

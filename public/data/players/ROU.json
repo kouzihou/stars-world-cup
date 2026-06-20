@@ -1,0 +1,1064 @@
+{
+  "country_code": "ROU",
+  "squads": {
+    "1990": [
+      {
+        "id": "ROU_1990_01",
+        "name_cn": "Silviu Lung",
+        "name_en": "Silviu Lung",
+        "age": 31,
+        "squad_no": 1,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 68
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ROU_1990_02",
+        "name_cn": "Mircea Rednic",
+        "name_en": "Mircea Rednic",
+        "age": 24,
+        "squad_no": 2,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 67
+          },
+          {
+            "pos": "RB",
+            "ovr": 64
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ROU_1990_03",
+        "name_cn": "Michael Klein",
+        "name_en": "Michael Klein",
+        "age": 23,
+        "squad_no": 3,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 67
+          },
+          {
+            "pos": "LB",
+            "ovr": 64
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ROU_1990_04",
+        "name_cn": "Ioan Andone",
+        "name_en": "Ioan Andone",
+        "age": 22,
+        "squad_no": 4,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 67
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ROU_1990_05",
+        "name_cn": "Iosif Rotariu",
+        "name_en": "Iosif Rotariu",
+        "age": 29,
+        "squad_no": 5,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 67
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ROU_1990_06",
+        "name_cn": "Gheorghe Popescu",
+        "name_en": "Gheorghe Popescu",
+        "age": 27,
+        "squad_no": 6,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 67
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ROU_1990_07",
+        "name_cn": "Marius Lăcătuș",
+        "name_en": "Marius Lăcătuș",
+        "age": 24,
+        "squad_no": 7,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 67
+          },
+          {
+            "pos": "LW",
+            "ovr": 65
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ROU_1990_08",
+        "name_cn": "Ioan Sabău",
+        "name_en": "Ioan Sabău",
+        "age": 24,
+        "squad_no": 8,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 67
+          },
+          {
+            "pos": "DM",
+            "ovr": 65
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ROU_1990_09",
+        "name_cn": "Rodion Cămătaru",
+        "name_en": "Rodion Cămătaru",
+        "age": 26,
+        "squad_no": 9,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 67
+          },
+          {
+            "pos": "CAM",
+            "ovr": 64
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ROU_1990_10",
+        "name_cn": "哈吉",
+        "name_en": "Gheorghe Hagi",
+        "age": 27,
+        "squad_no": 10,
+        "positions": [
+          {
+            "pos": "CAM",
+            "ovr": 94
+          },
+          {
+            "pos": "CAM",
+            "ovr": 90
+          }
+        ],
+        "tags": [
+          "喀尔巴阡马拉多纳"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ROU_1990_11",
+        "name_cn": "Dănuț Lupu",
+        "name_en": "Dănuț Lupu",
+        "age": 31,
+        "squad_no": 11,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 67
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ROU_1990_12",
+        "name_cn": "Bogdan Stelea",
+        "name_en": "Bogdan Stelea",
+        "age": 25,
+        "squad_no": 12,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 66
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ROU_1990_13",
+        "name_cn": "Adrian Popescu",
+        "name_en": "Adrian Popescu",
+        "age": 25,
+        "squad_no": 13,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 65
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ROU_1990_14",
+        "name_cn": "拉杜乔尤",
+        "name_en": "Florin Răducioiu",
+        "age": 26,
+        "squad_no": 14,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ROU_1990_15",
+        "name_cn": "Dorin Mateuț",
+        "name_en": "Dorin Mateuț",
+        "age": 26,
+        "squad_no": 15,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 65
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ROU_1990_16",
+        "name_cn": "Daniel Timofte",
+        "name_en": "Daniel Timofte",
+        "age": 23,
+        "squad_no": 16,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 65
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ROU_1990_17",
+        "name_cn": "Ilie Dumitrescu",
+        "name_en": "Ilie Dumitrescu",
+        "age": 31,
+        "squad_no": 17,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 63
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ROU_1990_18",
+        "name_cn": "Gabi Balint",
+        "name_en": "Gabi Balint",
+        "age": 28,
+        "squad_no": 18,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 63
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ROU_1990_19",
+        "name_cn": "Emil Săndoi",
+        "name_en": "Emil Săndoi",
+        "age": 31,
+        "squad_no": 19,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 63
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ROU_1990_20",
+        "name_cn": "Zsolt Muzsnay",
+        "name_en": "Zsolt Muzsnay",
+        "age": 25,
+        "squad_no": 20,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 63
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ROU_1990_21",
+        "name_cn": "Ioan Lupescu",
+        "name_en": "Ioan Lupescu",
+        "age": 33,
+        "squad_no": 21,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 63
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ROU_1990_22",
+        "name_cn": "Gheorghe Liliac",
+        "name_en": "Gheorghe Liliac",
+        "age": 23,
+        "squad_no": 22,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 64
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      }
+    ],
+    "1994": [
+      {
+        "id": "ROU_1994_01",
+        "name_cn": "Florin Prunea",
+        "name_en": "Florin Prunea",
+        "age": 33,
+        "squad_no": 1,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ROU_1994_02",
+        "name_cn": "Dan Petrescu",
+        "name_en": "Dan Petrescu",
+        "age": 27,
+        "squad_no": 2,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 68
+          },
+          {
+            "pos": "RB",
+            "ovr": 65
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ROU_1994_03",
+        "name_cn": "Daniel Prodan",
+        "name_en": "Daniel Prodan",
+        "age": 29,
+        "squad_no": 3,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 68
+          },
+          {
+            "pos": "LB",
+            "ovr": 65
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ROU_1994_04",
+        "name_cn": "Miodrag Belodedici",
+        "name_en": "Miodrag Belodedici",
+        "age": 24,
+        "squad_no": 4,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 68
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ROU_1994_05",
+        "name_cn": "Ioan Lupescu",
+        "name_en": "Ioan Lupescu",
+        "age": 29,
+        "squad_no": 5,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 68
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ROU_1994_06",
+        "name_cn": "波佩斯库",
+        "name_en": "Gheorghe Popescu",
+        "age": 33,
+        "squad_no": 6,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 87
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ROU_1994_07",
+        "name_cn": "Dorinel Munteanu",
+        "name_en": "Dorinel Munteanu",
+        "age": 33,
+        "squad_no": 7,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 68
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ROU_1994_08",
+        "name_cn": "Iulian Chiriță",
+        "name_en": "Iulian Chiriță",
+        "age": 31,
+        "squad_no": 8,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 68
+          },
+          {
+            "pos": "DM",
+            "ovr": 66
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ROU_1994_09",
+        "name_cn": "拉杜乔尤",
+        "name_en": "Florin Răducioiu",
+        "age": 23,
+        "squad_no": 9,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ROU_1994_10",
+        "name_cn": "哈吉",
+        "name_en": "Gheorghe Hagi",
+        "age": 31,
+        "squad_no": 10,
+        "positions": [
+          {
+            "pos": "CAM",
+            "ovr": 94
+          },
+          {
+            "pos": "CAM",
+            "ovr": 90
+          }
+        ],
+        "tags": [
+          "喀尔巴阡马拉多纳"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ROU_1994_11",
+        "name_cn": "Ilie Dumitrescu",
+        "name_en": "Ilie Dumitrescu",
+        "age": 32,
+        "squad_no": 11,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 68
+          },
+          {
+            "pos": "LW",
+            "ovr": 66
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ROU_1994_12",
+        "name_cn": "Bogdan Stelea",
+        "name_en": "Bogdan Stelea",
+        "age": 26,
+        "squad_no": 12,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 67
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ROU_1994_13",
+        "name_cn": "Tibor Selymes",
+        "name_en": "Tibor Selymes",
+        "age": 22,
+        "squad_no": 13,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 66
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ROU_1994_14",
+        "name_cn": "Gheorghe Mihali",
+        "name_en": "Gheorghe Mihali",
+        "age": 33,
+        "squad_no": 14,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 66
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ROU_1994_15",
+        "name_cn": "Basarab Panduru",
+        "name_en": "Basarab Panduru",
+        "age": 31,
+        "squad_no": 15,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 66
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ROU_1994_16",
+        "name_cn": "Ion Vlădoiu",
+        "name_en": "Ion Vlădoiu",
+        "age": 28,
+        "squad_no": 16,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 66
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ROU_1994_17",
+        "name_cn": "Viorel Moldovan",
+        "name_en": "Viorel Moldovan",
+        "age": 23,
+        "squad_no": 17,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 64
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ROU_1994_18",
+        "name_cn": "Constantin Gâlcă",
+        "name_en": "Constantin Gâlcă",
+        "age": 22,
+        "squad_no": 18,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 64
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ROU_1994_19",
+        "name_cn": "Corneliu Papură",
+        "name_en": "Corneliu Papură",
+        "age": 27,
+        "squad_no": 19,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 64
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ROU_1994_20",
+        "name_cn": "Ovidiu Stîngă",
+        "name_en": "Ovidiu Stîngă",
+        "age": 27,
+        "squad_no": 20,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 64
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ROU_1994_21",
+        "name_cn": "Marian Ivan",
+        "name_en": "Marian Ivan",
+        "age": 28,
+        "squad_no": 21,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 64
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ROU_1994_22",
+        "name_cn": "Ștefan Preda",
+        "name_en": "Ștefan Preda",
+        "age": 28,
+        "squad_no": 22,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 65
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      }
+    ],
+    "1998": [
+      {
+        "id": "ROU_1998_01",
+        "name_cn": "Dumitru Stângaciu",
+        "name_en": "Dumitru Stângaciu",
+        "age": 23,
+        "squad_no": 1,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ROU_1998_02",
+        "name_cn": "Dan Petrescu",
+        "name_en": "Dan Petrescu",
+        "age": 25,
+        "squad_no": 2,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 68
+          },
+          {
+            "pos": "RB",
+            "ovr": 65
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ROU_1998_03",
+        "name_cn": "Cristian Dulca",
+        "name_en": "Cristian Dulca",
+        "age": 33,
+        "squad_no": 3,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 68
+          },
+          {
+            "pos": "LB",
+            "ovr": 65
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ROU_1998_04",
+        "name_cn": "Anton Doboș",
+        "name_en": "Anton Doboș",
+        "age": 32,
+        "squad_no": 4,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 68
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ROU_1998_05",
+        "name_cn": "Constantin Gâlcă",
+        "name_en": "Constantin Gâlcă",
+        "age": 31,
+        "squad_no": 5,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 68
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ROU_1998_06",
+        "name_cn": "波佩斯库",
+        "name_en": "Gheorghe Popescu",
+        "age": 22,
+        "squad_no": 6,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 87
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ROU_1998_07",
+        "name_cn": "Marius Lăcătuș",
+        "name_en": "Marius Lăcătuș",
+        "age": 32,
+        "squad_no": 7,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 68
+          },
+          {
+            "pos": "LW",
+            "ovr": 66
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ROU_1998_08",
+        "name_cn": "Dorinel Munteanu",
+        "name_en": "Dorinel Munteanu",
+        "age": 32,
+        "squad_no": 8,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 68
+          },
+          {
+            "pos": "DM",
+            "ovr": 66
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ROU_1998_09",
+        "name_cn": "Viorel Moldovan",
+        "name_en": "Viorel Moldovan",
+        "age": 28,
+        "squad_no": 9,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 68
+          },
+          {
+            "pos": "CAM",
+            "ovr": 65
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ROU_1998_10",
+        "name_cn": "哈吉",
+        "name_en": "Gheorghe Hagi",
+        "age": 22,
+        "squad_no": 10,
+        "positions": [
+          {
+            "pos": "CAM",
+            "ovr": 94
+          },
+          {
+            "pos": "CAM",
+            "ovr": 90
+          }
+        ],
+        "tags": [
+          "喀尔巴阡马拉多纳"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ROU_1998_11",
+        "name_cn": "Adrian Ilie",
+        "name_en": "Adrian Ilie",
+        "age": 26,
+        "squad_no": 11,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 68
+          },
+          {
+            "pos": "LW",
+            "ovr": 66
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ROU_1998_12",
+        "name_cn": "Bogdan Stelea",
+        "name_en": "Bogdan Stelea",
+        "age": 30,
+        "squad_no": 12,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 67
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ROU_1998_13",
+        "name_cn": "Liviu Ciobotariu",
+        "name_en": "Liviu Ciobotariu",
+        "age": 22,
+        "squad_no": 13,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 66
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ROU_1998_14",
+        "name_cn": "Radu Niculescu",
+        "name_en": "Radu Niculescu",
+        "age": 27,
+        "squad_no": 14,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 66
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ROU_1998_15",
+        "name_cn": "Lucian Marinescu",
+        "name_en": "Lucian Marinescu",
+        "age": 30,
+        "squad_no": 15,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 66
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ROU_1998_17",
+        "name_cn": "Ilie Dumitrescu",
+        "name_en": "Ilie Dumitrescu",
+        "age": 31,
+        "squad_no": 17,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 64
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ROU_1998_18",
+        "name_cn": "Iulian Filipescu",
+        "name_en": "Iulian Filipescu",
+        "age": 24,
+        "squad_no": 18,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 64
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ROU_1998_19",
+        "name_cn": "Ovidiu Stîngă",
+        "name_en": "Ovidiu Stîngă",
+        "age": 27,
+        "squad_no": 19,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 64
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ROU_1998_20",
+        "name_cn": "Tibor Selymes",
+        "name_en": "Tibor Selymes",
+        "age": 30,
+        "squad_no": 20,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 64
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ROU_1998_21",
+        "name_cn": "Gheorghe Craioveanu",
+        "name_en": "Gheorghe Craioveanu",
+        "age": 33,
+        "squad_no": 21,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 64
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "ROU_1998_22",
+        "name_cn": "Florin Prunea",
+        "name_en": "Florin Prunea",
+        "age": 25,
+        "squad_no": 22,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 65
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      }
+    ]
+  }
+}

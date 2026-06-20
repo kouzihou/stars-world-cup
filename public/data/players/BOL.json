@@ -1,0 +1,363 @@
+{
+  "country_code": "BOL",
+  "squads": {
+    "1994": [
+      {
+        "id": "BOL_1994_01",
+        "name_cn": "Carlos Trucco",
+        "name_en": "Carlos Trucco",
+        "age": 23,
+        "squad_no": 1,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 65
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BOL_1994_02",
+        "name_cn": "Juan Manuel Peña",
+        "name_en": "Juan Manuel Peña",
+        "age": 22,
+        "squad_no": 2,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 64
+          },
+          {
+            "pos": "RB",
+            "ovr": 61
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BOL_1994_03",
+        "name_cn": "Marco Sandy",
+        "name_en": "Marco Sandy",
+        "age": 25,
+        "squad_no": 3,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 64
+          },
+          {
+            "pos": "LB",
+            "ovr": 61
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BOL_1994_04",
+        "name_cn": "Miguel Rimba",
+        "name_en": "Miguel Rimba",
+        "age": 30,
+        "squad_no": 4,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 64
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BOL_1994_05",
+        "name_cn": "Gustavo Quinteros",
+        "name_en": "Gustavo Quinteros",
+        "age": 30,
+        "squad_no": 5,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 64
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BOL_1994_06",
+        "name_cn": "Carlos Borja",
+        "name_en": "Carlos Borja",
+        "age": 32,
+        "squad_no": 6,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 64
+          },
+          {
+            "pos": "DM",
+            "ovr": 62
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BOL_1994_07",
+        "name_cn": "Mario Pinedo",
+        "name_en": "Mario Pinedo",
+        "age": 28,
+        "squad_no": 7,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 64
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BOL_1994_08",
+        "name_cn": "José Milton Melgar",
+        "name_en": "José Milton Melgar",
+        "age": 24,
+        "squad_no": 8,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 64
+          },
+          {
+            "pos": "DM",
+            "ovr": 62
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BOL_1994_09",
+        "name_cn": "Álvaro Peña",
+        "name_en": "Álvaro Peña",
+        "age": 31,
+        "squad_no": 9,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 64
+          },
+          {
+            "pos": "CAM",
+            "ovr": 61
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BOL_1994_10",
+        "name_cn": "埃切维里",
+        "name_en": "Marco Etcheverry",
+        "age": 23,
+        "squad_no": 10,
+        "positions": [
+          {
+            "pos": "CAM",
+            "ovr": 83
+          }
+        ],
+        "tags": [
+          "传奇"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BOL_1994_11",
+        "name_cn": "Jaime Moreno",
+        "name_en": "Jaime Moreno",
+        "age": 24,
+        "squad_no": 11,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 64
+          },
+          {
+            "pos": "LW",
+            "ovr": 62
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BOL_1994_12",
+        "name_cn": "Darío Rojas",
+        "name_en": "Darío Rojas",
+        "age": 29,
+        "squad_no": 12,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 63
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BOL_1994_13",
+        "name_cn": "Modesto Soruco",
+        "name_en": "Modesto Soruco",
+        "age": 31,
+        "squad_no": 13,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 62
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BOL_1994_14",
+        "name_cn": "Mauricio Ramos",
+        "name_en": "Mauricio Ramos",
+        "age": 31,
+        "squad_no": 14,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 62
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BOL_1994_15",
+        "name_cn": "Vladimir Soria",
+        "name_en": "Vladimir Soria",
+        "age": 22,
+        "squad_no": 15,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 62
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BOL_1994_16",
+        "name_cn": "Luis Cristaldo",
+        "name_en": "Luis Cristaldo",
+        "age": 30,
+        "squad_no": 16,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 62
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BOL_1994_17",
+        "name_cn": "Óscar Sánchez",
+        "name_en": "Óscar Sánchez",
+        "age": 30,
+        "squad_no": 17,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 60
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BOL_1994_18",
+        "name_cn": "William Ramallo",
+        "name_en": "William Ramallo",
+        "age": 23,
+        "squad_no": 18,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 60
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BOL_1994_19",
+        "name_cn": "Marcelo Torrico",
+        "name_en": "Marcelo Torrico",
+        "age": 23,
+        "squad_no": 19,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 61
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BOL_1994_20",
+        "name_cn": "Ramiro Castillo",
+        "name_en": "Ramiro Castillo",
+        "age": 29,
+        "squad_no": 20,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 60
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BOL_1994_21",
+        "name_cn": "Erwin Sánchez",
+        "name_en": "Erwin Sánchez",
+        "age": 32,
+        "squad_no": 21,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 60
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BOL_1994_22",
+        "name_cn": "Julio César Baldivieso",
+        "name_en": "Julio César Baldivieso",
+        "age": 24,
+        "squad_no": 22,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 60
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      }
+    ]
+  }
+}

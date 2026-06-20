@@ -1,0 +1,1521 @@
+{
+  "country_code": "SEN",
+  "squads": {
+    "2002": [
+      {
+        "id": "SEN_2002_01",
+        "name_cn": "Tony Sylva",
+        "name_en": "Tony Sylva",
+        "age": 28,
+        "squad_no": 1,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 79
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SEN_2002_02",
+        "name_cn": "Omar Daf",
+        "name_en": "Omar Daf",
+        "age": 33,
+        "squad_no": 2,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 78
+          },
+          {
+            "pos": "RB",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SEN_2002_03",
+        "name_cn": "Pape Sarr",
+        "name_en": "Pape Sarr",
+        "age": 22,
+        "squad_no": 3,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 78
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SEN_2002_04",
+        "name_cn": "Pape Malick Diop",
+        "name_en": "Pape Malick Diop",
+        "age": 31,
+        "squad_no": 4,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 78
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SEN_2002_05",
+        "name_cn": "Alassane N'Dour",
+        "name_en": "Alassane N'Dour",
+        "age": 33,
+        "squad_no": 5,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 78
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SEN_2002_06",
+        "name_cn": "Aliou Cissé",
+        "name_en": "Aliou Cissé",
+        "age": 31,
+        "squad_no": 6,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 78
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SEN_2002_07",
+        "name_cn": "范塔",
+        "name_en": "Henri Camara",
+        "age": 25,
+        "squad_no": 7,
+        "positions": [
+          {
+            "pos": "DM",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SEN_2002_08",
+        "name_cn": "Amara Traoré",
+        "name_en": "Amara Traoré",
+        "age": 27,
+        "squad_no": 8,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 78
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SEN_2002_09",
+        "name_cn": "Souleymane Camara",
+        "name_en": "Souleymane Camara",
+        "age": 33,
+        "squad_no": 9,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 78
+          },
+          {
+            "pos": "CAM",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SEN_2002_10",
+        "name_cn": "Khalilou Fadiga",
+        "name_en": "Khalilou Fadiga",
+        "age": 33,
+        "squad_no": 10,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 78
+          },
+          {
+            "pos": "CAM",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SEN_2002_11",
+        "name_cn": "迪乌夫",
+        "name_en": "El Hadji Diouf",
+        "age": 25,
+        "squad_no": 11,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 87
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SEN_2002_12",
+        "name_cn": "Amdy Faye",
+        "name_en": "Amdy Faye",
+        "age": 32,
+        "squad_no": 12,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SEN_2002_13",
+        "name_cn": "Lamine Diatta",
+        "name_en": "Lamine Diatta",
+        "age": 30,
+        "squad_no": 13,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SEN_2002_14",
+        "name_cn": "Moussa N'Diaye",
+        "name_en": "Moussa N'Diaye",
+        "age": 32,
+        "squad_no": 14,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SEN_2002_15",
+        "name_cn": "Salif Diao",
+        "name_en": "Salif Diao",
+        "age": 29,
+        "squad_no": 15,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SEN_2002_16",
+        "name_cn": "Omar Diallo",
+        "name_en": "Omar Diallo",
+        "age": 32,
+        "squad_no": 16,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 77
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SEN_2002_17",
+        "name_cn": "Ferdinand Coly",
+        "name_en": "Ferdinand Coly",
+        "age": 27,
+        "squad_no": 17,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SEN_2002_18",
+        "name_cn": "Pape Thiaw",
+        "name_en": "Pape Thiaw",
+        "age": 30,
+        "squad_no": 18,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SEN_2002_20",
+        "name_cn": "Sylvain N'Diaye",
+        "name_en": "Sylvain N'Diaye",
+        "age": 26,
+        "squad_no": 20,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SEN_2002_21",
+        "name_cn": "Habib Beye",
+        "name_en": "Habib Beye",
+        "age": 24,
+        "squad_no": 21,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SEN_2002_22",
+        "name_cn": "Kalidou Cissokho",
+        "name_en": "Kalidou Cissokho",
+        "age": 32,
+        "squad_no": 22,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      }
+    ],
+    "2018": [
+      {
+        "id": "SEN_2018_01",
+        "name_cn": "Abdoulaye Diallo",
+        "name_en": "Abdoulaye Diallo",
+        "age": 30,
+        "squad_no": 1,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 79
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SEN_2018_02",
+        "name_cn": "Adama Mbengue",
+        "name_en": "Adama Mbengue",
+        "age": 24,
+        "squad_no": 2,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 78
+          },
+          {
+            "pos": "RB",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SEN_2018_03",
+        "name_cn": "库利巴利",
+        "name_en": "Kalidou Koulibaly",
+        "age": 26,
+        "squad_no": 3,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 87
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SEN_2018_04",
+        "name_cn": "Kara Mbodji",
+        "name_en": "Kara Mbodji",
+        "age": 23,
+        "squad_no": 4,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 78
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SEN_2018_05",
+        "name_cn": "库阿西",
+        "name_en": "Idrissa Gueye",
+        "age": 29,
+        "squad_no": 5,
+        "positions": [
+          {
+            "pos": "DM",
+            "ovr": 85
+          },
+          {
+            "pos": "CM",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SEN_2018_06",
+        "name_cn": "Salif Sané",
+        "name_en": "Salif Sané",
+        "age": 24,
+        "squad_no": 6,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 78
+          },
+          {
+            "pos": "DM",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SEN_2018_07",
+        "name_cn": "Moussa Sow",
+        "name_en": "Moussa Sow",
+        "age": 33,
+        "squad_no": 7,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 78
+          },
+          {
+            "pos": "LW",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SEN_2018_08",
+        "name_cn": "Cheikhou Kouyaté",
+        "name_en": "Cheikhou Kouyaté",
+        "age": 26,
+        "squad_no": 8,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 78
+          },
+          {
+            "pos": "DM",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SEN_2018_09",
+        "name_cn": "Mame Biram Diouf",
+        "name_en": "Mame Biram Diouf",
+        "age": 33,
+        "squad_no": 9,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 78
+          },
+          {
+            "pos": "CAM",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SEN_2018_10",
+        "name_cn": "马内",
+        "name_en": "Sadio Mané",
+        "age": 30,
+        "squad_no": 10,
+        "positions": [
+          {
+            "pos": "LW",
+            "ovr": 90
+          },
+          {
+            "pos": "ST",
+            "ovr": 85
+          }
+        ],
+        "tags": [
+          "非洲一哥"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SEN_2018_11",
+        "name_cn": "Cheikh N'Doye",
+        "name_en": "Cheikh N'Doye",
+        "age": 24,
+        "squad_no": 11,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 78
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SEN_2018_12",
+        "name_cn": "Youssouf Sabaly",
+        "name_en": "Youssouf Sabaly",
+        "age": 32,
+        "squad_no": 12,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SEN_2018_13",
+        "name_cn": "Alfred N'Diaye",
+        "name_en": "Alfred N'Diaye",
+        "age": 27,
+        "squad_no": 13,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SEN_2018_14",
+        "name_cn": "Moussa Konaté",
+        "name_en": "Moussa Konaté",
+        "age": 32,
+        "squad_no": 14,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SEN_2018_15",
+        "name_cn": "Diafra Sakho",
+        "name_en": "Diafra Sakho",
+        "age": 23,
+        "squad_no": 15,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SEN_2018_16",
+        "name_cn": "Khadim N'Diaye",
+        "name_en": "Khadim N'Diaye",
+        "age": 25,
+        "squad_no": 16,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 77
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SEN_2018_17",
+        "name_cn": "Badou Ndiaye",
+        "name_en": "Badou Ndiaye",
+        "age": 27,
+        "squad_no": 17,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SEN_2018_18",
+        "name_cn": "萨尔",
+        "name_en": "Ismaïla Sarr",
+        "age": 25,
+        "squad_no": 18,
+        "positions": [
+          {
+            "pos": "RW",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SEN_2018_19",
+        "name_cn": "M'Baye Niang",
+        "name_en": "M'Baye Niang",
+        "age": 33,
+        "squad_no": 19,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SEN_2018_20",
+        "name_cn": "Keita Baldé",
+        "name_en": "Keita Baldé",
+        "age": 26,
+        "squad_no": 20,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SEN_2018_21",
+        "name_cn": "Lamine Gassama",
+        "name_en": "Lamine Gassama",
+        "age": 28,
+        "squad_no": 21,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SEN_2018_22",
+        "name_cn": "Moussa Wagué",
+        "name_en": "Moussa Wagué",
+        "age": 27,
+        "squad_no": 22,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SEN_2018_23",
+        "name_cn": "Alfred Gomis",
+        "name_en": "Alfred Gomis",
+        "age": 27,
+        "squad_no": 23,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      }
+    ],
+    "2022": [
+      {
+        "id": "SEN_2022_01",
+        "name_cn": "Seny Dieng",
+        "name_en": "Seny Dieng",
+        "age": 26,
+        "squad_no": 1,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 79
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SEN_2022_02",
+        "name_cn": "Formose Mendy",
+        "name_en": "Formose Mendy",
+        "age": 31,
+        "squad_no": 2,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 78
+          },
+          {
+            "pos": "RB",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SEN_2022_03",
+        "name_cn": "库利巴利",
+        "name_en": "Kalidou Koulibaly",
+        "age": 26,
+        "squad_no": 3,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 87
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SEN_2022_04",
+        "name_cn": "Pape Abou Cissé",
+        "name_en": "Pape Abou Cissé",
+        "age": 29,
+        "squad_no": 4,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 78
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SEN_2022_05",
+        "name_cn": "库阿西",
+        "name_en": "Idrissa Gueye",
+        "age": 23,
+        "squad_no": 5,
+        "positions": [
+          {
+            "pos": "DM",
+            "ovr": 85
+          },
+          {
+            "pos": "CM",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SEN_2022_06",
+        "name_cn": "Nampalys Mendy",
+        "name_en": "Nampalys Mendy",
+        "age": 29,
+        "squad_no": 6,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 78
+          },
+          {
+            "pos": "DM",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SEN_2022_07",
+        "name_cn": "Nicolas Jackson",
+        "name_en": "Nicolas Jackson",
+        "age": 22,
+        "squad_no": 7,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 78
+          },
+          {
+            "pos": "LW",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SEN_2022_08",
+        "name_cn": "Cheikhou Kouyaté",
+        "name_en": "Cheikhou Kouyaté",
+        "age": 32,
+        "squad_no": 8,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 78
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SEN_2022_09",
+        "name_cn": "迪亚",
+        "name_en": "Boulaye Dia",
+        "age": 31,
+        "squad_no": 9,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SEN_2022_10",
+        "name_cn": "Moussa N'Diaye",
+        "name_en": "Moussa N'Diaye",
+        "age": 31,
+        "squad_no": 10,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 78
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SEN_2022_11",
+        "name_cn": "Pathé Ciss",
+        "name_en": "Pathé Ciss",
+        "age": 31,
+        "squad_no": 11,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 78
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SEN_2022_12",
+        "name_cn": "Fodé Ballo-Touré",
+        "name_en": "Fodé Ballo-Touré",
+        "age": 23,
+        "squad_no": 12,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SEN_2022_13",
+        "name_cn": "Iliman Ndiaye",
+        "name_en": "Iliman Ndiaye",
+        "age": 29,
+        "squad_no": 13,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SEN_2022_14",
+        "name_cn": "Ismail Jakobs",
+        "name_en": "Ismail Jakobs",
+        "age": 25,
+        "squad_no": 14,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SEN_2022_15",
+        "name_cn": "Krépin Diatta",
+        "name_en": "Krépin Diatta",
+        "age": 30,
+        "squad_no": 15,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SEN_2022_16",
+        "name_cn": "门迪",
+        "name_en": "Édouard Mendy",
+        "age": 23,
+        "squad_no": 16,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 87
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SEN_2022_17",
+        "name_cn": "Pape Matar Sarr",
+        "name_en": "Pape Matar Sarr",
+        "age": 32,
+        "squad_no": 17,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SEN_2022_18",
+        "name_cn": "萨尔",
+        "name_en": "Ismaïla Sarr",
+        "age": 28,
+        "squad_no": 18,
+        "positions": [
+          {
+            "pos": "RW",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SEN_2022_19",
+        "name_cn": "Famara Diédhiou",
+        "name_en": "Famara Diédhiou",
+        "age": 30,
+        "squad_no": 19,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SEN_2022_20",
+        "name_cn": "Bamba Dieng",
+        "name_en": "Bamba Dieng",
+        "age": 26,
+        "squad_no": 20,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SEN_2022_21",
+        "name_cn": "Youssouf Sabaly",
+        "name_en": "Youssouf Sabaly",
+        "age": 28,
+        "squad_no": 21,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SEN_2022_22",
+        "name_cn": "Abdou Diallo",
+        "name_en": "Abdou Diallo",
+        "age": 22,
+        "squad_no": 22,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SEN_2022_23",
+        "name_cn": "Alfred Gomis",
+        "name_en": "Alfred Gomis",
+        "age": 24,
+        "squad_no": 23,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SEN_2022_24",
+        "name_cn": "Moustapha Name",
+        "name_en": "Moustapha Name",
+        "age": 24,
+        "squad_no": 24,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SEN_2022_25",
+        "name_cn": "Mamadou Loum",
+        "name_en": "Mamadou Loum",
+        "age": 25,
+        "squad_no": 25,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SEN_2022_26",
+        "name_cn": "Pape Gueye",
+        "name_en": "Pape Gueye",
+        "age": 27,
+        "squad_no": 26,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      }
+    ],
+    "2026": [
+      {
+        "id": "SEN_2026_01",
+        "name_cn": "门迪",
+        "name_en": "Édouard Mendy",
+        "age": 28,
+        "squad_no": 1,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 87
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SEN_2026_02",
+        "name_cn": "Mory Diaw",
+        "name_en": "Mory Diaw",
+        "age": 31,
+        "squad_no": 2,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 81
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SEN_2026_03",
+        "name_cn": "迪奥",
+        "name_en": "Yehvann Diouf",
+        "age": 29,
+        "squad_no": 3,
+        "positions": [
+          {
+            "pos": "LW",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SEN_2026_04",
+        "name_cn": "迪亚塔",
+        "name_en": "Krépin Diatta",
+        "age": 24,
+        "squad_no": 4,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SEN_2026_05",
+        "name_cn": "Antoine Mendy",
+        "name_en": "Antoine Mendy",
+        "age": 27,
+        "squad_no": 5,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SEN_2026_06",
+        "name_cn": "库利巴利",
+        "name_en": "Kalidou Koulibaly",
+        "age": 33,
+        "squad_no": 6,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 87
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SEN_2026_07",
+        "name_cn": "El Hadji Malick Diouf",
+        "name_en": "El Hadji Malick Diouf",
+        "age": 24,
+        "squad_no": 7,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SEN_2026_08",
+        "name_cn": "马马杜·萨尔",
+        "name_en": "Mamadou Sarr",
+        "age": 23,
+        "squad_no": 8,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SEN_2026_09",
+        "name_cn": "尼亚卡特",
+        "name_en": "Moussa Niakhaté",
+        "age": 29,
+        "squad_no": 9,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SEN_2026_10",
+        "name_cn": "Abdoulaye Seck",
+        "name_en": "Abdoulaye Seck",
+        "age": 27,
+        "squad_no": 10,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SEN_2026_11",
+        "name_cn": "Ismail Jakobs",
+        "name_en": "Ismail Jakobs",
+        "age": 32,
+        "squad_no": 11,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SEN_2026_12",
+        "name_cn": "库阿西",
+        "name_en": "Idrissa Gana Gueye",
+        "age": 24,
+        "squad_no": 12,
+        "positions": [
+          {
+            "pos": "DM",
+            "ovr": 85
+          },
+          {
+            "pos": "CM",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SEN_2026_13",
+        "name_cn": "帕佩·盖耶",
+        "name_en": "Pape Gueye",
+        "age": 27,
+        "squad_no": 13,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 78
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SEN_2026_14",
+        "name_cn": "卡马拉",
+        "name_en": "Lamine Camara",
+        "age": 32,
+        "squad_no": 14,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 78
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SEN_2026_15",
+        "name_cn": "迪亚拉",
+        "name_en": "Habib Diarra",
+        "age": 22,
+        "squad_no": 15,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 78
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SEN_2026_16",
+        "name_cn": "Pathé Ciss",
+        "name_en": "Pathé Ciss",
+        "age": 22,
+        "squad_no": 16,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 78
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SEN_2026_17",
+        "name_cn": "帕佩·萨尔",
+        "name_en": "Pape Matar Sarr",
+        "age": 29,
+        "squad_no": 17,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 78
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SEN_2026_18",
+        "name_cn": "Bara Sapoko Ndiaye",
+        "name_en": "Bara Sapoko Ndiaye",
+        "age": 26,
+        "squad_no": 18,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 78
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SEN_2026_19",
+        "name_cn": "马内",
+        "name_en": "Sadio Mané",
+        "age": 25,
+        "squad_no": 19,
+        "positions": [
+          {
+            "pos": "LW",
+            "ovr": 90
+          },
+          {
+            "pos": "ST",
+            "ovr": 85
+          }
+        ],
+        "tags": [
+          "非洲一哥"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SEN_2026_20",
+        "name_cn": "萨尔",
+        "name_en": "Ismaïla Sarr",
+        "age": 24,
+        "squad_no": 20,
+        "positions": [
+          {
+            "pos": "RW",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SEN_2026_21",
+        "name_cn": "恩迪亚耶",
+        "name_en": "Iliman Ndiaye",
+        "age": 31,
+        "squad_no": 21,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SEN_2026_22",
+        "name_cn": "迪亚奥",
+        "name_en": "Assane Diao",
+        "age": 24,
+        "squad_no": 22,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SEN_2026_23",
+        "name_cn": "Ibrahim Mbaye",
+        "name_en": "Ibrahim Mbaye",
+        "age": 29,
+        "squad_no": 23,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SEN_2026_24",
+        "name_cn": "杰克逊",
+        "name_en": "Nicolas Jackson",
+        "age": 23,
+        "squad_no": 24,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SEN_2026_25",
+        "name_cn": "迪昂",
+        "name_en": "Bamba Dieng",
+        "age": 24,
+        "squad_no": 25,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SEN_2026_26",
+        "name_cn": "Cherif Ndiaye",
+        "name_en": "Cherif Ndiaye",
+        "age": 31,
+        "squad_no": 26,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      }
+    ]
+  }
+}

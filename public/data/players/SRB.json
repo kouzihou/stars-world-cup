@@ -1,0 +1,2212 @@
+{
+  "country_code": "SRB",
+  "squads": {
+    "1990": [
+      {
+        "id": "SRB_1990_01",
+        "name_cn": "Tomislav Ivković",
+        "name_en": "Tomislav Ivković",
+        "age": 29,
+        "squad_no": 1,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 72
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SRB_1990_02",
+        "name_cn": "Vujadin Stanojković",
+        "name_en": "Vujadin Stanojković",
+        "age": 32,
+        "squad_no": 2,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 71
+          },
+          {
+            "pos": "RB",
+            "ovr": 68
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SRB_1990_03",
+        "name_cn": "Predrag Spasić",
+        "name_en": "Predrag Spasić",
+        "age": 26,
+        "squad_no": 3,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 71
+          },
+          {
+            "pos": "LB",
+            "ovr": 68
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SRB_1990_04",
+        "name_cn": "Zoran Vulić",
+        "name_en": "Zoran Vulić",
+        "age": 33,
+        "squad_no": 4,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SRB_1990_05",
+        "name_cn": "Faruk Hadžibegić",
+        "name_en": "Faruk Hadžibegić",
+        "age": 24,
+        "squad_no": 5,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SRB_1990_06",
+        "name_cn": "Davor Jozić",
+        "name_en": "Davor Jozić",
+        "age": 22,
+        "squad_no": 6,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SRB_1990_07",
+        "name_cn": "Dragoljub Brnović",
+        "name_en": "Dragoljub Brnović",
+        "age": 33,
+        "squad_no": 7,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SRB_1990_08",
+        "name_cn": "Safet Sušić",
+        "name_en": "Safet Sušić",
+        "age": 27,
+        "squad_no": 8,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 71
+          },
+          {
+            "pos": "DM",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SRB_1990_09",
+        "name_cn": "Darko Pančev",
+        "name_en": "Darko Pančev",
+        "age": 26,
+        "squad_no": 9,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 71
+          },
+          {
+            "pos": "CAM",
+            "ovr": 68
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SRB_1990_10",
+        "name_cn": "斯托伊科维奇",
+        "name_en": "Dragan Stojković",
+        "age": 31,
+        "squad_no": 10,
+        "positions": [
+          {
+            "pos": "CAM",
+            "ovr": 90
+          }
+        ],
+        "tags": [
+          "南斯拉夫传奇"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SRB_1990_11",
+        "name_cn": "Zlatko Vujović",
+        "name_en": "Zlatko Vujović",
+        "age": 32,
+        "squad_no": 11,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 71
+          },
+          {
+            "pos": "LW",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SRB_1990_12",
+        "name_cn": "Fahrudin Omerović",
+        "name_en": "Fahrudin Omerović",
+        "age": 25,
+        "squad_no": 12,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SRB_1990_13",
+        "name_cn": "Srečko Katanec",
+        "name_en": "Srečko Katanec",
+        "age": 24,
+        "squad_no": 13,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SRB_1990_14",
+        "name_cn": "Alen Bokšić",
+        "name_en": "Alen Bokšić",
+        "age": 31,
+        "squad_no": 14,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SRB_1990_15",
+        "name_cn": "Robert Prosinečki",
+        "name_en": "Robert Prosinečki",
+        "age": 32,
+        "squad_no": 15,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SRB_1990_16",
+        "name_cn": "Refik Šabanadžović",
+        "name_en": "Refik Šabanadžović",
+        "age": 28,
+        "squad_no": 16,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SRB_1990_17",
+        "name_cn": "Robert Jarni",
+        "name_en": "Robert Jarni",
+        "age": 28,
+        "squad_no": 17,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 67
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SRB_1990_18",
+        "name_cn": "Mirsad Baljić",
+        "name_en": "Mirsad Baljić",
+        "age": 30,
+        "squad_no": 18,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 67
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SRB_1990_19",
+        "name_cn": "Dejan Savićević",
+        "name_en": "Dejan Savićević",
+        "age": 27,
+        "squad_no": 19,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 67
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SRB_1990_20",
+        "name_cn": "Davor Šuker",
+        "name_en": "Davor Šuker",
+        "age": 23,
+        "squad_no": 20,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 67
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SRB_1990_21",
+        "name_cn": "Andrej Panadić",
+        "name_en": "Andrej Panadić",
+        "age": 28,
+        "squad_no": 21,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 67
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SRB_1990_22",
+        "name_cn": "Dragoje Leković",
+        "name_en": "Dragoje Leković",
+        "age": 32,
+        "squad_no": 22,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 68
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      }
+    ],
+    "1998": [
+      {
+        "id": "SRB_1998_01",
+        "name_cn": "Ivica Kralj",
+        "name_en": "Ivica Kralj",
+        "age": 23,
+        "squad_no": 1,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SRB_1998_02",
+        "name_cn": "Zoran Mirković",
+        "name_en": "Zoran Mirković",
+        "age": 24,
+        "squad_no": 2,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 72
+          },
+          {
+            "pos": "RB",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SRB_1998_03",
+        "name_cn": "Goran Đorović",
+        "name_en": "Goran Đorović",
+        "age": 24,
+        "squad_no": 3,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 72
+          },
+          {
+            "pos": "LB",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SRB_1998_04",
+        "name_cn": "Slaviša Jokanović",
+        "name_en": "Slaviša Jokanović",
+        "age": 29,
+        "squad_no": 4,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 72
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SRB_1998_05",
+        "name_cn": "Miroslav Đukić",
+        "name_en": "Miroslav Đukić",
+        "age": 27,
+        "squad_no": 5,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 72
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SRB_1998_06",
+        "name_cn": "Branko Brnović",
+        "name_en": "Branko Brnović",
+        "age": 25,
+        "squad_no": 6,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 72
+          },
+          {
+            "pos": "DM",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SRB_1998_07",
+        "name_cn": "Vladimir Jugović",
+        "name_en": "Vladimir Jugović",
+        "age": 22,
+        "squad_no": 7,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 72
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SRB_1998_08",
+        "name_cn": "Dejan Savićević",
+        "name_en": "Dejan Savićević",
+        "age": 26,
+        "squad_no": 8,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 72
+          },
+          {
+            "pos": "DM",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SRB_1998_09",
+        "name_cn": "米贾托维奇",
+        "name_en": "Predrag Mijatović",
+        "age": 28,
+        "squad_no": 9,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 87
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SRB_1998_10",
+        "name_cn": "斯托伊科维奇",
+        "name_en": "Dragan Stojković",
+        "age": 25,
+        "squad_no": 10,
+        "positions": [
+          {
+            "pos": "CAM",
+            "ovr": 90
+          }
+        ],
+        "tags": [
+          "南斯拉夫传奇"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SRB_1998_11",
+        "name_cn": "Siniša Mihajlović",
+        "name_en": "Siniša Mihajlović",
+        "age": 29,
+        "squad_no": 11,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 72
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SRB_1998_12",
+        "name_cn": "Dragoje Leković",
+        "name_en": "Dragoje Leković",
+        "age": 26,
+        "squad_no": 12,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SRB_1998_13",
+        "name_cn": "Slobodan Komljenović",
+        "name_en": "Slobodan Komljenović",
+        "age": 27,
+        "squad_no": 13,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SRB_1998_14",
+        "name_cn": "Niša Saveljić",
+        "name_en": "Niša Saveljić",
+        "age": 26,
+        "squad_no": 14,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SRB_1998_15",
+        "name_cn": "Ljubinko Drulović",
+        "name_en": "Ljubinko Drulović",
+        "age": 31,
+        "squad_no": 15,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SRB_1998_16",
+        "name_cn": "Željko Petrović",
+        "name_en": "Željko Petrović",
+        "age": 33,
+        "squad_no": 16,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SRB_1998_17",
+        "name_cn": "Savo Milošević",
+        "name_en": "Savo Milošević",
+        "age": 31,
+        "squad_no": 17,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 68
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SRB_1998_18",
+        "name_cn": "Dejan Govedarica",
+        "name_en": "Dejan Govedarica",
+        "age": 22,
+        "squad_no": 18,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 68
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SRB_1998_19",
+        "name_cn": "Miroslav Stević",
+        "name_en": "Miroslav Stević",
+        "age": 26,
+        "squad_no": 19,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 68
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SRB_1998_20",
+        "name_cn": "斯坦科维奇",
+        "name_en": "Dejan Stanković",
+        "age": 32,
+        "squad_no": 20,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 87
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SRB_1998_21",
+        "name_cn": "Perica Ognjenović",
+        "name_en": "Perica Ognjenović",
+        "age": 27,
+        "squad_no": 21,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 68
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SRB_1998_22",
+        "name_cn": "Darko Kovačević",
+        "name_en": "Darko Kovačević",
+        "age": 33,
+        "squad_no": 22,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 68
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      }
+    ],
+    "2006": [
+      {
+        "id": "SRB_2006_01",
+        "name_cn": "Dragoslav Jevrić",
+        "name_en": "Dragoslav Jevrić",
+        "age": 25,
+        "squad_no": 1,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SRB_2006_02",
+        "name_cn": "Ivan Ergić",
+        "name_en": "Ivan Ergić",
+        "age": 22,
+        "squad_no": 2,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SRB_2006_03",
+        "name_cn": "Ivica Dragutinović",
+        "name_en": "Ivica Dragutinović",
+        "age": 32,
+        "squad_no": 3,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          },
+          {
+            "pos": "LB",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SRB_2006_04",
+        "name_cn": "Igor Duljaj",
+        "name_en": "Igor Duljaj",
+        "age": 23,
+        "squad_no": 4,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SRB_2006_05",
+        "name_cn": "A. Sachs",
+        "name_en": "A. Sachs",
+        "age": 29,
+        "squad_no": 5,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SRB_2006_06",
+        "name_cn": "Goran Gavrančić",
+        "name_en": "Goran Gavrančić",
+        "age": 26,
+        "squad_no": 6,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SRB_2006_07",
+        "name_cn": "Ognjen Koroman",
+        "name_en": "Ognjen Koroman",
+        "age": 24,
+        "squad_no": 7,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SRB_2006_08",
+        "name_cn": "Mateja Kežman",
+        "name_en": "Mateja Kežman",
+        "age": 28,
+        "squad_no": 8,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SRB_2006_09",
+        "name_cn": "Savo Milošević",
+        "name_en": "Savo Milošević",
+        "age": 32,
+        "squad_no": 9,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 73
+          },
+          {
+            "pos": "CAM",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SRB_2006_10",
+        "name_cn": "斯坦科维奇",
+        "name_en": "Dejan Stanković",
+        "age": 30,
+        "squad_no": 10,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 87
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SRB_2006_11",
+        "name_cn": "Predrag Đorđević",
+        "name_en": "Predrag Đorđević",
+        "age": 33,
+        "squad_no": 11,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SRB_2006_12",
+        "name_cn": "Oliver Kovačević",
+        "name_en": "Oliver Kovačević",
+        "age": 26,
+        "squad_no": 12,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 72
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SRB_2006_13",
+        "name_cn": "Dušan Basta",
+        "name_en": "Dušan Basta",
+        "age": 33,
+        "squad_no": 13,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SRB_2006_14",
+        "name_cn": "Nenad Đorđević",
+        "name_en": "Nenad Đorđević",
+        "age": 23,
+        "squad_no": 14,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SRB_2006_15",
+        "name_cn": "Milan Dudić",
+        "name_en": "Milan Dudić",
+        "age": 32,
+        "squad_no": 15,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SRB_2006_16",
+        "name_cn": "Dušan Petković",
+        "name_en": "Dušan Petković",
+        "age": 26,
+        "squad_no": 16,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SRB_2006_17",
+        "name_cn": "Albert Nađ",
+        "name_en": "Albert Nađ",
+        "age": 27,
+        "squad_no": 17,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SRB_2006_18",
+        "name_cn": "Zvonimir Vukić",
+        "name_en": "Zvonimir Vukić",
+        "age": 31,
+        "squad_no": 18,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SRB_2006_19",
+        "name_cn": "Nikola Žigić",
+        "name_en": "Nikola Žigić",
+        "age": 25,
+        "squad_no": 19,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SRB_2006_20",
+        "name_cn": "Mladen Krstajić",
+        "name_en": "Mladen Krstajić",
+        "age": 25,
+        "squad_no": 20,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SRB_2006_21",
+        "name_cn": "Danijel Ljuboja",
+        "name_en": "Danijel Ljuboja",
+        "age": 24,
+        "squad_no": 21,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SRB_2006_22",
+        "name_cn": "Saša Ilić",
+        "name_en": "Saša Ilić",
+        "age": 29,
+        "squad_no": 22,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SRB_2006_23",
+        "name_cn": "Vladimir Stojković",
+        "name_en": "Vladimir Stojković",
+        "age": 24,
+        "squad_no": 23,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      }
+    ],
+    "2010": [
+      {
+        "id": "SRB_2010_01",
+        "name_cn": "Vladimir Stojković",
+        "name_en": "Vladimir Stojković",
+        "age": 29,
+        "squad_no": 1,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SRB_2010_02",
+        "name_cn": "Antonio Rukavina",
+        "name_en": "Antonio Rukavina",
+        "age": 33,
+        "squad_no": 2,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          },
+          {
+            "pos": "RB",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SRB_2010_03",
+        "name_cn": "Aleksandar Kolarov",
+        "name_en": "Aleksandar Kolarov",
+        "age": 31,
+        "squad_no": 3,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          },
+          {
+            "pos": "LB",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SRB_2010_04",
+        "name_cn": "Gojko Kačar",
+        "name_en": "Gojko Kačar",
+        "age": 27,
+        "squad_no": 4,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SRB_2010_05",
+        "name_cn": "A. Sachs",
+        "name_en": "A. Sachs",
+        "age": 28,
+        "squad_no": 5,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SRB_2010_06",
+        "name_cn": "Branislav Ivanović",
+        "name_en": "Branislav Ivanović",
+        "age": 33,
+        "squad_no": 6,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SRB_2010_07",
+        "name_cn": "Zoran Tošić",
+        "name_en": "Zoran Tošić",
+        "age": 30,
+        "squad_no": 7,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SRB_2010_08",
+        "name_cn": "Danko Lazović",
+        "name_en": "Danko Lazović",
+        "age": 29,
+        "squad_no": 8,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SRB_2010_09",
+        "name_cn": "Marko Pantelić",
+        "name_en": "Marko Pantelić",
+        "age": 30,
+        "squad_no": 9,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 73
+          },
+          {
+            "pos": "CAM",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SRB_2010_10",
+        "name_cn": "斯坦科维奇",
+        "name_en": "Dejan Stanković",
+        "age": 32,
+        "squad_no": 10,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 87
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SRB_2010_11",
+        "name_cn": "Nenad Milijaš",
+        "name_en": "Nenad Milijaš",
+        "age": 25,
+        "squad_no": 11,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SRB_2010_12",
+        "name_cn": "Bojan Isailović",
+        "name_en": "Bojan Isailović",
+        "age": 25,
+        "squad_no": 12,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 72
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SRB_2010_13",
+        "name_cn": "Aleksandar Luković",
+        "name_en": "Aleksandar Luković",
+        "age": 32,
+        "squad_no": 13,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SRB_2010_14",
+        "name_cn": "Milan Jovanović",
+        "name_en": "Milan Jovanović",
+        "age": 31,
+        "squad_no": 14,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SRB_2010_15",
+        "name_cn": "Nikola Žigić",
+        "name_en": "Nikola Žigić",
+        "age": 23,
+        "squad_no": 15,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SRB_2010_16",
+        "name_cn": "Ivan Obradović",
+        "name_en": "Ivan Obradović",
+        "age": 30,
+        "squad_no": 16,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SRB_2010_17",
+        "name_cn": "Miloš Krasić",
+        "name_en": "Miloš Krasić",
+        "age": 29,
+        "squad_no": 17,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SRB_2010_18",
+        "name_cn": "Miloš Ninković",
+        "name_en": "Miloš Ninković",
+        "age": 30,
+        "squad_no": 18,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SRB_2010_19",
+        "name_cn": "Radosav Petrović",
+        "name_en": "Radosav Petrović",
+        "age": 33,
+        "squad_no": 19,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SRB_2010_20",
+        "name_cn": "Neven Subotić",
+        "name_en": "Neven Subotić",
+        "age": 27,
+        "squad_no": 20,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SRB_2010_21",
+        "name_cn": "Dragan Mrđa",
+        "name_en": "Dragan Mrđa",
+        "age": 23,
+        "squad_no": 21,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SRB_2010_22",
+        "name_cn": "Zdravko Kuzmanović",
+        "name_en": "Zdravko Kuzmanović",
+        "age": 31,
+        "squad_no": 22,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SRB_2010_23",
+        "name_cn": "Anđelko Đuričić",
+        "name_en": "Anđelko Đuričić",
+        "age": 23,
+        "squad_no": 23,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      }
+    ],
+    "2018": [
+      {
+        "id": "SRB_2018_01",
+        "name_cn": "Vladimir Stojković",
+        "name_en": "Vladimir Stojković",
+        "age": 22,
+        "squad_no": 1,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SRB_2018_02",
+        "name_cn": "Antonio Rukavina",
+        "name_en": "Antonio Rukavina",
+        "age": 30,
+        "squad_no": 2,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          },
+          {
+            "pos": "RB",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SRB_2018_03",
+        "name_cn": "Duško Tošić",
+        "name_en": "Duško Tošić",
+        "age": 30,
+        "squad_no": 3,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          },
+          {
+            "pos": "LB",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SRB_2018_04",
+        "name_cn": "米利沃耶维奇",
+        "name_en": "Luka Milivojević",
+        "age": 25,
+        "squad_no": 4,
+        "positions": [
+          {
+            "pos": "DM",
+            "ovr": 83
+          }
+        ],
+        "tags": [
+          "队长"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SRB_2018_05",
+        "name_cn": "Uroš Spajić",
+        "name_en": "Uroš Spajić",
+        "age": 31,
+        "squad_no": 5,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SRB_2018_06",
+        "name_cn": "Branislav Ivanović",
+        "name_en": "Branislav Ivanović",
+        "age": 30,
+        "squad_no": 6,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SRB_2018_07",
+        "name_cn": "Andrija Živković",
+        "name_en": "Andrija Živković",
+        "age": 24,
+        "squad_no": 7,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SRB_2018_08",
+        "name_cn": "Aleksandar Prijović",
+        "name_en": "Aleksandar Prijović",
+        "age": 24,
+        "squad_no": 8,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SRB_2018_09",
+        "name_cn": "米特罗维奇",
+        "name_en": "Aleksandar Mitrović",
+        "age": 27,
+        "squad_no": 9,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 87
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SRB_2018_10",
+        "name_cn": "塔迪奇",
+        "name_en": "Dušan Tadić",
+        "age": 30,
+        "squad_no": 10,
+        "positions": [
+          {
+            "pos": "CAM",
+            "ovr": 85
+          },
+          {
+            "pos": "LM",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SRB_2018_11",
+        "name_cn": "Aleksandar Kolarov",
+        "name_en": "Aleksandar Kolarov",
+        "age": 29,
+        "squad_no": 11,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SRB_2018_12",
+        "name_cn": "Predrag Rajković",
+        "name_en": "Predrag Rajković",
+        "age": 23,
+        "squad_no": 12,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 72
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SRB_2018_13",
+        "name_cn": "Miloš Veljković",
+        "name_en": "Miloš Veljković",
+        "age": 32,
+        "squad_no": 13,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SRB_2018_14",
+        "name_cn": "Milan Rodić",
+        "name_en": "Milan Rodić",
+        "age": 25,
+        "squad_no": 14,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SRB_2018_15",
+        "name_cn": "Nikola Milenković",
+        "name_en": "Nikola Milenković",
+        "age": 33,
+        "squad_no": 15,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SRB_2018_16",
+        "name_cn": "Marko Grujić",
+        "name_en": "Marko Grujić",
+        "age": 31,
+        "squad_no": 16,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SRB_2018_17",
+        "name_cn": "科斯蒂奇",
+        "name_en": "Filip Kostić",
+        "age": 29,
+        "squad_no": 17,
+        "positions": [
+          {
+            "pos": "LM",
+            "ovr": 84
+          },
+          {
+            "pos": "LW",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SRB_2018_18",
+        "name_cn": "Nemanja Radonjić",
+        "name_en": "Nemanja Radonjić",
+        "age": 23,
+        "squad_no": 18,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SRB_2018_19",
+        "name_cn": "Luka Jović",
+        "name_en": "Luka Jović",
+        "age": 30,
+        "squad_no": 19,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SRB_2018_20",
+        "name_cn": "Sergej Milinković-Savić",
+        "name_en": "Sergej Milinković-Savić",
+        "age": 29,
+        "squad_no": 20,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SRB_2018_21",
+        "name_cn": "Nemanja Matić",
+        "name_en": "Nemanja Matić",
+        "age": 22,
+        "squad_no": 21,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SRB_2018_22",
+        "name_cn": "Adem Ljajić",
+        "name_en": "Adem Ljajić",
+        "age": 29,
+        "squad_no": 22,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SRB_2018_23",
+        "name_cn": "Marko Dmitrović",
+        "name_en": "Marko Dmitrović",
+        "age": 24,
+        "squad_no": 23,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      }
+    ],
+    "2022": [
+      {
+        "id": "SRB_2022_01",
+        "name_cn": "Marko Dmitrović",
+        "name_en": "Marko Dmitrović",
+        "age": 30,
+        "squad_no": 1,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SRB_2022_02",
+        "name_cn": "Strahinja Pavlović",
+        "name_en": "Strahinja Pavlović",
+        "age": 28,
+        "squad_no": 2,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          },
+          {
+            "pos": "RB",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SRB_2022_03",
+        "name_cn": "Strahinja Eraković",
+        "name_en": "Strahinja Eraković",
+        "age": 29,
+        "squad_no": 3,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          },
+          {
+            "pos": "LB",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SRB_2022_04",
+        "name_cn": "Nikola Milenković",
+        "name_en": "Nikola Milenković",
+        "age": 31,
+        "squad_no": 4,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SRB_2022_05",
+        "name_cn": "Miloš Veljković",
+        "name_en": "Miloš Veljković",
+        "age": 22,
+        "squad_no": 5,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SRB_2022_06",
+        "name_cn": "Nemanja Maksimović",
+        "name_en": "Nemanja Maksimović",
+        "age": 30,
+        "squad_no": 6,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          },
+          {
+            "pos": "DM",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SRB_2022_07",
+        "name_cn": "Nemanja Radonjić",
+        "name_en": "Nemanja Radonjić",
+        "age": 29,
+        "squad_no": 7,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 73
+          },
+          {
+            "pos": "LW",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SRB_2022_08",
+        "name_cn": "Nemanja Gudelj",
+        "name_en": "Nemanja Gudelj",
+        "age": 32,
+        "squad_no": 8,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          },
+          {
+            "pos": "DM",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SRB_2022_09",
+        "name_cn": "米特罗维奇",
+        "name_en": "Aleksandar Mitrović",
+        "age": 26,
+        "squad_no": 9,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 87
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SRB_2022_10",
+        "name_cn": "塔迪奇",
+        "name_en": "Dušan Tadić",
+        "age": 33,
+        "squad_no": 10,
+        "positions": [
+          {
+            "pos": "CAM",
+            "ovr": 85
+          },
+          {
+            "pos": "LM",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SRB_2022_11",
+        "name_cn": "Luka Jović",
+        "name_en": "Luka Jović",
+        "age": 22,
+        "squad_no": 11,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 73
+          },
+          {
+            "pos": "LW",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SRB_2022_12",
+        "name_cn": "Predrag Rajković",
+        "name_en": "Predrag Rajković",
+        "age": 28,
+        "squad_no": 12,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 72
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SRB_2022_13",
+        "name_cn": "Stefan Mitrović",
+        "name_en": "Stefan Mitrović",
+        "age": 26,
+        "squad_no": 13,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SRB_2022_14",
+        "name_cn": "Andrija Živković",
+        "name_en": "Andrija Živković",
+        "age": 22,
+        "squad_no": 14,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SRB_2022_15",
+        "name_cn": "Srđan Babić",
+        "name_en": "Srđan Babić",
+        "age": 33,
+        "squad_no": 15,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SRB_2022_16",
+        "name_cn": "Saša Lukić",
+        "name_en": "Saša Lukić",
+        "age": 25,
+        "squad_no": 16,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SRB_2022_17",
+        "name_cn": "科斯蒂奇",
+        "name_en": "Filip Kostić",
+        "age": 31,
+        "squad_no": 17,
+        "positions": [
+          {
+            "pos": "LM",
+            "ovr": 84
+          },
+          {
+            "pos": "LW",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SRB_2022_18",
+        "name_cn": "弗拉霍维奇",
+        "name_en": "Dušan Vlahović",
+        "age": 23,
+        "squad_no": 18,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 87
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SRB_2022_19",
+        "name_cn": "Uroš Račić",
+        "name_en": "Uroš Račić",
+        "age": 22,
+        "squad_no": 19,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SRB_2022_20",
+        "name_cn": "Sergej Milinković-Savić",
+        "name_en": "Sergej Milinković-Savić",
+        "age": 28,
+        "squad_no": 20,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SRB_2022_21",
+        "name_cn": "Filip Đuričić",
+        "name_en": "Filip Đuričić",
+        "age": 27,
+        "squad_no": 21,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SRB_2022_22",
+        "name_cn": "Darko Lazović",
+        "name_en": "Darko Lazović",
+        "age": 33,
+        "squad_no": 22,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SRB_2022_23",
+        "name_cn": "Vanja Milinković-Savić",
+        "name_en": "Vanja Milinković-Savić",
+        "age": 23,
+        "squad_no": 23,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SRB_2022_24",
+        "name_cn": "Ivan Ilić",
+        "name_en": "Ivan Ilić",
+        "age": 30,
+        "squad_no": 24,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 68
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SRB_2022_25",
+        "name_cn": "Filip Mladenović",
+        "name_en": "Filip Mladenović",
+        "age": 22,
+        "squad_no": 25,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 68
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "SRB_2022_26",
+        "name_cn": "Marko Grujić",
+        "name_en": "Marko Grujić",
+        "age": 23,
+        "squad_no": 26,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 68
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,1803 @@
+{
+  "country_code": "RUS",
+  "squads": {
+    "1990": [
+      {
+        "id": "RUS_1990_01",
+        "name_cn": "Rinat Dasayev",
+        "name_en": "Rinat Dasayev",
+        "age": 31,
+        "squad_no": 1,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 68
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "RUS_1990_02",
+        "name_cn": "Volodymyr Bezsonov",
+        "name_en": "Volodymyr Bezsonov",
+        "age": 32,
+        "squad_no": 2,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 67
+          },
+          {
+            "pos": "RB",
+            "ovr": 64
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "RUS_1990_03",
+        "name_cn": "Vagiz Khidiyatullin",
+        "name_en": "Vagiz Khidiyatullin",
+        "age": 25,
+        "squad_no": 3,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 67
+          },
+          {
+            "pos": "LB",
+            "ovr": 64
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "RUS_1990_04",
+        "name_cn": "Oleh Kuznetsov",
+        "name_en": "Oleh Kuznetsov",
+        "age": 23,
+        "squad_no": 4,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 67
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "RUS_1990_05",
+        "name_cn": "Anatoliy Demyanenko",
+        "name_en": "Anatoliy Demyanenko",
+        "age": 33,
+        "squad_no": 5,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 67
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "RUS_1990_06",
+        "name_cn": "Vasyl Rats",
+        "name_en": "Vasyl Rats",
+        "age": 26,
+        "squad_no": 6,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 67
+          },
+          {
+            "pos": "DM",
+            "ovr": 65
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "RUS_1990_07",
+        "name_cn": "Sergei Aleinikov",
+        "name_en": "Sergei Aleinikov",
+        "age": 25,
+        "squad_no": 7,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 67
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "RUS_1990_08",
+        "name_cn": "Gennadiy Litovchenko",
+        "name_en": "Gennadiy Litovchenko",
+        "age": 30,
+        "squad_no": 8,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 67
+          },
+          {
+            "pos": "DM",
+            "ovr": 65
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "RUS_1990_09",
+        "name_cn": "Oleksandr Zavarov",
+        "name_en": "Oleksandr Zavarov",
+        "age": 28,
+        "squad_no": 9,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 67
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "RUS_1990_10",
+        "name_cn": "Oleh Protasov",
+        "name_en": "Oleh Protasov",
+        "age": 28,
+        "squad_no": 10,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 67
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "RUS_1990_11",
+        "name_cn": "Igor Dobrovolski",
+        "name_en": "Igor Dobrovolski",
+        "age": 25,
+        "squad_no": 11,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 67
+          },
+          {
+            "pos": "LW",
+            "ovr": 65
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "RUS_1990_12",
+        "name_cn": "Aleksandr Borodyuk",
+        "name_en": "Aleksandr Borodyuk",
+        "age": 24,
+        "squad_no": 12,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 65
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "RUS_1990_13",
+        "name_cn": "Akhrik Tsveiba",
+        "name_en": "Akhrik Tsveiba",
+        "age": 33,
+        "squad_no": 13,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 65
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "RUS_1990_14",
+        "name_cn": "Volodymyr Lyutyi",
+        "name_en": "Volodymyr Lyutyi",
+        "age": 24,
+        "squad_no": 14,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 65
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "RUS_1990_15",
+        "name_cn": "Ivan Yaremchuk",
+        "name_en": "Ivan Yaremchuk",
+        "age": 29,
+        "squad_no": 15,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 65
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "RUS_1990_16",
+        "name_cn": "Viktor Chanov",
+        "name_en": "Viktor Chanov",
+        "age": 22,
+        "squad_no": 16,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 66
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "RUS_1990_17",
+        "name_cn": "Andrei Zygmantovich",
+        "name_en": "Andrei Zygmantovich",
+        "age": 24,
+        "squad_no": 17,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 63
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "RUS_1990_18",
+        "name_cn": "Igor Shalimov",
+        "name_en": "Igor Shalimov",
+        "age": 28,
+        "squad_no": 18,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 63
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "RUS_1990_19",
+        "name_cn": "Sergei Fokin",
+        "name_en": "Sergei Fokin",
+        "age": 29,
+        "squad_no": 19,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 63
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "RUS_1990_20",
+        "name_cn": "Sergei Gorlukovich",
+        "name_en": "Sergei Gorlukovich",
+        "age": 24,
+        "squad_no": 20,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 63
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "RUS_1990_21",
+        "name_cn": "Valeri Broshin",
+        "name_en": "Valeri Broshin",
+        "age": 32,
+        "squad_no": 21,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 63
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "RUS_1990_22",
+        "name_cn": "Aleksandr Uvarov",
+        "name_en": "Aleksandr Uvarov",
+        "age": 30,
+        "squad_no": 22,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 64
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      }
+    ],
+    "1994": [
+      {
+        "id": "RUS_1994_01",
+        "name_cn": "Stanislav Cherchesov",
+        "name_en": "Stanislav Cherchesov",
+        "age": 30,
+        "squad_no": 1,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "RUS_1994_02",
+        "name_cn": "Dmitri Kuznetsov",
+        "name_en": "Dmitri Kuznetsov",
+        "age": 33,
+        "squad_no": 2,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 68
+          },
+          {
+            "pos": "RB",
+            "ovr": 65
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "RUS_1994_03",
+        "name_cn": "Sergei Gorlukovich",
+        "name_en": "Sergei Gorlukovich",
+        "age": 27,
+        "squad_no": 3,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 68
+          },
+          {
+            "pos": "LB",
+            "ovr": 65
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "RUS_1994_04",
+        "name_cn": "Dmitri Galiamin",
+        "name_en": "Dmitri Galiamin",
+        "age": 29,
+        "squad_no": 4,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 68
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "RUS_1994_05",
+        "name_cn": "Yuri Nikiforov",
+        "name_en": "Yuri Nikiforov",
+        "age": 26,
+        "squad_no": 5,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 68
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "RUS_1994_06",
+        "name_cn": "Vladislav Ternavsky",
+        "name_en": "Vladislav Ternavsky",
+        "age": 26,
+        "squad_no": 6,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 68
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "RUS_1994_07",
+        "name_cn": "Andrey Pyatnitsky",
+        "name_en": "Andrey Pyatnitsky",
+        "age": 30,
+        "squad_no": 7,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 68
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "RUS_1994_08",
+        "name_cn": "Dmitri Popov",
+        "name_en": "Dmitri Popov",
+        "age": 31,
+        "squad_no": 8,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 68
+          },
+          {
+            "pos": "DM",
+            "ovr": 66
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "RUS_1994_09",
+        "name_cn": "Oleg Salenko",
+        "name_en": "Oleg Salenko",
+        "age": 22,
+        "squad_no": 9,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 68
+          },
+          {
+            "pos": "CAM",
+            "ovr": 65
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "RUS_1994_10",
+        "name_cn": "Valeri Karpin",
+        "name_en": "Valeri Karpin",
+        "age": 28,
+        "squad_no": 10,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 68
+          },
+          {
+            "pos": "CAM",
+            "ovr": 66
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "RUS_1994_11",
+        "name_cn": "Vladimir Beschastnykh",
+        "name_en": "Vladimir Beschastnykh",
+        "age": 23,
+        "squad_no": 11,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 68
+          },
+          {
+            "pos": "LW",
+            "ovr": 66
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "RUS_1994_12",
+        "name_cn": "Omari Tetradze",
+        "name_en": "Omari Tetradze",
+        "age": 33,
+        "squad_no": 12,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 66
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "RUS_1994_13",
+        "name_cn": "Aleksandr Borodyuk",
+        "name_en": "Aleksandr Borodyuk",
+        "age": 24,
+        "squad_no": 13,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 66
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "RUS_1994_14",
+        "name_cn": "Igor Korneev",
+        "name_en": "Igor Korneev",
+        "age": 22,
+        "squad_no": 14,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 66
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "RUS_1994_15",
+        "name_cn": "Dmitri Radchenko",
+        "name_en": "Dmitri Radchenko",
+        "age": 25,
+        "squad_no": 15,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 66
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "RUS_1994_16",
+        "name_cn": "Dmitri Kharine",
+        "name_en": "Dmitri Kharine",
+        "age": 26,
+        "squad_no": 16,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 67
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "RUS_1994_17",
+        "name_cn": "Ilya Tsymbalar",
+        "name_en": "Ilya Tsymbalar",
+        "age": 29,
+        "squad_no": 17,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 64
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "RUS_1994_18",
+        "name_cn": "Viktor Onopko",
+        "name_en": "Viktor Onopko",
+        "age": 32,
+        "squad_no": 18,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 64
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "RUS_1994_19",
+        "name_cn": "Aleksandr Mostovoi",
+        "name_en": "Aleksandr Mostovoi",
+        "age": 23,
+        "squad_no": 19,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 64
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "RUS_1994_20",
+        "name_cn": "Igor Lediakhov",
+        "name_en": "Igor Lediakhov",
+        "age": 29,
+        "squad_no": 20,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 64
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "RUS_1994_21",
+        "name_cn": "Dmitri Khlestov",
+        "name_en": "Dmitri Khlestov",
+        "age": 33,
+        "squad_no": 21,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 64
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "RUS_1994_22",
+        "name_cn": "Sergei Yuran",
+        "name_en": "Sergei Yuran",
+        "age": 27,
+        "squad_no": 22,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 64
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      }
+    ],
+    "2002": [
+      {
+        "id": "RUS_2002_01",
+        "name_cn": "Ruslan Nigmatullin",
+        "name_en": "Ruslan Nigmatullin",
+        "age": 26,
+        "squad_no": 1,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "RUS_2002_02",
+        "name_cn": "Yuri Kovtun",
+        "name_en": "Yuri Kovtun",
+        "age": 27,
+        "squad_no": 2,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 69
+          },
+          {
+            "pos": "RB",
+            "ovr": 66
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "RUS_2002_03",
+        "name_cn": "Yuri Nikiforov",
+        "name_en": "Yuri Nikiforov",
+        "age": 27,
+        "squad_no": 3,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 69
+          },
+          {
+            "pos": "LB",
+            "ovr": 66
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "RUS_2002_04",
+        "name_cn": "Alexey Smertin",
+        "name_en": "Alexey Smertin",
+        "age": 30,
+        "squad_no": 4,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "RUS_2002_05",
+        "name_cn": "Andrei Solomatin",
+        "name_en": "Andrei Solomatin",
+        "age": 30,
+        "squad_no": 5,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "RUS_2002_06",
+        "name_cn": "Igor Semshov",
+        "name_en": "Igor Semshov",
+        "age": 26,
+        "squad_no": 6,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 69
+          },
+          {
+            "pos": "DM",
+            "ovr": 67
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "RUS_2002_07",
+        "name_cn": "Viktor Onopko",
+        "name_en": "Viktor Onopko",
+        "age": 27,
+        "squad_no": 7,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "RUS_2002_08",
+        "name_cn": "Valeri Karpin",
+        "name_en": "Valeri Karpin",
+        "age": 22,
+        "squad_no": 8,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 69
+          },
+          {
+            "pos": "DM",
+            "ovr": 67
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "RUS_2002_09",
+        "name_cn": "Yegor Titov",
+        "name_en": "Yegor Titov",
+        "age": 28,
+        "squad_no": 9,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "RUS_2002_10",
+        "name_cn": "Aleksandr Mostovoi",
+        "name_en": "Aleksandr Mostovoi",
+        "age": 23,
+        "squad_no": 10,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 69
+          },
+          {
+            "pos": "CAM",
+            "ovr": 67
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "RUS_2002_11",
+        "name_cn": "Vladimir Beschastnykh",
+        "name_en": "Vladimir Beschastnykh",
+        "age": 27,
+        "squad_no": 11,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 69
+          },
+          {
+            "pos": "LW",
+            "ovr": 67
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "RUS_2002_12",
+        "name_cn": "Stanislav Cherchesov",
+        "name_en": "Stanislav Cherchesov",
+        "age": 32,
+        "squad_no": 12,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 68
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "RUS_2002_13",
+        "name_cn": "Vyacheslav Dayev",
+        "name_en": "Vyacheslav Dayev",
+        "age": 31,
+        "squad_no": 13,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 67
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "RUS_2002_14",
+        "name_cn": "Igor Chugainov",
+        "name_en": "Igor Chugainov",
+        "age": 25,
+        "squad_no": 14,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 67
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "RUS_2002_15",
+        "name_cn": "Dmitri Alenichev",
+        "name_en": "Dmitri Alenichev",
+        "age": 31,
+        "squad_no": 15,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 67
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "RUS_2002_16",
+        "name_cn": "Aleksandr Kerzhakov",
+        "name_en": "Aleksandr Kerzhakov",
+        "age": 31,
+        "squad_no": 16,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 67
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "RUS_2002_17",
+        "name_cn": "Sergei Semak",
+        "name_en": "Sergei Semak",
+        "age": 32,
+        "squad_no": 17,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 65
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "RUS_2002_18",
+        "name_cn": "Dmitri Sennikov",
+        "name_en": "Dmitri Sennikov",
+        "age": 32,
+        "squad_no": 18,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 65
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "RUS_2002_19",
+        "name_cn": "Ruslan Pimenov",
+        "name_en": "Ruslan Pimenov",
+        "age": 30,
+        "squad_no": 19,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 65
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "RUS_2002_20",
+        "name_cn": "Marat Izmailov",
+        "name_en": "Marat Izmailov",
+        "age": 24,
+        "squad_no": 20,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 65
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "RUS_2002_21",
+        "name_cn": "Dmitri Khokhlov",
+        "name_en": "Dmitri Khokhlov",
+        "age": 26,
+        "squad_no": 21,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 65
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "RUS_2002_22",
+        "name_cn": "Dmitri Sychev",
+        "name_en": "Dmitri Sychev",
+        "age": 27,
+        "squad_no": 22,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 65
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "RUS_2002_23",
+        "name_cn": "Aleksandr Filimonov",
+        "name_en": "Aleksandr Filimonov",
+        "age": 27,
+        "squad_no": 23,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 65
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      }
+    ],
+    "2014": [
+      {
+        "id": "RUS_2014_01",
+        "name_cn": "Igor Akinfeev",
+        "name_en": "Igor Akinfeev",
+        "age": 32,
+        "squad_no": 1,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "RUS_2014_02",
+        "name_cn": "Aleksei Kozlov",
+        "name_en": "Aleksei Kozlov",
+        "age": 30,
+        "squad_no": 2,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 69
+          },
+          {
+            "pos": "RB",
+            "ovr": 66
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "RUS_2014_03",
+        "name_cn": "Georgi Shchennikov",
+        "name_en": "Georgi Shchennikov",
+        "age": 29,
+        "squad_no": 3,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 69
+          },
+          {
+            "pos": "LB",
+            "ovr": 66
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "RUS_2014_04",
+        "name_cn": "Sergei Ignashevich",
+        "name_en": "Sergei Ignashevich",
+        "age": 33,
+        "squad_no": 4,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "RUS_2014_05",
+        "name_cn": "Andrei Semyonov",
+        "name_en": "Andrei Semyonov",
+        "age": 29,
+        "squad_no": 5,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "RUS_2014_06",
+        "name_cn": "Maksim Kanunnikov",
+        "name_en": "Maksim Kanunnikov",
+        "age": 23,
+        "squad_no": 6,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "RUS_2014_07",
+        "name_cn": "Igor Denisov",
+        "name_en": "Igor Denisov",
+        "age": 28,
+        "squad_no": 7,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "RUS_2014_08",
+        "name_cn": "Denis Glushakov",
+        "name_en": "Denis Glushakov",
+        "age": 31,
+        "squad_no": 8,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 69
+          },
+          {
+            "pos": "DM",
+            "ovr": 67
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "RUS_2014_09",
+        "name_cn": "Aleksandr Kokorin",
+        "name_en": "Aleksandr Kokorin",
+        "age": 26,
+        "squad_no": 9,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 69
+          },
+          {
+            "pos": "CAM",
+            "ovr": 66
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "RUS_2014_10",
+        "name_cn": "Alan Dzagoev",
+        "name_en": "Alan Dzagoev",
+        "age": 29,
+        "squad_no": 10,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 69
+          },
+          {
+            "pos": "CAM",
+            "ovr": 67
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "RUS_2014_11",
+        "name_cn": "Aleksandr Kerzhakov",
+        "name_en": "Aleksandr Kerzhakov",
+        "age": 32,
+        "squad_no": 11,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 69
+          },
+          {
+            "pos": "LW",
+            "ovr": 67
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "RUS_2014_12",
+        "name_cn": "Yuri Lodygin",
+        "name_en": "Yuri Lodygin",
+        "age": 24,
+        "squad_no": 12,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 68
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "RUS_2014_13",
+        "name_cn": "Vladimir Granat",
+        "name_en": "Vladimir Granat",
+        "age": 24,
+        "squad_no": 13,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 67
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "RUS_2014_14",
+        "name_cn": "Vasili Berezutski",
+        "name_en": "Vasili Berezutski",
+        "age": 32,
+        "squad_no": 14,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 67
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "RUS_2014_15",
+        "name_cn": "Pavel Mogilevets",
+        "name_en": "Pavel Mogilevets",
+        "age": 27,
+        "squad_no": 15,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 67
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "RUS_2014_16",
+        "name_cn": "Sergey Ryzhikov",
+        "name_en": "Sergey Ryzhikov",
+        "age": 28,
+        "squad_no": 16,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 68
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "RUS_2014_17",
+        "name_cn": "Oleg Shatov",
+        "name_en": "Oleg Shatov",
+        "age": 32,
+        "squad_no": 17,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 65
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "RUS_2014_18",
+        "name_cn": "Yuri Zhirkov",
+        "name_en": "Yuri Zhirkov",
+        "age": 31,
+        "squad_no": 18,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 65
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "RUS_2014_19",
+        "name_cn": "Aleksandr Samedov",
+        "name_en": "Aleksandr Samedov",
+        "age": 31,
+        "squad_no": 19,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 65
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "RUS_2014_20",
+        "name_cn": "Viktor Fayzulin",
+        "name_en": "Viktor Fayzulin",
+        "age": 28,
+        "squad_no": 20,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 65
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "RUS_2014_21",
+        "name_cn": "Aleksei Ionov",
+        "name_en": "Aleksei Ionov",
+        "age": 23,
+        "squad_no": 21,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 65
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "RUS_2014_22",
+        "name_cn": "Andrey Yeshchenko",
+        "name_en": "Andrey Yeshchenko",
+        "age": 23,
+        "squad_no": 22,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 65
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "RUS_2014_23",
+        "name_cn": "Dmitri Kombarov",
+        "name_en": "Dmitri Kombarov",
+        "age": 24,
+        "squad_no": 23,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 64
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      }
+    ],
+    "2018": [
+      {
+        "id": "RUS_2018_01",
+        "name_cn": "Igor Akinfeev",
+        "name_en": "Igor Akinfeev",
+        "age": 27,
+        "squad_no": 1,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "RUS_2018_02",
+        "name_cn": "Mário Fernandes",
+        "name_en": "Mário Fernandes",
+        "age": 25,
+        "squad_no": 2,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 69
+          },
+          {
+            "pos": "RB",
+            "ovr": 66
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "RUS_2018_03",
+        "name_cn": "Ilya Kutepov",
+        "name_en": "Ilya Kutepov",
+        "age": 27,
+        "squad_no": 3,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 69
+          },
+          {
+            "pos": "LB",
+            "ovr": 66
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "RUS_2018_04",
+        "name_cn": "Sergei Ignashevich",
+        "name_en": "Sergei Ignashevich",
+        "age": 27,
+        "squad_no": 4,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "RUS_2018_05",
+        "name_cn": "Andrei Semyonov",
+        "name_en": "Andrei Semyonov",
+        "age": 32,
+        "squad_no": 5,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "RUS_2018_06",
+        "name_cn": "Denis Cheryshev",
+        "name_en": "Denis Cheryshev",
+        "age": 26,
+        "squad_no": 6,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 69
+          },
+          {
+            "pos": "DM",
+            "ovr": 67
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "RUS_2018_07",
+        "name_cn": "Daler Kuzyayev",
+        "name_en": "Daler Kuzyayev",
+        "age": 33,
+        "squad_no": 7,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "RUS_2018_08",
+        "name_cn": "Yury Gazinsky",
+        "name_en": "Yury Gazinsky",
+        "age": 26,
+        "squad_no": 8,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 69
+          },
+          {
+            "pos": "DM",
+            "ovr": 67
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "RUS_2018_09",
+        "name_cn": "Alan Dzagoev",
+        "name_en": "Alan Dzagoev",
+        "age": 31,
+        "squad_no": 9,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "RUS_2018_10",
+        "name_cn": "Fyodor Smolov",
+        "name_en": "Fyodor Smolov",
+        "age": 32,
+        "squad_no": 10,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "RUS_2018_11",
+        "name_cn": "Roman Zobnin",
+        "name_en": "Roman Zobnin",
+        "age": 28,
+        "squad_no": 11,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "RUS_2018_12",
+        "name_cn": "Andrey Lunyov",
+        "name_en": "Andrey Lunyov",
+        "age": 26,
+        "squad_no": 12,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 68
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "RUS_2018_13",
+        "name_cn": "Fyodor Kudryashov",
+        "name_en": "Fyodor Kudryashov",
+        "age": 29,
+        "squad_no": 13,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 67
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "RUS_2018_14",
+        "name_cn": "Vladimir Granat",
+        "name_en": "Vladimir Granat",
+        "age": 27,
+        "squad_no": 14,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 67
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "RUS_2018_15",
+        "name_cn": "Aleksei Miranchuk",
+        "name_en": "Aleksei Miranchuk",
+        "age": 33,
+        "squad_no": 15,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 67
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "RUS_2018_17",
+        "name_cn": "Aleksandr Golovin",
+        "name_en": "Aleksandr Golovin",
+        "age": 31,
+        "squad_no": 17,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 65
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "RUS_2018_18",
+        "name_cn": "Yuri Zhirkov",
+        "name_en": "Yuri Zhirkov",
+        "age": 30,
+        "squad_no": 18,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 65
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "RUS_2018_19",
+        "name_cn": "Aleksandr Samedov",
+        "name_en": "Aleksandr Samedov",
+        "age": 29,
+        "squad_no": 19,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 65
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "RUS_2018_20",
+        "name_cn": "Vladimir Gabulov",
+        "name_en": "Vladimir Gabulov",
+        "age": 28,
+        "squad_no": 20,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 66
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "RUS_2018_21",
+        "name_cn": "Aleksandr Yerokhin",
+        "name_en": "Aleksandr Yerokhin",
+        "age": 24,
+        "squad_no": 21,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 65
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "RUS_2018_22",
+        "name_cn": "Artem Dzyuba",
+        "name_en": "Artem Dzyuba",
+        "age": 24,
+        "squad_no": 22,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 65
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "RUS_2018_23",
+        "name_cn": "Igor Smolnikov",
+        "name_en": "Igor Smolnikov",
+        "age": 22,
+        "squad_no": 23,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 64
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      }
+    ]
+  }
+}

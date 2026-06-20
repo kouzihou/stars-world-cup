@@ -1,0 +1,351 @@
+{
+  "country_code": "CZE_LEGACY",
+  "squads": {
+    "1990": [
+      {
+        "id": "CZE_LEGACY_1990_01",
+        "name_cn": "Jan Stejskal",
+        "name_en": "Jan Stejskal",
+        "age": 33,
+        "squad_no": 1,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 72
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CZE_LEGACY_1990_02",
+        "name_cn": "Július Bielik",
+        "name_en": "Július Bielik",
+        "age": 23,
+        "squad_no": 2,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 71
+          },
+          {
+            "pos": "RB",
+            "ovr": 68
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CZE_LEGACY_1990_03",
+        "name_cn": "Miroslav Kadlec",
+        "name_en": "Miroslav Kadlec",
+        "age": 32,
+        "squad_no": 3,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 71
+          },
+          {
+            "pos": "LB",
+            "ovr": 68
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CZE_LEGACY_1990_04",
+        "name_cn": "赫鲁巴",
+        "name_en": "Ivan Hašek",
+        "age": 30,
+        "squad_no": 4,
+        "positions": [
+          {
+            "pos": "DM",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CZE_LEGACY_1990_05",
+        "name_cn": "Ján Kocian",
+        "name_en": "Ján Kocian",
+        "age": 28,
+        "squad_no": 5,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CZE_LEGACY_1990_06",
+        "name_cn": "František Straka",
+        "name_en": "František Straka",
+        "age": 25,
+        "squad_no": 6,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CZE_LEGACY_1990_07",
+        "name_cn": "Michal Bílek",
+        "name_en": "Michal Bílek",
+        "age": 30,
+        "squad_no": 7,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CZE_LEGACY_1990_08",
+        "name_cn": "Jozef Chovanec",
+        "name_en": "Jozef Chovanec",
+        "age": 32,
+        "squad_no": 8,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 71
+          },
+          {
+            "pos": "DM",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CZE_LEGACY_1990_09",
+        "name_cn": "库布拉",
+        "name_en": "Luboš Kubík",
+        "age": 29,
+        "squad_no": 9,
+        "positions": [
+          {
+            "pos": "CAM",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CZE_LEGACY_1990_10",
+        "name_cn": "斯库赫拉夫",
+        "name_en": "Tomáš Skuhravý",
+        "age": 30,
+        "squad_no": 10,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 87
+          }
+        ],
+        "tags": [
+          "金靴争夺"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CZE_LEGACY_1990_11",
+        "name_cn": "Ľubomír Moravčík",
+        "name_en": "Ľubomír Moravčík",
+        "age": 24,
+        "squad_no": 11,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CZE_LEGACY_1990_12",
+        "name_cn": "Peter Fieber",
+        "name_en": "Peter Fieber",
+        "age": 31,
+        "squad_no": 12,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CZE_LEGACY_1990_13",
+        "name_cn": "Jiří Němec",
+        "name_en": "Jiří Němec",
+        "age": 26,
+        "squad_no": 13,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CZE_LEGACY_1990_14",
+        "name_cn": "Vladimír Weiss",
+        "name_en": "Vladimír Weiss",
+        "age": 27,
+        "squad_no": 14,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CZE_LEGACY_1990_15",
+        "name_cn": "Vladimír Kinier",
+        "name_en": "Vladimír Kinier",
+        "age": 28,
+        "squad_no": 15,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CZE_LEGACY_1990_16",
+        "name_cn": "Viliam Hýravý",
+        "name_en": "Viliam Hýravý",
+        "age": 32,
+        "squad_no": 16,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CZE_LEGACY_1990_17",
+        "name_cn": "Ivo Knoflíček",
+        "name_en": "Ivo Knoflíček",
+        "age": 27,
+        "squad_no": 17,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 67
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CZE_LEGACY_1990_18",
+        "name_cn": "Milan Luhový",
+        "name_en": "Milan Luhový",
+        "age": 23,
+        "squad_no": 18,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 67
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CZE_LEGACY_1990_19",
+        "name_cn": "Stanislav Griga",
+        "name_en": "Stanislav Griga",
+        "age": 23,
+        "squad_no": 19,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 67
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CZE_LEGACY_1990_20",
+        "name_cn": "Václav Němeček",
+        "name_en": "Václav Němeček",
+        "age": 30,
+        "squad_no": 20,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 67
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CZE_LEGACY_1990_21",
+        "name_cn": "Luděk Mikloško",
+        "name_en": "Luděk Mikloško",
+        "age": 32,
+        "squad_no": 21,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 68
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CZE_LEGACY_1990_22",
+        "name_cn": "Peter Palúch",
+        "name_en": "Peter Palúch",
+        "age": 23,
+        "squad_no": 22,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 68
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      }
+    ]
+  }
+}

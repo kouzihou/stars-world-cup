@@ -1,0 +1,1487 @@
+{
+  "country_code": "RSA",
+  "squads": {
+    "1998": [
+      {
+        "id": "RSA_1998_01",
+        "name_cn": "Hans Vonk",
+        "name_en": "Hans Vonk",
+        "age": 25,
+        "squad_no": 1,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "RSA_1998_02",
+        "name_cn": "Themba Mnguni",
+        "name_en": "Themba Mnguni",
+        "age": 26,
+        "squad_no": 2,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 68
+          },
+          {
+            "pos": "RB",
+            "ovr": 65
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "RSA_1998_03",
+        "name_cn": "David Nyathi",
+        "name_en": "David Nyathi",
+        "age": 28,
+        "squad_no": 3,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 68
+          },
+          {
+            "pos": "LB",
+            "ovr": 65
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "RSA_1998_04",
+        "name_cn": "Willem Jackson",
+        "name_en": "Willem Jackson",
+        "age": 28,
+        "squad_no": 4,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 68
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "RSA_1998_05",
+        "name_cn": "Mark Fish",
+        "name_en": "Mark Fish",
+        "age": 29,
+        "squad_no": 5,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 68
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "RSA_1998_06",
+        "name_cn": "Phil Masinga",
+        "name_en": "Phil Masinga",
+        "age": 32,
+        "squad_no": 6,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 68
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "RSA_1998_07",
+        "name_cn": "Quinton Fortune",
+        "name_en": "Quinton Fortune",
+        "age": 28,
+        "squad_no": 7,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 68
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "RSA_1998_08",
+        "name_cn": "Alfred Phiri",
+        "name_en": "Alfred Phiri",
+        "age": 28,
+        "squad_no": 8,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 68
+          },
+          {
+            "pos": "DM",
+            "ovr": 66
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "RSA_1998_09",
+        "name_cn": "Shaun Bartlett",
+        "name_en": "Shaun Bartlett",
+        "age": 27,
+        "squad_no": 9,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 68
+          },
+          {
+            "pos": "CAM",
+            "ovr": 65
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "RSA_1998_10",
+        "name_cn": "John Moshoeu",
+        "name_en": "John Moshoeu",
+        "age": 22,
+        "squad_no": 10,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 68
+          },
+          {
+            "pos": "CAM",
+            "ovr": 66
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "RSA_1998_11",
+        "name_cn": "Helman Mkhalele",
+        "name_en": "Helman Mkhalele",
+        "age": 28,
+        "squad_no": 11,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 68
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "RSA_1998_12",
+        "name_cn": "Brendan Augustine",
+        "name_en": "Brendan Augustine",
+        "age": 32,
+        "squad_no": 12,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 66
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "RSA_1998_13",
+        "name_cn": "Delron Buckley",
+        "name_en": "Delron Buckley",
+        "age": 23,
+        "squad_no": 13,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 66
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "RSA_1998_14",
+        "name_cn": "Jerry Sikhosana",
+        "name_en": "Jerry Sikhosana",
+        "age": 30,
+        "squad_no": 14,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 66
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "RSA_1998_15",
+        "name_cn": "Doctor Khumalo",
+        "name_en": "Doctor Khumalo",
+        "age": 22,
+        "squad_no": 15,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 66
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "RSA_1998_16",
+        "name_cn": "Brian Baloyi",
+        "name_en": "Brian Baloyi",
+        "age": 32,
+        "squad_no": 16,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 67
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "RSA_1998_17",
+        "name_cn": "Benni McCarthy",
+        "name_en": "Benni McCarthy",
+        "age": 33,
+        "squad_no": 17,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 64
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "RSA_1998_18",
+        "name_cn": "Lebogang Morula",
+        "name_en": "Lebogang Morula",
+        "age": 31,
+        "squad_no": 18,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 64
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "RSA_1998_19",
+        "name_cn": "拉杜贝",
+        "name_en": "Lucas Radebe",
+        "age": 23,
+        "squad_no": 19,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "RSA_1998_20",
+        "name_cn": "巴拉莫泽",
+        "name_en": "William Mokoena",
+        "age": 33,
+        "squad_no": 20,
+        "positions": [
+          {
+            "pos": "DM",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "RSA_1998_21",
+        "name_cn": "Pierre Issa",
+        "name_en": "Pierre Issa",
+        "age": 31,
+        "squad_no": 21,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 64
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "RSA_1998_22",
+        "name_cn": "Paul Evans",
+        "name_en": "Paul Evans",
+        "age": 22,
+        "squad_no": 22,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 65
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      }
+    ],
+    "2002": [
+      {
+        "id": "RSA_2002_01",
+        "name_cn": "Hans Vonk",
+        "name_en": "Hans Vonk",
+        "age": 33,
+        "squad_no": 1,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "RSA_2002_02",
+        "name_cn": "Cyril Nzama",
+        "name_en": "Cyril Nzama",
+        "age": 23,
+        "squad_no": 2,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 69
+          },
+          {
+            "pos": "RB",
+            "ovr": 66
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "RSA_2002_03",
+        "name_cn": "Bradley Carnell",
+        "name_en": "Bradley Carnell",
+        "age": 27,
+        "squad_no": 3,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 69
+          },
+          {
+            "pos": "LB",
+            "ovr": 66
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "RSA_2002_04",
+        "name_cn": "巴拉莫泽",
+        "name_en": "Aaron Mokoena",
+        "age": 30,
+        "squad_no": 4,
+        "positions": [
+          {
+            "pos": "DM",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "RSA_2002_05",
+        "name_cn": "Jacob Lekgetho",
+        "name_en": "Jacob Lekgetho",
+        "age": 23,
+        "squad_no": 5,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "RSA_2002_06",
+        "name_cn": "MacBeth Sibaya",
+        "name_en": "MacBeth Sibaya",
+        "age": 26,
+        "squad_no": 6,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 69
+          },
+          {
+            "pos": "DM",
+            "ovr": 67
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "RSA_2002_07",
+        "name_cn": "Quinton Fortune",
+        "name_en": "Quinton Fortune",
+        "age": 32,
+        "squad_no": 7,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "RSA_2002_08",
+        "name_cn": "Thabo Mngomeni",
+        "name_en": "Thabo Mngomeni",
+        "age": 26,
+        "squad_no": 8,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 69
+          },
+          {
+            "pos": "DM",
+            "ovr": 67
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "RSA_2002_09",
+        "name_cn": "MacDonald Mukansi",
+        "name_en": "MacDonald Mukansi",
+        "age": 31,
+        "squad_no": 9,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "RSA_2002_10",
+        "name_cn": "Bennett Mnguni",
+        "name_en": "Bennett Mnguni",
+        "age": 23,
+        "squad_no": 10,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 69
+          },
+          {
+            "pos": "CAM",
+            "ovr": 67
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "RSA_2002_11",
+        "name_cn": "Jabu Pule",
+        "name_en": "Jabu Pule",
+        "age": 26,
+        "squad_no": 11,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "RSA_2002_12",
+        "name_cn": "Teboho Mokoena",
+        "name_en": "Teboho Mokoena",
+        "age": 29,
+        "squad_no": 12,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 67
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "RSA_2002_13",
+        "name_cn": "Pierre Issa",
+        "name_en": "Pierre Issa",
+        "age": 28,
+        "squad_no": 13,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 67
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "RSA_2002_14",
+        "name_cn": "Siyabonga Nomvethe",
+        "name_en": "Siyabonga Nomvethe",
+        "age": 28,
+        "squad_no": 14,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 67
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "RSA_2002_15",
+        "name_cn": "Sibusiso Zuma",
+        "name_en": "Sibusiso Zuma",
+        "age": 32,
+        "squad_no": 15,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 67
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "RSA_2002_16",
+        "name_cn": "Andre Arendse",
+        "name_en": "Andre Arendse",
+        "age": 22,
+        "squad_no": 16,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 68
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "RSA_2002_17",
+        "name_cn": "Benni McCarthy",
+        "name_en": "Benni McCarthy",
+        "age": 29,
+        "squad_no": 17,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 65
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "RSA_2002_18",
+        "name_cn": "Delron Buckley",
+        "name_en": "Delron Buckley",
+        "age": 24,
+        "squad_no": 18,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 65
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "RSA_2002_19",
+        "name_cn": "拉杜贝",
+        "name_en": "Lucas Radebe",
+        "age": 30,
+        "squad_no": 19,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "RSA_2002_20",
+        "name_cn": "Calvin Marlin",
+        "name_en": "Calvin Marlin",
+        "age": 25,
+        "squad_no": 20,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 66
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "RSA_2002_21",
+        "name_cn": "Steven Pienaar",
+        "name_en": "Steven Pienaar",
+        "age": 24,
+        "squad_no": 21,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 65
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "RSA_2002_22",
+        "name_cn": "Thabang Molefe",
+        "name_en": "Thabang Molefe",
+        "age": 33,
+        "squad_no": 22,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 65
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "RSA_2002_23",
+        "name_cn": "George Koumantarakis",
+        "name_en": "George Koumantarakis",
+        "age": 28,
+        "squad_no": 23,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 64
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      }
+    ],
+    "2010": [
+      {
+        "id": "RSA_2010_01",
+        "name_cn": "Moeneeb Josephs",
+        "name_en": "Moeneeb Josephs",
+        "age": 30,
+        "squad_no": 1,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "RSA_2010_02",
+        "name_cn": "Siboniso Gaxa",
+        "name_en": "Siboniso Gaxa",
+        "age": 26,
+        "squad_no": 2,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 69
+          },
+          {
+            "pos": "RB",
+            "ovr": 66
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "RSA_2010_03",
+        "name_cn": "Tsepo Masilela",
+        "name_en": "Tsepo Masilela",
+        "age": 32,
+        "squad_no": 3,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 69
+          },
+          {
+            "pos": "LB",
+            "ovr": 66
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "RSA_2010_04",
+        "name_cn": "巴拉莫泽",
+        "name_en": "Aaron Mokoena",
+        "age": 24,
+        "squad_no": 4,
+        "positions": [
+          {
+            "pos": "DM",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "RSA_2010_05",
+        "name_cn": "Anele Ngcongca",
+        "name_en": "Anele Ngcongca",
+        "age": 26,
+        "squad_no": 5,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "RSA_2010_06",
+        "name_cn": "MacBeth Sibaya",
+        "name_en": "MacBeth Sibaya",
+        "age": 32,
+        "squad_no": 6,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 69
+          },
+          {
+            "pos": "DM",
+            "ovr": 67
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "RSA_2010_07",
+        "name_cn": "Lance Davids",
+        "name_en": "Lance Davids",
+        "age": 33,
+        "squad_no": 7,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "RSA_2010_08",
+        "name_cn": "Siphiwe Tshabalala",
+        "name_en": "Siphiwe Tshabalala",
+        "age": 32,
+        "squad_no": 8,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 69
+          },
+          {
+            "pos": "DM",
+            "ovr": 67
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "RSA_2010_09",
+        "name_cn": "Katlego Mphela",
+        "name_en": "Katlego Mphela",
+        "age": 27,
+        "squad_no": 9,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 69
+          },
+          {
+            "pos": "CAM",
+            "ovr": 66
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "RSA_2010_10",
+        "name_cn": "Steven Pienaar",
+        "name_en": "Steven Pienaar",
+        "age": 22,
+        "squad_no": 10,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 69
+          },
+          {
+            "pos": "CAM",
+            "ovr": 67
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "RSA_2010_11",
+        "name_cn": "Teko Modise",
+        "name_en": "Teko Modise",
+        "age": 30,
+        "squad_no": 11,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "RSA_2010_12",
+        "name_cn": "Reneilwe Letsholonyane",
+        "name_en": "Reneilwe Letsholonyane",
+        "age": 30,
+        "squad_no": 12,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 67
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "RSA_2010_13",
+        "name_cn": "Kagisho Dikgacoi",
+        "name_en": "Kagisho Dikgacoi",
+        "age": 24,
+        "squad_no": 13,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 67
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "RSA_2010_14",
+        "name_cn": "Matthew Booth",
+        "name_en": "Matthew Booth",
+        "age": 23,
+        "squad_no": 14,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 67
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "RSA_2010_15",
+        "name_cn": "Lucas Thwala",
+        "name_en": "Lucas Thwala",
+        "age": 22,
+        "squad_no": 15,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 67
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "RSA_2010_16",
+        "name_cn": "Itumeleng Khune",
+        "name_en": "Itumeleng Khune",
+        "age": 22,
+        "squad_no": 16,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 68
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "RSA_2010_17",
+        "name_cn": "Bernard Parker",
+        "name_en": "Bernard Parker",
+        "age": 31,
+        "squad_no": 17,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 65
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "RSA_2010_18",
+        "name_cn": "Siyabonga Nomvethe",
+        "name_en": "Siyabonga Nomvethe",
+        "age": 31,
+        "squad_no": 18,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 65
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "RSA_2010_19",
+        "name_cn": "Surprise Moriri",
+        "name_en": "Surprise Moriri",
+        "age": 28,
+        "squad_no": 19,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 65
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "RSA_2010_20",
+        "name_cn": "Bongani Khumalo",
+        "name_en": "Bongani Khumalo",
+        "age": 30,
+        "squad_no": 20,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 65
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "RSA_2010_21",
+        "name_cn": "Siyabonga Sangweni",
+        "name_en": "Siyabonga Sangweni",
+        "age": 30,
+        "squad_no": 21,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 65
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "RSA_2010_22",
+        "name_cn": "Shu-Aib Walters",
+        "name_en": "Shu-Aib Walters",
+        "age": 23,
+        "squad_no": 22,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 66
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "RSA_2010_23",
+        "name_cn": "Thanduyise Khuboni",
+        "name_en": "Thanduyise Khuboni",
+        "age": 26,
+        "squad_no": 23,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 64
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      }
+    ],
+    "2026": [
+      {
+        "id": "RSA_2026_01",
+        "name_cn": "Ronwen Williams",
+        "name_en": "Ronwen Williams",
+        "age": 25,
+        "squad_no": 1,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "RSA_2026_02",
+        "name_cn": "Ricardo Goss",
+        "name_en": "Ricardo Goss",
+        "age": 33,
+        "squad_no": 2,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "RSA_2026_03",
+        "name_cn": "Sipho Chaine",
+        "name_en": "Sipho Chaine",
+        "age": 33,
+        "squad_no": 3,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "RSA_2026_04",
+        "name_cn": "Khuliso Mudau",
+        "name_en": "Khuliso Mudau",
+        "age": 33,
+        "squad_no": 4,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "RSA_2026_05",
+        "name_cn": "Nkosinathi Sibisi",
+        "name_en": "Nkosinathi Sibisi",
+        "age": 27,
+        "squad_no": 5,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "RSA_2026_06",
+        "name_cn": "Ime Okon",
+        "name_en": "Ime Okon",
+        "age": 25,
+        "squad_no": 6,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "RSA_2026_07",
+        "name_cn": "Khulumani Ndamane",
+        "name_en": "Khulumani Ndamane",
+        "age": 28,
+        "squad_no": 7,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "RSA_2026_08",
+        "name_cn": "Aubrey Modiba",
+        "name_en": "Aubrey Modiba",
+        "age": 32,
+        "squad_no": 8,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "RSA_2026_09",
+        "name_cn": "Samukelo Kabini",
+        "name_en": "Samukelo Kabini",
+        "age": 30,
+        "squad_no": 9,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "RSA_2026_10",
+        "name_cn": "Thabang Matuludi",
+        "name_en": "Thabang Matuludi",
+        "age": 24,
+        "squad_no": 10,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "RSA_2026_11",
+        "name_cn": "Olwethu Makhanya",
+        "name_en": "Olwethu Makhanya",
+        "age": 24,
+        "squad_no": 11,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "RSA_2026_12",
+        "name_cn": "Kamgogelo Sebelebele",
+        "name_en": "Kamgogelo Sebelebele",
+        "age": 24,
+        "squad_no": 12,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 68
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "RSA_2026_13",
+        "name_cn": "Bradley Cross",
+        "name_en": "Bradley Cross",
+        "age": 25,
+        "squad_no": 13,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 68
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "RSA_2026_14",
+        "name_cn": "Mbekezeli Mbokazi",
+        "name_en": "Mbekezeli Mbokazi",
+        "age": 31,
+        "squad_no": 14,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 68
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "RSA_2026_15",
+        "name_cn": "Teboho Mokoena",
+        "name_en": "Teboho Mokoena",
+        "age": 26,
+        "squad_no": 15,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 68
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "RSA_2026_16",
+        "name_cn": "Thalente Mbatha",
+        "name_en": "Thalente Mbatha",
+        "age": 25,
+        "squad_no": 16,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 68
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "RSA_2026_17",
+        "name_cn": "Yaya Sithole",
+        "name_en": "Yaya Sithole",
+        "age": 23,
+        "squad_no": 17,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 68
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "RSA_2026_18",
+        "name_cn": "Jayden Adams",
+        "name_en": "Jayden Adams",
+        "age": 24,
+        "squad_no": 18,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 68
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "RSA_2026_19",
+        "name_cn": "Oswin Appollis",
+        "name_en": "Oswin Appollis",
+        "age": 32,
+        "squad_no": 19,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 66
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "RSA_2026_20",
+        "name_cn": "Iqraam Rayners",
+        "name_en": "Iqraam Rayners",
+        "age": 31,
+        "squad_no": 20,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 66
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "RSA_2026_21",
+        "name_cn": "Tshepang Moremi",
+        "name_en": "Tshepang Moremi",
+        "age": 22,
+        "squad_no": 21,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 66
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "RSA_2026_22",
+        "name_cn": "Relebohile Mofokeng",
+        "name_en": "Relebohile Mofokeng",
+        "age": 30,
+        "squad_no": 22,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 66
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "RSA_2026_23",
+        "name_cn": "Evidence Makgopa",
+        "name_en": "Evidence Makgopa",
+        "age": 29,
+        "squad_no": 23,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 66
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "RSA_2026_24",
+        "name_cn": "Themba Zwane",
+        "name_en": "Themba Zwane",
+        "age": 32,
+        "squad_no": 24,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 66
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "RSA_2026_25",
+        "name_cn": "Lyle Foster",
+        "name_en": "Lyle Foster",
+        "age": 30,
+        "squad_no": 25,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 66
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "RSA_2026_26",
+        "name_cn": "Thapelo Maseko",
+        "name_en": "Thapelo Maseko",
+        "age": 23,
+        "squad_no": 26,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 66
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      }
+    ]
+  }
+}

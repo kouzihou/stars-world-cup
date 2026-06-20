@@ -1,0 +1,3277 @@
+{
+  "country_code": "FRA",
+  "squads": {
+    "1998": [
+      {
+        "id": "FRA_1998_01",
+        "name_cn": "Bernard Lama",
+        "name_en": "Bernard Lama",
+        "age": 30,
+        "squad_no": 1,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "FRA_1998_02",
+        "name_cn": "Vincent Candela",
+        "name_en": "Vincent Candela",
+        "age": 24,
+        "squad_no": 2,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 83
+          },
+          {
+            "pos": "RB",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "FRA_1998_03",
+        "name_cn": "利扎拉祖",
+        "name_en": "Lizarazu",
+        "age": 28,
+        "squad_no": 3,
+        "positions": [
+          {
+            "pos": "LB",
+            "ovr": 85
+          }
+        ],
+        "tags": [
+          "冠军"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "FRA_1998_04",
+        "name_cn": "维埃拉",
+        "name_en": "Vieira",
+        "age": 24,
+        "squad_no": 4,
+        "positions": [
+          {
+            "pos": "DM",
+            "ovr": 87
+          },
+          {
+            "pos": "CM",
+            "ovr": 86
+          }
+        ],
+        "tags": [
+          "冠军"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "FRA_1998_05",
+        "name_cn": "Youri Djorkaeff",
+        "name_en": "Youri Djorkaeff",
+        "age": 22,
+        "squad_no": 5,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 83
+          },
+          {
+            "pos": "DM",
+            "ovr": 81
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "FRA_1998_06",
+        "name_cn": "卡伦布",
+        "name_en": "Karembeu",
+        "age": 26,
+        "squad_no": 6,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 80
+          },
+          {
+            "pos": "DM",
+            "ovr": 79
+          }
+        ],
+        "tags": [
+          "冠军"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "FRA_1998_07",
+        "name_cn": "德尚",
+        "name_en": "Deschamps",
+        "age": 27,
+        "squad_no": 7,
+        "positions": [
+          {
+            "pos": "DM",
+            "ovr": 87
+          },
+          {
+            "pos": "CM",
+            "ovr": 84
+          }
+        ],
+        "tags": [
+          "队长",
+          "冠军"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "FRA_1998_08",
+        "name_cn": "德塞利",
+        "name_en": "Desailly",
+        "age": 22,
+        "squad_no": 8,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 91
+          },
+          {
+            "pos": "DM",
+            "ovr": 87
+          }
+        ],
+        "tags": [
+          "冠军"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "FRA_1998_09",
+        "name_cn": "Stéphane Guivarc'h",
+        "name_en": "Stéphane Guivarc'h",
+        "age": 27,
+        "squad_no": 9,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 83
+          },
+          {
+            "pos": "CAM",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "FRA_1998_10",
+        "name_cn": "齐达内",
+        "name_en": "Zidane",
+        "age": 25,
+        "squad_no": 10,
+        "positions": [
+          {
+            "pos": "CAM",
+            "ovr": 94
+          },
+          {
+            "pos": "CM",
+            "ovr": 92
+          }
+        ],
+        "tags": [
+          "冠军",
+          "决赛梅开二度",
+          "金球奖",
+          "GOAT"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "FRA_1998_11",
+        "name_cn": "皮雷斯",
+        "name_en": "Pirès",
+        "age": 32,
+        "squad_no": 11,
+        "positions": [
+          {
+            "pos": "LM",
+            "ovr": 82
+          },
+          {
+            "pos": "LW",
+            "ovr": 81
+          }
+        ],
+        "tags": [
+          "冠军"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "FRA_1998_12",
+        "name_cn": "阿内尔卡",
+        "name_en": "Anelka",
+        "age": 25,
+        "squad_no": 12,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 82
+          }
+        ],
+        "tags": [
+          "冠军"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "FRA_1998_13",
+        "name_cn": "Bernard Diomède",
+        "name_en": "Bernard Diomède",
+        "age": 32,
+        "squad_no": 13,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 81
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "FRA_1998_14",
+        "name_cn": "亨利",
+        "name_en": "Henry",
+        "age": 23,
+        "squad_no": 14,
+        "positions": [
+          {
+            "pos": "LW",
+            "ovr": 84
+          },
+          {
+            "pos": "ST",
+            "ovr": 83
+          }
+        ],
+        "tags": [
+          "冠军",
+          "未来传奇"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "FRA_1998_15",
+        "name_cn": "图拉姆",
+        "name_en": "Thuram",
+        "age": 27,
+        "squad_no": 15,
+        "positions": [
+          {
+            "pos": "RB",
+            "ovr": 90
+          },
+          {
+            "pos": "CB",
+            "ovr": 88
+          }
+        ],
+        "tags": [
+          "冠军",
+          "半决赛梅开二度"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "FRA_1998_16",
+        "name_cn": "巴特斯",
+        "name_en": "Barthez",
+        "age": 30,
+        "squad_no": 16,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 88
+          }
+        ],
+        "tags": [
+          "冠军"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "FRA_1998_17",
+        "name_cn": "佩蒂特",
+        "name_en": "Petit",
+        "age": 28,
+        "squad_no": 17,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 84
+          },
+          {
+            "pos": "DM",
+            "ovr": 83
+          }
+        ],
+        "tags": [
+          "冠军"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "FRA_1998_18",
+        "name_cn": "布兰科",
+        "name_en": "Blanc",
+        "age": 31,
+        "squad_no": 18,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 87
+          }
+        ],
+        "tags": [
+          "冠军"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "FRA_1998_19",
+        "name_cn": "Alain Boghossian",
+        "name_en": "Alain Boghossian",
+        "age": 33,
+        "squad_no": 19,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 81
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "FRA_1998_20",
+        "name_cn": "特雷泽盖",
+        "name_en": "Trezeguet",
+        "age": 24,
+        "squad_no": 20,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 81
+          }
+        ],
+        "tags": [
+          "冠军"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "FRA_1998_21",
+        "name_cn": "杜加里",
+        "name_en": "Dugarry",
+        "age": 25,
+        "squad_no": 21,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 79
+          }
+        ],
+        "tags": [
+          "冠军"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "FRA_1998_22",
+        "name_cn": "Frank Leboeuf",
+        "name_en": "Frank Leboeuf",
+        "age": 24,
+        "squad_no": 22,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 79
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      }
+    ],
+    "2002": [
+      {
+        "id": "FRA_2002_01",
+        "name_cn": "Ulrich Ramé",
+        "name_en": "Ulrich Ramé",
+        "age": 24,
+        "squad_no": 1,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "FRA_2002_02",
+        "name_cn": "Vincent Candela",
+        "name_en": "Vincent Candela",
+        "age": 28,
+        "squad_no": 2,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 84
+          },
+          {
+            "pos": "RB",
+            "ovr": 81
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "FRA_2002_03",
+        "name_cn": "利扎拉祖",
+        "name_en": "Lizarazu",
+        "age": 22,
+        "squad_no": 3,
+        "positions": [
+          {
+            "pos": "LB",
+            "ovr": 85
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "FRA_2002_04",
+        "name_cn": "维埃拉",
+        "name_en": "Vieira",
+        "age": 24,
+        "squad_no": 4,
+        "positions": [
+          {
+            "pos": "DM",
+            "ovr": 90
+          },
+          {
+            "pos": "CM",
+            "ovr": 87
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "FRA_2002_05",
+        "name_cn": "勒伯夫",
+        "name_en": "Leboeuf",
+        "age": 33,
+        "squad_no": 5,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "FRA_2002_06",
+        "name_cn": "Philippe Christanval",
+        "name_en": "Philippe Christanval",
+        "age": 27,
+        "squad_no": 6,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "FRA_2002_07",
+        "name_cn": "德约卡夫",
+        "name_en": "Djorkaeff",
+        "age": 28,
+        "squad_no": 7,
+        "positions": [
+          {
+            "pos": "CAM",
+            "ovr": 87
+          },
+          {
+            "pos": "CM",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "FRA_2002_08",
+        "name_cn": "德塞利",
+        "name_en": "Desailly",
+        "age": 32,
+        "squad_no": 8,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 87
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "FRA_2002_09",
+        "name_cn": "Claude Makélélé",
+        "name_en": "Claude Makélélé",
+        "age": 33,
+        "squad_no": 9,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "FRA_2002_10",
+        "name_cn": "齐达内",
+        "name_en": "Zidane",
+        "age": 25,
+        "squad_no": 10,
+        "positions": [
+          {
+            "pos": "CAM",
+            "ovr": 95
+          },
+          {
+            "pos": "CM",
+            "ovr": 92
+          }
+        ],
+        "tags": [
+          "金球x3",
+          "GOAT"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "FRA_2002_11",
+        "name_cn": "Djibril Cissé",
+        "name_en": "Djibril Cissé",
+        "age": 26,
+        "squad_no": 11,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 84
+          },
+          {
+            "pos": "CAM",
+            "ovr": 81
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "FRA_2002_12",
+        "name_cn": "亨利",
+        "name_en": "Henry",
+        "age": 24,
+        "squad_no": 12,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 92
+          },
+          {
+            "pos": "LW",
+            "ovr": 90
+          }
+        ],
+        "tags": [
+          "未来金靴"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "FRA_2002_13",
+        "name_cn": "Mikaël Silvestre",
+        "name_en": "Mikaël Silvestre",
+        "age": 33,
+        "squad_no": 13,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 82
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "FRA_2002_14",
+        "name_cn": "Alain Boghossian",
+        "name_en": "Alain Boghossian",
+        "age": 23,
+        "squad_no": 14,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 82
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "FRA_2002_15",
+        "name_cn": "图拉姆",
+        "name_en": "Thuram",
+        "age": 28,
+        "squad_no": 15,
+        "positions": [
+          {
+            "pos": "RB",
+            "ovr": 89
+          },
+          {
+            "pos": "CB",
+            "ovr": 87
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "FRA_2002_16",
+        "name_cn": "巴特斯",
+        "name_en": "Barthez",
+        "age": 22,
+        "squad_no": 16,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 88
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "FRA_2002_17",
+        "name_cn": "Willy Sagnol",
+        "name_en": "Willy Sagnol",
+        "age": 29,
+        "squad_no": 17,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "FRA_2002_18",
+        "name_cn": "Christophe Dugarry",
+        "name_en": "Christophe Dugarry",
+        "age": 25,
+        "squad_no": 18,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "FRA_2002_19",
+        "name_cn": "姆博马",
+        "name_en": "Wiltord",
+        "age": 25,
+        "squad_no": 19,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 83
+          },
+          {
+            "pos": "RW",
+            "ovr": 81
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "FRA_2002_20",
+        "name_cn": "特雷泽盖",
+        "name_en": "Trezeguet",
+        "age": 29,
+        "squad_no": 20,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 90
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "FRA_2002_21",
+        "name_cn": "佩蒂特",
+        "name_en": "Petit",
+        "age": 27,
+        "squad_no": 21,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "FRA_2002_22",
+        "name_cn": "Johan Micoud",
+        "name_en": "Johan Micoud",
+        "age": 26,
+        "squad_no": 22,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "FRA_2002_23",
+        "name_cn": "Grégory Coupet",
+        "name_en": "Grégory Coupet",
+        "age": 25,
+        "squad_no": 23,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      }
+    ],
+    "2006": [
+      {
+        "id": "FRA_2006_01",
+        "name_cn": "Mickaël Landreau",
+        "name_en": "Mickaël Landreau",
+        "age": 25,
+        "squad_no": 1,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "FRA_2006_02",
+        "name_cn": "Jean-Alain Boumsong",
+        "name_en": "Jean-Alain Boumsong",
+        "age": 22,
+        "squad_no": 2,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 84
+          },
+          {
+            "pos": "RB",
+            "ovr": 81
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "FRA_2006_03",
+        "name_cn": "阿比达尔",
+        "name_en": "Abidal",
+        "age": 32,
+        "squad_no": 3,
+        "positions": [
+          {
+            "pos": "LB",
+            "ovr": 84
+          }
+        ],
+        "tags": [
+          "亚军"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "FRA_2006_04",
+        "name_cn": "维埃拉",
+        "name_en": "Vieira",
+        "age": 25,
+        "squad_no": 4,
+        "positions": [
+          {
+            "pos": "DM",
+            "ovr": 87
+          },
+          {
+            "pos": "CM",
+            "ovr": 85
+          }
+        ],
+        "tags": [
+          "亚军"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "FRA_2006_05",
+        "name_cn": "Louis Saha",
+        "name_en": "Louis Saha",
+        "age": 28,
+        "squad_no": 5,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 82
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "FRA_2006_06",
+        "name_cn": "马克莱莱",
+        "name_en": "Makélélé",
+        "age": 27,
+        "squad_no": 6,
+        "positions": [
+          {
+            "pos": "DM",
+            "ovr": 87
+          }
+        ],
+        "tags": [
+          "亚军"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "FRA_2006_07",
+        "name_cn": "马卢达",
+        "name_en": "Malouda",
+        "age": 26,
+        "squad_no": 7,
+        "positions": [
+          {
+            "pos": "LM",
+            "ovr": 84
+          }
+        ],
+        "tags": [
+          "亚军"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "FRA_2006_08",
+        "name_cn": "Vikash Dhorasoo",
+        "name_en": "Vikash Dhorasoo",
+        "age": 23,
+        "squad_no": 8,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 84
+          },
+          {
+            "pos": "DM",
+            "ovr": 82
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "FRA_2006_09",
+        "name_cn": "Sidney Govou",
+        "name_en": "Sidney Govou",
+        "age": 26,
+        "squad_no": 9,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 84
+          },
+          {
+            "pos": "CAM",
+            "ovr": 81
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "FRA_2006_10",
+        "name_cn": "齐达内",
+        "name_en": "Zidane",
+        "age": 27,
+        "squad_no": 10,
+        "positions": [
+          {
+            "pos": "CAM",
+            "ovr": 92
+          },
+          {
+            "pos": "CM",
+            "ovr": 89
+          }
+        ],
+        "tags": [
+          "亚军",
+          "金球",
+          "头顶马特拉齐"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "FRA_2006_11",
+        "name_cn": "Sylvain Wiltord",
+        "name_en": "Sylvain Wiltord",
+        "age": 32,
+        "squad_no": 11,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 84
+          },
+          {
+            "pos": "LW",
+            "ovr": 82
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "FRA_2006_12",
+        "name_cn": "亨利",
+        "name_en": "Henry",
+        "age": 30,
+        "squad_no": 12,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 92
+          },
+          {
+            "pos": "LW",
+            "ovr": 89
+          }
+        ],
+        "tags": [
+          "亚军"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "FRA_2006_13",
+        "name_cn": "Mikaël Silvestre",
+        "name_en": "Mikaël Silvestre",
+        "age": 28,
+        "squad_no": 13,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 82
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "FRA_2006_14",
+        "name_cn": "萨尼奥尔",
+        "name_en": "Sagnol",
+        "age": 32,
+        "squad_no": 14,
+        "positions": [
+          {
+            "pos": "RB",
+            "ovr": 84
+          }
+        ],
+        "tags": [
+          "亚军"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "FRA_2006_15",
+        "name_cn": "图拉姆",
+        "name_en": "Thuram",
+        "age": 30,
+        "squad_no": 15,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 87
+          }
+        ],
+        "tags": [
+          "亚军"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "FRA_2006_16",
+        "name_cn": "巴特斯",
+        "name_en": "Barthez",
+        "age": 27,
+        "squad_no": 16,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 84
+          }
+        ],
+        "tags": [
+          "亚军"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "FRA_2006_17",
+        "name_cn": "Gaël Givet",
+        "name_en": "Gaël Givet",
+        "age": 22,
+        "squad_no": 17,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "FRA_2006_18",
+        "name_cn": "Alou Diarra",
+        "name_en": "Alou Diarra",
+        "age": 23,
+        "squad_no": 18,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "FRA_2006_19",
+        "name_cn": "加拉斯",
+        "name_en": "Gallas",
+        "age": 26,
+        "squad_no": 19,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 86
+          }
+        ],
+        "tags": [
+          "亚军"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "FRA_2006_20",
+        "name_cn": "David Trezeguet",
+        "name_en": "David Trezeguet",
+        "age": 24,
+        "squad_no": 20,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "FRA_2006_21",
+        "name_cn": "Pascal Chimbonda",
+        "name_en": "Pascal Chimbonda",
+        "age": 31,
+        "squad_no": 21,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "FRA_2006_22",
+        "name_cn": "里贝里",
+        "name_en": "Ribéry",
+        "age": 26,
+        "squad_no": 22,
+        "positions": [
+          {
+            "pos": "RW",
+            "ovr": 84
+          },
+          {
+            "pos": "LW",
+            "ovr": 83
+          }
+        ],
+        "tags": [
+          "亚军",
+          "新星"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "FRA_2006_23",
+        "name_cn": "Grégory Coupet",
+        "name_en": "Grégory Coupet",
+        "age": 22,
+        "squad_no": 23,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      }
+    ],
+    "2010": [
+      {
+        "id": "FRA_2010_01",
+        "name_cn": "Djibril Cissé",
+        "name_en": "Djibril Cissé",
+        "age": 23,
+        "squad_no": 1,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 84
+          },
+          {
+            "pos": "CAM",
+            "ovr": 81
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "FRA_2010_02",
+        "name_cn": "Bacary Sagna",
+        "name_en": "Bacary Sagna",
+        "age": 31,
+        "squad_no": 2,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 84
+          },
+          {
+            "pos": "RB",
+            "ovr": 81
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "FRA_2010_03",
+        "name_cn": "Eric Abidal",
+        "name_en": "Eric Abidal",
+        "age": 28,
+        "squad_no": 3,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 84
+          },
+          {
+            "pos": "LB",
+            "ovr": 81
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "FRA_2010_04",
+        "name_cn": "Anthony Réveillère",
+        "name_en": "Anthony Réveillère",
+        "age": 27,
+        "squad_no": 4,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "FRA_2010_05",
+        "name_cn": "加拉斯",
+        "name_en": "Gallas",
+        "age": 33,
+        "squad_no": 5,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "FRA_2010_06",
+        "name_cn": "Marc Planus",
+        "name_en": "Marc Planus",
+        "age": 27,
+        "squad_no": 6,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "FRA_2010_07",
+        "name_cn": "里贝里",
+        "name_en": "Ribéry",
+        "age": 28,
+        "squad_no": 7,
+        "positions": [
+          {
+            "pos": "LW",
+            "ovr": 90
+          },
+          {
+            "pos": "RW",
+            "ovr": 87
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "FRA_2010_08",
+        "name_cn": "古尔库夫",
+        "name_en": "Gourcuff",
+        "age": 31,
+        "squad_no": 8,
+        "positions": [
+          {
+            "pos": "CAM",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "FRA_2010_09",
+        "name_cn": "瓦尔布埃纳",
+        "name_en": "Valbuena",
+        "age": 30,
+        "squad_no": 9,
+        "positions": [
+          {
+            "pos": "CAM",
+            "ovr": 82
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "FRA_2010_10",
+        "name_cn": "阿内尔卡",
+        "name_en": "Anelka",
+        "age": 23,
+        "squad_no": 10,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "FRA_2010_11",
+        "name_cn": "Sidney Govou",
+        "name_en": "Sidney Govou",
+        "age": 28,
+        "squad_no": 11,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "FRA_2010_12",
+        "name_cn": "亨利",
+        "name_en": "Henry",
+        "age": 31,
+        "squad_no": 12,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 87
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "FRA_2010_13",
+        "name_cn": "埃弗拉",
+        "name_en": "Evra",
+        "age": 25,
+        "squad_no": 13,
+        "positions": [
+          {
+            "pos": "LB",
+            "ovr": 87
+          }
+        ],
+        "tags": [
+          "队长"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "FRA_2010_14",
+        "name_cn": "André-Pierre Gignac",
+        "name_en": "André-Pierre Gignac",
+        "age": 26,
+        "squad_no": 14,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 84
+          },
+          {
+            "pos": "LW",
+            "ovr": 82
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "FRA_2010_15",
+        "name_cn": "Jérémy Toulalan",
+        "name_en": "Jérémy Toulalan",
+        "age": 22,
+        "squad_no": 15,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 82
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "FRA_2010_16",
+        "name_cn": "洛里斯",
+        "name_en": "Lloris",
+        "age": 33,
+        "squad_no": 16,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "FRA_2010_17",
+        "name_cn": "Florent Malouda",
+        "name_en": "Florent Malouda",
+        "age": 28,
+        "squad_no": 17,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 82
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "FRA_2010_18",
+        "name_cn": "Steve Mandanda",
+        "name_en": "Steve Mandanda",
+        "age": 22,
+        "squad_no": 18,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "FRA_2010_19",
+        "name_cn": "Sébastien Squillaci",
+        "name_en": "Sébastien Squillaci",
+        "age": 30,
+        "squad_no": 19,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "FRA_2010_20",
+        "name_cn": "Alou Diarra",
+        "name_en": "Alou Diarra",
+        "age": 30,
+        "squad_no": 20,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "FRA_2010_21",
+        "name_cn": "Abou Diaby",
+        "name_en": "Abou Diaby",
+        "age": 32,
+        "squad_no": 21,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "FRA_2010_22",
+        "name_cn": "Gaël Clichy",
+        "name_en": "Gaël Clichy",
+        "age": 33,
+        "squad_no": 22,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "FRA_2010_23",
+        "name_cn": "Cédric Carrasso",
+        "name_en": "Cédric Carrasso",
+        "age": 33,
+        "squad_no": 23,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      }
+    ],
+    "2014": [
+      {
+        "id": "FRA_2014_01",
+        "name_cn": "洛里斯",
+        "name_en": "Lloris",
+        "age": 33,
+        "squad_no": 1,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 87
+          }
+        ],
+        "tags": [
+          "队长"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "FRA_2014_02",
+        "name_cn": "Rémy Cabella",
+        "name_en": "Rémy Cabella",
+        "age": 32,
+        "squad_no": 2,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "FRA_2014_03",
+        "name_cn": "埃弗拉",
+        "name_en": "Évra",
+        "age": 25,
+        "squad_no": 3,
+        "positions": [
+          {
+            "pos": "LB",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "FRA_2014_04",
+        "name_cn": "瓦兰",
+        "name_en": "Varane",
+        "age": 27,
+        "squad_no": 4,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 85
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "FRA_2014_05",
+        "name_cn": "萨科",
+        "name_en": "Sakho",
+        "age": 28,
+        "squad_no": 5,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "FRA_2014_06",
+        "name_cn": "Bacary Sagna",
+        "name_en": "Bacary Sagna",
+        "age": 23,
+        "squad_no": 6,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 82
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "FRA_2014_07",
+        "name_cn": "格列兹曼",
+        "name_en": "Griezmann",
+        "age": 32,
+        "squad_no": 7,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 84
+          },
+          {
+            "pos": "LW",
+            "ovr": 83
+          },
+          {
+            "pos": "CAM",
+            "ovr": 82
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "FRA_2014_08",
+        "name_cn": "卡巴耶",
+        "name_en": "Cabaye",
+        "age": 27,
+        "squad_no": 8,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 82
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "FRA_2014_09",
+        "name_cn": "吉鲁",
+        "name_en": "Giroud",
+        "age": 31,
+        "squad_no": 9,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "FRA_2014_10",
+        "name_cn": "本泽马",
+        "name_en": "Benzema",
+        "age": 27,
+        "squad_no": 10,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 90
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "FRA_2014_11",
+        "name_cn": "瓦尔布埃纳",
+        "name_en": "Valbuena",
+        "age": 32,
+        "squad_no": 11,
+        "positions": [
+          {
+            "pos": "CAM",
+            "ovr": 83
+          },
+          {
+            "pos": "CM",
+            "ovr": 81
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "FRA_2014_12",
+        "name_cn": "Rio Mavuba",
+        "name_en": "Rio Mavuba",
+        "age": 23,
+        "squad_no": 12,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 82
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "FRA_2014_13",
+        "name_cn": "曼加拉",
+        "name_en": "Mangala",
+        "age": 33,
+        "squad_no": 13,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 81
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "FRA_2014_14",
+        "name_cn": "马图伊迪",
+        "name_en": "Matuidi",
+        "age": 26,
+        "squad_no": 14,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 85
+          },
+          {
+            "pos": "DM",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "FRA_2014_15",
+        "name_cn": "博格巴",
+        "name_en": "Pogba",
+        "age": 30,
+        "squad_no": 15,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 87
+          },
+          {
+            "pos": "CAM",
+            "ovr": 84
+          }
+        ],
+        "tags": [
+          "新星"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "FRA_2014_16",
+        "name_cn": "Stéphane Ruffier",
+        "name_en": "Stéphane Ruffier",
+        "age": 26,
+        "squad_no": 16,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "FRA_2014_17",
+        "name_cn": "Lucas Digne",
+        "name_en": "Lucas Digne",
+        "age": 32,
+        "squad_no": 17,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "FRA_2014_18",
+        "name_cn": "Moussa Sissoko",
+        "name_en": "Moussa Sissoko",
+        "age": 28,
+        "squad_no": 18,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "FRA_2014_19",
+        "name_cn": "德比西",
+        "name_en": "Debuchy",
+        "age": 27,
+        "squad_no": 19,
+        "positions": [
+          {
+            "pos": "RB",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "FRA_2014_20",
+        "name_cn": "Loïc Rémy",
+        "name_en": "Loïc Rémy",
+        "age": 28,
+        "squad_no": 20,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "FRA_2014_21",
+        "name_cn": "Laurent Koscielny",
+        "name_en": "Laurent Koscielny",
+        "age": 33,
+        "squad_no": 21,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "FRA_2014_22",
+        "name_cn": "Morgan Schneiderlin",
+        "name_en": "Morgan Schneiderlin",
+        "age": 26,
+        "squad_no": 22,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "FRA_2014_23",
+        "name_cn": "Mickaël Landreau",
+        "name_en": "Mickaël Landreau",
+        "age": 30,
+        "squad_no": 23,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      }
+    ],
+    "2018": [
+      {
+        "id": "FRA_2018_01",
+        "name_cn": "洛里斯",
+        "name_en": "Lloris",
+        "age": 24,
+        "squad_no": 1,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 88
+          }
+        ],
+        "tags": [
+          "冠军队长"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "FRA_2018_02",
+        "name_cn": "帕瓦尔",
+        "name_en": "Pavard",
+        "age": 25,
+        "squad_no": 2,
+        "positions": [
+          {
+            "pos": "RB",
+            "ovr": 83
+          },
+          {
+            "pos": "CB",
+            "ovr": 82
+          }
+        ],
+        "tags": [
+          "冠军"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "FRA_2018_03",
+        "name_cn": "门迪",
+        "name_en": "Mendy",
+        "age": 28,
+        "squad_no": 3,
+        "positions": [
+          {
+            "pos": "LB",
+            "ovr": 81
+          }
+        ],
+        "tags": [
+          "冠军"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "FRA_2018_04",
+        "name_cn": "瓦兰",
+        "name_en": "Varane",
+        "age": 32,
+        "squad_no": 4,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 87
+          }
+        ],
+        "tags": [
+          "冠军"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "FRA_2018_05",
+        "name_cn": "乌姆蒂蒂",
+        "name_en": "Umtiti",
+        "age": 28,
+        "squad_no": 5,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 85
+          }
+        ],
+        "tags": [
+          "冠军"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "FRA_2018_06",
+        "name_cn": "博格巴",
+        "name_en": "Pogba",
+        "age": 32,
+        "squad_no": 6,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 89
+          },
+          {
+            "pos": "CAM",
+            "ovr": 87
+          }
+        ],
+        "tags": [
+          "冠军"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "FRA_2018_07",
+        "name_cn": "格列兹曼",
+        "name_en": "Griezmann",
+        "age": 33,
+        "squad_no": 7,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 90
+          },
+          {
+            "pos": "CAM",
+            "ovr": 87
+          },
+          {
+            "pos": "LW",
+            "ovr": 84
+          }
+        ],
+        "tags": [
+          "冠军"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "FRA_2018_08",
+        "name_cn": "托利索",
+        "name_en": "Tolisso",
+        "age": 24,
+        "squad_no": 8,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 83
+          }
+        ],
+        "tags": [
+          "冠军"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "FRA_2018_09",
+        "name_cn": "吉鲁",
+        "name_en": "Giroud",
+        "age": 31,
+        "squad_no": 9,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 84
+          }
+        ],
+        "tags": [
+          "冠军"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "FRA_2018_10",
+        "name_cn": "姆巴佩",
+        "name_en": "Mbappé",
+        "age": 31,
+        "squad_no": 10,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 87
+          },
+          {
+            "pos": "RW",
+            "ovr": 86
+          },
+          {
+            "pos": "LW",
+            "ovr": 85
+          }
+        ],
+        "tags": [
+          "冠军MVP新星"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "FRA_2018_11",
+        "name_cn": "登贝莱",
+        "name_en": "Dembélé",
+        "age": 26,
+        "squad_no": 11,
+        "positions": [
+          {
+            "pos": "LW",
+            "ovr": 83
+          },
+          {
+            "pos": "RW",
+            "ovr": 82
+          }
+        ],
+        "tags": [
+          "冠军"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "FRA_2018_12",
+        "name_cn": "图拉姆",
+        "name_en": "Thauvin",
+        "age": 28,
+        "squad_no": 12,
+        "positions": [
+          {
+            "pos": "RW",
+            "ovr": 83
+          }
+        ],
+        "tags": [
+          "冠军"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "FRA_2018_13",
+        "name_cn": "坎特",
+        "name_en": "Kanté",
+        "age": 30,
+        "squad_no": 13,
+        "positions": [
+          {
+            "pos": "DM",
+            "ovr": 90
+          },
+          {
+            "pos": "CM",
+            "ovr": 87
+          }
+        ],
+        "tags": [
+          "冠军"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "FRA_2018_14",
+        "name_cn": "马图伊迪",
+        "name_en": "Matuidi",
+        "age": 22,
+        "squad_no": 14,
+        "positions": [
+          {
+            "pos": "LM",
+            "ovr": 84
+          },
+          {
+            "pos": "CM",
+            "ovr": 83
+          }
+        ],
+        "tags": [
+          "冠军"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "FRA_2018_15",
+        "name_cn": "金彭贝",
+        "name_en": "Presnel Kimpembe",
+        "age": 26,
+        "squad_no": 15,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 84
+          },
+          {
+            "pos": "LB",
+            "ovr": 81
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "FRA_2018_16",
+        "name_cn": "Thomas Lemar",
+        "name_en": "Thomas Lemar",
+        "age": 26,
+        "squad_no": 16,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "FRA_2018_17",
+        "name_cn": "Steven Nzonzi",
+        "name_en": "Steven Nzonzi",
+        "age": 25,
+        "squad_no": 17,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 82
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "FRA_2018_18",
+        "name_cn": "Steve Mandanda",
+        "name_en": "Steve Mandanda",
+        "age": 28,
+        "squad_no": 18,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "FRA_2018_19",
+        "name_cn": "Adil Rami",
+        "name_en": "Adil Rami",
+        "age": 31,
+        "squad_no": 19,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "FRA_2018_20",
+        "name_cn": "Nabil Fekir",
+        "name_en": "Nabil Fekir",
+        "age": 31,
+        "squad_no": 20,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "FRA_2018_21",
+        "name_cn": "卢卡斯·埃尔南德斯",
+        "name_en": "L. Hernández",
+        "age": 32,
+        "squad_no": 21,
+        "positions": [
+          {
+            "pos": "LB",
+            "ovr": 84
+          },
+          {
+            "pos": "CB",
+            "ovr": 82
+          }
+        ],
+        "tags": [
+          "冠军"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "FRA_2018_22",
+        "name_cn": "Djibril Sidibé",
+        "name_en": "Djibril Sidibé",
+        "age": 27,
+        "squad_no": 22,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "FRA_2018_23",
+        "name_cn": "Alphonse Areola",
+        "name_en": "Alphonse Areola",
+        "age": 29,
+        "squad_no": 23,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      }
+    ],
+    "2022": [
+      {
+        "id": "FRA_2022_01",
+        "name_cn": "洛里斯",
+        "name_en": "Lloris",
+        "age": 29,
+        "squad_no": 1,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 87
+          }
+        ],
+        "tags": [
+          "亚军队长"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "FRA_2022_02",
+        "name_cn": "昆德",
+        "name_en": "Koundé",
+        "age": 29,
+        "squad_no": 2,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 84
+          },
+          {
+            "pos": "RB",
+            "ovr": 82
+          }
+        ],
+        "tags": [
+          "亚军"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "FRA_2022_03",
+        "name_cn": "特奥·埃尔南德斯",
+        "name_en": "T. Hernández",
+        "age": 32,
+        "squad_no": 3,
+        "positions": [
+          {
+            "pos": "LB",
+            "ovr": 85
+          }
+        ],
+        "tags": [
+          "亚军"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "FRA_2022_04",
+        "name_cn": "瓦兰",
+        "name_en": "Varane",
+        "age": 25,
+        "squad_no": 4,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 87
+          }
+        ],
+        "tags": [
+          "亚军"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "FRA_2022_05",
+        "name_cn": "于帕梅卡诺",
+        "name_en": "Upamecano",
+        "age": 30,
+        "squad_no": 5,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 84
+          }
+        ],
+        "tags": [
+          "亚军"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "FRA_2022_06",
+        "name_cn": "Benjamin Pavard",
+        "name_en": "Benjamin Pavard",
+        "age": 29,
+        "squad_no": 6,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 84
+          },
+          {
+            "pos": "RB",
+            "ovr": 81
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "FRA_2022_07",
+        "name_cn": "格列兹曼",
+        "name_en": "Griezmann",
+        "age": 33,
+        "squad_no": 7,
+        "positions": [
+          {
+            "pos": "CAM",
+            "ovr": 87
+          },
+          {
+            "pos": "ST",
+            "ovr": 85
+          }
+        ],
+        "tags": [
+          "亚军"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "FRA_2022_08",
+        "name_cn": "楚阿梅尼",
+        "name_en": "Tchouaméni",
+        "age": 24,
+        "squad_no": 8,
+        "positions": [
+          {
+            "pos": "DM",
+            "ovr": 87
+          },
+          {
+            "pos": "CM",
+            "ovr": 83
+          }
+        ],
+        "tags": [
+          "亚军"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "FRA_2022_09",
+        "name_cn": "吉鲁",
+        "name_en": "Giroud",
+        "age": 32,
+        "squad_no": 9,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 85
+          }
+        ],
+        "tags": [
+          "亚军",
+          "法国队史最佳射手"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "FRA_2022_10",
+        "name_cn": "姆巴佩",
+        "name_en": "Mbappé",
+        "age": 23,
+        "squad_no": 10,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 94
+          },
+          {
+            "pos": "LW",
+            "ovr": 93
+          }
+        ],
+        "tags": [
+          "亚军",
+          "决赛帽子戏法",
+          "金靴"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "FRA_2022_11",
+        "name_cn": "登贝莱",
+        "name_en": "Dembélé",
+        "age": 26,
+        "squad_no": 11,
+        "positions": [
+          {
+            "pos": "RW",
+            "ovr": 85
+          },
+          {
+            "pos": "LW",
+            "ovr": 84
+          }
+        ],
+        "tags": [
+          "亚军"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "FRA_2022_12",
+        "name_cn": "科洛·穆阿尼",
+        "name_en": "Kolo Muani",
+        "age": 30,
+        "squad_no": 12,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 83
+          }
+        ],
+        "tags": [
+          "亚军",
+          "新星"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "FRA_2022_13",
+        "name_cn": "卡马文加",
+        "name_en": "Camavinga",
+        "age": 32,
+        "squad_no": 13,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 83
+          },
+          {
+            "pos": "DM",
+            "ovr": 82
+          },
+          {
+            "pos": "LB",
+            "ovr": 80
+          }
+        ],
+        "tags": [
+          "亚军"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "FRA_2022_14",
+        "name_cn": "拉比奥",
+        "name_en": "Rabiot",
+        "age": 32,
+        "squad_no": 14,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 84
+          }
+        ],
+        "tags": [
+          "亚军"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "FRA_2022_15",
+        "name_cn": "福法纳",
+        "name_en": "Fofana",
+        "age": 31,
+        "squad_no": 15,
+        "positions": [
+          {
+            "pos": "DM",
+            "ovr": 83
+          }
+        ],
+        "tags": [
+          "亚军"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "FRA_2022_16",
+        "name_cn": "Axel Disasi",
+        "name_en": "Axel Disasi",
+        "age": 27,
+        "squad_no": 16,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 84
+          },
+          {
+            "pos": "LB",
+            "ovr": 81
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "FRA_2022_17",
+        "name_cn": "Matteo Guendouzi",
+        "name_en": "Matteo Guendouzi",
+        "age": 23,
+        "squad_no": 17,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 84
+          },
+          {
+            "pos": "DM",
+            "ovr": 82
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "FRA_2022_18",
+        "name_cn": "Randal Kolo Muani",
+        "name_en": "Randal Kolo Muani",
+        "age": 25,
+        "squad_no": 18,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 82
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "FRA_2022_19",
+        "name_cn": "Jordan Veretout",
+        "name_en": "Jordan Veretout",
+        "age": 32,
+        "squad_no": 19,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 82
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "FRA_2022_20",
+        "name_cn": "Steve Mandanda",
+        "name_en": "Steve Mandanda",
+        "age": 26,
+        "squad_no": 20,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "FRA_2022_21",
+        "name_cn": "William Saliba",
+        "name_en": "William Saliba",
+        "age": 25,
+        "squad_no": 21,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "FRA_2022_22",
+        "name_cn": "Karim Benzema",
+        "name_en": "Karim Benzema",
+        "age": 25,
+        "squad_no": 22,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "FRA_2022_23",
+        "name_cn": "Kingsley Coman",
+        "name_en": "Kingsley Coman",
+        "age": 24,
+        "squad_no": 23,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "FRA_2022_24",
+        "name_cn": "Lucas Hernandez",
+        "name_en": "Lucas Hernandez",
+        "age": 22,
+        "squad_no": 24,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "FRA_2022_25",
+        "name_cn": "Alphonse Areola",
+        "name_en": "Alphonse Areola",
+        "age": 22,
+        "squad_no": 25,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "FRA_2022_26",
+        "name_cn": "Ibrahima Konaté",
+        "name_en": "Ibrahima Konaté",
+        "age": 25,
+        "squad_no": 26,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 79
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      }
+    ],
+    "2026": [
+      {
+        "id": "FRA_2026_01",
+        "name_cn": "梅尼昂",
+        "name_en": "Maignan",
+        "age": 29,
+        "squad_no": 1,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 88
+          }
+        ],
+        "tags": [
+          "队长"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "FRA_2026_02",
+        "name_cn": "昆德",
+        "name_en": "Koundé",
+        "age": 31,
+        "squad_no": 2,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 85
+          },
+          {
+            "pos": "RB",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "FRA_2026_03",
+        "name_cn": "里塞",
+        "name_en": "Robin Risser",
+        "age": 23,
+        "squad_no": 3,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "FRA_2026_04",
+        "name_cn": "瓦兰",
+        "name_en": "Varane",
+        "age": 29,
+        "squad_no": 4,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "FRA_2026_05",
+        "name_cn": "于帕梅卡诺",
+        "name_en": "Upamecano",
+        "age": 28,
+        "squad_no": 5,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 86
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "FRA_2026_06",
+        "name_cn": "奥利斯",
+        "name_en": "Olise",
+        "age": 32,
+        "squad_no": 6,
+        "positions": [
+          {
+            "pos": "RW",
+            "ovr": 85
+          },
+          {
+            "pos": "LW",
+            "ovr": 84
+          },
+          {
+            "pos": "CAM",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "FRA_2026_07",
+        "name_cn": "格列兹曼",
+        "name_en": "Griezmann",
+        "age": 31,
+        "squad_no": 7,
+        "positions": [
+          {
+            "pos": "CAM",
+            "ovr": 84
+          },
+          {
+            "pos": "ST",
+            "ovr": 82
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "FRA_2026_08",
+        "name_cn": "楚阿梅尼",
+        "name_en": "Tchouaméni",
+        "age": 25,
+        "squad_no": 8,
+        "positions": [
+          {
+            "pos": "DM",
+            "ovr": 88
+          },
+          {
+            "pos": "CB",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "FRA_2026_09",
+        "name_cn": "科洛·穆阿尼",
+        "name_en": "Kolo Muani",
+        "age": 33,
+        "squad_no": 9,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 85
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "FRA_2026_10",
+        "name_cn": "姆巴佩",
+        "name_en": "Mbappé",
+        "age": 33,
+        "squad_no": 10,
+        "positions": [
+          {
+            "pos": "LW",
+            "ovr": 94
+          },
+          {
+            "pos": "ST",
+            "ovr": 93
+          },
+          {
+            "pos": "RW",
+            "ovr": 90
+          }
+        ],
+        "tags": [
+          "队长",
+          "GOAT级"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "FRA_2026_11",
+        "name_cn": "登贝莱",
+        "name_en": "Dembélé",
+        "age": 28,
+        "squad_no": 11,
+        "positions": [
+          {
+            "pos": "LW",
+            "ovr": 87
+          },
+          {
+            "pos": "RW",
+            "ovr": 86
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "FRA_2026_12",
+        "name_cn": "桑巴",
+        "name_en": "Brice Samba",
+        "age": 29,
+        "squad_no": 12,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "FRA_2026_13",
+        "name_cn": "卡马文加",
+        "name_en": "Camavinga",
+        "age": 28,
+        "squad_no": 13,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 87
+          },
+          {
+            "pos": "DM",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "FRA_2026_14",
+        "name_cn": "扎伊尔-埃梅里",
+        "name_en": "Zaïre-Emery",
+        "age": 25,
+        "squad_no": 14,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 84
+          },
+          {
+            "pos": "DM",
+            "ovr": 82
+          }
+        ],
+        "tags": [
+          "新星"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "FRA_2026_15",
+        "name_cn": "萨利巴",
+        "name_en": "Saliba",
+        "age": 24,
+        "squad_no": 15,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 87
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "FRA_2026_16",
+        "name_cn": "迪涅",
+        "name_en": "Lucas Digne",
+        "age": 32,
+        "squad_no": 16,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "FRA_2026_17",
+        "name_cn": "拉比奥",
+        "name_en": "Rabiot",
+        "age": 33,
+        "squad_no": 17,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "FRA_2026_18",
+        "name_cn": "古斯托",
+        "name_en": "Malo Gusto",
+        "age": 22,
+        "squad_no": 18,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "FRA_2026_19",
+        "name_cn": "卢卡斯·埃尔南德斯",
+        "name_en": "Lucas Hernández",
+        "age": 23,
+        "squad_no": 19,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "FRA_2026_20",
+        "name_cn": "科纳特",
+        "name_en": "Ibrahima Konaté",
+        "age": 28,
+        "squad_no": 20,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "FRA_2026_21",
+        "name_cn": "拉克鲁瓦",
+        "name_en": "Maxence Lacroix",
+        "age": 25,
+        "squad_no": 21,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "FRA_2026_22",
+        "name_cn": "特奥·埃尔南德斯",
+        "name_en": "T. Hernández",
+        "age": 24,
+        "squad_no": 22,
+        "positions": [
+          {
+            "pos": "LB",
+            "ovr": 86
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "FRA_2026_23",
+        "name_cn": "坎特",
+        "name_en": "N'Golo Kanté",
+        "age": 33,
+        "squad_no": 23,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "FRA_2026_24",
+        "name_cn": "科内",
+        "name_en": "Manu Koné",
+        "age": 30,
+        "squad_no": 24,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "FRA_2026_25",
+        "name_cn": "巴尔科拉",
+        "name_en": "Barcola",
+        "age": 29,
+        "squad_no": 25,
+        "positions": [
+          {
+            "pos": "LW",
+            "ovr": 84
+          },
+          {
+            "pos": "RW",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "FRA_2026_26",
+        "name_cn": "阿克利乌什",
+        "name_en": "Maghnes Akliouche",
+        "age": 22,
+        "squad_no": 26,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      }
+    ]
+  }
+}

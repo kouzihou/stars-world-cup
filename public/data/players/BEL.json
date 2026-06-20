@@ -1,0 +1,3018 @@
+{
+  "country_code": "BEL",
+  "squads": {
+    "1990": [
+      {
+        "id": "BEL_1990_01",
+        "name_cn": "Michel Preud'homme",
+        "name_en": "Michel Preud'homme",
+        "age": 27,
+        "squad_no": 1,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 77
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BEL_1990_02",
+        "name_cn": "Eric Gerets",
+        "name_en": "Eric Gerets",
+        "age": 26,
+        "squad_no": 2,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 76
+          },
+          {
+            "pos": "RB",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BEL_1990_03",
+        "name_cn": "Philippe Albert",
+        "name_en": "Philippe Albert",
+        "age": 33,
+        "squad_no": 3,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 76
+          },
+          {
+            "pos": "LB",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BEL_1990_04",
+        "name_cn": "Leo Clijsters",
+        "name_en": "Leo Clijsters",
+        "age": 22,
+        "squad_no": 4,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BEL_1990_05",
+        "name_cn": "Bruno Versavel",
+        "name_en": "Bruno Versavel",
+        "age": 27,
+        "squad_no": 5,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BEL_1990_06",
+        "name_cn": "Marc Emmers",
+        "name_en": "Marc Emmers",
+        "age": 23,
+        "squad_no": 6,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 76
+          },
+          {
+            "pos": "DM",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BEL_1990_07",
+        "name_cn": "Stéphane Demol",
+        "name_en": "Stéphane Demol",
+        "age": 27,
+        "squad_no": 7,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BEL_1990_08",
+        "name_cn": "Franky Van der Elst",
+        "name_en": "Franky Van der Elst",
+        "age": 25,
+        "squad_no": 8,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 76
+          },
+          {
+            "pos": "DM",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BEL_1990_09",
+        "name_cn": "Marc Degryse",
+        "name_en": "Marc Degryse",
+        "age": 33,
+        "squad_no": 9,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 76
+          },
+          {
+            "pos": "CAM",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BEL_1990_10",
+        "name_cn": "Enzo Scifo",
+        "name_en": "Enzo Scifo",
+        "age": 32,
+        "squad_no": 10,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 76
+          },
+          {
+            "pos": "CAM",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BEL_1990_11",
+        "name_cn": "Jan Ceulemans",
+        "name_en": "Jan Ceulemans",
+        "age": 32,
+        "squad_no": 11,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BEL_1990_12",
+        "name_cn": "Gilbert Bodart",
+        "name_en": "Gilbert Bodart",
+        "age": 23,
+        "squad_no": 12,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BEL_1990_13",
+        "name_cn": "Georges Grün",
+        "name_en": "Georges Grün",
+        "age": 31,
+        "squad_no": 13,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BEL_1990_14",
+        "name_cn": "Nico Claesen",
+        "name_en": "Nico Claesen",
+        "age": 33,
+        "squad_no": 14,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BEL_1990_15",
+        "name_cn": "Jean-François De Sart",
+        "name_en": "Jean-François De Sart",
+        "age": 27,
+        "squad_no": 15,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BEL_1990_16",
+        "name_cn": "Michel De Wolf",
+        "name_en": "Michel De Wolf",
+        "age": 24,
+        "squad_no": 16,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BEL_1990_17",
+        "name_cn": "Pascal Plovie",
+        "name_en": "Pascal Plovie",
+        "age": 22,
+        "squad_no": 17,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 72
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BEL_1990_18",
+        "name_cn": "Lorenzo Staelens",
+        "name_en": "Lorenzo Staelens",
+        "age": 27,
+        "squad_no": 18,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 72
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BEL_1990_19",
+        "name_cn": "Marc Van Der Linden",
+        "name_en": "Marc Van Der Linden",
+        "age": 30,
+        "squad_no": 19,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 72
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BEL_1990_20",
+        "name_cn": "Filip De Wilde",
+        "name_en": "Filip De Wilde",
+        "age": 27,
+        "squad_no": 20,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BEL_1990_21",
+        "name_cn": "Marc Wilmots",
+        "name_en": "Marc Wilmots",
+        "age": 32,
+        "squad_no": 21,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 72
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BEL_1990_22",
+        "name_cn": "Patrick Vervoort",
+        "name_en": "Patrick Vervoort",
+        "age": 24,
+        "squad_no": 22,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 72
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      }
+    ],
+    "1994": [
+      {
+        "id": "BEL_1994_01",
+        "name_cn": "Michel Preud'homme",
+        "name_en": "Michel Preud'homme",
+        "age": 32,
+        "squad_no": 1,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 78
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BEL_1994_02",
+        "name_cn": "Dirk Medved",
+        "name_en": "Dirk Medved",
+        "age": 29,
+        "squad_no": 2,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 77
+          },
+          {
+            "pos": "RB",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BEL_1994_03",
+        "name_cn": "Vital Borkelmans",
+        "name_en": "Vital Borkelmans",
+        "age": 33,
+        "squad_no": 3,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 77
+          },
+          {
+            "pos": "LB",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BEL_1994_04",
+        "name_cn": "Philippe Albert",
+        "name_en": "Philippe Albert",
+        "age": 29,
+        "squad_no": 4,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 77
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BEL_1994_05",
+        "name_cn": "Rudi Smidts",
+        "name_en": "Rudi Smidts",
+        "age": 32,
+        "squad_no": 5,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 77
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BEL_1994_06",
+        "name_cn": "Lorenzo Staelens",
+        "name_en": "Lorenzo Staelens",
+        "age": 24,
+        "squad_no": 6,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 77
+          },
+          {
+            "pos": "DM",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BEL_1994_07",
+        "name_cn": "Franky Van der Elst",
+        "name_en": "Franky Van der Elst",
+        "age": 24,
+        "squad_no": 7,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 77
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BEL_1994_08",
+        "name_cn": "Luc Nilis",
+        "name_en": "Luc Nilis",
+        "age": 23,
+        "squad_no": 8,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 77
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BEL_1994_09",
+        "name_cn": "Marc Degryse",
+        "name_en": "Marc Degryse",
+        "age": 33,
+        "squad_no": 9,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 77
+          },
+          {
+            "pos": "CAM",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BEL_1994_10",
+        "name_cn": "Enzo Scifo",
+        "name_en": "Enzo Scifo",
+        "age": 29,
+        "squad_no": 10,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 77
+          },
+          {
+            "pos": "CAM",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BEL_1994_11",
+        "name_cn": "Alexandre Czerniatynski",
+        "name_en": "Alexandre Czerniatynski",
+        "age": 22,
+        "squad_no": 11,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 77
+          },
+          {
+            "pos": "LW",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BEL_1994_12",
+        "name_cn": "Filip De Wilde",
+        "name_en": "Filip De Wilde",
+        "age": 26,
+        "squad_no": 12,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BEL_1994_13",
+        "name_cn": "Georges Grün",
+        "name_en": "Georges Grün",
+        "age": 25,
+        "squad_no": 13,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BEL_1994_14",
+        "name_cn": "Michel De Wolf",
+        "name_en": "Michel De Wolf",
+        "age": 22,
+        "squad_no": 14,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BEL_1994_15",
+        "name_cn": "Marc Emmers",
+        "name_en": "Marc Emmers",
+        "age": 25,
+        "squad_no": 15,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BEL_1994_16",
+        "name_cn": "Danny Boffin",
+        "name_en": "Danny Boffin",
+        "age": 22,
+        "squad_no": 16,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BEL_1994_17",
+        "name_cn": "Josip Weber",
+        "name_en": "Josip Weber",
+        "age": 27,
+        "squad_no": 17,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BEL_1994_18",
+        "name_cn": "Marc Wilmots",
+        "name_en": "Marc Wilmots",
+        "age": 26,
+        "squad_no": 18,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BEL_1994_19",
+        "name_cn": "Eric Van Meir",
+        "name_en": "Eric Van Meir",
+        "age": 30,
+        "squad_no": 19,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BEL_1994_20",
+        "name_cn": "Dany Verlinden",
+        "name_en": "Dany Verlinden",
+        "age": 28,
+        "squad_no": 20,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BEL_1994_21",
+        "name_cn": "Stéphane van der Heyden",
+        "name_en": "Stéphane van der Heyden",
+        "age": 30,
+        "squad_no": 21,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BEL_1994_22",
+        "name_cn": "Pascal Renier",
+        "name_en": "Pascal Renier",
+        "age": 29,
+        "squad_no": 22,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      }
+    ],
+    "1998": [
+      {
+        "id": "BEL_1998_01",
+        "name_cn": "Filip De Wilde",
+        "name_en": "Filip De Wilde",
+        "age": 26,
+        "squad_no": 1,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 78
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BEL_1998_02",
+        "name_cn": "Bertrand Crasson",
+        "name_en": "Bertrand Crasson",
+        "age": 22,
+        "squad_no": 2,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 77
+          },
+          {
+            "pos": "RB",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BEL_1998_03",
+        "name_cn": "Lorenzo Staelens",
+        "name_en": "Lorenzo Staelens",
+        "age": 32,
+        "squad_no": 3,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 77
+          },
+          {
+            "pos": "LB",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BEL_1998_04",
+        "name_cn": "Gordan Vidović",
+        "name_en": "Gordan Vidović",
+        "age": 25,
+        "squad_no": 4,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 77
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BEL_1998_05",
+        "name_cn": "Vital Borkelmans",
+        "name_en": "Vital Borkelmans",
+        "age": 26,
+        "squad_no": 5,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 77
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BEL_1998_06",
+        "name_cn": "Franky Van der Elst",
+        "name_en": "Franky Van der Elst",
+        "age": 27,
+        "squad_no": 6,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 77
+          },
+          {
+            "pos": "DM",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BEL_1998_07",
+        "name_cn": "Marc Wilmots",
+        "name_en": "Marc Wilmots",
+        "age": 22,
+        "squad_no": 7,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 77
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BEL_1998_08",
+        "name_cn": "Luís Oliveira",
+        "name_en": "Luís Oliveira",
+        "age": 32,
+        "squad_no": 8,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 77
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BEL_1998_09",
+        "name_cn": "Mbo Mpenza",
+        "name_en": "Mbo Mpenza",
+        "age": 27,
+        "squad_no": 9,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 77
+          },
+          {
+            "pos": "CAM",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BEL_1998_10",
+        "name_cn": "Luc Nilis",
+        "name_en": "Luc Nilis",
+        "age": 26,
+        "squad_no": 10,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 77
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BEL_1998_11",
+        "name_cn": "Nico Van Kerckhoven",
+        "name_en": "Nico Van Kerckhoven",
+        "age": 23,
+        "squad_no": 11,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 77
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BEL_1998_12",
+        "name_cn": "Philippe Vande Walle",
+        "name_en": "Philippe Vande Walle",
+        "age": 27,
+        "squad_no": 12,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BEL_1998_13",
+        "name_cn": "Dany Verlinden",
+        "name_en": "Dany Verlinden",
+        "age": 28,
+        "squad_no": 13,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BEL_1998_14",
+        "name_cn": "Enzo Scifo",
+        "name_en": "Enzo Scifo",
+        "age": 28,
+        "squad_no": 14,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BEL_1998_15",
+        "name_cn": "Philippe Clement",
+        "name_en": "Philippe Clement",
+        "age": 33,
+        "squad_no": 15,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BEL_1998_16",
+        "name_cn": "Glen De Boeck",
+        "name_en": "Glen De Boeck",
+        "age": 29,
+        "squad_no": 16,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BEL_1998_17",
+        "name_cn": "Mike Verstraeten",
+        "name_en": "Mike Verstraeten",
+        "age": 28,
+        "squad_no": 17,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BEL_1998_18",
+        "name_cn": "Gert Verheyen",
+        "name_en": "Gert Verheyen",
+        "age": 27,
+        "squad_no": 18,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BEL_1998_19",
+        "name_cn": "Eric Van Meir",
+        "name_en": "Eric Van Meir",
+        "age": 24,
+        "squad_no": 19,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BEL_1998_20",
+        "name_cn": "Émile Mpenza",
+        "name_en": "Émile Mpenza",
+        "age": 29,
+        "squad_no": 20,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BEL_1998_21",
+        "name_cn": "Danny Boffin",
+        "name_en": "Danny Boffin",
+        "age": 33,
+        "squad_no": 21,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BEL_1998_22",
+        "name_cn": "Éric Deflandre",
+        "name_en": "Éric Deflandre",
+        "age": 29,
+        "squad_no": 22,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      }
+    ],
+    "2002": [
+      {
+        "id": "BEL_2002_01",
+        "name_cn": "Geert De Vlieger",
+        "name_en": "Geert De Vlieger",
+        "age": 27,
+        "squad_no": 1,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 79
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BEL_2002_02",
+        "name_cn": "Éric Deflandre",
+        "name_en": "Éric Deflandre",
+        "age": 30,
+        "squad_no": 2,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 78
+          },
+          {
+            "pos": "RB",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BEL_2002_03",
+        "name_cn": "Glen De Boeck",
+        "name_en": "Glen De Boeck",
+        "age": 26,
+        "squad_no": 3,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 78
+          },
+          {
+            "pos": "LB",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BEL_2002_04",
+        "name_cn": "Eric Van Meir",
+        "name_en": "Eric Van Meir",
+        "age": 23,
+        "squad_no": 4,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 78
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BEL_2002_05",
+        "name_cn": "Nico Van Kerckhoven",
+        "name_en": "Nico Van Kerckhoven",
+        "age": 33,
+        "squad_no": 5,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 78
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BEL_2002_06",
+        "name_cn": "Timmy Simons",
+        "name_en": "Timmy Simons",
+        "age": 28,
+        "squad_no": 6,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 78
+          },
+          {
+            "pos": "DM",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BEL_2002_07",
+        "name_cn": "Marc Wilmots",
+        "name_en": "Marc Wilmots",
+        "age": 23,
+        "squad_no": 7,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 78
+          },
+          {
+            "pos": "LW",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BEL_2002_08",
+        "name_cn": "Bart Goor",
+        "name_en": "Bart Goor",
+        "age": 28,
+        "squad_no": 8,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 78
+          },
+          {
+            "pos": "DM",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BEL_2002_09",
+        "name_cn": "Wesley Sonck",
+        "name_en": "Wesley Sonck",
+        "age": 31,
+        "squad_no": 9,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 78
+          },
+          {
+            "pos": "CAM",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BEL_2002_10",
+        "name_cn": "Johan Walem",
+        "name_en": "Johan Walem",
+        "age": 24,
+        "squad_no": 10,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 78
+          },
+          {
+            "pos": "CAM",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BEL_2002_11",
+        "name_cn": "Gert Verheyen",
+        "name_en": "Gert Verheyen",
+        "age": 30,
+        "squad_no": 11,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 78
+          },
+          {
+            "pos": "LW",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BEL_2002_12",
+        "name_cn": "Peter Van der Heyden",
+        "name_en": "Peter Van der Heyden",
+        "age": 26,
+        "squad_no": 12,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BEL_2002_13",
+        "name_cn": "Franky Vandendriessche",
+        "name_en": "Franky Vandendriessche",
+        "age": 27,
+        "squad_no": 13,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 77
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BEL_2002_14",
+        "name_cn": "Sven Vermant",
+        "name_en": "Sven Vermant",
+        "age": 23,
+        "squad_no": 14,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BEL_2002_15",
+        "name_cn": "Jacky Peeters",
+        "name_en": "Jacky Peeters",
+        "age": 23,
+        "squad_no": 15,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BEL_2002_16",
+        "name_cn": "Daniel Van Buyten",
+        "name_en": "Daniel Van Buyten",
+        "age": 27,
+        "squad_no": 16,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BEL_2002_17",
+        "name_cn": "Gaëtan Englebert",
+        "name_en": "Gaëtan Englebert",
+        "age": 32,
+        "squad_no": 17,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BEL_2002_18",
+        "name_cn": "Yves Vanderhaeghe",
+        "name_en": "Yves Vanderhaeghe",
+        "age": 26,
+        "squad_no": 18,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BEL_2002_19",
+        "name_cn": "Bernd Thijs",
+        "name_en": "Bernd Thijs",
+        "age": 26,
+        "squad_no": 19,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BEL_2002_20",
+        "name_cn": "Branko Strupar",
+        "name_en": "Branko Strupar",
+        "age": 29,
+        "squad_no": 20,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BEL_2002_21",
+        "name_cn": "Danny Boffin",
+        "name_en": "Danny Boffin",
+        "age": 31,
+        "squad_no": 21,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BEL_2002_22",
+        "name_cn": "Mbo Mpenza",
+        "name_en": "Mbo Mpenza",
+        "age": 33,
+        "squad_no": 22,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BEL_2002_23",
+        "name_cn": "Frédéric Herpoel",
+        "name_en": "Frédéric Herpoel",
+        "age": 28,
+        "squad_no": 23,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      }
+    ],
+    "2014": [
+      {
+        "id": "BEL_2014_01",
+        "name_cn": "库尔图瓦",
+        "name_en": "Thibaut Courtois",
+        "age": 24,
+        "squad_no": 1,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 90
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BEL_2014_02",
+        "name_cn": "阿尔德韦雷尔德",
+        "name_en": "Toby Alderweireld",
+        "age": 33,
+        "squad_no": 2,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 87
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BEL_2014_03",
+        "name_cn": "Thomas Vermaelen",
+        "name_en": "Thomas Vermaelen",
+        "age": 29,
+        "squad_no": 3,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 78
+          },
+          {
+            "pos": "LB",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BEL_2014_04",
+        "name_cn": "孔帕尼",
+        "name_en": "Vincent Kompany",
+        "age": 27,
+        "squad_no": 4,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 87
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BEL_2014_05",
+        "name_cn": "维尔通亨",
+        "name_en": "Jan Vertonghen",
+        "age": 29,
+        "squad_no": 5,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 87
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BEL_2014_06",
+        "name_cn": "维特塞尔",
+        "name_en": "Axel Witsel",
+        "age": 22,
+        "squad_no": 6,
+        "positions": [
+          {
+            "pos": "DM",
+            "ovr": 85
+          },
+          {
+            "pos": "CM",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BEL_2014_07",
+        "name_cn": "德布劳内",
+        "name_en": "Kevin De Bruyne",
+        "age": 33,
+        "squad_no": 7,
+        "positions": [
+          {
+            "pos": "CAM",
+            "ovr": 94
+          },
+          {
+            "pos": "CM",
+            "ovr": 90
+          }
+        ],
+        "tags": [
+          "球王级中场"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BEL_2014_08",
+        "name_cn": "芬巴尔",
+        "name_en": "Marouane Fellaini",
+        "age": 27,
+        "squad_no": 8,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 84
+          },
+          {
+            "pos": "CAM",
+            "ovr": 82
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BEL_2014_09",
+        "name_cn": "卢卡库",
+        "name_en": "Romelu Lukaku",
+        "age": 31,
+        "squad_no": 9,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 90
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BEL_2014_10",
+        "name_cn": "阿扎尔",
+        "name_en": "Eden Hazard",
+        "age": 28,
+        "squad_no": 10,
+        "positions": [
+          {
+            "pos": "LW",
+            "ovr": 92
+          },
+          {
+            "pos": "CAM",
+            "ovr": 90
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BEL_2014_11",
+        "name_cn": "Kevin Mirallas",
+        "name_en": "Kevin Mirallas",
+        "age": 26,
+        "squad_no": 11,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 78
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BEL_2014_12",
+        "name_cn": "Simon Mignolet",
+        "name_en": "Simon Mignolet",
+        "age": 32,
+        "squad_no": 12,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 77
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BEL_2014_13",
+        "name_cn": "Sammy Bossut",
+        "name_en": "Sammy Bossut",
+        "age": 22,
+        "squad_no": 13,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 77
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BEL_2014_14",
+        "name_cn": "默滕斯",
+        "name_en": "Dries Mertens",
+        "age": 23,
+        "squad_no": 14,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 85
+          },
+          {
+            "pos": "CAM",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BEL_2014_15",
+        "name_cn": "Daniel Van Buyten",
+        "name_en": "Daniel Van Buyten",
+        "age": 32,
+        "squad_no": 15,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BEL_2014_16",
+        "name_cn": "Steven Defour",
+        "name_en": "Steven Defour",
+        "age": 32,
+        "squad_no": 16,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BEL_2014_17",
+        "name_cn": "Divock Origi",
+        "name_en": "Divock Origi",
+        "age": 28,
+        "squad_no": 17,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BEL_2014_18",
+        "name_cn": "Nicolas Lombaerts",
+        "name_en": "Nicolas Lombaerts",
+        "age": 27,
+        "squad_no": 18,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BEL_2014_19",
+        "name_cn": "Mousa Dembélé",
+        "name_en": "Mousa Dembélé",
+        "age": 30,
+        "squad_no": 19,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BEL_2014_20",
+        "name_cn": "Adnan Januzaj",
+        "name_en": "Adnan Januzaj",
+        "age": 33,
+        "squad_no": 20,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BEL_2014_21",
+        "name_cn": "Anthony Vanden Borre",
+        "name_en": "Anthony Vanden Borre",
+        "age": 32,
+        "squad_no": 21,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BEL_2014_22",
+        "name_cn": "Nacer Chadli",
+        "name_en": "Nacer Chadli",
+        "age": 24,
+        "squad_no": 22,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BEL_2014_23",
+        "name_cn": "Laurent Ciman",
+        "name_en": "Laurent Ciman",
+        "age": 22,
+        "squad_no": 23,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      }
+    ],
+    "2018": [
+      {
+        "id": "BEL_2018_01",
+        "name_cn": "库尔图瓦",
+        "name_en": "Thibaut Courtois",
+        "age": 24,
+        "squad_no": 1,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 90
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BEL_2018_02",
+        "name_cn": "阿尔德韦雷尔德",
+        "name_en": "Toby Alderweireld",
+        "age": 31,
+        "squad_no": 2,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 87
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BEL_2018_03",
+        "name_cn": "Thomas Vermaelen",
+        "name_en": "Thomas Vermaelen",
+        "age": 32,
+        "squad_no": 3,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 78
+          },
+          {
+            "pos": "LB",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BEL_2018_04",
+        "name_cn": "孔帕尼",
+        "name_en": "Vincent Kompany",
+        "age": 29,
+        "squad_no": 4,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 87
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BEL_2018_05",
+        "name_cn": "维尔通亨",
+        "name_en": "Jan Vertonghen",
+        "age": 22,
+        "squad_no": 5,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 87
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BEL_2018_06",
+        "name_cn": "维特塞尔",
+        "name_en": "Axel Witsel",
+        "age": 24,
+        "squad_no": 6,
+        "positions": [
+          {
+            "pos": "DM",
+            "ovr": 85
+          },
+          {
+            "pos": "CM",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BEL_2018_07",
+        "name_cn": "德布劳内",
+        "name_en": "Kevin De Bruyne",
+        "age": 23,
+        "squad_no": 7,
+        "positions": [
+          {
+            "pos": "CAM",
+            "ovr": 94
+          },
+          {
+            "pos": "CM",
+            "ovr": 90
+          }
+        ],
+        "tags": [
+          "球王级中场"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BEL_2018_08",
+        "name_cn": "芬巴尔",
+        "name_en": "Marouane Fellaini",
+        "age": 25,
+        "squad_no": 8,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 84
+          },
+          {
+            "pos": "CAM",
+            "ovr": 82
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BEL_2018_09",
+        "name_cn": "卢卡库",
+        "name_en": "Romelu Lukaku",
+        "age": 32,
+        "squad_no": 9,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 90
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BEL_2018_10",
+        "name_cn": "阿扎尔",
+        "name_en": "Eden Hazard",
+        "age": 27,
+        "squad_no": 10,
+        "positions": [
+          {
+            "pos": "LW",
+            "ovr": 92
+          },
+          {
+            "pos": "CAM",
+            "ovr": 90
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BEL_2018_11",
+        "name_cn": "Yannick Carrasco",
+        "name_en": "Yannick Carrasco",
+        "age": 27,
+        "squad_no": 11,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 78
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BEL_2018_12",
+        "name_cn": "Simon Mignolet",
+        "name_en": "Simon Mignolet",
+        "age": 28,
+        "squad_no": 12,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 77
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BEL_2018_13",
+        "name_cn": "Koen Casteels",
+        "name_en": "Koen Casteels",
+        "age": 31,
+        "squad_no": 13,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 77
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BEL_2018_14",
+        "name_cn": "默滕斯",
+        "name_en": "Dries Mertens",
+        "age": 22,
+        "squad_no": 14,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 85
+          },
+          {
+            "pos": "CAM",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BEL_2018_15",
+        "name_cn": "Thomas Meunier",
+        "name_en": "Thomas Meunier",
+        "age": 31,
+        "squad_no": 15,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BEL_2018_16",
+        "name_cn": "Thorgan Hazard",
+        "name_en": "Thorgan Hazard",
+        "age": 24,
+        "squad_no": 16,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BEL_2018_17",
+        "name_cn": "Youri Tielemans",
+        "name_en": "Youri Tielemans",
+        "age": 32,
+        "squad_no": 17,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BEL_2018_18",
+        "name_cn": "Adnan Januzaj",
+        "name_en": "Adnan Januzaj",
+        "age": 29,
+        "squad_no": 18,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BEL_2018_19",
+        "name_cn": "Mousa Dembélé",
+        "name_en": "Mousa Dembélé",
+        "age": 27,
+        "squad_no": 19,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BEL_2018_20",
+        "name_cn": "Dedryck Boyata",
+        "name_en": "Dedryck Boyata",
+        "age": 27,
+        "squad_no": 20,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BEL_2018_21",
+        "name_cn": "Michy Batshuayi",
+        "name_en": "Michy Batshuayi",
+        "age": 29,
+        "squad_no": 21,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BEL_2018_22",
+        "name_cn": "Nacer Chadli",
+        "name_en": "Nacer Chadli",
+        "age": 23,
+        "squad_no": 22,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BEL_2018_23",
+        "name_cn": "Leander Dendoncker",
+        "name_en": "Leander Dendoncker",
+        "age": 31,
+        "squad_no": 23,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      }
+    ],
+    "2022": [
+      {
+        "id": "BEL_2022_01",
+        "name_cn": "库尔图瓦",
+        "name_en": "Thibaut Courtois",
+        "age": 24,
+        "squad_no": 1,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 90
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BEL_2022_02",
+        "name_cn": "阿尔德韦雷尔德",
+        "name_en": "Toby Alderweireld",
+        "age": 30,
+        "squad_no": 2,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 87
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BEL_2022_03",
+        "name_cn": "Arthur Theate",
+        "name_en": "Arthur Theate",
+        "age": 27,
+        "squad_no": 3,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 78
+          },
+          {
+            "pos": "LB",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BEL_2022_04",
+        "name_cn": "Wout Faes",
+        "name_en": "Wout Faes",
+        "age": 28,
+        "squad_no": 4,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 78
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BEL_2022_05",
+        "name_cn": "维尔通亨",
+        "name_en": "Jan Vertonghen",
+        "age": 27,
+        "squad_no": 5,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 87
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BEL_2022_06",
+        "name_cn": "维特塞尔",
+        "name_en": "Axel Witsel",
+        "age": 32,
+        "squad_no": 6,
+        "positions": [
+          {
+            "pos": "DM",
+            "ovr": 85
+          },
+          {
+            "pos": "CM",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BEL_2022_07",
+        "name_cn": "德布劳内",
+        "name_en": "Kevin De Bruyne",
+        "age": 26,
+        "squad_no": 7,
+        "positions": [
+          {
+            "pos": "CAM",
+            "ovr": 94
+          },
+          {
+            "pos": "CM",
+            "ovr": 90
+          }
+        ],
+        "tags": [
+          "球王级中场"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BEL_2022_08",
+        "name_cn": "Youri Tielemans",
+        "name_en": "Youri Tielemans",
+        "age": 25,
+        "squad_no": 8,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 78
+          },
+          {
+            "pos": "DM",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BEL_2022_09",
+        "name_cn": "卢卡库",
+        "name_en": "Romelu Lukaku",
+        "age": 23,
+        "squad_no": 9,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 90
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BEL_2022_10",
+        "name_cn": "阿扎尔",
+        "name_en": "Eden Hazard",
+        "age": 22,
+        "squad_no": 10,
+        "positions": [
+          {
+            "pos": "LW",
+            "ovr": 92
+          },
+          {
+            "pos": "CAM",
+            "ovr": 90
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BEL_2022_11",
+        "name_cn": "Yannick Carrasco",
+        "name_en": "Yannick Carrasco",
+        "age": 33,
+        "squad_no": 11,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 78
+          },
+          {
+            "pos": "LW",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BEL_2022_12",
+        "name_cn": "Simon Mignolet",
+        "name_en": "Simon Mignolet",
+        "age": 24,
+        "squad_no": 12,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 77
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BEL_2022_13",
+        "name_cn": "Koen Casteels",
+        "name_en": "Koen Casteels",
+        "age": 29,
+        "squad_no": 13,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 77
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BEL_2022_14",
+        "name_cn": "默滕斯",
+        "name_en": "Dries Mertens",
+        "age": 30,
+        "squad_no": 14,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 85
+          },
+          {
+            "pos": "CAM",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BEL_2022_15",
+        "name_cn": "Thomas Meunier",
+        "name_en": "Thomas Meunier",
+        "age": 28,
+        "squad_no": 15,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BEL_2022_16",
+        "name_cn": "Thorgan Hazard",
+        "name_en": "Thorgan Hazard",
+        "age": 30,
+        "squad_no": 16,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BEL_2022_17",
+        "name_cn": "Leandro Trossard",
+        "name_en": "Leandro Trossard",
+        "age": 23,
+        "squad_no": 17,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BEL_2022_18",
+        "name_cn": "Amadou Onana",
+        "name_en": "Amadou Onana",
+        "age": 26,
+        "squad_no": 18,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BEL_2022_19",
+        "name_cn": "Leander Dendoncker",
+        "name_en": "Leander Dendoncker",
+        "age": 26,
+        "squad_no": 19,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BEL_2022_20",
+        "name_cn": "Hans Vanaken",
+        "name_en": "Hans Vanaken",
+        "age": 33,
+        "squad_no": 20,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BEL_2022_21",
+        "name_cn": "Timothy Castagne",
+        "name_en": "Timothy Castagne",
+        "age": 29,
+        "squad_no": 21,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BEL_2022_22",
+        "name_cn": "Charles De Ketelaere",
+        "name_en": "Charles De Ketelaere",
+        "age": 25,
+        "squad_no": 22,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BEL_2022_23",
+        "name_cn": "Michy Batshuayi",
+        "name_en": "Michy Batshuayi",
+        "age": 31,
+        "squad_no": 23,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BEL_2022_24",
+        "name_cn": "Loïs Openda",
+        "name_en": "Loïs Openda",
+        "age": 26,
+        "squad_no": 24,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BEL_2022_25",
+        "name_cn": "Jérémy Doku",
+        "name_en": "Jérémy Doku",
+        "age": 33,
+        "squad_no": 25,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BEL_2022_26",
+        "name_cn": "Zeno Debast",
+        "name_en": "Zeno Debast",
+        "age": 29,
+        "squad_no": 26,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      }
+    ],
+    "2026": [
+      {
+        "id": "BEL_2026_01",
+        "name_cn": "库尔图瓦",
+        "name_en": "Thibaut Courtois",
+        "age": 25,
+        "squad_no": 1,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 81
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BEL_2026_02",
+        "name_cn": "Senne Lammens",
+        "name_en": "Senne Lammens",
+        "age": 23,
+        "squad_no": 2,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 81
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BEL_2026_03",
+        "name_cn": "Mike Penders",
+        "name_en": "Mike Penders",
+        "age": 24,
+        "squad_no": 3,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 81
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BEL_2026_04",
+        "name_cn": "Timothy Castagne",
+        "name_en": "Timothy Castagne",
+        "age": 23,
+        "squad_no": 4,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BEL_2026_05",
+        "name_cn": "Zeno Debast",
+        "name_en": "Zeno Debast",
+        "age": 29,
+        "squad_no": 5,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BEL_2026_06",
+        "name_cn": "Maxim De Cuyper",
+        "name_en": "Maxim De Cuyper",
+        "age": 24,
+        "squad_no": 6,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BEL_2026_07",
+        "name_cn": "Koni De Winter",
+        "name_en": "Koni De Winter",
+        "age": 33,
+        "squad_no": 7,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BEL_2026_08",
+        "name_cn": "Brandon Mechele",
+        "name_en": "Brandon Mechele",
+        "age": 29,
+        "squad_no": 8,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BEL_2026_09",
+        "name_cn": "Thomas Meunier",
+        "name_en": "Thomas Meunier",
+        "age": 23,
+        "squad_no": 9,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BEL_2026_10",
+        "name_cn": "Nathan Ngoy",
+        "name_en": "Nathan Ngoy",
+        "age": 32,
+        "squad_no": 10,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BEL_2026_11",
+        "name_cn": "Joaquin Seys",
+        "name_en": "Joaquin Seys",
+        "age": 27,
+        "squad_no": 11,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 80
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BEL_2026_12",
+        "name_cn": "Arthur Theate",
+        "name_en": "Arthur Theate",
+        "age": 32,
+        "squad_no": 12,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 78
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BEL_2026_13",
+        "name_cn": "德布劳内",
+        "name_en": "Kevin De Bruyne",
+        "age": 27,
+        "squad_no": 13,
+        "positions": [
+          {
+            "pos": "CAM",
+            "ovr": 94
+          },
+          {
+            "pos": "CM",
+            "ovr": 90
+          }
+        ],
+        "tags": [
+          "球王级中场"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BEL_2026_14",
+        "name_cn": "奥纳纳",
+        "name_en": "Amadou Onana",
+        "age": 33,
+        "squad_no": 14,
+        "positions": [
+          {
+            "pos": "DM",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BEL_2026_15",
+        "name_cn": "Nicolas Raskin",
+        "name_en": "Nicolas Raskin",
+        "age": 23,
+        "squad_no": 15,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 78
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BEL_2026_16",
+        "name_cn": "特尔斯特根",
+        "name_en": "Youri Tielemans",
+        "age": 30,
+        "squad_no": 16,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 78
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BEL_2026_17",
+        "name_cn": "Hans Vanaken",
+        "name_en": "Hans Vanaken",
+        "age": 30,
+        "squad_no": 17,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 78
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BEL_2026_18",
+        "name_cn": "维特塞尔",
+        "name_en": "Axel Witsel",
+        "age": 26,
+        "squad_no": 18,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 78
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BEL_2026_19",
+        "name_cn": "德凯特拉雷",
+        "name_en": "Charles De Ketelaere",
+        "age": 26,
+        "squad_no": 19,
+        "positions": [
+          {
+            "pos": "CAM",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BEL_2026_20",
+        "name_cn": "多库",
+        "name_en": "Jérémy Doku",
+        "age": 24,
+        "squad_no": 20,
+        "positions": [
+          {
+            "pos": "LW",
+            "ovr": 85
+          },
+          {
+            "pos": "RW",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BEL_2026_21",
+        "name_cn": "Matias Fernandez-Pardo",
+        "name_en": "Matias Fernandez-Pardo",
+        "age": 33,
+        "squad_no": 21,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BEL_2026_22",
+        "name_cn": "卢卡库",
+        "name_en": "Romelu Lukaku",
+        "age": 33,
+        "squad_no": 22,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 90
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BEL_2026_23",
+        "name_cn": "Dodi Lukebakio",
+        "name_en": "Dodi Lukebakio",
+        "age": 33,
+        "squad_no": 23,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BEL_2026_24",
+        "name_cn": "Diego Moreira",
+        "name_en": "Diego Moreira",
+        "age": 32,
+        "squad_no": 24,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BEL_2026_25",
+        "name_cn": "Alexis Saelemaekers",
+        "name_en": "Alexis Saelemaekers",
+        "age": 24,
+        "squad_no": 25,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "BEL_2026_26",
+        "name_cn": "特罗萨德",
+        "name_en": "Leandro Trossard",
+        "age": 27,
+        "squad_no": 26,
+        "positions": [
+          {
+            "pos": "LW",
+            "ovr": 84
+          },
+          {
+            "pos": "RW",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,1498 @@
+{
+  "country_code": "CIV",
+  "squads": {
+    "2006": [
+      {
+        "id": "CIV_2006_01",
+        "name_cn": "Jean-Jacques Tizié",
+        "name_en": "Jean-Jacques Tizié",
+        "age": 25,
+        "squad_no": 1,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CIV_2006_02",
+        "name_cn": "Kanga Akalé",
+        "name_en": "Kanga Akalé",
+        "age": 25,
+        "squad_no": 2,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CIV_2006_03",
+        "name_cn": "Arthur Boka",
+        "name_en": "Arthur Boka",
+        "age": 25,
+        "squad_no": 3,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          },
+          {
+            "pos": "LB",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CIV_2006_04",
+        "name_cn": "科洛·图雷",
+        "name_en": "Kolo Touré",
+        "age": 31,
+        "squad_no": 4,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 87
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CIV_2006_05",
+        "name_cn": "Didier Zokora",
+        "name_en": "Didier Zokora",
+        "age": 33,
+        "squad_no": 5,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CIV_2006_06",
+        "name_cn": "Blaise Kouassi",
+        "name_en": "Blaise Kouassi",
+        "age": 26,
+        "squad_no": 6,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CIV_2006_07",
+        "name_cn": "Emerse Faé",
+        "name_en": "Emerse Faé",
+        "age": 32,
+        "squad_no": 7,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CIV_2006_08",
+        "name_cn": "Bonaventure Kalou",
+        "name_en": "Bonaventure Kalou",
+        "age": 27,
+        "squad_no": 8,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CIV_2006_09",
+        "name_cn": "Arouna Koné",
+        "name_en": "Arouna Koné",
+        "age": 32,
+        "squad_no": 9,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 73
+          },
+          {
+            "pos": "CAM",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CIV_2006_10",
+        "name_cn": "Gilles Yapi Yapo",
+        "name_en": "Gilles Yapi Yapo",
+        "age": 24,
+        "squad_no": 10,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          },
+          {
+            "pos": "CAM",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CIV_2006_11",
+        "name_cn": "德罗巴",
+        "name_en": "Didier Drogba",
+        "age": 33,
+        "squad_no": 11,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 92
+          }
+        ],
+        "tags": [
+          "队长非洲先生"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CIV_2006_12",
+        "name_cn": "Abdoulaye Méïté",
+        "name_en": "Abdoulaye Méïté",
+        "age": 32,
+        "squad_no": 12,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CIV_2006_13",
+        "name_cn": "Marco Zoro",
+        "name_en": "Marco Zoro",
+        "age": 24,
+        "squad_no": 13,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CIV_2006_14",
+        "name_cn": "Bakari Koné",
+        "name_en": "Bakari Koné",
+        "age": 30,
+        "squad_no": 14,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CIV_2006_15",
+        "name_cn": "Aruna Dindane",
+        "name_en": "Aruna Dindane",
+        "age": 30,
+        "squad_no": 15,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CIV_2006_16",
+        "name_cn": "Gérard Gnanhouan",
+        "name_en": "Gérard Gnanhouan",
+        "age": 33,
+        "squad_no": 16,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 72
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CIV_2006_17",
+        "name_cn": "Cyril Domoraud",
+        "name_en": "Cyril Domoraud",
+        "age": 32,
+        "squad_no": 17,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CIV_2006_18",
+        "name_cn": "Abdul Kader Keïta",
+        "name_en": "Abdul Kader Keïta",
+        "age": 27,
+        "squad_no": 18,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CIV_2006_19",
+        "name_cn": "亚亚·图雷",
+        "name_en": "Yaya Touré",
+        "age": 33,
+        "squad_no": 19,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 92
+          },
+          {
+            "pos": "DM",
+            "ovr": 87
+          }
+        ],
+        "tags": [
+          "非洲先生"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CIV_2006_20",
+        "name_cn": "Guy Demel",
+        "name_en": "Guy Demel",
+        "age": 23,
+        "squad_no": 20,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CIV_2006_21",
+        "name_cn": "Emmanuel Eboué",
+        "name_en": "Emmanuel Eboué",
+        "age": 27,
+        "squad_no": 21,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CIV_2006_22",
+        "name_cn": "Romaric",
+        "name_en": "Romaric",
+        "age": 30,
+        "squad_no": 22,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CIV_2006_23",
+        "name_cn": "Boubacar Barry",
+        "name_en": "Boubacar Barry",
+        "age": 29,
+        "squad_no": 23,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      }
+    ],
+    "2010": [
+      {
+        "id": "CIV_2010_01",
+        "name_cn": "Boubacar Barry",
+        "name_en": "Boubacar Barry",
+        "age": 31,
+        "squad_no": 1,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CIV_2010_02",
+        "name_cn": "Benjamin Angoua",
+        "name_en": "Benjamin Angoua",
+        "age": 31,
+        "squad_no": 2,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          },
+          {
+            "pos": "RB",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CIV_2010_03",
+        "name_cn": "Arthur Boka",
+        "name_en": "Arthur Boka",
+        "age": 32,
+        "squad_no": 3,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          },
+          {
+            "pos": "LB",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CIV_2010_04",
+        "name_cn": "科洛·图雷",
+        "name_en": "Kolo Touré",
+        "age": 33,
+        "squad_no": 4,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 87
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CIV_2010_05",
+        "name_cn": "Didier Zokora",
+        "name_en": "Didier Zokora",
+        "age": 28,
+        "squad_no": 5,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CIV_2010_06",
+        "name_cn": "Steve Gohouri",
+        "name_en": "Steve Gohouri",
+        "age": 32,
+        "squad_no": 6,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CIV_2010_07",
+        "name_cn": "Seydou Doumbia",
+        "name_en": "Seydou Doumbia",
+        "age": 33,
+        "squad_no": 7,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 73
+          },
+          {
+            "pos": "LW",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CIV_2010_08",
+        "name_cn": "加尔维奥·卡卢",
+        "name_en": "Salomon Kalou",
+        "age": 30,
+        "squad_no": 8,
+        "positions": [
+          {
+            "pos": "LW",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CIV_2010_09",
+        "name_cn": "Cheick Tioté",
+        "name_en": "Cheick Tioté",
+        "age": 26,
+        "squad_no": 9,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CIV_2010_10",
+        "name_cn": "热尔维尼奥",
+        "name_en": "Gervinho",
+        "age": 28,
+        "squad_no": 10,
+        "positions": [
+          {
+            "pos": "LW",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CIV_2010_11",
+        "name_cn": "德罗巴",
+        "name_en": "Didier Drogba",
+        "age": 22,
+        "squad_no": 11,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 92
+          }
+        ],
+        "tags": [
+          "队长非洲先生"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CIV_2010_12",
+        "name_cn": "Jean-Jacques Gosso",
+        "name_en": "Jean-Jacques Gosso",
+        "age": 30,
+        "squad_no": 12,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CIV_2010_13",
+        "name_cn": "Romaric",
+        "name_en": "Romaric",
+        "age": 23,
+        "squad_no": 13,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CIV_2010_14",
+        "name_cn": "Emmanuel Koné",
+        "name_en": "Emmanuel Koné",
+        "age": 22,
+        "squad_no": 14,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CIV_2010_15",
+        "name_cn": "Aruna Dindane",
+        "name_en": "Aruna Dindane",
+        "age": 28,
+        "squad_no": 15,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CIV_2010_16",
+        "name_cn": "Aristide Zogbo",
+        "name_en": "Aristide Zogbo",
+        "age": 24,
+        "squad_no": 16,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 72
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CIV_2010_17",
+        "name_cn": "Siaka Tiéné",
+        "name_en": "Siaka Tiéné",
+        "age": 22,
+        "squad_no": 17,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CIV_2010_18",
+        "name_cn": "Abdul Kader Keïta",
+        "name_en": "Abdul Kader Keïta",
+        "age": 32,
+        "squad_no": 18,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CIV_2010_19",
+        "name_cn": "亚亚·图雷",
+        "name_en": "Yaya Touré",
+        "age": 22,
+        "squad_no": 19,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 92
+          },
+          {
+            "pos": "DM",
+            "ovr": 87
+          }
+        ],
+        "tags": [
+          "非洲先生"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CIV_2010_20",
+        "name_cn": "Guy Demel",
+        "name_en": "Guy Demel",
+        "age": 25,
+        "squad_no": 20,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CIV_2010_21",
+        "name_cn": "Emmanuel Eboué",
+        "name_en": "Emmanuel Eboué",
+        "age": 26,
+        "squad_no": 21,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CIV_2010_22",
+        "name_cn": "Sol Bamba",
+        "name_en": "Sol Bamba",
+        "age": 24,
+        "squad_no": 22,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CIV_2010_23",
+        "name_cn": "Daniel Yeboah",
+        "name_en": "Daniel Yeboah",
+        "age": 26,
+        "squad_no": 23,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      }
+    ],
+    "2014": [
+      {
+        "id": "CIV_2014_01",
+        "name_cn": "Boubacar Barry",
+        "name_en": "Boubacar Barry",
+        "age": 32,
+        "squad_no": 1,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 74
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CIV_2014_02",
+        "name_cn": "Ousmane Viera",
+        "name_en": "Ousmane Viera",
+        "age": 26,
+        "squad_no": 2,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          },
+          {
+            "pos": "RB",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CIV_2014_03",
+        "name_cn": "Arthur Boka",
+        "name_en": "Arthur Boka",
+        "age": 24,
+        "squad_no": 3,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          },
+          {
+            "pos": "LB",
+            "ovr": 70
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CIV_2014_04",
+        "name_cn": "科洛·图雷",
+        "name_en": "Kolo Touré",
+        "age": 22,
+        "squad_no": 4,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 87
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CIV_2014_05",
+        "name_cn": "Didier Zokora",
+        "name_en": "Didier Zokora",
+        "age": 33,
+        "squad_no": 5,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CIV_2014_06",
+        "name_cn": "Mathis Bolly",
+        "name_en": "Mathis Bolly",
+        "age": 26,
+        "squad_no": 6,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CIV_2014_07",
+        "name_cn": "Jean-Daniel Akpa Akpro",
+        "name_en": "Jean-Daniel Akpa Akpro",
+        "age": 25,
+        "squad_no": 7,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CIV_2014_08",
+        "name_cn": "加尔维奥·卡卢",
+        "name_en": "Salomon Kalou",
+        "age": 30,
+        "squad_no": 8,
+        "positions": [
+          {
+            "pos": "LW",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CIV_2014_09",
+        "name_cn": "Cheick Tioté",
+        "name_en": "Cheick Tioté",
+        "age": 22,
+        "squad_no": 9,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CIV_2014_10",
+        "name_cn": "热尔维尼奥",
+        "name_en": "Gervinho",
+        "age": 27,
+        "squad_no": 10,
+        "positions": [
+          {
+            "pos": "LW",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CIV_2014_11",
+        "name_cn": "德罗巴",
+        "name_en": "Didier Drogba",
+        "age": 29,
+        "squad_no": 11,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 92
+          }
+        ],
+        "tags": [
+          "队长非洲先生"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CIV_2014_12",
+        "name_cn": "Wilfried Bony",
+        "name_en": "Wilfried Bony",
+        "age": 23,
+        "squad_no": 12,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CIV_2014_13",
+        "name_cn": "Didier Ya Konan",
+        "name_en": "Didier Ya Konan",
+        "age": 31,
+        "squad_no": 13,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CIV_2014_14",
+        "name_cn": "Ismaël Diomandé",
+        "name_en": "Ismaël Diomandé",
+        "age": 32,
+        "squad_no": 14,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CIV_2014_15",
+        "name_cn": "Max Gradel",
+        "name_en": "Max Gradel",
+        "age": 33,
+        "squad_no": 15,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CIV_2014_16",
+        "name_cn": "Sylvain Gbohouo",
+        "name_en": "Sylvain Gbohouo",
+        "age": 30,
+        "squad_no": 16,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 72
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CIV_2014_17",
+        "name_cn": "Serge Aurier",
+        "name_en": "Serge Aurier",
+        "age": 25,
+        "squad_no": 17,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CIV_2014_18",
+        "name_cn": "Constant Djakpa",
+        "name_en": "Constant Djakpa",
+        "age": 33,
+        "squad_no": 18,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CIV_2014_19",
+        "name_cn": "亚亚·图雷",
+        "name_en": "Yaya Touré",
+        "age": 32,
+        "squad_no": 19,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 92
+          },
+          {
+            "pos": "DM",
+            "ovr": 87
+          }
+        ],
+        "tags": [
+          "非洲先生"
+        ],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CIV_2014_20",
+        "name_cn": "Serey Dié",
+        "name_en": "Serey Dié",
+        "age": 30,
+        "squad_no": 20,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CIV_2014_21",
+        "name_cn": "Giovanni Sio",
+        "name_en": "Giovanni Sio",
+        "age": 28,
+        "squad_no": 21,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CIV_2014_22",
+        "name_cn": "Sol Bamba",
+        "name_en": "Sol Bamba",
+        "age": 25,
+        "squad_no": 22,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CIV_2014_23",
+        "name_cn": "Sayouba Mandé",
+        "name_en": "Sayouba Mandé",
+        "age": 30,
+        "squad_no": 23,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 69
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      }
+    ],
+    "2026": [
+      {
+        "id": "CIV_2026_01",
+        "name_cn": "Yahia Fofana",
+        "name_en": "Yahia Fofana",
+        "age": 33,
+        "squad_no": 1,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CIV_2026_02",
+        "name_cn": "Mohamed Koné",
+        "name_en": "Mohamed Koné",
+        "age": 26,
+        "squad_no": 2,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CIV_2026_03",
+        "name_cn": "Alban Lafont",
+        "name_en": "Alban Lafont",
+        "age": 33,
+        "squad_no": 3,
+        "positions": [
+          {
+            "pos": "GK",
+            "ovr": 76
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CIV_2026_04",
+        "name_cn": "Emmanuel Agbadou",
+        "name_en": "Emmanuel Agbadou",
+        "age": 32,
+        "squad_no": 4,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CIV_2026_05",
+        "name_cn": "Clément Akpa",
+        "name_en": "Clément Akpa",
+        "age": 22,
+        "squad_no": 5,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CIV_2026_06",
+        "name_cn": "Ousmane Diomande",
+        "name_en": "Ousmane Diomande",
+        "age": 28,
+        "squad_no": 6,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CIV_2026_07",
+        "name_cn": "Guela Doué",
+        "name_en": "Guela Doué",
+        "age": 28,
+        "squad_no": 7,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CIV_2026_08",
+        "name_cn": "Ghislain Konan",
+        "name_en": "Ghislain Konan",
+        "age": 28,
+        "squad_no": 8,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CIV_2026_09",
+        "name_cn": "Odilon Kossounou",
+        "name_en": "Odilon Kossounou",
+        "age": 32,
+        "squad_no": 9,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CIV_2026_10",
+        "name_cn": "Evan Ndicka",
+        "name_en": "Evan Ndicka",
+        "age": 27,
+        "squad_no": 10,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CIV_2026_11",
+        "name_cn": "Wilfried Singo",
+        "name_en": "Wilfried Singo",
+        "age": 30,
+        "squad_no": 11,
+        "positions": [
+          {
+            "pos": "CB",
+            "ovr": 75
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CIV_2026_12",
+        "name_cn": "Seko Fofana",
+        "name_en": "Seko Fofana",
+        "age": 22,
+        "squad_no": 12,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CIV_2026_13",
+        "name_cn": "Parfait Guiagon",
+        "name_en": "Parfait Guiagon",
+        "age": 22,
+        "squad_no": 13,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CIV_2026_14",
+        "name_cn": "科尼利乌斯",
+        "name_en": "Franck Kessié",
+        "age": 33,
+        "squad_no": 14,
+        "positions": [
+          {
+            "pos": "DM",
+            "ovr": 85
+          },
+          {
+            "pos": "CM",
+            "ovr": 83
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CIV_2026_15",
+        "name_cn": "Christ Inao Oulaï",
+        "name_en": "Christ Inao Oulaï",
+        "age": 26,
+        "squad_no": 15,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CIV_2026_16",
+        "name_cn": "Ibrahim Sangaré",
+        "name_en": "Ibrahim Sangaré",
+        "age": 25,
+        "squad_no": 16,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CIV_2026_17",
+        "name_cn": "Jean Michaël Seri",
+        "name_en": "Jean Michaël Seri",
+        "age": 31,
+        "squad_no": 17,
+        "positions": [
+          {
+            "pos": "CM",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CIV_2026_18",
+        "name_cn": "Simon Adingra",
+        "name_en": "Simon Adingra",
+        "age": 29,
+        "squad_no": 18,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 73
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CIV_2026_19",
+        "name_cn": "Ange-Yoan Bonny",
+        "name_en": "Ange-Yoan Bonny",
+        "age": 25,
+        "squad_no": 19,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CIV_2026_20",
+        "name_cn": "Amad Diallo",
+        "name_en": "Amad Diallo",
+        "age": 32,
+        "squad_no": 20,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CIV_2026_21",
+        "name_cn": "Oumar Diakité",
+        "name_en": "Oumar Diakité",
+        "age": 33,
+        "squad_no": 21,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CIV_2026_22",
+        "name_cn": "Yan Diomande",
+        "name_en": "Yan Diomande",
+        "age": 33,
+        "squad_no": 22,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CIV_2026_23",
+        "name_cn": "Evann Guessand",
+        "name_en": "Evann Guessand",
+        "age": 32,
+        "squad_no": 23,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CIV_2026_24",
+        "name_cn": "佩比埃",
+        "name_en": "Nicolas Pépé",
+        "age": 27,
+        "squad_no": 24,
+        "positions": [
+          {
+            "pos": "RW",
+            "ovr": 84
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CIV_2026_25",
+        "name_cn": "Bazoumana Touré",
+        "name_en": "Bazoumana Touré",
+        "age": 31,
+        "squad_no": 25,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      },
+      {
+        "id": "CIV_2026_26",
+        "name_cn": "Elye Wahi",
+        "name_en": "Elye Wahi",
+        "age": 30,
+        "squad_no": 26,
+        "positions": [
+          {
+            "pos": "ST",
+            "ovr": 71
+          }
+        ],
+        "tags": [],
+        "is_qualification_squad": false
+      }
+    ]
+  }
+}
