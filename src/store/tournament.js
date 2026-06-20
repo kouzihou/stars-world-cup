@@ -24,8 +24,8 @@ export const useTournamentStore = defineStore('tournament', {
       QF_results: [],
       SF: [],
       SF_results: [],
-      Final: null,
-      Final_result: null,
+      Final: [],
+      Final_results: [],
       ThirdPlace: null,
       ThirdPlace_result: null
     },
@@ -67,7 +67,7 @@ export const useTournamentStore = defineStore('tournament', {
       this.groups = drawGroups(this.teams, rng)
       this.fixtures = buildGroupMatches(this.groups)
       this.groupResults = []
-      this.knockout = { R32:[], R32_results:[], R16:[], R16_results:[], QF:[], QF_results:[], SF:[], SF_results:[], Final:null, Final_result:null, ThirdPlace:null, ThirdPlace_result:null }
+      this.knockout = { R32:[], R32_results:[], R16:[], R16_results:[], QF:[], QF_results:[], SF:[], SF_results:[], Final:[], Final_results:[], ThirdPlace:null, ThirdPlace_result:null }
       this.userPath = []
       this.userOut = false
       this.userResult = null
@@ -183,6 +183,14 @@ export const useTournamentStore = defineStore('tournament', {
       const resultsKey = stageKey + '_results'
       const m = this.knockout[stageKey][matchIndex]
       this.knockout[resultsKey][matchIndex] = { ...m, ...result }
+      // 把胜方填入下一阶段对应位置（晋级桥接）
+      const nextKey = { R32: 'R16', R16: 'QF', QF: 'SF', SF: 'Final' }[stageKey]
+      if (!nextKey) return
+      const winner = result.homeWin ? m.home : m.away
+      const nextIdx = Math.floor(matchIndex / 2)
+      const slot = matchIndex % 2 === 0 ? 'home' : 'away'
+      if (!this.knockout[nextKey] || !this.knockout[nextKey][nextIdx]) return
+      this.knockout[nextKey][nextIdx][slot] = winner
     },
 
     advanceUserPath(stage, userWon, opponent, score) {

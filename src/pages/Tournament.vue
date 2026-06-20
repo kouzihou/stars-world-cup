@@ -40,10 +40,9 @@ const userNextGroupMatch = computed(() => {
 // 用户在淘汰赛的下一场
 const userNextKnockoutMatch = computed(() => {
   for (const stage of ['R32', 'R16', 'QF', 'SF', 'Final']) {
-    const matches = tour.knockout[stage]
-    if (!matches || (Array.isArray(matches) && !matches.length) || (!Array.isArray(matches) && !matches)) continue
-    const arr = Array.isArray(matches) ? matches : [matches]
-    const m = arr.find(x => x && x.home && x.away && (x.home.code === userCode.value || x.away.code === userCode.value))
+    const matches = tour.knockout[stage] || []
+    if (!matches.length) continue
+    const m = matches.find(x => x && x.home && x.away && (x.home.code === userCode.value || x.away.code === userCode.value))
     if (!m) continue
     const resultsKey = stage + '_results'
     const played = (tour.knockout[resultsKey] || []).find(r => r && r.home && (r.home.code === m.home.code) && (r.away.code === m.away.code))
@@ -110,8 +109,8 @@ const currentStage = computed(() => {
   if (tour.userOut) return 'out'
   if (!tour.knockout.R32 || !tour.knockout.R32.length) return 'group_done'
   for (const s of ['R32','R16','QF','SF','Final']) {
-    const matches = s === 'Final' ? (tour.knockout.Final ? [tour.knockout.Final] : []) : tour.knockout[s]
-    if (!matches || !matches.length) continue
+    const matches = tour.knockout[s] || []
+    if (!matches.length) continue
     const userIn = matches.some(m => m && m.home && m.away && (m.home.code === userCode.value || m.away.code === userCode.value))
     if (!userIn) continue
     const results = tour.knockout[s + '_results']
