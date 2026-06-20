@@ -89,9 +89,44 @@ async function finalizeGroup() {
   // 完成小组赛进入 32 强
   tour.finalizeGroupStage()
   if (tour.userOut) {
+    // 用户小组出局：自动模拟剩余完整赛事（淘汰赛全程）
+    loading.value = true
+    loadingText.value = '模拟剩余淘汰赛，决出冠军...'
+    try {
+      await tour.simulateRemainingTournament()
+    } catch (e) {
+      loadingText.value = '出错: ' + e.message
+    } finally {
+      loading.value = false
+    }
     router.push('/trophy')
   }
 }
+
+// 用户已淘汰但赛事尚未跑完时，兜底补模拟
+async function ensureRemainingSimulated() {
+  if (!tour.userOut) return
+  if (tour.userResult === 'CHAMPION' || tour.userResult === 'RUNNER_UP') return
+  const finalRes = tour.knockout.Final_results || []
+  if (finalRes[0] && typeof finalRes[0].homeWin === 'boolean') return
+  loading.value = true
+  loadingText.value = '模拟剩余赛事，决出冠军...'
+  try {
+    await tour.simulateRemainingTournament()
+  } catch (e) {
+    loadingText.value = '出错: ' + e.message
+  } finally {
+    loading.value = false
+  }
+}
+
+onMounted(async () => {
+  // 用户已被淘汰（小组出局 / 淘汰赛输球）时，确保剩余赛事已模拟，再跳转 Trophy
+  if (tour.userOut && tour.userResult !== 'CHAMPION' && tour.userResult !== 'RUNNER_UP') {
+    await ensureRemainingSimulated()
+    router.push('/trophy')
+  }
+})
 
 async function playUserKnockout() {
   if (userNextKnockoutMatch.value) {

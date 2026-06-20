@@ -151,31 +151,74 @@ export const useTournamentStore = defineStore('tournament', {
     },
 
     async simulateKnockoutStage(stageKey, nextKey) {
-      // stageKey: 'R32' | 'R16' | 'QF' | 'SF'
+      // stageKey: 'R32' | 'R16' | 'QF' | 'SF' | 'Final'
       const game = useGameStore()
-      const userCode = game.country.code
-      const matches = this.knockout[stageKey]
+      const userCode = game.country?.code
+      const matches = this.knockout[stageKey] || []
       const resultsKey = stageKey + '_results'
+      // 确保 results 数组长度与 matches 对齐（按 idx 赋值，避免下标错位）
+      while (this.knockout[resultsKey].length < matches.length) {
+        this.knockout[resultsKey].push(null)
+      }
       const winners = []
-      for (const m of matches) {
-        const involvesUser = m.home.code === userCode || m.away.code === userCode
-        // 不含用户的对局直接模拟
-        if (!involvesUser) {
-          const r = await this.runMatch(m.home, m.away, { salt: stageKey, allowDraw: false })
-          this.knockout[resultsKey].push({ ...m, homeScore: r.homeScore, awayScore: r.awayScore, events: r.events, penalties: r.penalties, homeWin: r.homeWin })
-          winners.push(r.homeWin ? m.home : m.away)
-        } else {
+      for (let mi = 0; mi < matches.length; mi++) {
+        const m = matches[mi]
+        if (!m || !m.home || !m.away) {
+          winners.push(null)
+          continue
+        }
+        // 已经有结果则跳过（防止重复模拟与重复 push）
+        const existing = this.knockout[resultsKey][mi]
+        if (existing && typeof existing.homeWin === 'boolean') {
+          winners.push(existing.homeWin ? m.home : m.away)
+          continue
+        }
+        const involvesUser = userCode && (m.home.code === userCode || m.away.code === userCode)
+        if (involvesUser) {
           // 用户对局留待页面交互式播放，此处只占位
           winners.push(null)
+          continue
         }
+        const r = await this.runMatch(m.home, m.away, { salt: stageKey, allowDraw: false })
+        this.knockout[resultsKey][mi] = { ...m, homeScore: r.homeScore, awayScore: r.awayScore, events: r.events, penalties: r.penalties, homeWin: r.homeWin }
+        winners.push(r.homeWin ? m.home : m.away)
       }
       // 构建下一轮（成对 1v2 / 3v4 ...）
       if (nextKey) {
-        const next = []
-        for (let i = 0; i < winners.length; i += 2) {
-          next.push({ stage: nextKey, home: winners[i], away: winners[i + 1] })
+        const existed = this.knockout[nextKey] || []
+        if (!existed.length) {
+          const next = []
+          for (let i = 0; i < winners.length; i += 2) {
+            next.push({ stage: nextKey, home: winners[i], away: winners[i + 1] })
+          }
+          this.knockout[nextKey] = next
+        } else {
+          // 下一阶段已存在（可能由用户场 setUserMatchResult 提前填了一侧），按 slot 补充
+          for (let i = 0; i < winners.length; i += 2) {
+            const idx = Math.floor(i / 2)
+            if (!existed[idx]) {
+              existed[idx] = { stage: nextKey, home: winners[i], away: winners[i + 1] }
+            } else {
+              if (!existed[idx].home) existed[idx].home = winners[i]
+              if (!existed[idx].away) existed[idx].away = winners[i + 1]
+            }
+          }
         }
-        this.knockout[nextKey] = next
+      }
+    },
+
+    async simulateRemainingTournament() {
+      // 用户已淘汰后调用：把剩余所有阶段（含未模拟场次）跑完决出冠军。
+      // 也能从用户小组出局后直接跑（此时 R32 已 build 但全空）。
+      const stages = [
+        { key: 'R32', next: 'R16' },
+        { key: 'R16', next: 'QF' },
+        { key: 'QF',  next: 'SF' },
+        { key: 'SF',  next: 'Final' },
+        { key: 'Final', next: null }
+      ]
+      for (const s of stages) {
+        await this.simulateKnockoutStage(s.key, s.next)
       }
     },
 

@@ -119,13 +119,30 @@ function onFinish() {
   }
 }
 
-function nextAction() {
+const simulating = ref(false)
+
+async function nextAction() {
   const stageKey = route.params.stage
   if (stageKey.startsWith('group')) {
     router.push('/tournament')
-  } else {
-    router.push('/tournament')
+    return
   }
+  // 淘汰赛：用户输了 → 补模拟剩余赛事再去 Trophy；用户赢了/夺冠 → 回 Tournament
+  if (tour.userOut && tour.userResult !== 'CHAMPION' && tour.userResult !== 'RUNNER_UP') {
+    simulating.value = true
+    try {
+      await tour.simulateRemainingTournament()
+    } finally {
+      simulating.value = false
+    }
+    router.push('/trophy')
+    return
+  }
+  if (tour.userResult === 'CHAMPION' || tour.userResult === 'RUNNER_UP') {
+    router.push('/trophy')
+    return
+  }
+  router.push('/tournament')
 }
 
 onMounted(() => {
@@ -184,9 +201,12 @@ onUnmounted(() => { if (timer) clearInterval(timer) })
       </div>
 
       <!-- 底部按钮 -->
-      <div class="mt-3 flex gap-2 justify-center">
+      <div class="mt-3 flex gap-2 justify-center items-center">
         <button v-if="playing" class="btn-ghost" @click="skip">⏭ 跳到终场</button>
-        <button v-else-if="finished" class="btn-gold" @click="nextAction">查看赛程 →</button>
+        <button v-else-if="finished && !simulating" class="btn-gold" @click="nextAction">
+          {{ tour.userOut && tour.userResult !== 'CHAMPION' && tour.userResult !== 'RUNNER_UP' ? '查看终局海报 →' : '查看赛程 →' }}
+        </button>
+        <span v-if="simulating" class="text-white/70 text-sm">模拟剩余赛事，决出冠军...</span>
       </div>
 
       <!-- 点球（如有） -->

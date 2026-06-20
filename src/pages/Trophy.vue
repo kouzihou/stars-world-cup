@@ -34,6 +34,22 @@ const trophyColor = computed(() => {
   return 'from-white/30 to-white/10'
 })
 
+const champion = computed(() => {
+  const finalResults = tour.knockout.Final_results || []
+  if (!finalResults.length || !finalResults[0]) return null
+  const r = finalResults[0]
+  if (typeof r.homeWin !== 'boolean') return null
+  return r.homeWin ? r.home : r.away
+})
+
+const runnerUpTeam = computed(() => {
+  const finalResults = tour.knockout.Final_results || []
+  if (!finalResults.length || !finalResults[0]) return null
+  const r = finalResults[0]
+  if (typeof r.homeWin !== 'boolean') return null
+  return r.homeWin ? r.away : r.home
+})
+
 async function makePoster() {
   if (!posterEl.value || generating.value) return
   generating.value = true
@@ -91,6 +107,19 @@ function restart() {
           <span v-if="game.replacedCountry" class="text-xs opacity-70">(顶替 {{ game.replacedCountry.name_cn }})</span>
         </div>
         <div class="text-xs opacity-80 mt-1">{{ game.nickname }}</div>
+      </div>
+
+      <!-- 本届冠军（用户不是冠军时显示） -->
+      <div v-if="champion && tour.userResult !== 'CHAMPION'"
+        class="rounded-xl border border-yellow-400/40 bg-gradient-to-br from-yellow-500/15 to-amber-700/10 p-3 mb-3 text-center">
+        <div class="text-[10px] text-yellow-200/80 tracking-widest">FIFA WORLD CUP CHAMPION</div>
+        <div class="text-lg font-extrabold text-yellow-200 mt-1">
+          🏆 {{ flagEmoji(champion.code) }} {{ champion.name_cn }}
+        </div>
+        <div v-if="runnerUpTeam" class="text-[11px] text-white/60 mt-1">
+          决赛击败 {{ flagEmoji(runnerUpTeam.code) }} {{ runnerUpTeam.name_cn }}
+        </div>
+        <button class="text-[11px] text-gold mt-2 underline" @click="router.push('/schedule')">查看完整赛程 →</button>
       </div>
 
       <!-- 阵容 -->
